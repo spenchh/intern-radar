@@ -1,6 +1,6 @@
 {
- "generated_at": 1786988944,
- "count": 90,
+ "generated_at": 1786998973,
+ "count": 86,
  "jobs": [
   {
    "source": "Simplify",
@@ -348,46 +348,6 @@
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
-   "title": "Avionics Manufacturing Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819770003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785723939,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 3,
-   "reasons": [
-    "avionics (+2)",
-    "manufacturing engineering (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "ef17823563781d34"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "Manufacturing Engineering Intern- Spacecraft Components",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785723694,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 3,
-   "reasons": [
-    "spacecraft (+2)",
-    "manufacturing engineering (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "e5b92d05736c9702"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
    "title": "Avionics Intern - Neutron Avionics Systems",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819822003",
    "locations": [
@@ -575,26 +535,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "25836afa19a2a0a8"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Kairos Power",
-   "title": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
-   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004",
-   "locations": [
-    "Alameda, CA, Albuquerque, NM, or Oak Ridge, TN"
-   ],
-   "posted_at": 1784837012,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "mechanical (+1)",
-    "manufacturing engineering (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "7ffabb8f74553715"
   },
   {
    "source": "Greenhouse",
@@ -1781,25 +1721,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "7be2ac4d8c47c28d"
-  },
-  {
-   "source": "Lever",
-   "company": "Hermeus",
-   "title": "Propulsion Test Engineering Intern - Fall 2026",
-   "url": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "posted_at": 1773671346,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "propulsion (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "7e7a489220e1658b"
   },
   {
    "source": "Simplify",
