@@ -98,7 +98,6 @@ matching:
       - fpga prototyping
       - asic verification
       - avionics
-      - propulsion
       - flight hardware
       - spacecraft
       - satellite
@@ -122,13 +121,6 @@ matching:
       - firmware
       - test engineer
       - reliability
-      - thermal
-      - structures
-      - mechanisms
-      - aerodynamics
-      - mechanical
-      - materials
-      - manufacturing engineering
       - integration and test
       - integration & test
       - systems engineering
@@ -222,6 +214,46 @@ matching:
 
     # "kernel" here means OS/GPU kernel work, which is software.
     - kernel
+
+    # --- Mechanical engineering -------------------------------------------
+    # Excluded entirely. These also cover the mechanical side of aerospace, so
+    # avionics and flight-electronics roles still come through while structures,
+    # propulsion and thermal work does not.
+    - mechanical
+    - mechanical engineering
+    - mechatronics
+    - thermal
+    - thermodynamics
+    - structures
+    - structural
+    - aerodynamics
+    - aerothermal
+    - aeromechanical
+    - fluid
+    - fluids
+    - hydraulic
+    - pneumatic
+    - hvac
+    - machining
+    - cnc
+    - mechanism
+    - mechanisms
+    - stress analysis
+    - finite element
+    - solidworks
+    - tooling
+    - injection molding
+    - sheet metal
+    - weldment
+    - drivetrain
+    - powertrain
+    - chassis
+    - vehicle dynamics
+
+    # Judgment calls, both firmly mechanical in practice. Delete either line to
+    # let them back in.
+    - propulsion
+    - manufacturing engineering
 
   # --- Location -------------------------------------------------------------
   # If allowed_locations is non-empty, a posting must list at least one location

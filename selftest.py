@@ -56,6 +56,21 @@ CASES = [
     ("Senior Manager, Internal Communications", False),
     ("Electronics Technician Intern", False),
     ("Hardware Engineer", False),                  # not an internship
+    # Must NOT match - mechanical engineering, including its aerospace side.
+    ("Mechanical Engineering Intern", False),
+    ("Mechanical Design Engineer Intern - Summer 2027", False),
+    ("Thermal Engineer Intern", False),
+    ("Structures Engineering Intern", False),
+    ("Propulsion Test Engineering Intern - Fall 2026", False),
+    ("Manufacturing Engineering Intern - Spacecraft Components", False),
+    ("Aerodynamics Intern", False),
+    ("Mechatronics Engineering Co-op", False),
+    ("CNC Machining Intern", False),
+    ("Powertrain Engineering Intern", False),
+    # ...but the electronics side of aerospace must still come through.
+    ("Avionics Hardware Engineer Intern", True),
+    ("Avionics Intern - Neutron Avionics Hardware", True),
+    ("Satellite Electrical Engineering Intern", True),
 ]
 
 for title, expected in CASES:
