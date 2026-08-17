@@ -1,0 +1,78 @@
+name: Intern Radar
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub queues scheduled jobs, so real spacing is often
+    # 15-25 min under load - still far faster than any human refresh cycle.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Alert on every current match, not just new ones"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Match and report only - send nothing, save nothing"
+        type: boolean
+        default: false
+
+# Never let a slow run overlap the next tick and double-send alerts.
+concurrency:
+  group: intern-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill"; fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python -m intern_radar.main $ARGS
+
+      - name: Commit state and dashboard
+        run: |
+          git config user.name  "spenchh"
+          git config user.email "spenchh@users.noreply.github.com"
+          git add data docs
+          if git diff --staged --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          COUNT=$(python -c "import json;print(json.load(open('docs/jobs.json'))['count'])")
+          git commit -m "radar: ${COUNT} hardware roles tracked [skip ci]"
+          # Another tick may have pushed while this one was running.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 5
+          done
+          echo "::warning::could not push state after 3 attempts"
+
+      - name: Report failure to Discord
+        if: failure()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ -n "$DISCORD_WEBHOOK_URL" ]; then
+            curl -sS -H "Content-Type: application/json" -X POST "$DISCORD_WEBHOOK_URL" \
+              -d "{\"username\":\"Intern Radar\",\"content\":\"Radar run failed. Logs: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}"
+          fi

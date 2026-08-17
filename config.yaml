@@ -1,0 +1,343 @@
+# ============================================================================
+# Intern Radar - configuration
+#
+# Tuned for HARDWARE / SILICON / HARDWARE-AEROSPACE internships.
+# Software engineering roles are actively filtered out.
+#
+# Everything here is safe to edit. After editing, run:
+#   python -m intern_radar.main --dry-run --explain
+# to see exactly what would match and why, without sending notifications.
+# ============================================================================
+
+matching:
+  # A posting must look like an internship/co-op at all.
+  require_internship: true
+
+  # Minimum hardware score required to notify. Terms are weighted below.
+  # 2 = balanced. Raise to 3-4 for fewer/stronger matches, lower to 1 for max recall.
+  min_score: 2
+
+  # Only consider postings whose title/term mentions one of these years.
+  # Postings that mention no year at all are always allowed through.
+  allowed_years: [2026, 2027, 2028]
+
+  # --- Positive signals -----------------------------------------------------
+  # Weight 3: unambiguous chip/RTL/silicon design work.
+  weights:
+    3:
+      - rtl
+      - asic
+      - fpga
+      - vlsi
+      - verilog
+      - systemverilog
+      - vhdl
+      - uvm
+      - soc
+      - tapeout
+      - tape-out
+      - silicon
+      - semiconductor
+      - digital design
+      - digital logic
+      - logic design
+      - physical design
+      - design verification
+      - ic design
+      - integrated circuit
+      - chip design
+      - chip
+      - dft
+      - design for test
+      - static timing
+      - timing analysis
+      - place and route
+      - synthesis
+      - serdes
+      - analog design
+      - mixed-signal
+      - mixed signal
+      - cmos
+      - microelectronics
+      - circuit design
+      - hardware engineer
+      - hardware engineering
+      - hardware design
+      - computer engineering
+      - computer engineer
+      - processor design
+      - cpu design
+      - gpu design
+      - memory design
+      - post-silicon
+      - pre-silicon
+
+    # Weight 2: strong hardware signal, occasionally used by adjacent roles.
+    2:
+      - hardware
+      - electrical
+      - electronics
+      - electrical engineering
+      - pcb
+      - schematic
+      - board design
+      - signal integrity
+      - power electronics
+      - power integrity
+      - rf
+      - radio frequency
+      - antenna
+      - layout
+      - analog
+      - verification
+      - validation
+      - characterization
+      - bring-up
+      - bringup
+      - emulation
+      - fpga prototyping
+      - asic verification
+      - avionics
+      - propulsion
+      - flight hardware
+      - spacecraft
+      - satellite
+      - launch vehicle
+      - aerospace
+      - photonics
+      - optical engineering
+      - sensor
+      - instrumentation
+
+    # Weight 1: hardware-adjacent. Never enough on its own (min_score is 2),
+    # but pushes a borderline posting over the line.
+    #
+    # NOTE ON FIRMWARE/EMBEDDED: these sit at 1, so a plain "Firmware Engineer
+    # Intern" does NOT alert - it reads as software, which you asked to exclude.
+    # That currently holds back ~15 roles at hardware companies (Etched, Astera
+    # Labs, Base Power, Axon, Figure, Tesla). If you want them, move `firmware`
+    # and `embedded` up to the `2:` list above and they start matching.
+    1:
+      - embedded
+      - firmware
+      - test engineer
+      - reliability
+      - thermal
+      - structures
+      - mechanisms
+      - aerodynamics
+      - mechanical
+      - materials
+      - manufacturing engineering
+      - integration and test
+      - integration & test
+      - systems engineering
+      - robotics
+      - motor
+      - battery
+      - laboratory
+
+    # Negative weights: subtract from the score. A posting can still match if
+    # its hardware signal is strong enough (e.g. "Hardware/Software Co-Design").
+    # A bare "ml" sinks ML-modeling roles that merely mention hardware, while a
+    # genuine "ML Accelerator ASIC Design Intern" still clears the bar on its
+    # silicon terms alone. That is why this is a penalty and not a veto.
+    -3:
+      - software
+      - machine learning
+      - deep learning
+      - ml
+
+  # --- Hard vetoes ----------------------------------------------------------
+  # If any of these appear in the title, the posting is rejected outright,
+  # no matter how high its hardware score is.
+  veto:
+    # Software roles - explicitly excluded per your requirements.
+    - software engineer
+    - software engineering
+    - software developer
+    - software development
+    - frontend
+    - front-end
+    - backend
+    - back-end
+    - full stack
+    - full-stack
+    - fullstack
+    - web developer
+    - web engineer
+    - mobile engineer
+    - ios engineer
+    - android engineer
+    - devops
+    - site reliability
+    - cloud engineer
+    - platform engineer
+    - data scientist
+    - data analyst
+    - data engineer
+    - machine learning engineer
+    - ml engineer
+    - ai engineer
+    - test automation
+    - automation engineer
+    - qa engineer
+
+    # Non-engineering roles.
+    - marketing
+    - sales
+    - recruiting
+    - recruiter
+    - human resources
+    - finance
+    - accounting
+    - legal
+    - counsel
+    - communications
+    - internal audit
+    - brand
+    - product manager
+    - product management
+    - ux
+    - ui design
+    - graphic design
+    - social media
+    - content
+    - business development
+    - customer success
+    - supply chain
+    - sourcing
+    - procurement
+    - supplier quality
+    - facilities
+    - operations manager
+    - go-to-market
+    - gtm
+    - construction
+
+    # Technician and lab-assistant postings are not engineering internships.
+    # Delete these two lines if you want them included.
+    - technician
+    - tech intern
+
+    # "kernel" here means OS/GPU kernel work, which is software.
+    - kernel
+
+  # --- Location -------------------------------------------------------------
+  # If allowed_locations is non-empty, a posting must list at least one location
+  # containing one of these strings. Matching is case-insensitive substring.
+  # Leave empty to accept everywhere. Postings with no location are always kept.
+  #   e.g. [united states, usa, ", ca", ", tx", remote]
+  allowed_locations: []
+
+  # Reject a posting only if EVERY one of its locations matches. A role listed as
+  # both Auckland and Los Angeles survives an "auckland" exclusion.
+  #   e.g. [auckland, new zealand, india, united kingdom]
+  excluded_locations: []
+
+  # Reject postings whose sponsorship field matches any of these.
+  # Many hardware/defense roles are ITAR-restricted and require U.S. citizenship.
+  # Leave empty to see everything (the status is always shown in the alert).
+  exclude_sponsorship: []
+
+# ============================================================================
+# Sources
+# ============================================================================
+sources:
+  # Community-maintained aggregate feed. Broad coverage, structured, free.
+  simplify:
+    enabled: true
+    urls:
+      - https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json
+      - https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json
+
+  # Direct-from-employer ATS APIs. These are the FASTEST signal - a job appears
+  # here the moment it is published, often hours before aggregators index it.
+  # All slugs below were verified live. Add more freely.
+  greenhouse:
+    enabled: true
+    companies:
+      - rocketlab
+      - astranis
+      - relativity
+      - vast
+      - muonspace
+      - ursamajor
+      - epirus
+      - asteralabs
+      - lightmatter
+      - tenstorrent
+      - graphcore
+      - sambanovasystems
+      - lattice
+      - psiquantum
+      - ionq
+      - pacificfusion
+      - oklo
+      - kairospower
+      - redwoodmaterials
+      - formlabs
+      - markforged
+      - carbon
+      - lucidmotors
+      - archer
+      - waymo
+      - nuro
+      - kodiak
+      - figure
+      - agilityrobotics
+      - peloton
+
+  lever:
+    enabled: true
+    companies:
+      - hermeus
+      - shieldai
+      - zoox
+      - aeva
+      - sila
+      - xcimer
+      - rigetti
+      - atomcomputing
+
+  ashby:
+    enabled: true
+    companies:
+      - etched
+      - cerebras
+      - skydio
+      - saronic
+      - helion
+      - base-power
+      - formenergy
+      - axelera
+      - 1x
+      - cobot
+      - physicalintelligence
+
+# ============================================================================
+# Notifications
+# ============================================================================
+notify:
+  # On the very first run the store is empty, so EVERY match would look "new".
+  # Leaving this false seeds the database silently instead of sending hundreds
+  # of alerts. Set to true only if you deliberately want a full backfill.
+  on_first_run: false
+
+  # Cap alerts per run. Anything over the cap is left unmarked and goes out on
+  # the next run, so nothing is ever silently dropped.
+  max_per_run: 25
+
+  # Discord embed colors per detected category (hex).
+  colors:
+    silicon: 0x7C3AED
+    aerospace: 0x0EA5E9
+    electrical: 0x10B981
+    other: 0x64748B
+
+# ============================================================================
+# Storage / housekeeping
+# ============================================================================
+store:
+  # Forget postings we haven't seen in this many days, to keep the state file small.
+  forget_after_days: 150

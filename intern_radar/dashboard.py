@@ -1,0 +1,256 @@
+"""Render the matched postings as a self-contained static dashboard.
+
+Output goes to docs/, which GitHub Pages can serve directly from the repo with
+no build step. The page embeds its own data, so it works offline too.
+"""
+
+from __future__ import annotations
+
+import html
+import json
+import logging
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+from .models import Job
+
+log = logging.getLogger(__name__)
+
+_PAGE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Intern Radar &middot; Hardware Internships</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f6f7f9;  --panel: #ffffff; --text: #14161a; --muted: #5f6673;
+    --line: #e3e6ea; --accent: #6d28d9; --new: #b45309; --new-bg: #fef3c7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117; --panel: #161b22; --text: #e6edf3; --muted: #8b949e;
+      --line: #26303b; --accent: #a78bfa; --new: #fbbf24; --new-bg: #422006;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 28px 20px 80px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: -0.02em; }
+  header p { margin: 0; color: var(--muted); font-size: 14px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0; }
+  .stat {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px 16px; min-width: 96px;
+  }
+  .stat b { display: block; font-size: 21px; }
+  .stat span { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+  input, select {
+    background: var(--panel); color: var(--text); border: 1px solid var(--line);
+    border-radius: 8px; padding: 9px 12px; font-size: 14px; font-family: inherit;
+  }
+  input { flex: 1 1 260px; }
+  input:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  li {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px 16px;
+  }
+  li.is-new { border-color: var(--new); }
+  .row { display: flex; justify-content: space-between; gap: 14px; align-items: flex-start; }
+  .title { font-weight: 600; font-size: 15px; text-decoration: none; color: var(--text); }
+  .title:hover { color: var(--accent); text-decoration: underline; }
+  .company { color: var(--accent); font-weight: 600; font-size: 13px; margin-top: 3px; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .meta span::after { content: " \\00b7 "; }
+  .meta span:last-child::after { content: ""; }
+  .tag {
+    display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 999px;
+    border: 1px solid var(--line); color: var(--muted); text-transform: uppercase;
+    letter-spacing: .04em; white-space: nowrap;
+  }
+  .tag.new { background: var(--new-bg); color: var(--new); border-color: var(--new); }
+  .apply {
+    display: inline-block; margin-top: 10px; background: var(--accent); color: #fff;
+    text-decoration: none; padding: 7px 14px; border-radius: 7px;
+    font-size: 13px; font-weight: 600;
+  }
+  .empty { text-align: center; color: var(--muted); padding: 60px 20px; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 12px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Intern Radar</h1>
+    <p>Hardware, silicon and aerospace-hardware internships &middot; updated __UPDATED__</p>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><b>__TOTAL__</b><span>Open roles</span></div>
+    <div class="stat"><b>__NEW__</b><span>New (48h)</span></div>
+    <div class="stat"><b>__COMPANIES__</b><span>Companies</span></div>
+    <div class="stat"><b>__SOURCES__</b><span>Sources</span></div>
+  </div>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search title, company or location&hellip;" autocomplete="off">
+    <select id="cat">
+      <option value="">All categories</option>
+      <option value="silicon">Silicon / RTL</option>
+      <option value="aerospace">Aerospace HW</option>
+      <option value="electrical">Electrical</option>
+      <option value="other">Other hardware</option>
+    </select>
+    <select id="company"><option value="">All companies</option></select>
+    <select id="sort">
+      <option value="posted">Newest posted</option>
+      <option value="found">Recently found</option>
+      <option value="score">Best match</option>
+      <option value="company">Company A&ndash;Z</option>
+    </select>
+  </div>
+
+  <ul id="list"></ul>
+  <div class="empty" id="empty" hidden>No roles match those filters.</div>
+
+  <footer>Generated by Intern Radar &middot; __TOTAL__ roles tracked</footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  var JOBS = JSON.parse(document.getElementById('data').textContent);
+  var list = document.getElementById('list');
+  var empty = document.getElementById('empty');
+  var q = document.getElementById('q');
+  var cat = document.getElementById('cat');
+  var company = document.getElementById('company');
+  var sort = document.getElementById('sort');
+  var DAY = 86400, NOW = Math.floor(Date.now() / 1000);
+
+  Array.from(new Set(JOBS.map(function (j) { return j.company; })))
+    .sort(function (a, b) { return a.localeCompare(b); })
+    .forEach(function (name) {
+      var o = document.createElement('option');
+      o.value = name; o.textContent = name;
+      company.appendChild(o);
+    });
+
+  function ago(ts) {
+    if (!ts) return 'unknown';
+    var d = Math.floor((NOW - ts) / DAY);
+    if (d <= 0) return 'today';
+    if (d === 1) return 'yesterday';
+    if (d < 30) return d + ' days ago';
+    if (d < 365) return Math.floor(d / 30) + ' mo ago';
+    return Math.floor(d / 365) + ' yr ago';
+  }
+
+  function render() {
+    var term = q.value.trim().toLowerCase();
+    var c = cat.value, co = company.value, s = sort.value;
+
+    var rows = JOBS.filter(function (j) {
+      if (c && j.category !== c) return false;
+      if (co && j.company !== co) return false;
+      if (!term) return true;
+      return (j.title + ' ' + j.company + ' ' + (j.locations || []).join(' '))
+        .toLowerCase().indexOf(term) !== -1;
+    });
+
+    rows.sort(function (a, b) {
+      if (s === 'company') return a.company.localeCompare(b.company);
+      if (s === 'score') return (b.score || 0) - (a.score || 0);
+      if (s === 'found') return (b.first_seen || 0) - (a.first_seen || 0);
+      return (b.posted_at || 0) - (a.posted_at || 0);
+    });
+
+    list.innerHTML = '';
+    rows.forEach(function (j) {
+      var isNew = j.first_seen && (NOW - j.first_seen) < 2 * DAY;
+      var li = document.createElement('li');
+      if (isNew) li.className = 'is-new';
+
+      var meta = [];
+      meta.push((j.locations && j.locations.length) ? j.locations.slice(0, 2).join(' / ') : 'Location N/A');
+      meta.push('Posted ' + ago(j.posted_at));
+      if (j.terms && j.terms.length) meta.push(j.terms.slice(0, 2).join(', '));
+      if (j.sponsorship && j.sponsorship.toLowerCase() !== 'other') meta.push(j.sponsorship);
+
+      li.innerHTML =
+        '<div class="row">' +
+          '<div>' +
+            '<a class="title" href="' + j.url + '" target="_blank" rel="noopener">' + esc(j.title) + '</a>' +
+            '<div class="company">' + esc(j.company) + '</div>' +
+          '</div>' +
+          '<div>' + (isNew ? '<span class="tag new">New</span> ' : '') +
+            '<span class="tag">' + esc(j.category || 'hardware') + '</span></div>' +
+        '</div>' +
+        '<div class="meta">' + meta.map(function (m) { return '<span>' + esc(m) + '</span>'; }).join('') + '</div>' +
+        '<a class="apply" href="' + j.url + '" target="_blank" rel="noopener">Apply &rarr;</a>';
+      list.appendChild(li);
+    });
+
+    empty.hidden = rows.length > 0;
+  }
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (m) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m];
+    });
+  }
+
+  [q, cat, company, sort].forEach(function (el) {
+    el.addEventListener('input', render);
+    el.addEventListener('change', render);
+  });
+  render();
+})();
+</script>
+</body>
+</html>
+"""
+
+
+def render(jobs: list[Job], out_dir: Path) -> Path:
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    ordered = sorted(jobs, key=lambda j: j.posted_at or 0, reverse=True)
+    payload = [j.to_dict() for j in ordered]
+
+    # Machine-readable copy, useful for any other tooling you bolt on later.
+    (out_dir / "jobs.json").write_text(
+        json.dumps(
+            {"generated_at": int(time.time()), "count": len(payload), "jobs": payload},
+            indent=1,
+        ),
+        encoding="utf-8",
+    )
+
+    now = int(time.time())
+    fresh = sum(1 for j in ordered if j.first_seen and now - j.first_seen < 172800)
+    updated = datetime.now(timezone.utc).strftime("%b %d, %Y at %H:%M UTC")
+
+    # "</" inside a <script> block would terminate the tag early.
+    data = json.dumps(payload, separators=(",", ":")).replace("</", "<\\/")
+
+    page = (
+        _PAGE.replace("__DATA__", data)
+        .replace("__UPDATED__", html.escape(updated))
+        .replace("__TOTAL__", str(len(ordered)))
+        .replace("__NEW__", str(fresh))
+        .replace("__COMPANIES__", str(len({j.company for j in ordered})))
+        .replace("__SOURCES__", str(len({j.source for j in ordered})))
+    )
+
+    path = out_dir / "index.html"
+    path.write_text(page, encoding="utf-8")
+    log.info("dashboard written: %s (%d roles)", path, len(ordered))
+    return path
