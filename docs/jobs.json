@@ -1,7 +1,27 @@
 {
- "generated_at": 1787000558,
- "count": 86,
+ "generated_at": 1787002870,
+ "count": 87,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "RF Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
+   "locations": [
+    "Auckland, NZ"
+   ],
+   "posted_at": 1787001426,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "rf (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1787002870,
+   "uid": "d6f2717615594027"
+  },
   {
    "source": "Simplify",
    "company": "Rivian",
