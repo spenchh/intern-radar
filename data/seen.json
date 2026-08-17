@@ -1,5 +1,5 @@
 {
- "count": 91,
+ "count": 92,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -433,6 +433,12 @@
    "title": "Hardware Engineer Intern - FPGA/ASIC",
    "url": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002"
   },
+  "d7fd2ba02e6ab50b": {
+   "company": "Renesas Electronics",
+   "first_seen": 1787006436,
+   "title": "Digital Design Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"
+  },
   "dc251d8d3c5306fc": {
    "company": "IMC Trading",
    "first_seen": 1786988749,
@@ -548,6 +554,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787004034,
- "runs": 6
+ "last_run": 1787006436,
+ "runs": 7
 }
