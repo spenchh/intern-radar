@@ -1,6 +1,6 @@
 {
- "generated_at": 1787059826,
- "count": 89,
+ "generated_at": 1787062603,
+ "count": 88,
  "jobs": [
   {
    "source": "Simplify",
@@ -724,27 +724,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "c61b0e3859703fc5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Amentum",
-   "title": "Spaceflight Hardware Intern",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096",
-   "locations": [
-    "Houston, TX"
-   ],
-   "posted_at": 1784160000,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "f07d19bab1bc16d2"
   },
   {
    "source": "Simplify",
