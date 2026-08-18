@@ -1,5 +1,5 @@
 {
- "count": 92,
+ "count": 93,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -90,6 +90,12 @@
    "first_seen": 1786988749,
    "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
+  },
+  "2ea39def261bde20": {
+   "company": "University of St. Thomas",
+   "first_seen": 1787040895,
+   "title": "Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub",
+   "url": "https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false"
   },
   "2f07af862887ef22": {
    "company": "Neuralink",
@@ -554,6 +560,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787038588,
- "runs": 19
+ "last_run": 1787040895,
+ "runs": 20
 }
