@@ -1,7 +1,51 @@
 {
- "generated_at": 1787093444,
- "count": 89,
+ "generated_at": 1787095247,
+ "count": 91,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Long Range Platform Hardware Engineering Intern",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787092360,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787095247,
+   "uid": "6b28ed5001b73dc7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787092359,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1787095247,
+   "uid": "2b52750fe7740e03"
+  },
   {
    "source": "Simplify",
    "company": "Toshiba Global Commerce",
