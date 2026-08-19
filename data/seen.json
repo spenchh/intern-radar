@@ -1,5 +1,5 @@
 {
- "count": 103,
+ "count": 104,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -325,6 +325,12 @@
    "title": "Physical Design Engineer Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509"
   },
+  "959e5dec326be3cb": {
+   "company": "RTX",
+   "first_seen": 1787174638,
+   "title": "Electrical Engineering Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281"
+  },
   "9b36906ad559d1c3": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -620,6 +626,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787172872,
- "runs": 76
+ "last_run": 1787174638,
+ "runs": 77
 }
