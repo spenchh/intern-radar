@@ -1,6 +1,6 @@
 {
- "generated_at": 1787165203,
- "count": 97,
+ "generated_at": 1787167415,
+ "count": 96,
  "jobs": [
   {
    "source": "Simplify",
@@ -243,27 +243,6 @@
    ],
    "first_seen": 1787040895,
    "uid": "2ea39def261bde20"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Digital Design Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "posted_at": 1787004715,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "digital design (+3)"
-   ],
-   "first_seen": 1787006436,
-   "uid": "d7fd2ba02e6ab50b"
   },
   {
    "source": "Greenhouse",
