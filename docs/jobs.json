@@ -1,6 +1,6 @@
 {
- "generated_at": 1787106743,
- "count": 91,
+ "generated_at": 1787110179,
+ "count": 90,
  "jobs": [
   {
    "source": "Simplify",
@@ -1423,27 +1423,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "fb8b589343a28ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "Cadence Design Systems",
-   "title": "Product Engineering Intern - Simulation and Verification",
-   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "posted_at": 1779487594,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "2184217bf391c65f"
   },
   {
    "source": "Simplify",
