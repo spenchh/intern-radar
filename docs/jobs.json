@@ -1,7 +1,49 @@
 {
- "generated_at": 1787178169,
- "count": 97,
+ "generated_at": 1787179851,
+ "count": 100,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Hardware Test Intern - Summer 2027",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7903483003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787177829,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787179851,
+   "uid": "74b4539b8c4294b3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Hardware Test Intern - Spring 2027",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7894349003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787177829,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787179851,
+   "uid": "6042135dbdf80eaf"
+  },
   {
    "source": "Simplify",
    "company": "NVIDIA",
@@ -1855,6 +1897,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "c33470f2b4652651"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "Hardware Developer Engineer Co-op/Intern",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1777511346,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787179851,
+   "uid": "6ac14fd4d30a8d57"
   },
   {
    "source": "Simplify",

@@ -1,5 +1,5 @@
 {
- "count": 104,
+ "count": 107,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -199,6 +199,12 @@
    "title": "FPGA Design Intern - FPGA Design",
    "url": "https://careers.rivian.com/jobs/32954?icims=1"
   },
+  "6042135dbdf80eaf": {
+   "company": "Zipline",
+   "first_seen": 1787179851,
+   "title": "Hardware Test Intern - Spring 2027",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7894349003"
+  },
   "6240864d09acafb4": {
    "company": "Skydio",
    "first_seen": 1786988749,
@@ -216,6 +222,12 @@
    "first_seen": 1786988749,
    "title": "Design Verification Engineer Intern",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005"
+  },
+  "6ac14fd4d30a8d57": {
+   "company": "Nokia",
+   "first_seen": 1787179851,
+   "title": "Hardware Developer Engineer Co-op/Intern",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231"
   },
   "6b28ed5001b73dc7": {
    "company": "Zipline",
@@ -270,6 +282,12 @@
    "first_seen": 1786988749,
    "title": "Design Verification Engineer Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007"
+  },
+  "74b4539b8c4294b3": {
+   "company": "Zipline",
+   "first_seen": 1787179851,
+   "title": "Hardware Test Intern - Summer 2027",
+   "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
   },
   "7be2ac4d8c47c28d": {
    "company": "Rivian",
@@ -626,6 +644,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787178169,
- "runs": 79
+ "last_run": 1787179851,
+ "runs": 80
 }
