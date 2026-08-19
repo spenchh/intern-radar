@@ -1,5 +1,5 @@
 {
- "count": 96,
+ "count": 103,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -91,6 +91,12 @@
    "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
   },
+  "2b38f57dffc28027": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Hardware Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500"
+  },
   "2b52750fe7740e03": {
    "company": "Zipline",
    "first_seen": 1787095247,
@@ -108,6 +114,12 @@
    "first_seen": 1786988749,
    "title": "Analog and Mixed-Signal IC Design Engineer Intern",
    "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003"
+  },
+  "31482f9f0093f32d": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Ph.D. Research Hardware Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855"
   },
   "31d6e4d14a079d92": {
    "company": "Astera Labs",
@@ -132,6 +144,12 @@
    "first_seen": 1786988749,
    "title": "FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=8003013"
+  },
+  "411afaf73cdb9e99": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Hardware Physical Design / VLSI Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501"
   },
   "4607e7a16c78401d": {
    "company": "Epia Neuro",
@@ -277,6 +295,12 @@
    "title": "Hardware Engineer Co-op",
    "url": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401"
   },
+  "848e269d81c89829": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Hardware ASIC Design Intern - Hardware",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
+  },
   "89a3d384d07dea86": {
    "company": "Ambarella",
    "first_seen": 1786988749,
@@ -301,6 +325,12 @@
    "title": "Physical Design Engineer Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509"
   },
+  "9b36906ad559d1c3": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Mixed Signal Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502"
+  },
   "9cca48f20c24d6c9": {
    "company": "NXP Semiconductors",
    "first_seen": 1786988749,
@@ -318,6 +348,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineering Intern",
    "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"
+  },
+  "a28cb90d4c92d70a": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Hardware Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1"
   },
   "a5ba131d56df0f77": {
    "company": "Tenstorrent",
@@ -390,6 +426,12 @@
    "first_seen": 1786988749,
    "title": "FPGA Intern",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392"
+  },
+  "c8a4d38df7f3296c": {
+   "company": "NVIDIA",
+   "first_seen": 1787135234,
+   "title": "Hardware Design for Test Intern - DFT",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1"
   },
   "c96171645e9410d7": {
    "company": "Astranis",
@@ -578,6 +620,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787132946,
- "runs": 58
+ "last_run": 1787135234,
+ "runs": 59
 }
