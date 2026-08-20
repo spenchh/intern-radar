@@ -1,6 +1,6 @@
 {
- "generated_at": 1787251685,
- "count": 97,
+ "generated_at": 1787254200,
+ "count": 96,
  "jobs": [
   {
    "source": "Simplify",
@@ -242,28 +242,6 @@
    ],
    "first_seen": 1787095247,
    "uid": "2b52750fe7740e03"
-  },
-  {
-   "source": "Simplify",
-   "company": "Toshiba Global Commerce",
-   "title": "Hardware Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007",
-   "locations": [
-    "Bentonville, AR"
-   ],
-   "posted_at": 1787091515,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787093444,
-   "uid": "d2b4fa8e0c3d2207"
   },
   {
    "source": "Simplify",
