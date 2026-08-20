@@ -1,5 +1,5 @@
 {
- "generated_at": 1787188137,
+ "generated_at": 1787193336,
  "count": 100,
  "jobs": [
   {
@@ -1098,6 +1098,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Cadence Design Systems",
+   "title": "Characterization and Support Intern",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1783462576,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "1b52c3c73b2b0957"
+  },
+  {
+   "source": "Simplify",
    "company": "Citadel Securities",
    "title": "FPGA Engineer Intern",
    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
@@ -1356,27 +1377,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "10ebc4d2818416d5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Cadence Design Systems",
-   "title": "Characterization and Support Intern",
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1781302047,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "characterization (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "1b52c3c73b2b0957"
   },
   {
    "source": "Simplify",
