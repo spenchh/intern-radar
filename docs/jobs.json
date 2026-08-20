@@ -1,6 +1,6 @@
 {
- "generated_at": 1787203732,
- "count": 100,
+ "generated_at": 1787205559,
+ "count": 98,
  "jobs": [
   {
    "source": "Simplify",
@@ -1098,27 +1098,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Cadence Design Systems",
-   "title": "Characterization and Support Intern",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Intern---Characterization-and-Support_R54998-3",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1783462576,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "characterization (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "1b52c3c73b2b0957"
-  },
-  {
-   "source": "Simplify",
    "company": "Citadel Securities",
    "title": "FPGA Engineer Intern",
    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
@@ -1897,27 +1876,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "c33470f2b4652651"
-  },
-  {
-   "source": "Simplify",
-   "company": "Nokia",
-   "title": "Hardware Developer Engineer Co-op/Intern",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1777511346,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1787179851,
-   "uid": "6ac14fd4d30a8d57"
   },
   {
    "source": "Simplify",
