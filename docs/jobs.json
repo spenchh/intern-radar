@@ -1,6 +1,6 @@
 {
- "generated_at": 1787234383,
- "count": 98,
+ "generated_at": 1787237145,
+ "count": 97,
  "jobs": [
   {
    "source": "Simplify",
@@ -392,28 +392,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfdd7b0fc5f7bdf8"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineering Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281",
-   "locations": [
-    "Tewksbury, MA"
-   ],
-   "posted_at": 1786665600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1787174638,
-   "uid": "959e5dec326be3cb"
   },
   {
    "source": "Simplify",
