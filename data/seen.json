@@ -1,5 +1,5 @@
 {
- "count": 109,
+ "count": 116,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -42,6 +42,12 @@
    "first_seen": 1786988749,
    "title": "Analog/Mixed-Signal IC Design Co-Op/Intern",
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/MOUNT-ROYAL-Montreal/Analog-Mixed-Signal-IC-Design-Co-Op-Intern---Summer-2026----Stage-Co-Op-en-Conception-de-CI-Analogiques-Signal-Mixte--t--2026-_R53993-2"
+  },
+  "12608a75d89705a6": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Engineer Intern/Co-op - Hardware Engineering",
+   "url": "https://careers.amd.com/jobs/91182?icims=1"
   },
   "12fc5a62ec449857": {
    "company": "Tesla",
@@ -211,6 +217,12 @@
    "title": "Hardware Test Intern - Spring 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7894349003"
   },
+  "613f866181243553": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Design Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90813?icims=1"
+  },
   "6240864d09acafb4": {
    "company": "Skydio",
    "first_seen": 1786988749,
@@ -355,11 +367,23 @@
    "title": "Electrical Engineering Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281"
   },
+  "9a9e9cc38bdfc0c5": {
+   "company": "Texas Instruments",
+   "first_seen": 1787296034,
+   "title": "Layout Design Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338"
+  },
   "9b36906ad559d1c3": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
    "title": "Mixed Signal Design Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502"
+  },
+  "9c31b19e46d4b7f4": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Design Verification Engineering Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90820?icims=1"
   },
   "9cca48f20c24d6c9": {
    "company": "NXP Semiconductors",
@@ -420,6 +444,12 @@
    "first_seen": 1786988749,
    "title": "FPGA Engineer Intern",
    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/"
+  },
+  "b6a0dbfca21c4231": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Engineering Intern/Co-op - Undergrad",
+   "url": "https://careers.amd.com/jobs/91173?icims=1"
   },
   "b7311d30749bf80d": {
    "company": "Kepler Communications",
@@ -607,6 +637,18 @@
    "title": "Hardware Technologies Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200664383"
   },
+  "f77b2713b3710562": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Design Verification Engineer Co-op/Intern",
+   "url": "https://careers.amd.com/jobs/90810?icims=1"
+  },
+  "f90b29cac7d78f55": {
+   "company": "AMD",
+   "first_seen": 1787296034,
+   "title": "Hardware Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90894?icims=1"
+  },
   "f9714fe3abe72dff": {
    "company": "Formlabs",
    "first_seen": 1786988749,
@@ -656,6 +698,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787292262,
- "runs": 123
+ "last_run": 1787296034,
+ "runs": 124
 }
