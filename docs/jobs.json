@@ -1,7 +1,27 @@
 {
- "generated_at": 1787341035,
- "count": 104,
+ "generated_at": 1787342236,
+ "count": 105,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Formlabs",
+   "title": "Electrical Engineering Intern (Winter/Spring 2027)",
+   "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1787342112,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1787342236,
+   "uid": "b73b65c24722f02a"
+  },
   {
    "source": "Simplify",
    "company": "Texas Instruments",
