@@ -1,5 +1,5 @@
 {
- "count": 117,
+ "count": 118,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -24,6 +24,12 @@
    "first_seen": 1786988749,
    "title": "Ground Systems Engineering Intern - Instrumentation & Control",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
+  },
+  "0bc935f1cc54a894": {
+   "company": "SimIS",
+   "first_seen": 1787355459,
+   "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
+   "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"
   },
   "0e4380fe57215aa7": {
    "company": "Nightwing Intelligence Solutions",
@@ -704,6 +710,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787353221,
- "runs": 149
+ "last_run": 1787355459,
+ "runs": 150
 }

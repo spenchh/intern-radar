@@ -1,7 +1,28 @@
 {
- "generated_at": 1787353221,
- "count": 105,
+ "generated_at": 1787355459,
+ "count": 106,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "SimIS",
+   "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
+   "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern",
+   "locations": [
+    "Suffolk, VA"
+   ],
+   "posted_at": 1787353633,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "aerospace (+2)"
+   ],
+   "first_seen": 1787355459,
+   "uid": "0bc935f1cc54a894"
+  },
   {
    "source": "Greenhouse",
    "company": "Formlabs",
