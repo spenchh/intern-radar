@@ -1,7 +1,51 @@
 {
- "generated_at": 1787270411,
- "count": 95,
+ "generated_at": 1787277048,
+ "count": 97,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "SoC RTL Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1787184000,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "rtl (+3)",
+    "soc (+3)"
+   ],
+   "first_seen": 1787277048,
+   "uid": "d59b971b1ebfa868"
+  },
+  {
+   "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Mixed Signal Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299",
+   "locations": [
+    "Wilmington, MA",
+    "Durham, NC"
+   ],
+   "posted_at": 1787184000,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1787277048,
+   "uid": "4588cef968fab790"
+  },
   {
    "source": "Simplify",
    "company": "Zipline",
