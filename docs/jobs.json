@@ -1,6 +1,6 @@
 {
- "generated_at": 1787356761,
- "count": 106,
+ "generated_at": 1787363029,
+ "count": 104,
  "jobs": [
   {
    "source": "Simplify",
@@ -1527,30 +1527,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Marvell",
-   "title": "Digital Logic + Design Verification Co-op",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1781791548,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 11,
-   "reasons": [
-    "digital logic (+3)",
-    "logic design (+3)",
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fd7e69d03ff8012c"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/273819",
@@ -1770,27 +1746,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "89a3d384d07dea86"
-  },
-  {
-   "source": "Simplify",
-   "company": "Ambarella",
-   "title": "Mixed Signal Engineer Intern",
-   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105",
-   "locations": [
-    "United States"
-   ],
-   "posted_at": 1779516419,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "mixed signal (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fe95a75836f42c8e"
   },
   {
    "source": "Simplify",
