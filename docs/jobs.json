@@ -1,6 +1,6 @@
 {
- "generated_at": 1787460720,
- "count": 102,
+ "generated_at": 1787462880,
+ "count": 101,
  "jobs": [
   {
    "source": "Simplify",
@@ -650,28 +650,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfdd7b0fc5f7bdf8"
-  },
-  {
-   "source": "Simplify",
-   "company": "Sensata",
-   "title": "Hardware Engineer Intern - Multiple Teams",
-   "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147",
-   "locations": [
-    "Newtownabbey, UK"
-   ],
-   "posted_at": 1786633710,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "52327d3d3a19d073"
   },
   {
    "source": "Simplify",
