@@ -1,7 +1,30 @@
 {
- "generated_at": 1787604488,
- "count": 103,
+ "generated_at": 1787606858,
+ "count": 104,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Daktronics",
+   "title": "Hardware Design Co-op Intern - Firmware",
+   "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Brookings, SD"
+   ],
+   "posted_at": 1787602181,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 6,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1787606858,
+   "uid": "1741b4843afb4463"
+  },
   {
    "source": "Simplify",
    "company": "The Walt Disney Company",
