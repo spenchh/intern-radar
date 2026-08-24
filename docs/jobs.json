@@ -1,7 +1,73 @@
 {
- "generated_at": 1787579448,
- "count": 101,
+ "generated_at": 1787582435,
+ "count": 104,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "The Walt Disney Company",
+   "title": "Show Control Hardware Intern",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
+   "locations": [
+    "Orlando, FL",
+    "Celebration, FL",
+    "Glendale, CA"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787582435,
+   "uid": "02ba1b1ddf58b46e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Digital Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
+   "locations": [
+    "San Jose, CA",
+    "Durham, NC"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1787582435,
+   "uid": "21e705aeae65bd01"
+  },
+  {
+   "source": "Simplify",
+   "company": "The Walt Disney Company",
+   "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145",
+   "locations": [
+    "Lake Buena Vista, FL"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineering (+3)"
+   ],
+   "first_seen": 1787582435,
+   "uid": "69d491a136433970"
+  },
   {
    "source": "Simplify",
    "company": "SimIS",
