@@ -1,6 +1,6 @@
 {
- "generated_at": 1787601758,
- "count": 102,
+ "generated_at": 1787604488,
+ "count": 103,
  "jobs": [
   {
    "source": "Simplify",
@@ -67,6 +67,27 @@
    ],
    "first_seen": 1787582435,
    "uid": "69d491a136433970"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "Advanced Spectroscopy and Nanoscale Materials Characterization Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1787604488,
+   "uid": "7f19dcf45a6f82b1"
   },
   {
    "source": "Simplify",

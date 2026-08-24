@@ -1,5 +1,5 @@
 {
- "count": 121,
+ "count": 122,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -342,6 +342,12 @@
    "first_seen": 1786988749,
    "title": "Propulsion Test Engineering Intern - Fall 2026",
    "url": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805"
+  },
+  "7f19dcf45a6f82b1": {
+   "company": "Micron Technology",
+   "first_seen": 1787604488,
+   "title": "Advanced Spectroscopy and Nanoscale Materials Characterization Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME-2027-Summer-Intern--Advanced-Spectroscopy-and-Nanoscale-Materials-Characterization_JR109071"
   },
   "7ffabb8f74553715": {
    "company": "Kairos Power",
@@ -728,6 +734,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787601758,
- "runs": 256
+ "last_run": 1787604488,
+ "runs": 257
 }
