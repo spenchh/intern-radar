@@ -1,6 +1,6 @@
 {
- "generated_at": 1787587442,
- "count": 104,
+ "generated_at": 1787590512,
+ "count": 103,
  "jobs": [
   {
    "source": "Simplify",
@@ -1942,28 +1942,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "d5d87bfd2a9c9935"
-  },
-  {
-   "source": "Simplify",
-   "company": "TSC",
-   "title": "Hardware Engineering Co-op",
-   "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Hardware-Engineering-Fall-Co-Op_JR2559",
-   "locations": [
-    "Plymouth, MA"
-   ],
-   "posted_at": 1778594724,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "6bc62089381ee3b2"
   },
   {
    "source": "Simplify",
