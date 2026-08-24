@@ -1,5 +1,5 @@
 {
- "count": 123,
+ "count": 124,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -439,6 +439,12 @@
    "title": "Hardware Engineering Intern",
    "url": "https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533"
   },
+  "a2617768e366b4b6": {
+   "company": "Shield AI",
+   "first_seen": 1787615180,
+   "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
+   "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"
+  },
   "a28cb90d4c92d70a": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -740,6 +746,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787613666,
- "runs": 262
+ "last_run": 1787615180,
+ "runs": 263
 }
