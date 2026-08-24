@@ -1,6 +1,6 @@
 {
- "generated_at": 1787597963,
- "count": 103,
+ "generated_at": 1787600212,
+ "count": 102,
  "jobs": [
   {
    "source": "Simplify",
@@ -1101,27 +1101,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "292e2eaa3503b8aa"
-  },
-  {
-   "source": "Simplify",
-   "company": "Teledyne",
-   "title": "CMOS Co-op",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1",
-   "locations": [
-    "Kitchener, ON, Canada"
-   ],
-   "posted_at": 1785283200,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "cmos (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "abe574c5311475c0"
   },
   {
    "source": "Ashby",
