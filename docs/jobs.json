@@ -1,7 +1,26 @@
 {
- "generated_at": 1787693202,
- "count": 109,
+ "generated_at": 1787694874,
+ "count": 110,
  "jobs": [
+  {
+   "source": "Ashby",
+   "company": "Base Power",
+   "title": "Hardware Technical Program Management Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1787694114,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787694874,
+   "uid": "b1ab7910928ac798"
+  },
   {
    "source": "Simplify",
    "company": "Apple",

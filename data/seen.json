@@ -1,5 +1,5 @@
 {
- "count": 130,
+ "count": 131,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -511,6 +511,12 @@
    "title": "Validation Intern",
    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1"
   },
+  "b1ab7910928ac798": {
+   "company": "Base Power",
+   "first_seen": 1787694874,
+   "title": "Hardware Technical Program Management Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2"
+  },
   "b65979ef54a7e2e2": {
    "company": "Citadel Securities",
    "first_seen": 1786988749,
@@ -782,6 +788,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787693202,
- "runs": 290
+ "last_run": 1787694874,
+ "runs": 291
 }
