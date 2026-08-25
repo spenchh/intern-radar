@@ -1,5 +1,5 @@
 {
- "count": 128,
+ "count": 129,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -348,6 +348,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Test Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
+  },
+  "7a99beaa6e5987a0": {
+   "company": "Cadence Design Systems",
+   "first_seen": 1787658222,
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1"
   },
   "7be2ac4d8c47c28d": {
    "company": "Rivian",
@@ -770,6 +776,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787655909,
- "runs": 276
+ "last_run": 1787658222,
+ "runs": 277
 }

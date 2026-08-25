@@ -1,5 +1,5 @@
 {
- "generated_at": 1787655909,
+ "generated_at": 1787658222,
  "count": 108,
  "jobs": [
   {
@@ -98,6 +98,29 @@
    ],
    "first_seen": 1787640227,
    "uid": "5cb8796ede69ae9e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "posted_at": 1787616000,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1787658222,
+   "uid": "7a99beaa6e5987a0"
   },
   {
    "source": "Simplify",
@@ -1181,27 +1204,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "743860f7099b4884"
-  },
-  {
-   "source": "Simplify",
-   "company": "Formlabs",
-   "title": "Hardware R&D Engineer Intern",
-   "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "posted_at": 1785448989,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "4fdf1239d37aada3"
   },
   {
    "source": "Greenhouse",
