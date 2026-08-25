@@ -1,7 +1,82 @@
 {
- "generated_at": 1787636888,
- "count": 104,
+ "generated_at": 1787640227,
+ "count": 107,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "ASIC Package Engineer Intern Co-op",
+   "url": "https://careers.amd.com/jobs/91469?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787638570,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1787640227,
+   "uid": "c24089f42ec56bab"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "ASIC Package Engineering Intern Co-op",
+   "url": "https://careers.amd.com/jobs/91466?icims=1",
+   "locations": [
+    "Secaucus, NJ",
+    "Austin, TX",
+    "Longmont, CO",
+    "Fishkill, NY",
+    "Fort Collins, CO",
+    "Boxborough, MA"
+   ],
+   "posted_at": 1787638564,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1787640227,
+   "uid": "970e55dc48859bae"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "ASIC Package Engineering Co-op/Intern",
+   "url": "https://careers.amd.com/jobs/91463?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787638564,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1787640227,
+   "uid": "5cb8796ede69ae9e"
+  },
   {
    "source": "Simplify",
    "company": "Daktronics",

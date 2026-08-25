@@ -1,5 +1,5 @@
 {
- "count": 124,
+ "count": 127,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -235,6 +235,12 @@
    "title": "FPGA Design Intern - FPGA Design",
    "url": "https://careers.rivian.com/jobs/32954?icims=1"
   },
+  "5cb8796ede69ae9e": {
+   "company": "AMD",
+   "first_seen": 1787640227,
+   "title": "ASIC Package Engineering Co-op/Intern",
+   "url": "https://careers.amd.com/jobs/91463?icims=1"
+  },
   "6042135dbdf80eaf": {
    "company": "Zipline",
    "first_seen": 1787179851,
@@ -403,6 +409,12 @@
    "title": "Electrical Engineering Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281"
   },
+  "970e55dc48859bae": {
+   "company": "AMD",
+   "first_seen": 1787640227,
+   "title": "ASIC Package Engineering Intern Co-op",
+   "url": "https://careers.amd.com/jobs/91466?icims=1"
+  },
   "9a9e9cc38bdfc0c5": {
    "company": "Texas Instruments",
    "first_seen": 1787296034,
@@ -522,6 +534,12 @@
    "first_seen": 1786988749,
    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"
+  },
+  "c24089f42ec56bab": {
+   "company": "AMD",
+   "first_seen": 1787640227,
+   "title": "ASIC Package Engineer Intern Co-op",
+   "url": "https://careers.amd.com/jobs/91469?icims=1"
   },
   "c33470f2b4652651": {
    "company": "Astranis",
@@ -746,6 +764,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787636888,
- "runs": 269
+ "last_run": 1787640227,
+ "runs": 270
 }
