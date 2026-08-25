@@ -1,6 +1,6 @@
 {
- "generated_at": 1787648880,
- "count": 107,
+ "generated_at": 1787651478,
+ "count": 106,
  "jobs": [
   {
    "source": "Simplify",
@@ -301,37 +301,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Verification Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/90813?icims=1",
-   "locations": [
-    "Secaucus, NJ",
-    "Rochester, NY",
-    "Austin, TX",
-    "Longmont, CO",
-    "Fishkill, NY",
-    "Fort Collins, CO",
-    "Boxborough, MA"
-   ],
-   "posted_at": 1787293338,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "design verification (+3)",
-    "hardware design (+3)",
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787296034,
-   "uid": "613f866181243553"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Hardware Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90894?icims=1",
    "locations": [
@@ -353,6 +322,38 @@
    ],
    "first_seen": 1787296034,
    "uid": "f90b29cac7d78f55"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Verification Engineering Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90820?icims=1",
+   "locations": [
+    "Secaucus, NJ",
+    "Rochester, NY",
+    "Austin, TX",
+    "Longmont, CO",
+    "Fishkill, NY",
+    "Fort Collins, CO",
+    "Boxborough, MA"
+   ],
+   "posted_at": 1787293338,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "design verification (+3)",
+    "hardware design (+3)",
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1787296034,
+   "uid": "9c31b19e46d4b7f4"
   },
   {
    "source": "Simplify",
@@ -587,27 +588,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "2b38f57dffc28027"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Ph.D. Research Hardware Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "31482f9f0093f32d"
   },
   {
    "source": "Simplify",
