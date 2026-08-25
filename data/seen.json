@@ -1,5 +1,5 @@
 {
- "count": 129,
+ "count": 130,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -348,6 +348,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Test Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
+  },
+  "77f9f4ddd336fa4f": {
+   "company": "Moog",
+   "first_seen": 1787676910,
+   "title": "Hardware Engineer Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417"
   },
   "7a99beaa6e5987a0": {
    "company": "Cadence Design Systems",
@@ -776,6 +782,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787674092,
- "runs": 282
+ "last_run": 1787676910,
+ "runs": 283
 }
