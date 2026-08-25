@@ -1,6 +1,6 @@
 {
- "generated_at": 1787660184,
- "count": 106,
+ "generated_at": 1787664476,
+ "count": 108,
  "jobs": [
   {
    "source": "Simplify",
@@ -690,6 +690,27 @@
   },
   {
    "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "9b36906ad559d1c3"
+  },
+  {
+   "source": "Simplify",
    "company": "Zipline",
    "title": "Long Range Platform Hardware Engineering Intern",
    "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
@@ -838,6 +859,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "8e99a8fc3f4a4fba"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Computer-Aided Design Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1786665600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "bfdd7b0fc5f7bdf8"
   },
   {
    "source": "Simplify",
