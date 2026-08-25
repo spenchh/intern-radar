@@ -1,6 +1,6 @@
 {
- "generated_at": 1787664476,
- "count": 108,
+ "generated_at": 1787667720,
+ "count": 107,
  "jobs": [
   {
    "source": "Simplify",
@@ -620,28 +620,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "411afaf73cdb9e99"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Hardware Verification Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "2b38f57dffc28027"
   },
   {
    "source": "Simplify",
