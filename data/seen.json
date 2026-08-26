@@ -1,5 +1,5 @@
 {
- "count": 135,
+ "count": 137,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -511,6 +511,12 @@
    "title": "Electrical Reliability Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006"
   },
+  "abb34759724e3246": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1787782127,
+   "title": "Integration and Test Engineer Intern - Non-Automation",
+   "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Integration-and-Test-Engineering-Non-Automation-MA-01060/1423743300/?ats=successfactors"
+  },
   "abe574c5311475c0": {
    "company": "Teledyne",
    "first_seen": 1786988749,
@@ -612,6 +618,12 @@
    "first_seen": 1786988749,
    "title": "Computer Engineer Intern",
    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119"
+  },
+  "ccd10d2a8f8c96b7": {
+   "company": "Microchip Technology",
+   "first_seen": 1787782127,
+   "title": "Verification Intern - Verification",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26"
   },
   "cd235346b8f0bf28": {
    "company": "Etched",
@@ -812,6 +824,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787771526,
- "runs": 315
+ "last_run": 1787782127,
+ "runs": 316
 }
