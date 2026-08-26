@@ -1,5 +1,5 @@
 {
- "count": 131,
+ "count": 133,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -331,6 +331,12 @@
    "title": "FPGA Engineer Intern",
    "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002"
   },
+  "74191fd6c1a5bc50": {
+   "company": "Eight Sleep",
+   "first_seen": 1787706795,
+   "title": "Hardware Support & Test Intern",
+   "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true"
+  },
   "743860f7099b4884": {
    "company": "Western Digital",
    "first_seen": 1786988749,
@@ -348,6 +354,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Test Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
+  },
+  "759e09bdf1f4dbba": {
+   "company": "Kodiak Robotics",
+   "first_seen": 1787706795,
+   "title": "Winter 2027 Intern, Electrical Engineering",
+   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009"
   },
   "77f9f4ddd336fa4f": {
    "company": "Moog",
@@ -788,6 +800,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787701748,
- "runs": 295
+ "last_run": 1787706795,
+ "runs": 296
 }

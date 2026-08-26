@@ -1,7 +1,48 @@
 {
- "generated_at": 1787701748,
- "count": 110,
+ "generated_at": 1787706795,
+ "count": 112,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Eight Sleep",
+   "title": "Hardware Support & Test Intern",
+   "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1787704163,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787706795,
+   "uid": "74191fd6c1a5bc50"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Kodiak Robotics",
+   "title": "Winter 2027 Intern, Electrical Engineering",
+   "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1787701920,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1787706795,
+   "uid": "759e09bdf1f4dbba"
+  },
   {
    "source": "Ashby",
    "company": "Base Power",
