@@ -1,5 +1,5 @@
 {
- "count": 133,
+ "count": 135,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -258,6 +258,12 @@
    "first_seen": 1787296034,
    "title": "Hardware Design Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90813?icims=1"
+  },
+  "619721458cf72594": {
+   "company": "Microsoft",
+   "first_seen": 1787755378,
+   "title": "Silicon Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170"
   },
   "6240864d09acafb4": {
    "company": "Skydio",
@@ -703,6 +709,12 @@
    "title": "Manufacturing Engineering Intern- Spacecraft Components",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
   },
+  "e940bb5d8b808246": {
+   "company": "Tesla",
+   "first_seen": 1787755378,
+   "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/281233"
+  },
   "ec8e4d7bc405e376": {
    "company": "Apple",
    "first_seen": 1786988749,
@@ -800,6 +812,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787752426,
- "runs": 311
+ "last_run": 1787755378,
+ "runs": 312
 }

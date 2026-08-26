@@ -1,7 +1,54 @@
 {
- "generated_at": 1787752426,
- "count": 111,
+ "generated_at": 1787755378,
+ "count": 113,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/281233",
+   "locations": [
+    "Palo Alto, CA",
+    "Austin, TX",
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1787752959,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "physical design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787755378,
+   "uid": "e940bb5d8b808246"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Silicon Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
+   "locations": [
+    "Raleigh, NC",
+    "Santa Clara, CA",
+    "Mountain View, CA"
+   ],
+   "posted_at": 1787751954,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1787755378,
+   "uid": "619721458cf72594"
+  },
   {
    "source": "Simplify",
    "company": "Eight Sleep",
