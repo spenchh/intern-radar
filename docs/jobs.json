@@ -1,6 +1,6 @@
 {
- "generated_at": 1787740858,
- "count": 110,
+ "generated_at": 1787742774,
+ "count": 111,
  "jobs": [
   {
    "source": "Simplify",
@@ -769,6 +769,27 @@
    ],
    "first_seen": 1787135234,
    "uid": "c8a4d38df7f3296c"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Mixed Signal Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "9b36906ad559d1c3"
   },
   {
    "source": "Simplify",
