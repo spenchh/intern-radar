@@ -1,5 +1,5 @@
 {
- "count": 138,
+ "count": 139,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -78,6 +78,12 @@
    "first_seen": 1787606858,
    "title": "Hardware Design Co-op Intern - Firmware",
    "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false"
+  },
+  "1a5ada00ab96bf5a": {
+   "company": "Blue Origin",
+   "first_seen": 1787840819,
+   "title": "Electronics/Electrical Systems Engineer 1 Intern",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292"
   },
   "1b52c3c73b2b0957": {
    "company": "Cadence Design Systems",
@@ -830,6 +836,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787800689,
- "runs": 317
+ "last_run": 1787840819,
+ "runs": 318
 }

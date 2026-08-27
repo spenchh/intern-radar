@@ -1,5 +1,5 @@
 {
- "generated_at": 1787800689,
+ "generated_at": 1787840819,
  "count": 117,
  "jobs": [
   {
@@ -465,27 +465,6 @@
    ],
    "first_seen": 1787342236,
    "uid": "b73b65c24722f02a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Texas Instruments",
-   "title": "Layout Design Intern",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338",
-   "locations": [
-    "United States"
-   ],
-   "posted_at": 1787293367,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1787296034,
-   "uid": "9a9e9cc38bdfc0c5"
   },
   {
    "source": "Simplify",
@@ -1073,6 +1052,36 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfdd7b0fc5f7bdf8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Blue Origin",
+   "title": "Electronics/Electrical Systems Engineer 1 Intern",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292",
+   "locations": [
+    "Seattle, WA",
+    "LA",
+    "Florida",
+    "Longmont, CO",
+    "Arlington County, Arlington, VA",
+    "Reston, VA",
+    "Denver, CO",
+    "Huntsville, AL",
+    "Van Horn, TX"
+   ],
+   "posted_at": 1786406400,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1787840819,
+   "uid": "1a5ada00ab96bf5a"
   },
   {
    "source": "Simplify",
