@@ -1,6 +1,6 @@
 {
- "generated_at": 1787782127,
- "count": 116,
+ "generated_at": 1787800689,
+ "count": 117,
  "jobs": [
   {
    "source": "Simplify",
@@ -1798,6 +1798,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "c96171645e9410d7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Applied Intuition",
+   "title": "Research Intern - Robotic Hardware - Simulation and Data",
+   "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1782551195,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1787800689,
+   "uid": "c64b8165a000ddb2"
   },
   {
    "source": "Simplify",

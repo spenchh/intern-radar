@@ -1,5 +1,5 @@
 {
- "count": 137,
+ "count": 138,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -601,6 +601,12 @@
    "title": "FPGA Intern",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392"
   },
+  "c64b8165a000ddb2": {
+   "company": "Applied Intuition",
+   "first_seen": 1787800689,
+   "title": "Research Intern - Robotic Hardware - Simulation and Data",
+   "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
+  },
   "c8a4d38df7f3296c": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -824,6 +830,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787782127,
- "runs": 316
+ "last_run": 1787800689,
+ "runs": 317
 }
