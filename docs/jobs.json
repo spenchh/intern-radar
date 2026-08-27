@@ -1,7 +1,113 @@
 {
- "generated_at": 1787840819,
- "count": 117,
+ "generated_at": 1787874763,
+ "count": 121,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Ambarella",
+   "title": "DFT Engineer Intern",
+   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1787788800,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "dft (+3)"
+   ],
+   "first_seen": 1787874763,
+   "uid": "3675cf3fec65ee87"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ambarella",
+   "title": "Mixed Signal Engineer Intern",
+   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100361",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1787788800,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "fe95a75836f42c8e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ambarella",
+   "title": "Verification Engineer Intern",
+   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1787788800,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "fb8b589343a28ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Leidos",
+   "title": "Computer Engineering Co-op",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
+   "locations": [
+    "Bethesda, MD"
+   ],
+   "posted_at": 1787788800,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineering (+3)"
+   ],
+   "first_seen": 1787874763,
+   "uid": "227dd68b02d4b6fe"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Layout Design Intern - Fall 2026",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1787788800,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "layout (+2)"
+   ],
+   "first_seen": 1787874763,
+   "uid": "05ef47b4dc2bbed4"
+  },
   {
    "source": "Simplify",
    "company": "L3Harris Technologies",
@@ -2560,27 +2666,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "cd235346b8f0bf28"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tenstorrent",
-   "title": "Formal Verification Intern",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1768607342,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "a5ba131d56df0f77"
   }
  ]
 }
