@@ -1,6 +1,6 @@
 {
- "generated_at": 1787874763,
- "count": 121,
+ "generated_at": 1787910141,
+ "count": 120,
  "jobs": [
   {
    "source": "Simplify",
@@ -398,28 +398,6 @@
    ],
    "first_seen": 1787658222,
    "uid": "7a99beaa6e5987a0"
-  },
-  {
-   "source": "Simplify",
-   "company": "Moog",
-   "title": "Hardware Engineer Intern",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
-   "locations": [
-    "Mineral Wells, TX"
-   ],
-   "posted_at": 1787616000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787676910,
-   "uid": "77f9f4ddd336fa4f"
   },
   {
    "source": "Simplify",
