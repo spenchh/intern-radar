@@ -1,6 +1,6 @@
 {
- "generated_at": 1787910141,
- "count": 120,
+ "generated_at": 1787950754,
+ "count": 119,
  "jobs": [
   {
    "source": "Simplify",
@@ -64,28 +64,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "fb8b589343a28ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "Leidos",
-   "title": "Computer Engineering Co-op",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "posted_at": 1787788800,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineering (+3)"
-   ],
-   "first_seen": 1787874763,
-   "uid": "227dd68b02d4b6fe"
   },
   {
    "source": "Simplify",
@@ -723,6 +701,27 @@
    ],
    "first_seen": 1787296034,
    "uid": "b6a0dbfca21c4231"
+  },
+  {
+   "source": "Simplify",
+   "company": "Brunswick",
+   "title": "Engineering Validation Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
+   "locations": [
+    "Tulsa, OK"
+   ],
+   "posted_at": 1787270400,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1787950754,
+   "uid": "a9ea6b3798dcf6a2"
   },
   {
    "source": "Simplify",
@@ -1633,28 +1632,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6eda1a40ba71843d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Arlo Technologies",
-   "title": "Hardware Engineer Co-op",
-   "url": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401",
-   "locations": [
-    "Richmond, BC, Canada"
-   ],
-   "posted_at": 1784246400,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "81b70856b3f6fd63"
   },
   {
    "source": "Simplify",

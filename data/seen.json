@@ -1,5 +1,5 @@
 {
- "count": 142,
+ "count": 143,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -529,6 +529,12 @@
    "title": "Formal Verification Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"
   },
+  "a9ea6b3798dcf6a2": {
+   "company": "Brunswick",
+   "first_seen": 1787950754,
+   "title": "Engineering Validation Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312"
+  },
   "aa81b0b2b0cdd578": {
    "company": "Astranis",
    "first_seen": 1786988749,
@@ -854,6 +860,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787910141,
- "runs": 320
+ "last_run": 1787950754,
+ "runs": 321
 }
