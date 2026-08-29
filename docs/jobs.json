@@ -1,6 +1,6 @@
 {
- "generated_at": 1787972884,
- "count": 121,
+ "generated_at": 1787997808,
+ "count": 119,
  "jobs": [
   {
    "source": "Simplify",
@@ -2112,28 +2112,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Tesla",
-   "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/271539",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1780755195,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "d20a799d61f5015c"
-  },
-  {
-   "source": "Simplify",
    "company": "Nightwing Intelligence Solutions",
    "title": "Software / Hardware Engineering Intern",
    "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
@@ -2625,27 +2603,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "2f07af862887ef22"
-  },
-  {
-   "source": "Simplify",
-   "company": "Etched",
-   "title": "RTL Intern",
-   "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1770430144,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "rtl (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "cd235346b8f0bf28"
   },
   {
    "source": "Ashby",
