@@ -1,5 +1,5 @@
 {
- "count": 145,
+ "count": 147,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -439,6 +439,12 @@
    "title": "Hardware Engineer Co-op",
    "url": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Hardware-Engineer-Co-op_JR100401"
   },
+  "81d144e088e84470": {
+   "company": "Cadence Design Systems",
+   "first_seen": 1788028141,
+   "title": "Characterization and Support Intern - Fall 2026",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1"
+  },
   "848e269d81c89829": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -667,6 +673,12 @@
    "title": "Computer Engineer Intern",
    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119"
   },
+  "cc9765e2c4fe1843": {
+   "company": "Cadence Design Systems",
+   "first_seen": 1788028141,
+   "title": "Post-Silicon Validation Engineering Intern - Characterization and Support",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2"
+  },
   "ccd10d2a8f8c96b7": {
    "company": "Microchip Technology",
    "first_seen": 1787782127,
@@ -872,6 +884,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1788015821,
- "runs": 324
+ "last_run": 1788028141,
+ "runs": 325
 }

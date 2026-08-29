@@ -1,6 +1,6 @@
 {
- "generated_at": 1788015821,
- "count": 120,
+ "generated_at": 1788028141,
+ "count": 122,
  "jobs": [
   {
    "source": "Simplify",
@@ -45,6 +45,51 @@
    ],
    "first_seen": 1787972884,
    "uid": "b1530c0b3451b7a8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cadence Design Systems",
+   "title": "Post-Silicon Validation Engineering Intern - Characterization and Support",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1787875200,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "silicon (+3)",
+    "post silicon (+3)",
+    "validation (+2)",
+    "characterization (+2)"
+   ],
+   "first_seen": 1788028141,
+   "uid": "cc9765e2c4fe1843"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cadence Design Systems",
+   "title": "Characterization and Support Intern - Fall 2026",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1787875200,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1788028141,
+   "uid": "81d144e088e84470"
   },
   {
    "source": "Simplify",
