@@ -1,7 +1,51 @@
 {
- "generated_at": 1787950754,
- "count": 119,
+ "generated_at": 1787972884,
+ "count": 121,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Northwood Space",
+   "title": "RF Engineer Intern - Summer Internship",
+   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true",
+   "locations": [
+    "LA",
+    "Torrance, CA"
+   ],
+   "posted_at": 1787964320,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "rf (+2)"
+   ],
+   "first_seen": 1787972884,
+   "uid": "2f5635207e8cf8e7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Camera Hardware Engineering Intern",
+   "url": "https://jobs.apple.com/en-us/details/200680200",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "posted_at": 1787950715,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787972884,
+   "uid": "b1530c0b3451b7a8"
+  },
   {
    "source": "Simplify",
    "company": "Ambarella",
@@ -2583,6 +2627,27 @@
    "uid": "2f07af862887ef22"
   },
   {
+   "source": "Simplify",
+   "company": "Etched",
+   "title": "RTL Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1770430144,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "rtl (+3)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "cd235346b8f0bf28"
+  },
+  {
    "source": "Ashby",
    "company": "Etched",
    "title": "Electrical Platform Intern",
@@ -2600,27 +2665,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "16e75909ae2aa9c7"
-  },
-  {
-   "source": "Ashby",
-   "company": "Etched",
-   "title": "RTL Intern",
-   "url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
-   "locations": [
-    "San Jose"
-   ],
-   "posted_at": 1770427514,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "rtl (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "cd235346b8f0bf28"
   }
  ]
 }

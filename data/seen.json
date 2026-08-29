@@ -1,5 +1,5 @@
 {
- "count": 143,
+ "count": 145,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -168,6 +168,12 @@
    "first_seen": 1786988749,
    "title": "Analog and Mixed-Signal IC Design Engineer Intern",
    "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003"
+  },
+  "2f5635207e8cf8e7": {
+   "company": "Northwood Space",
+   "first_seen": 1787972884,
+   "title": "RF Engineer Intern - Summer Internship",
+   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true"
   },
   "31482f9f0093f32d": {
    "company": "NVIDIA",
@@ -565,6 +571,12 @@
    "title": "Validation Intern",
    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1"
   },
+  "b1530c0b3451b7a8": {
+   "company": "Apple",
+   "first_seen": 1787972884,
+   "title": "Camera Hardware Engineering Intern",
+   "url": "https://jobs.apple.com/en-us/details/200680200"
+  },
   "b1ab7910928ac798": {
    "company": "Base Power",
    "first_seen": 1787694874,
@@ -860,6 +872,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1787950754,
- "runs": 321
+ "last_run": 1787972884,
+ "runs": 322
 }
