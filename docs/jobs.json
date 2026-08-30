@@ -1,6 +1,6 @@
 {
- "generated_at": 1788053238,
- "count": 122,
+ "generated_at": 1788073943,
+ "count": 121,
  "jobs": [
   {
    "source": "Simplify",
@@ -367,28 +367,6 @@
    ],
    "first_seen": 1787694874,
    "uid": "b1ab7910928ac798"
-  },
-  {
-   "source": "Simplify",
-   "company": "Apple",
-   "title": "Design Verification Intern",
-   "url": "https://jobs.apple.com/en-us/details/200679789",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787639465,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787643107,
-   "uid": "2669eb8306d6acb6"
   },
   {
    "source": "Simplify",
