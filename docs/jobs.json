@@ -1,6 +1,6 @@
 {
- "generated_at": 1788158465,
- "count": 128,
+ "generated_at": 1788186400,
+ "count": 127,
  "jobs": [
   {
    "source": "Simplify",
@@ -2066,29 +2066,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "dc251d8d3c5306fc"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/275689",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1782943941,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "electronics (+2)",
-    "power electronics (+2)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "ef54db7d31216582"
   },
   {
    "source": "Greenhouse",
