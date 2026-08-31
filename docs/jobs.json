@@ -1,7 +1,28 @@
 {
- "generated_at": 1788186400,
+ "generated_at": 1788207429,
  "count": 127,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "IC Layout Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788186901,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "layout (+2)"
+   ],
+   "first_seen": 1788207428,
+   "uid": "8793c91f27630e57"
+  },
   {
    "source": "Simplify",
    "company": "Qorvo",
@@ -2068,26 +2089,6 @@
    "uid": "dc251d8d3c5306fc"
   },
   {
-   "source": "Greenhouse",
-   "company": "Astranis",
-   "title": "PCB Layout Engineer Intern (Fall 2026)",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4597409006",
-   "locations": [
-    "San Francisco"
-   ],
-   "posted_at": 1782943627,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "pcb (+2)",
-    "layout (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "c96171645e9410d7"
-  },
-  {
    "source": "Simplify",
    "company": "Applied Intuition",
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
@@ -2632,7 +2633,7 @@
    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
    "locations": [
-    "Seattle, Washington"
+    "Dallas, Texas"
    ],
    "posted_at": 1776259349,
    "terms": [],
@@ -2643,8 +2644,8 @@
     "electrical (+2)",
     "electrical engineering (+2)"
    ],
-   "first_seen": 1787615180,
-   "uid": "a2617768e366b4b6"
+   "first_seen": 1786988749,
+   "uid": "c02b946e628d6829"
   },
   {
    "source": "Ashby",
