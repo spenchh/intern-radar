@@ -1,7 +1,159 @@
 {
- "generated_at": 1788137130,
- "count": 121,
+ "generated_at": 1788158465,
+ "count": 128,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Analog Design Engineer Intern - High Performance Analog - Advanced Cellular",
+   "url": "https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788153920,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "e0c674b19886429d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Electrical Engineer Intern - Physical Verification",
+   "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors",
+   "locations": [
+    "Greensboro, NC"
+   ],
+   "posted_at": 1788153917,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "6c2713a0884d0979"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1788153916,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "ed4b521e86b79078"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Analog Design Intern",
+   "url": "https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors",
+   "locations": [
+    "Chandler, AZ"
+   ],
+   "posted_at": 1788153914,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "dae2ea3c7a35b94b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Research Engineer Intern - High Performance Analog",
+   "url": "https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788153913,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "99c8d7374017c57d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Test Engineer Intern - RF Load Pull",
+   "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1788153912,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "rf (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "5bf5d363b8e8f35b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Characterization Engineering Intern",
+   "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1424342800/?ats=successfactors",
+   "locations": [
+    "Greensboro, NC"
+   ],
+   "posted_at": 1788153912,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1788158465,
+   "uid": "236a282da964e7ff"
+  },
   {
    "source": "Simplify",
    "company": "Northwood Space",
@@ -538,7 +690,7 @@
    "source": "Simplify",
    "company": "The Walt Disney Company",
    "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
    "locations": [
     "Lake Buena Vista, FL"
    ],

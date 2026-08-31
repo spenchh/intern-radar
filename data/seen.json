@@ -1,5 +1,5 @@
 {
- "count": 147,
+ "count": 154,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -126,6 +126,12 @@
    "first_seen": 1787874763,
    "title": "Computer Engineering Co-op",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756"
+  },
+  "236a282da964e7ff": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Characterization Engineering Intern",
+   "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1424342800/?ats=successfactors"
   },
   "25836afa19a2a0a8": {
    "company": "Skydio",
@@ -271,6 +277,12 @@
    "title": "FPGA Design Intern - FPGA Design",
    "url": "https://careers.rivian.com/jobs/32954?icims=1"
   },
+  "5bf5d363b8e8f35b": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Test Engineer Intern - RF Load Pull",
+   "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors"
+  },
   "5cb8796ede69ae9e": {
    "company": "AMD",
    "first_seen": 1787640227,
@@ -336,6 +348,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineering Co-op",
    "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Hardware-Engineering-Fall-Co-Op_JR2559"
+  },
+  "6c2713a0884d0979": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Electrical Engineer Intern - Physical Verification",
+   "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors"
   },
   "6dcb788a4c51b918": {
    "company": "DRW",
@@ -486,6 +504,12 @@
    "first_seen": 1787640227,
    "title": "ASIC Package Engineering Intern Co-op",
    "url": "https://careers.amd.com/jobs/91466?icims=1"
+  },
+  "99c8d7374017c57d": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Research Engineer Intern - High Performance Analog",
+   "url": "https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors"
   },
   "9a9e9cc38bdfc0c5": {
    "company": "Texas Instruments",
@@ -751,11 +775,23 @@
    "title": "Digital Design Engineer Intern",
    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"
   },
+  "dae2ea3c7a35b94b": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Analog Design Intern",
+   "url": "https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors"
+  },
   "dc251d8d3c5306fc": {
    "company": "IMC Trading",
    "first_seen": 1786988749,
    "title": "Hardware Engineer Intern",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"
+  },
+  "e0c674b19886429d": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Analog Design Engineer Intern - High Performance Analog - Advanced Cellular",
+   "url": "https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors"
   },
   "e0d6f129c9e7d8df": {
    "company": "Apple",
@@ -792,6 +828,12 @@
    "first_seen": 1786988749,
    "title": "Hardware PhD Intern",
    "url": "https://jobs.apple.com/en-us/details/200664421"
+  },
+  "ed4b521e86b79078": {
+   "company": "Qorvo",
+   "first_seen": 1788158465,
+   "title": "Analog Design Engineer Intern",
+   "url": "https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors"
   },
   "edc406d3155f9cdb": {
    "company": "Rocket Lab",
@@ -884,6 +926,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1788137130,
- "runs": 334
+ "last_run": 1788158465,
+ "runs": 335
 }
