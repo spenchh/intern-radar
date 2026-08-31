@@ -1,5 +1,5 @@
 {
- "count": 155,
+ "count": 157,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -103,6 +103,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application"
   },
+  "1e369fe21f1d1ec1": {
+   "company": "Draper",
+   "first_seen": 1788220763,
+   "title": "Optics-Physics Sensor Engineering Co-op - Spring 2027",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884"
+  },
   "206e319e540688dd": {
    "company": "Tesla",
    "first_seen": 1786988749,
@@ -114,6 +120,12 @@
    "first_seen": 1786988749,
    "title": "Product Engineering Intern - Simulation and Verification",
    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475"
+  },
+  "21bfc8f637c8e007": {
+   "company": "Hudson River Trading",
+   "first_seen": 1788220763,
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574"
   },
   "21e705aeae65bd01": {
    "company": "Analog Devices",
@@ -932,6 +944,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1788207429,
- "runs": 337
+ "last_run": 1788220763,
+ "runs": 338
 }

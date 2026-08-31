@@ -1,7 +1,29 @@
 {
- "generated_at": 1788207429,
- "count": 127,
+ "generated_at": 1788220763,
+ "count": 129,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Hudson River Trading",
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
+   "locations": [
+    "NYC"
+   ],
+   "posted_at": 1788215379,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788220763,
+   "uid": "21bfc8f637c8e007"
+  },
   {
    "source": "Simplify",
    "company": "Qorvo",
@@ -174,6 +196,27 @@
    ],
    "first_seen": 1788158465,
    "uid": "236a282da964e7ff"
+  },
+  {
+   "source": "Simplify",
+   "company": "Draper",
+   "title": "Optics-Physics Sensor Engineering Co-op - Spring 2027",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1788134400,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1788220763,
+   "uid": "1e369fe21f1d1ec1"
   },
   {
    "source": "Simplify",
