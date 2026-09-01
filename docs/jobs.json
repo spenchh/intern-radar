@@ -1,7 +1,28 @@
 {
- "generated_at": 1788238438,
- "count": 133,
+ "generated_at": 1788255923,
+ "count": 131,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "K2 Space",
+   "title": "Radio Frequency Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
+   "locations": [
+    "LA"
+   ],
+   "posted_at": 1788242690,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": 1788255923,
+   "uid": "dd091cea5733d02a"
+  },
   {
    "source": "Lever",
    "company": "Shield AI",
@@ -608,27 +629,6 @@
    "uid": "89a3d384d07dea86"
   },
   {
-   "source": "Simplify",
-   "company": "Microchip Technology",
-   "title": "Verification Intern - Verification",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "posted_at": 1787702400,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1787782127,
-   "uid": "ccd10d2a8f8c96b7"
-  },
-  {
    "source": "Greenhouse",
    "company": "Kodiak Robotics",
    "title": "Winter 2027 Intern, Electrical Engineering",
@@ -787,29 +787,6 @@
    ],
    "first_seen": 1787606858,
    "uid": "1741b4843afb4463"
-  },
-  {
-   "source": "Simplify",
-   "company": "The Walt Disney Company",
-   "title": "Show Control Hardware Intern",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Control-Hardware-Intern--Glendale--Spring-2027_10158467",
-   "locations": [
-    "Orlando, FL",
-    "Celebration, FL",
-    "Glendale, CA"
-   ],
-   "posted_at": 1787529600,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1787582435,
-   "uid": "02ba1b1ddf58b46e"
   },
   {
    "source": "Simplify",
@@ -2670,27 +2647,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4e1fcc9d8acdb340"
-  },
-  {
-   "source": "Simplify",
-   "company": "Advanced Energy",
-   "title": "Electronics Service Intern",
-   "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
-   "locations": [
-    "Fort Collins, CO"
-   ],
-   "posted_at": 1778277851,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fc88eec2e1afa56f"
   },
   {
    "source": "Greenhouse",
