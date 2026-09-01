@@ -1,7 +1,90 @@
 {
- "generated_at": 1788220763,
- "count": 129,
+ "generated_at": 1788238438,
+ "count": 133,
  "jobs": [
+  {
+   "source": "Lever",
+   "company": "Shield AI",
+   "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
+   "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
+   "locations": [
+    "Dallas, Texas"
+   ],
+   "posted_at": 1788228589,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788238438,
+   "uid": "316edc94ef0af05b"
+  },
+  {
+   "source": "Lever",
+   "company": "Shield AI",
+   "title": "Summer 2027 - Electrical Engineering Intern",
+   "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
+   "locations": [
+    "Dallas, Texas"
+   ],
+   "posted_at": 1788228186,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788238438,
+   "uid": "c89fc38cdddfd937"
+  },
+  {
+   "source": "Simplify",
+   "company": "onsemi",
+   "title": "Image Sensor Development Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475",
+   "locations": [
+    "Hopewell Junction, NY"
+   ],
+   "posted_at": 1788224686,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1788238438,
+   "uid": "343b23c11ad03785"
+  },
+  {
+   "source": "Simplify",
+   "company": "Aerotech",
+   "title": "Electrical/Computer Engineering Intern Co-op",
+   "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "posted_at": 1788218949,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineering (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1788238438,
+   "uid": "9dd0c83018f21629"
+  },
   {
    "source": "Simplify",
    "company": "Hudson River Trading",

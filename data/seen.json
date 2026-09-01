@@ -1,5 +1,5 @@
 {
- "count": 157,
+ "count": 161,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -199,11 +199,23 @@
    "title": "Ph.D. Research Hardware Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855"
   },
+  "316edc94ef0af05b": {
+   "company": "Shield AI",
+   "first_seen": 1788238438,
+   "title": "Summer 2027 - Electrical Engineering Co-op (June 2027)",
+   "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6"
+  },
   "31d6e4d14a079d92": {
    "company": "Astera Labs",
    "first_seen": 1786988749,
    "title": "Analog Mixed-Signal Layout Intern",
    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4721054005"
+  },
+  "343b23c11ad03785": {
+   "company": "onsemi",
+   "first_seen": 1788238438,
+   "title": "Image Sensor Development Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475"
   },
   "3675cf3fec65ee87": {
    "company": "Ambarella",
@@ -559,6 +571,12 @@
    "title": "Hardware Reliability Intern",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006"
   },
+  "9dd0c83018f21629": {
+   "company": "Aerotech",
+   "first_seen": 1788238438,
+   "title": "Electrical/Computer Engineering Intern Co-op",
+   "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027"
+  },
   "a11de461298f82e4": {
    "company": "Bio-Techne",
    "first_seen": 1786988749,
@@ -696,6 +714,12 @@
    "first_seen": 1787800689,
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
+  },
+  "c89fc38cdddfd937": {
+   "company": "Shield AI",
+   "first_seen": 1788238438,
+   "title": "Summer 2027 - Electrical Engineering Intern",
+   "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7"
   },
   "c8a4d38df7f3296c": {
    "company": "NVIDIA",
@@ -944,6 +968,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1788220763,
- "runs": 338
+ "last_run": 1788238438,
+ "runs": 339
 }
