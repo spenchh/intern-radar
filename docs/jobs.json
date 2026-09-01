@@ -1,7 +1,125 @@
 {
- "generated_at": 1788255923,
- "count": 131,
+ "generated_at": 1788273115,
+ "count": 135,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90379?icims=1",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1788256551,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "design verification (+3)",
+    "hardware design (+3)",
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "dddb14976b69f9d4"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91360?icims=1",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1788256547,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "f326037e59045eed"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Engineer Intern/Co-op - Long Term",
+   "url": "https://careers.amd.com/jobs/90367?icims=1",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1788256547,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "fe5a695bda0685d7"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90372?icims=1",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1788256546,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "013361da3ae2bd8b"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91362?icims=1",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1788256545,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "design verification (+3)",
+    "hardware design (+3)",
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "acb5ecc1179944d8"
+  },
   {
    "source": "Simplify",
    "company": "K2 Space",
@@ -2794,27 +2912,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "7be2ac4d8c47c28d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Nightwing Intelligence Solutions",
-   "title": "Radio Frequency Engineering Intern",
-   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
-   "locations": [
-    "Dulles, VA"
-   ],
-   "posted_at": 1773295748,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "radio frequency (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "0eb758864eb1b7ed"
   },
   {
    "source": "Simplify",

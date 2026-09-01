@@ -1,11 +1,17 @@
 {
- "count": 162,
+ "count": 167,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
    "title": "Avionics Intern - Neutron Avionics Hardware",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819743003"
+  },
+  "013361da3ae2bd8b": {
+   "company": "AMD",
+   "first_seen": 1788273115,
+   "title": "Hardware Design Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90372?icims=1"
   },
   "02ba1b1ddf58b46e": {
    "company": "The Walt Disney Company",
@@ -625,6 +631,12 @@
    "title": "CMOS Co-op",
    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1"
   },
+  "acb5ecc1179944d8": {
+   "company": "AMD",
+   "first_seen": 1788273115,
+   "title": "Hardware Design Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91362?icims=1"
+  },
   "ae37a62277b15e10": {
    "company": "HPR (Hyannis Port Research)",
    "first_seen": 1786988749,
@@ -835,6 +847,12 @@
    "title": "Radio Frequency Engineer Intern - Summer 2027",
    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008"
   },
+  "dddb14976b69f9d4": {
+   "company": "AMD",
+   "first_seen": 1788273115,
+   "title": "Hardware Design Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90379?icims=1"
+  },
   "e0c674b19886429d": {
    "company": "Qorvo",
    "first_seen": 1788158465,
@@ -907,6 +925,12 @@
    "title": "Spaceflight Hardware Intern",
    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096"
   },
+  "f326037e59045eed": {
+   "company": "AMD",
+   "first_seen": 1788273115,
+   "title": "Hardware Design Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91360?icims=1"
+  },
   "f3e029b186eb9899": {
    "company": "Apple",
    "first_seen": 1786988749,
@@ -961,6 +985,12 @@
    "title": "Digital Logic + Design Verification Co-op",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858"
   },
+  "fe5a695bda0685d7": {
+   "company": "AMD",
+   "first_seen": 1788273115,
+   "title": "Hardware Design Engineer Intern/Co-op - Long Term",
+   "url": "https://careers.amd.com/jobs/90367?icims=1"
+  },
   "fe81474000f029fd": {
    "company": "Marvell",
    "first_seen": 1786988749,
@@ -974,6 +1004,6 @@
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   }
  },
- "last_run": 1788255923,
- "runs": 340
+ "last_run": 1788273115,
+ "runs": 341
 }
