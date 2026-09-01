@@ -1,7 +1,30 @@
 {
- "generated_at": 1788273115,
- "count": 135,
+ "generated_at": 1788285480,
+ "count": 138,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Digital Hardware Engineer Intern - RF R&D",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009004",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788276852,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "rf (+2)"
+   ],
+   "first_seen": 1788285480,
+   "uid": "e6b753229054e651"
+  },
   {
    "source": "Simplify",
    "company": "AMD",
@@ -2118,6 +2141,28 @@
   },
   {
    "source": "Simplify",
+   "company": "GE Healthcare",
+   "title": "Engineering Development Program Intern - Hardware",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
+   "locations": [
+    "Twinsburg, OH",
+    "Waukesha, WI"
+   ],
+   "posted_at": 1784505600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788285480,
+   "uid": "ff395f210b21c945"
+  },
+  {
+   "source": "Simplify",
    "company": "DRW",
    "title": "FPGA Intern",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
@@ -2912,6 +2957,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "7be2ac4d8c47c28d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nightwing Intelligence Solutions",
+   "title": "Radio Frequency Engineering Intern",
+   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
+   "locations": [
+    "Dulles, VA"
+   ],
+   "posted_at": 1773295748,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "0eb758864eb1b7ed"
   },
   {
    "source": "Simplify",

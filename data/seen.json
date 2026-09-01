@@ -1,5 +1,5 @@
 {
- "count": 167,
+ "count": 169,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -883,6 +883,12 @@
    "title": "Manufacturing Engineering Intern- Spacecraft Components",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
   },
+  "e6b753229054e651": {
+   "company": "Emerson Electric",
+   "first_seen": 1788285480,
+   "title": "Digital Hardware Engineer Intern - RF R&D",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009004"
+  },
   "e940bb5d8b808246": {
    "company": "Tesla",
    "first_seen": 1787755378,
@@ -1002,8 +1008,14 @@
    "first_seen": 1786988749,
    "title": "Mixed Signal Engineer Intern",
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
+  },
+  "ff395f210b21c945": {
+   "company": "GE Healthcare",
+   "first_seen": 1788285480,
+   "title": "Engineering Development Program Intern - Hardware",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788273115,
- "runs": 341
+ "last_run": 1788285480,
+ "runs": 342
 }
