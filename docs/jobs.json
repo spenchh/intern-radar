@@ -1,6 +1,6 @@
 {
- "generated_at": 1788285480,
- "count": 138,
+ "generated_at": 1788295992,
+ "count": 137,
  "jobs": [
   {
    "source": "Simplify",
@@ -1671,28 +1671,6 @@
    ],
    "first_seen": 1787840819,
    "uid": "1a5ada00ab96bf5a"
-  },
-  {
-   "source": "Simplify",
-   "company": "HyperLight",
-   "title": "Integrated Photonics Intern",
-   "url": "https://apply.workable.com/hyperlight/j/498D9988C8/apply",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "posted_at": 1786151883,
-   "terms": [
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "photonics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "660cf2e009fdc5da"
   },
   {
    "source": "Simplify",
