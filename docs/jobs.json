@@ -1,6 +1,6 @@
 {
- "generated_at": 1788382996,
- "count": 144,
+ "generated_at": 1788391133,
+ "count": 143,
  "jobs": [
   {
    "source": "Simplify",
@@ -1786,27 +1786,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4607e7a16c78401d"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Computer-Aided Design Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1786665600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "bfdd7b0fc5f7bdf8"
   },
   {
    "source": "Simplify",
