@@ -1,7 +1,86 @@
 {
- "generated_at": 1788303697,
- "count": 137,
+ "generated_at": 1788310887,
+ "count": 142,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Formlabs",
+   "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
+   "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1788307136,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "bf12a1cdfd5cda22"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Formlabs",
+   "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
+   "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1788307122,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "3d336588850df591"
+  },
+  {
+   "source": "Ashby",
+   "company": "Skydio",
+   "title": "Electrical Engineer Intern - Fall 2026",
+   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+   "locations": [
+    "San Mateo, California, United States"
+   ],
+   "posted_at": 1788303941,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788303697,
+   "uid": "7cf9aacb8b734ed6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200680980",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "posted_at": 1788302614,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "ebb105c9c21db154"
+  },
   {
    "source": "Simplify",
    "company": "Emerson Electric",
@@ -224,6 +303,48 @@
    ],
    "first_seen": 1788238438,
    "uid": "343b23c11ad03785"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "Electrical Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1788220800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "dfa2897a3575e538"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Electrical & SDV Intern - Global Manufacturing",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
+   "locations": [
+    "Warren, MI"
+   ],
+   "posted_at": 1788220800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "aee2d9ea27c94d18"
   },
   {
    "source": "Simplify",
@@ -1717,14 +1838,14 @@
    "uid": "e3ce8c54b3ec6ee5"
   },
   {
-   "source": "Ashby",
+   "source": "Simplify",
    "company": "Skydio",
    "title": "Hardware Test & Reliability Intern",
-   "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+   "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924/application?embed=true",
    "locations": [
-    "San Mateo, California, United States"
+    "San Mateo, CA"
    ],
-   "posted_at": 1785889545,
+   "posted_at": 1785892611,
    "terms": [
     "Fall 2026"
    ],
@@ -1737,6 +1858,26 @@
    ],
    "first_seen": 1786988749,
    "uid": "6240864d09acafb4"
+  },
+  {
+   "source": "Ashby",
+   "company": "Skydio",
+   "title": "Hardware Test & Reliability Intern - Fall 2026/Winter 2027",
+   "url": "https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924",
+   "locations": [
+    "San Mateo, California, United States"
+   ],
+   "posted_at": 1785889545,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1788310887,
+   "uid": "183e08eb24ff1004"
   },
   {
    "source": "Greenhouse",
@@ -2013,25 +2154,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "292e2eaa3503b8aa"
-  },
-  {
-   "source": "Ashby",
-   "company": "Skydio",
-   "title": "Electrical Engineer Intern - Fall 2026",
-   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
-   "locations": [
-    "San Mateo, California, United States"
-   ],
-   "posted_at": 1785263736,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788303697,
-   "uid": "7cf9aacb8b734ed6"
   },
   {
    "source": "Greenhouse",
@@ -2808,25 +2930,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfe5440d3217397a"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Astranis",
-   "title": "Avionics Engineer Intern (Fall 2026)",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4597413006",
-   "locations": [
-    "San Francisco"
-   ],
-   "posted_at": 1777517704,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "avionics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "c33470f2b4652651"
   },
   {
    "source": "Simplify",
