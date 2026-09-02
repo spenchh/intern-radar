@@ -1,7 +1,51 @@
 {
- "generated_at": 1788310887,
- "count": 142,
+ "generated_at": 1788328178,
+ "count": 143,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Boston Scientific",
+   "title": "R&D Hardware Engineer Intern - Interns/Graduates",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483105",
+   "locations": [
+    "Arden Hills, MN"
+   ],
+   "posted_at": 1788319663,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788328178,
+   "uid": "180c6a1455d194e6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Verkada",
+   "title": "Hardware Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "posted_at": 1788312775,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788328178,
+   "uid": "6f37dbe0ec67d067"
+  },
   {
    "source": "Greenhouse",
    "company": "Formlabs",
@@ -30,8 +74,11 @@
     "Somerville, MA"
    ],
    "posted_at": 1788307122,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
    "category": "other",
    "score": 2,
    "reasons": [
@@ -1718,29 +1765,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4607e7a16c78401d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
-   "title": "Physical Design Engineer Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509",
-   "locations": [
-    "Santa Clara, CA",
-    "Folsom, CA",
-    "Phoenix, AZ"
-   ],
-   "posted_at": 1786665600,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "physical design (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "8e99a8fc3f4a4fba"
   },
   {
    "source": "Simplify",

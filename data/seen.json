@@ -1,5 +1,5 @@
 {
- "count": 176,
+ "count": 178,
  "jobs": {
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
@@ -90,6 +90,12 @@
    "first_seen": 1787606858,
    "title": "Hardware Design Co-op Intern - Firmware",
    "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false"
+  },
+  "180c6a1455d194e6": {
+   "company": "Boston Scientific",
+   "first_seen": 1788328178,
+   "title": "R&D Hardware Engineer Intern - Interns/Graduates",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813483105"
   },
   "183e08eb24ff1004": {
    "company": "Skydio",
@@ -408,6 +414,12 @@
    "first_seen": 1786988749,
    "title": "FPGA Engineer Intern",
    "url": "https://www.optiver.com/join-us/jobs/8402114002/?gh_jid=8402114002"
+  },
+  "6f37dbe0ec67d067": {
+   "company": "Verkada",
+   "first_seen": 1788328178,
+   "title": "Hardware Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007"
   },
   "6f7c3ec86032dd79": {
    "company": "Etched",
@@ -1058,6 +1070,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788310887,
- "runs": 345
+ "last_run": 1788328178,
+ "runs": 346
 }
