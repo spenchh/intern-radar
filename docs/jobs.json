@@ -1,7 +1,28 @@
 {
- "generated_at": 1788372407,
- "count": 143,
+ "generated_at": 1788382996,
+ "count": 144,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "MMIC Design Intern - Defense & Aerospace Products",
+   "url": "https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors",
+   "locations": [
+    "Denver, CO"
+   ],
+   "posted_at": 1788377047,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "aerospace (+2)"
+   ],
+   "first_seen": 1788382996,
+   "uid": "1210cd00f60c7815"
+  },
   {
    "source": "Simplify",
    "company": "Boston Scientific",
