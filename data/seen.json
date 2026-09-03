@@ -1,6 +1,12 @@
 {
- "count": 254,
+ "count": 279,
  "jobs": {
+  "00c7ce6bbe9a2b4d": {
+   "company": "Axon",
+   "first_seen": 1788460724,
+   "title": "2027 US Electrical Engineering Internship",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003"
+  },
   "00deb3e5e609a464": {
    "company": "AMD",
    "first_seen": 1788415817,
@@ -19,6 +25,12 @@
    "title": "Hardware Design Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90372?icims=1"
   },
+  "0213cf510fd5668d": {
+   "company": "Persona AI",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true"
+  },
   "02ba1b1ddf58b46e": {
    "company": "The Walt Disney Company",
    "first_seen": 1787582435,
@@ -30,6 +42,12 @@
    "first_seen": 1786988749,
    "title": "Embedded Systems and Hardware Co-Op",
    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2"
+  },
+  "03053a1deb2c041e": {
+   "company": "Specter Aerospace",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Co-op - Spring 2027",
+   "url": "https://specteraerospace.bamboohr.com/careers/115/"
   },
   "03539bab35bc5240": {
    "company": "L3Harris Technologies",
@@ -48,6 +66,12 @@
    "first_seen": 1786988749,
    "title": "Ground Systems Engineering Intern - Instrumentation & Control",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
+  },
+  "05a2a7d93c61804a": {
+   "company": "Tesla",
+   "first_seen": 1788460724,
+   "title": "Electronic Design Engineer Intern - Radio Frequency",
+   "url": "https://www.tesla.com/careers/search/job/279752"
   },
   "05a63ec861aaeb84": {
    "company": "Reflect Orbital",
@@ -187,6 +211,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"
   },
+  "2036483b14651070": {
+   "company": "Tesla",
+   "first_seen": 1788460724,
+   "title": "Electrical Design Engineer Intern - Vehicle Engineering",
+   "url": "https://www.tesla.com/careers/search/job/278630"
+  },
   "206e319e540688dd": {
    "company": "Tesla",
    "first_seen": 1786988749,
@@ -258,6 +288,12 @@
    "first_seen": 1786988749,
    "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
+  },
+  "2b041e649c2830bd": {
+   "company": "Vertiv",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern - Energy Storage",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271"
   },
   "2b38f57dffc28027": {
    "company": "NVIDIA",
@@ -385,6 +421,12 @@
    "title": "Electrical Engineer Intern - Summer Internship",
    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true"
   },
+  "44da715c504653ba": {
+   "company": "Luxium Solutions",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply"
+  },
   "4588cef968fab790": {
    "company": "Analog Devices",
    "first_seen": 1787277048,
@@ -414,6 +456,12 @@
    "first_seen": 1786988749,
    "title": "Campus FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=7974391"
+  },
+  "4d2c185b4b79892b": {
+   "company": "Nidec",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984"
   },
   "4d896cb7f775088a": {
    "company": "ByteDance",
@@ -571,6 +619,12 @@
    "title": "Hardware Developer Engineer Co-op/Intern",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231"
   },
+  "6afca8f55a376899": {
+   "company": "GlobalFoundries",
+   "first_seen": 1788460724,
+   "title": "Silicon Photonics Advanced Packaging Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270"
+  },
   "6b28ed5001b73dc7": {
    "company": "Zipline",
    "first_seen": 1787095247,
@@ -679,6 +733,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417"
   },
+  "783b284eea97e0cb": {
+   "company": "Vital Lyfe",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true"
+  },
   "7a99beaa6e5987a0": {
    "company": "Cadence Design Systems",
    "first_seen": 1787658222,
@@ -709,6 +769,12 @@
    "title": "Propulsion Test Engineering Intern - Fall 2026",
    "url": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805"
   },
+  "7e95de70458a26be": {
+   "company": "Teledyne",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563"
+  },
   "7f19dcf45a6f82b1": {
    "company": "Micron Technology",
    "first_seen": 1787604488,
@@ -720,6 +786,12 @@
    "first_seen": 1786988749,
    "title": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004"
+  },
+  "813f291cf79a7109": {
+   "company": "Contoro",
+   "first_seen": 1788460724,
+   "title": "Robotics Test & Validation Intern",
+   "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true"
   },
   "81ad817cf585bd62": {
    "company": "Qorvo",
@@ -763,6 +835,12 @@
    "title": "IC Layout Engineer Intern",
    "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors"
   },
+  "8966f38809b5c9c0": {
+   "company": "Susquehanna International Group",
+   "first_seen": 1788460724,
+   "title": "FPGA Engineer Intern",
+   "url": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false"
+  },
   "89a3d384d07dea86": {
    "company": "Ambarella",
    "first_seen": 1786988749,
@@ -786,6 +864,12 @@
    "first_seen": 1786988749,
    "title": "Physical Design Engineer Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509"
+  },
+  "8f2065fdd72b1134": {
+   "company": "Western Aircraft",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.lever.co/westair/51bc12ff-c76e-42e7-8e79-d7a095de8681/apply"
   },
   "8ff74add2cd04164": {
    "company": "Shure",
@@ -967,6 +1051,12 @@
    "title": "Hardware Design Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91362?icims=1"
   },
+  "adb8ba185dc1e245": {
+   "company": "Deft AI",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true"
+  },
   "ae37a62277b15e10": {
    "company": "HPR (Hyannis Port Research)",
    "first_seen": 1786988749,
@@ -1105,6 +1195,12 @@
    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"
   },
+  "c1c7eb1fd7565eb9": {
+   "company": "Emerson Electric",
+   "first_seen": 1788460724,
+   "title": "RF Engineering Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010160"
+  },
   "c24089f42ec56bab": {
    "company": "AMD",
    "first_seen": 1787640227,
@@ -1134,6 +1230,12 @@
    "first_seen": 1787800689,
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
+  },
+  "c7dcc15640629e2e": {
+   "company": "Odys Aviation",
+   "first_seen": 1788460724,
+   "title": "Robotics & Embedded Systems Intern",
+   "url": "https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true"
   },
   "c89fc38cdddfd937": {
    "company": "Shield AI",
@@ -1171,6 +1273,18 @@
    "title": "Post-Silicon Validation Engineering Intern - Characterization and Support",
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2"
   },
+  "cca13839f4042e84": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788460724,
+   "title": "Integration and Test Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Integration-and-Test-Engineer-FL-32905/1420320700/?ats=successfactors"
+  },
+  "ccbfb39e25d2d894": {
+   "company": "Techtronic Industries (TTI)",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Electrical-Engineer-Internship_R76027"
+  },
   "ccd10d2a8f8c96b7": {
    "company": "Microchip Technology",
    "first_seen": 1787782127,
@@ -1188,6 +1302,18 @@
    "first_seen": 1786988749,
    "title": "Electrical Engineering Internship - Summer 2027",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123657004"
+  },
+  "ce7fadb76eceb4b4": {
+   "company": "Eaton",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern - Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687237981433"
+  },
+  "cebfee905ae29c5b": {
+   "company": "Tacit",
+   "first_seen": 1788460724,
+   "title": "Antenna Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true"
   },
   "d1880a596a590886": {
    "company": "RTX",
@@ -1309,6 +1435,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-DTCO---PPA-Assessment-Engineer_JR109582"
   },
+  "dfe41e3c37717cee": {
+   "company": "Hendrick Motorsports",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Electrical-Engineering-Intern_R-82621-1"
+  },
   "e0c674b19886429d": {
    "company": "Qorvo",
    "first_seen": 1788158465,
@@ -1345,11 +1477,29 @@
    "title": "Manufacturing Engineering Intern- Spacecraft Components",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"
   },
+  "e674b56490884e6c": {
+   "company": "WindBorne Systems",
+   "first_seen": 1788460724,
+   "title": "Embedded Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application?embed=true"
+  },
   "e6b753229054e651": {
    "company": "Emerson Electric",
    "first_seen": 1788285480,
    "title": "Digital Hardware Engineer Intern - RF R&D",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009004"
+  },
+  "e6f8c7b2b8668d28": {
+   "company": "Foundation ",
+   "first_seen": 1788460724,
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307"
+  },
+  "e824d36d829db18a": {
+   "company": "Heron Power",
+   "first_seen": 1788460724,
+   "title": "Power Electronics Controls Engineer Intern",
+   "url": "http://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862/application?embed=true"
   },
   "e931b9b9852fae3c": {
    "company": "Illinois Tool Works",
@@ -1526,6 +1676,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788447714,
- "runs": 355
+ "last_run": 1788460724,
+ "runs": 356
 }
