@@ -1,6 +1,6 @@
 {
- "generated_at": 1788460724,
- "count": 239,
+ "generated_at": 1788470444,
+ "count": 236,
  "jobs": [
   {
    "source": "Simplify",
@@ -3715,6 +3715,27 @@
    "uid": "0213cf510fd5668d"
   },
   {
+   "source": "Simplify",
+   "company": "Formlabs",
+   "title": "Hardware R&D Engineer Intern",
+   "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1785448989,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "4fdf1239d37aada3"
+  },
+  {
    "source": "Greenhouse",
    "company": "Formlabs",
    "title": "Hardware R&D Engineering Intern (Fall 2026)",
@@ -3774,27 +3795,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "25836afa19a2a0a8"
-  },
-  {
-   "source": "Simplify",
-   "company": "Techtronic Industries (TTI)",
-   "title": "Electrical Engineer Intern",
-   "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Electrical-Engineer-Internship_R76027",
-   "locations": [
-    "Anderson, SC"
-   ],
-   "posted_at": 1784851200,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "ccbfb39e25d2d894"
   },
   {
    "source": "Greenhouse",
@@ -3882,28 +3882,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Deft AI",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true",
-   "locations": [
-    "SF"
-   ],
-   "posted_at": 1784596445,
-   "terms": [
-    "Spring 2026",
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "adb8ba185dc1e245"
-  },
-  {
-   "source": "Simplify",
    "company": "GE Healthcare",
    "title": "Engineering Development Program Intern - Hardware",
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
@@ -3947,24 +3925,24 @@
   },
   {
    "source": "Simplify",
-   "company": "Tacit",
-   "title": "Antenna Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true",
+   "company": "Western Digital",
+   "title": "Fall 2026 PhD Intern - Hardware Development Engineering",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379",
    "locations": [
-    "SF"
+    "Fremont, CA"
    ],
-   "posted_at": 1784124692,
+   "posted_at": 1784239496,
    "terms": [
     "Fall 2026"
    ],
    "sponsorship": "Other",
-   "category": "electrical",
+   "category": "other",
    "score": 2,
    "reasons": [
-    "antenna (+2)"
+    "hardware (+2)"
    ],
-   "first_seen": 1788460724,
-   "uid": "cebfee905ae29c5b"
+   "first_seen": 1788470444,
+   "uid": "f67932f1dd373171"
   },
   {
    "source": "Simplify",
@@ -3986,6 +3964,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "6dcb788a4c51b918"
+  },
+  {
+   "source": "Simplify",
+   "company": "Akuna Capital University",
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted_at": 1783980581,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788470444,
+   "uid": "54887ff8a7fb8fc4"
   },
   {
    "source": "Simplify",
@@ -4054,49 +4054,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Heron Power",
-   "title": "Power Electronics Controls Engineer Intern",
-   "url": "http://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862/application?embed=true",
-   "locations": [
-    "Scotts Valley, CA"
-   ],
-   "posted_at": 1783721496,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electronics (+2)",
-    "power electronics (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "e824d36d829db18a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Vital Lyfe",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true",
-   "locations": [
-    "Torrance, CA"
-   ],
-   "posted_at": 1783635116,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "783b284eea97e0cb"
-  },
-  {
-   "source": "Simplify",
    "company": "Jump Trading",
    "title": "FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=8003013",
@@ -4162,27 +4119,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Nidec",
-   "title": "Electrical Engineer Intern",
-   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984",
-   "locations": [
-    "Jackson, TN"
-   ],
-   "posted_at": 1783167564,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "4d2c185b4b79892b"
-  },
-  {
-   "source": "Simplify",
    "company": "Marvell",
    "title": "Design/DSP/Verification Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786",
@@ -4199,7 +4135,7 @@
    "reasons": [
     "verification (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "0db9e08857d0b3e1"
   },
   {
@@ -4221,7 +4157,7 @@
     "analog design (+3)",
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "1ab3b35ae4c564fb"
   },
   {
@@ -4242,7 +4178,7 @@
    "reasons": [
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "4724c770fbd82fd7"
   },
   {
@@ -4285,7 +4221,7 @@
     "silicon (+3)",
     "photonics (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "070cff7ee7d47a60"
   },
   {
@@ -4329,7 +4265,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "23e3151d7fc554d0"
   },
   {
@@ -4350,7 +4286,7 @@
    "reasons": [
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "a6b0063349a7d903"
   },
   {
@@ -4456,7 +4392,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "2d62171681f35895"
   },
   {
@@ -4498,7 +4434,7 @@
    "reasons": [
     "aerospace (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "d07a6ac762afcf90"
   },
   {
@@ -4542,7 +4478,7 @@
    "reasons": [
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "f4e89cedcb1f2516"
   },
   {
@@ -4564,7 +4500,7 @@
     "silicon (+3)",
     "photonics (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "b883fe3a77a3fca8"
   },
   {
@@ -4593,7 +4529,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "b7a344cda399c3b3"
   },
   {
@@ -4615,7 +4551,7 @@
     "signal integrity (+2)",
     "power integrity (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "156ce4ef0ea0749b"
   },
   {
@@ -4686,6 +4622,30 @@
    ],
    "first_seen": 1786988749,
    "uid": "206e319e540688dd"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/272912",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1780794687,
+   "terms": [
+    "Summer 2026",
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788470444,
+   "uid": "5cc80bb222223370"
   },
   {
    "source": "Simplify",
@@ -4819,27 +4779,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Apple",
-   "title": "Hardware PhD Intern",
-   "url": "https://jobs.apple.com/en-us/details/200664421",
-   "locations": [
-    "United States"
-   ],
-   "posted_at": 1779430054,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "ec8e4d7bc405e376"
-  },
-  {
-   "source": "Simplify",
    "company": "Base Power",
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application",
@@ -4965,7 +4904,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "d55a87fdff0b0846"
   },
   {
@@ -4987,7 +4926,7 @@
     "electronics (+2)",
     "power electronics (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "45d07abcbb38d899"
   },
   {
@@ -5028,7 +4967,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "26197ea6cb552635"
   },
   {
@@ -5071,7 +5010,7 @@
    "reasons": [
     "hardware (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "bdbefaaa5acd12aa"
   },
   {
@@ -5094,7 +5033,7 @@
     "electrical (+2)",
     "embedded (+1)"
    ],
-   "first_seen": null,
+   "first_seen": 1788470444,
    "uid": "a42982da1f5ca77b"
   },
   {

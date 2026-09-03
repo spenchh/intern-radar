@@ -1,5 +1,5 @@
 {
- "count": 279,
+ "count": 299,
  "jobs": {
   "00c7ce6bbe9a2b4d": {
    "company": "Axon",
@@ -91,6 +91,12 @@
    "title": "Characterization Engineering Intern - Advanced Cellular",
    "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1421980500/?ats=successfactors"
   },
+  "070cff7ee7d47a60": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Silicon Photonics Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1"
+  },
   "0bc935f1cc54a894": {
    "company": "SimIS",
    "first_seen": 1787355459,
@@ -102,6 +108,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376"
+  },
+  "0db9e08857d0b3e1": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Design/DSP/Verification Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786"
   },
   "0e4380fe57215aa7": {
    "company": "Nightwing Intelligence Solutions",
@@ -151,6 +163,12 @@
    "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
   },
+  "156ce4ef0ea0749b": {
+   "company": "Etched",
+   "first_seen": 1788470444,
+   "title": "Signal Integrity / Power Integrity Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true"
+  },
   "16e75909ae2aa9c7": {
    "company": "Etched",
    "first_seen": 1786988749,
@@ -186,6 +204,12 @@
    "first_seen": 1787840819,
    "title": "Electronics/Electrical Systems Engineer 1 Intern",
    "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292"
+  },
+  "1ab3b35ae4c564fb": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475"
   },
   "1b52c3c73b2b0957": {
    "company": "Cadence Design Systems",
@@ -265,11 +289,23 @@
    "title": "Characterization Engineering Intern",
    "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1424342800/?ats=successfactors"
   },
+  "23e3151d7fc554d0": {
+   "company": "Human Computer Lab",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true"
+  },
   "25836afa19a2a0a8": {
    "company": "Skydio",
    "first_seen": 1786988749,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee"
+  },
+  "26197ea6cb552635": {
+   "company": "Shield AI",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724/apply"
   },
   "2669eb8306d6acb6": {
    "company": "Apple",
@@ -306,6 +342,12 @@
    "first_seen": 1787095247,
    "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
+  },
+  "2d62171681f35895": {
+   "company": "Tesla",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/274258"
   },
   "2e4ec0cedf6b6e34": {
    "company": "Albedo",
@@ -439,11 +481,23 @@
    "title": "Electrical CAD Engineer Intern - High Performance Analog",
    "url": "https://careers.qorvo.com/job/Richardson-Electrical-CAD-Engineer-Intern-TX-75081/1421993600/?ats=successfactors"
   },
+  "45d07abcbb38d899": {
+   "company": "Astranis",
+   "first_seen": 1788470444,
+   "title": "Power Electronics Intern - Fall 2026",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006"
+  },
   "4607e7a16c78401d": {
    "company": "Epia Neuro",
    "first_seen": 1786988749,
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true"
+  },
+  "4724c770fbd82fd7": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Analog Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1"
   },
   "48d930393904206d": {
    "company": "L3Harris Technologies",
@@ -517,6 +571,12 @@
    "title": "Electrical Engineer Intern - Robotics and Surgery Engineering",
    "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003"
   },
+  "54887ff8a7fb8fc4": {
+   "company": "Akuna Capital University",
+   "first_seen": 1788470444,
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"
+  },
   "548d0f323f5780ce": {
    "company": "Advanced Energy",
    "first_seen": 1788447714,
@@ -546,6 +606,12 @@
    "first_seen": 1787640227,
    "title": "ASIC Package Engineering Co-op/Intern",
    "url": "https://careers.amd.com/jobs/91463?icims=1"
+  },
+  "5cc80bb222223370": {
+   "company": "Tesla",
+   "first_seen": 1788470444,
+   "title": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/272912"
   },
   "5e3a61453ebcea3a": {
    "company": "L3Harris Technologies",
@@ -985,6 +1051,12 @@
    "title": "Hardware Engineering Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1"
   },
+  "a42982da1f5ca77b": {
+   "company": "Neuralink",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer Intern - Implant Embedded Systems",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003"
+  },
   "a59483ae01234366": {
    "company": "V2X",
    "first_seen": 1788434053,
@@ -1002,6 +1074,12 @@
    "first_seen": 1786988749,
    "title": "Formal Verification Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"
+  },
+  "a6b0063349a7d903": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Analog Engineer Intern - PhD",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426"
   },
   "a6e9a3544a3cdcaa": {
    "company": "Intel",
@@ -1141,11 +1219,23 @@
    "title": "Electrical Engineering Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283"
   },
+  "b7a344cda399c3b3": {
+   "company": "Anduril",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007"
+  },
   "b831ffff66483b11": {
    "company": "Zipline",
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern - Electrical Engineering Team",
    "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003"
+  },
+  "b883fe3a77a3fca8": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469"
   },
   "ba040c27c111a74f": {
    "company": "Texas Instruments",
@@ -1170,6 +1260,12 @@
    "first_seen": 1788434053,
    "title": "Electronics Design Engineer Intern",
    "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004"
+  },
+  "bdbefaaa5acd12aa": {
+   "company": "Pennsylvania State University",
+   "first_seen": 1788470444,
+   "title": "Electronic Systems and Hardware Co-Op",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1"
   },
   "bf12a1cdfd5cda22": {
    "company": "Formlabs",
@@ -1315,6 +1411,12 @@
    "title": "Antenna Engineer Intern",
    "url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true"
   },
+  "d07a6ac762afcf90": {
+   "company": "Nidec",
+   "first_seen": 1788470444,
+   "title": "Aerospace Intern New Grad",
+   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414"
+  },
   "d1880a596a590886": {
    "company": "RTX",
    "first_seen": 1788415817,
@@ -1344,6 +1446,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Electrical-Engineering-Intern---Minneapolis--MN_R-16464"
+  },
+  "d55a87fdff0b0846": {
+   "company": "Stantec",
+   "first_seen": 1788470444,
+   "title": "Electrical Engineer in Training Intern - Water",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005781"
   },
   "d59b971b1ebfa868": {
    "company": "Micron Technology",
@@ -1591,6 +1699,18 @@
    "title": "Hardware Technologies Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200664383"
   },
+  "f4e89cedcb1f2516": {
+   "company": "Marvell",
+   "first_seen": 1788470444,
+   "title": "Analog Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1"
+  },
+  "f67932f1dd373171": {
+   "company": "Western Digital",
+   "first_seen": 1788470444,
+   "title": "Fall 2026 PhD Intern - Hardware Development Engineering",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138191379"
+  },
   "f77b2713b3710562": {
    "company": "AMD",
    "first_seen": 1787296034,
@@ -1676,6 +1796,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788460724,
- "runs": 356
+ "last_run": 1788470444,
+ "runs": 357
 }
