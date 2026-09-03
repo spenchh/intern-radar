@@ -1,6 +1,12 @@
 {
- "count": 179,
+ "count": 204,
  "jobs": {
+  "00deb3e5e609a464": {
+   "company": "AMD",
+   "first_seen": 1788415817,
+   "title": "Analog and Mixed Signal Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91369?icims=1"
+  },
   "00eec0db1477fef4": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
@@ -37,11 +43,23 @@
    "title": "Ground Systems Engineering Intern - Instrumentation & Control",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
   },
+  "05a63ec861aaeb84": {
+   "company": "Reflect Orbital",
+   "first_seen": 1788415817,
+   "title": "Embedded Firmware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b/application?embed=true"
+  },
   "05ef47b4dc2bbed4": {
    "company": "Ciena",
    "first_seen": 1787874763,
    "title": "Layout Design Intern - Fall 2026",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587"
+  },
+  "06f7a220ffac17a4": {
+   "company": "Qorvo",
+   "first_seen": 1788415817,
+   "title": "Characterization Engineering Intern - Advanced Cellular",
+   "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1421980500/?ats=successfactors"
   },
   "0bc935f1cc54a894": {
    "company": "SimIS",
@@ -84,6 +102,12 @@
    "first_seen": 1786988749,
    "title": "AI Hardware Design Engineer Intern - AI Hardware Design Engineer - AI Hardware",
    "url": "https://www.tesla.com/careers/search/job/272462"
+  },
+  "133c9ffef8691ec0": {
+   "company": "Intel",
+   "first_seen": 1788415817,
+   "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
   },
   "16e75909ae2aa9c7": {
    "company": "Etched",
@@ -132,6 +156,12 @@
    "first_seen": 1788220763,
    "title": "Optics-Physics Sensor Engineering Co-op - Spring 2027",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884"
+  },
+  "1f3b1dc9355a1846": {
+   "company": "Stryker",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"
   },
   "206e319e540688dd": {
    "company": "Tesla",
@@ -247,6 +277,12 @@
    "title": "DFT Engineer Intern",
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360"
   },
+  "3818a7416c272486": {
+   "company": "Johnson & Johnson",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736"
+  },
   "39a2b2bc2d5600c7": {
    "company": "Base Power",
    "first_seen": 1786988749,
@@ -259,11 +295,23 @@
    "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004"
   },
+  "3e0f8b53109c3dde": {
+   "company": "Qorvo",
+   "first_seen": 1788415817,
+   "title": "Test Characterization Engineer Intern - RF Characterization Engineering",
+   "url": "https://careers.qorvo.com/job/Richardson-Test-Characterization-Engineer-Intern-TX-75081/1424800700/?ats=successfactors"
+  },
   "3e72f46cc23d6d3e": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
    "title": "Avionics Intern - Neutron Avionics Systems",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819822003"
+  },
+  "402abd4de654b43e": {
+   "company": "Shure",
+   "first_seen": 1788415817,
+   "title": "FPGA Development Intern",
+   "url": "https://careersus-shure.icims.com/jobs/4985/job?mobile=true&needsRedirect=false"
   },
   "40a718a41efe0e09": {
    "company": "Jump Trading",
@@ -307,6 +355,12 @@
    "title": "Hardware Test Engineering Intern",
    "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application"
   },
+  "4edd301d3f633cd6": {
+   "company": "K2 Space",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008"
+  },
   "4fdf1239d37aada3": {
    "company": "Formlabs",
    "first_seen": 1786988749,
@@ -342,6 +396,12 @@
    "first_seen": 1787640227,
    "title": "ASIC Package Engineering Co-op/Intern",
    "url": "https://careers.amd.com/jobs/91463?icims=1"
+  },
+  "6007a9eeed4552ee": {
+   "company": "Geotab",
+   "first_seen": 1788415817,
+   "title": "Hardware Developer Intern",
+   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008"
   },
   "6042135dbdf80eaf": {
    "company": "Zipline",
@@ -475,6 +535,12 @@
    "title": "Winter 2027 Intern, Electrical Engineering",
    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009"
   },
+  "760b6e968c8c6979": {
+   "company": "Qorvo",
+   "first_seen": 1788415817,
+   "title": "Radio Frequency Integrated Circuit Design Intern - High Performance Analog",
+   "url": "https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704300/?ats=successfactors"
+  },
   "77f9f4ddd336fa4f": {
    "company": "Moog",
    "first_seen": 1787676910,
@@ -565,6 +631,18 @@
    "title": "Physical Design Engineer Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509"
   },
+  "8ff74add2cd04164": {
+   "company": "Shure",
+   "first_seen": 1788415817,
+   "title": "Automated Test Engineer Intern - Hardware",
+   "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false"
+  },
+  "929fa76f0b182589": {
+   "company": "Xcel Energy",
+   "first_seen": 1788415817,
+   "title": "Geospatial Data Validation Intern",
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2"
+  },
   "959e5dec326be3cb": {
    "company": "RTX",
    "first_seen": 1787174638,
@@ -607,6 +685,12 @@
    "title": "Digital Physical Design Intern - P&R",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673"
   },
+  "9d5a7fb3fc3758d0": {
+   "company": "Intel",
+   "first_seen": 1788415817,
+   "title": "Platform Hardware and Systems Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828"
+  },
   "9d9e1d8f5503b627": {
    "company": "Figure",
    "first_seen": 1786988749,
@@ -643,6 +727,12 @@
    "title": "Formal Verification Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"
   },
+  "a6e9a3544a3cdcaa": {
+   "company": "Intel",
+   "first_seen": 1788415817,
+   "title": "Silicon Hardware Engineering Intern - Graduate",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830"
+  },
   "a9ea6b3798dcf6a2": {
    "company": "Brunswick",
    "first_seen": 1787950754,
@@ -654,6 +744,12 @@
    "first_seen": 1786988749,
    "title": "Electrical Reliability Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006"
+  },
+  "ab10209617340161": {
+   "company": "Eaton",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern/Co-op - Research & Development Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687238596674"
   },
   "abb34759724e3246": {
    "company": "L3Harris Technologies",
@@ -684,6 +780,12 @@
    "first_seen": 1788310887,
    "title": "Electrical & SDV Intern - Global Manufacturing",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352"
+  },
+  "af5b6efe7a4328b5": {
+   "company": "Intel",
+   "first_seen": 1788415817,
+   "title": "Silicon Hardware Engineering Intern - Bachelor's",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829"
   },
   "b12420b6027b4548": {
    "company": "BorgWarner",
@@ -763,6 +865,12 @@
    "title": "Avionics Engineer Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597413006"
   },
+  "c4ed005d6cc27fc2": {
+   "company": "Shure",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern - Pro Audio Circuitry",
+   "url": "https://careersus-shure.icims.com/jobs/5017/job?mobile=true&needsRedirect=false"
+  },
   "c61b0e3859703fc5": {
    "company": "DRW",
    "first_seen": 1786988749,
@@ -793,6 +901,12 @@
    "title": "PCB Layout Engineer Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597409006"
   },
+  "caeb2c3c291b87a2": {
+   "company": "Textron",
+   "first_seen": 1788415817,
+   "title": "Integration Test Engineer Intern - Marine",
+   "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674"
+  },
   "cbc0aa48b2a8de3e": {
    "company": "Teledyne",
    "first_seen": 1786988749,
@@ -822,6 +936,12 @@
    "first_seen": 1786988749,
    "title": "Electrical Engineering Internship - Summer 2027",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123657004"
+  },
+  "d1880a596a590886": {
+   "company": "RTX",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034"
   },
   "d19b93f56a2ac49c": {
    "company": "Tesla",
@@ -877,6 +997,12 @@
    "title": "Digital Design Engineer Intern",
    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"
   },
+  "d9e10211d9c3e215": {
+   "company": "Emerson Electric",
+   "first_seen": 1788415817,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009762"
+  },
   "dae2ea3c7a35b94b": {
    "company": "Qorvo",
    "first_seen": 1788158465,
@@ -894,6 +1020,18 @@
    "first_seen": 1788255923,
    "title": "Radio Frequency Engineer Intern - Summer 2027",
    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008"
+  },
+  "dd4480570bb4e02f": {
+   "company": "North Atlantic Industries",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern - Test Systems",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450195"
+  },
+  "dd66a25e69d893e1": {
+   "company": "Freeform",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003"
   },
   "dddb14976b69f9d4": {
    "company": "AMD",
@@ -1027,6 +1165,12 @@
    "title": "Hardware Engineer Intern - FPGA",
    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657286002"
   },
+  "fa9a708eeac08ce1": {
+   "company": "Berkshire Grey",
+   "first_seen": 1788415817,
+   "title": "Hardware Quality Co-op - Verification & Validation",
+   "url": "https://berkshiregrey.bamboohr.com/careers/771/"
+  },
   "fb1fd9458d2aed34": {
    "company": "Heron Power",
    "first_seen": 1786988749,
@@ -1069,6 +1213,12 @@
    "title": "Mixed Signal Engineer Intern",
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Mixed-Signal-Engineer-Intern_JR100105"
   },
+  "feac30c33ea53f5b": {
+   "company": "RTX",
+   "first_seen": 1788415817,
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical-Engineer-Intern--Summer-2027-_01868065"
+  },
   "ff395f210b21c945": {
    "company": "GE Healthcare",
    "first_seen": 1788285480,
@@ -1076,6 +1226,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788398237,
- "runs": 352
+ "last_run": 1788415817,
+ "runs": 353
 }
