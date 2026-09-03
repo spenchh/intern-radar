@@ -1,5 +1,5 @@
 {
- "count": 229,
+ "count": 254,
  "jobs": {
   "00deb3e5e609a464": {
    "company": "AMD",
@@ -73,6 +73,12 @@
    "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
    "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"
   },
+  "0c7e2e9b8984cd57": {
+   "company": "IMEG",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376"
+  },
   "0e4380fe57215aa7": {
    "company": "Nightwing Intelligence Solutions",
    "first_seen": 1786988749,
@@ -84,6 +90,12 @@
    "first_seen": 1786988749,
    "title": "Radio Frequency Engineering Intern",
    "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095"
+  },
+  "0fa28657a0da63c8": {
+   "company": "EquipmentShare",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineering Intern",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8082027"
   },
   "10ebc4d2818416d5": {
    "company": "Cadence Design Systems",
@@ -259,6 +271,12 @@
    "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
   },
+  "2e4ec0cedf6b6e34": {
+   "company": "Albedo",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/albedo/jobs/4379497009"
+  },
   "2ea39def261bde20": {
    "company": "University of St. Thomas",
    "first_seen": 1787040895,
@@ -385,6 +403,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true"
   },
+  "48d930393904206d": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Electrical-Engineer-IN-46818/1420699700/?ats=successfactors"
+  },
   "4b7e7dc195658d88": {
    "company": "Jump Trading",
    "first_seen": 1786988749,
@@ -421,6 +445,12 @@
    "title": "Hardware R&D Engineer Intern",
    "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
   },
+  "5015ba9ef3622ea2": {
+   "company": "Zipline",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003"
+  },
   "51981e83400c95c4": {
    "company": "PsiQuantum",
    "first_seen": 1786988749,
@@ -433,11 +463,29 @@
    "title": "Hardware Engineer Intern - Multiple Teams",
    "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Students_IRC96147"
   },
+  "52e241878036afc3": {
+   "company": "Neuralink",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Robotics and Surgery Engineering",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003"
+  },
+  "548d0f323f5780ce": {
+   "company": "Advanced Energy",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Fall 2026",
+   "url": "https://jobs.advanced-energy.com/job/Wilmington-Intern-Electrical-Engineer-Fall-2026-MA-01887/1421100700/?ats=successfactors"
+  },
   "589ebb2279b5aa96": {
    "company": "Rivian",
    "first_seen": 1786988749,
    "title": "FPGA Design Intern - FPGA Design",
    "url": "https://careers.rivian.com/jobs/32954?icims=1"
+  },
+  "58fb2728cefa8368": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FL-32905/1420319900/?ats=successfactors"
   },
   "5bf5d363b8e8f35b": {
    "company": "Qorvo",
@@ -450,6 +498,12 @@
    "first_seen": 1787640227,
    "title": "ASIC Package Engineering Co-op/Intern",
    "url": "https://careers.amd.com/jobs/91463?icims=1"
+  },
+  "5e3a61453ebcea3a": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - FPGA",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FPGA-FL-32905/1420319100/?ats=successfactors"
   },
   "5e3af2e6d388181a": {
    "company": "Sensata",
@@ -492,6 +546,12 @@
    "first_seen": 1786988749,
    "title": "Integrated Photonics Intern",
    "url": "https://apply.workable.com/hyperlight/j/498D9988C8/apply"
+  },
+  "66d17dfc7eb188bc": {
+   "company": "MSA Safety",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://careers.msasafety.com/jobs/9930?icims=1"
   },
   "685aaeab80f7686b": {
    "company": "Astera Labs",
@@ -540,6 +600,12 @@
    "first_seen": 1786988749,
    "title": "FPGA Intern",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923"
+  },
+  "6e12aac1915b213b": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Greenville-Intern,-Electrical-Engineer-TX-75402/1420331600/?ats=successfactors"
   },
   "6eda1a40ba71843d": {
    "company": "Optiver",
@@ -679,6 +745,12 @@
    "title": "Hardware ASIC Design Intern - Hardware",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
   },
+  "864fbec1c25de8fb": {
+   "company": "IMEG",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Electrical-Engineering-Intern---Naperville--IL_R-16450"
+  },
   "868e7b052c12ff11": {
    "company": "Apple",
    "first_seen": 1788434053,
@@ -732,6 +804,12 @@
    "first_seen": 1787174638,
    "title": "Electrical Engineering Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281"
+  },
+  "96b08d35cbbb21a0": {
+   "company": "Humanscale",
+   "first_seen": 1788447714,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false"
   },
   "970e55dc48859bae": {
    "company": "AMD",
@@ -793,6 +871,12 @@
    "title": "Electrical/Computer Engineering Intern Co-op",
    "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027"
   },
+  "a071ed419210ad49": {
+   "company": "Hendrick Motorsports",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Unmanned Vehicles - UXVs",
+   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Electrical-Engineer---Unmanned-Vehicles--UXVs--1-year-internship_R-82724"
+  },
   "a11de461298f82e4": {
    "company": "Bio-Techne",
    "first_seen": 1786988749,
@@ -853,6 +937,12 @@
    "title": "Electrical Reliability Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006"
   },
+  "aaae40a540dbe756": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Spring 2027",
+   "url": "https://jobs.l3harris.com/job/Greenville-Electrical-Engineer-Intern-Spring-2027-TX-75402/1420329400/?ats=successfactors"
+  },
   "ab10209617340161": {
    "company": "Eaton",
    "first_seen": 1788415817,
@@ -895,6 +985,12 @@
    "title": "Silicon Hardware Engineering Intern - Bachelor's",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829"
   },
+  "af7ad05a43347daa": {
+   "company": "IMEG",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Education",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16364"
+  },
   "b12420b6027b4548": {
    "company": "BorgWarner",
    "first_seen": 1786988749,
@@ -918,6 +1014,12 @@
    "first_seen": 1788434053,
    "title": "Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern_01867089"
+  },
+  "b5e11af09cf64436": {
+   "company": "GE Aerospace",
+   "first_seen": 1788447714,
+   "title": "Systems Engineer Intern - Electrical Engineering & Computer Engineering/Science - Avionics",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1"
   },
   "b65979ef54a7e2e2": {
    "company": "Citadel Securities",
@@ -949,11 +1051,29 @@
    "title": "Electrical Engineering Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283"
   },
+  "b831ffff66483b11": {
+   "company": "Zipline",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern - Electrical Engineering Team",
+   "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003"
+  },
   "ba040c27c111a74f": {
    "company": "Texas Instruments",
    "first_seen": 1788434053,
    "title": "Analog IC Design Engineer Intern - Bachelors",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543"
+  },
+  "bb51fc9d678a08f5": {
+   "company": "Analog Devices",
+   "first_seen": 1788447714,
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297"
+  },
+  "bca64473c4b1d0c4": {
+   "company": "GE Aerospace",
+   "first_seen": 1788447714,
+   "title": "Systems Engineer Co-op - Electrical Engineering & Computer Engineering/Science - Avionics",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027_R5030141-1"
   },
   "bcfbedf7f43dc456": {
    "company": "Lunar Energy",
@@ -1093,6 +1213,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007"
   },
+  "d380addf985b8fab": {
+   "company": "IMEG",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Electrical-Engineering-Intern---Minneapolis--MN_R-16464"
+  },
   "d59b971b1ebfa868": {
    "company": "Micron Technology",
    "first_seen": 1787277048,
@@ -1146,6 +1272,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineer Intern",
    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101"
+  },
+  "dca2c08391553ed2": {
+   "company": "GE Appliances",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594"
   },
   "dd091cea5733d02a": {
    "company": "K2 Space",
@@ -1201,6 +1333,12 @@
    "title": "Radio Frequency Hardware Intern - Fall 2026",
    "url": "https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true"
   },
+  "e491ca8a2343a08c": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineering Intern - EGSE Design",
+   "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-C,-EGSE-Design-Engineer-IN-46818/1420698800/?ats=successfactors"
+  },
   "e5b92d05736c9702": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
@@ -1255,6 +1393,12 @@
    "title": "Avionics Intern - Neutron Flight Safety Systems",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819590003"
   },
+  "ee349c94a13e4d25": {
+   "company": "Garmin",
+   "first_seen": 1788447714,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers.garmin.com/jobs/19643?icims=1"
+  },
   "ef17823563781d34": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
@@ -1284,6 +1428,12 @@
    "first_seen": 1788273115,
    "title": "Hardware Design Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91360?icims=1"
+  },
+  "f3360729aadad48c": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1788447714,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Waco-Electrical-Engineer-Intern-TX-76705/1420328700/?ats=successfactors"
   },
   "f3e029b186eb9899": {
    "company": "Apple",
@@ -1376,6 +1526,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788434053,
- "runs": 354
+ "last_run": 1788447714,
+ "runs": 355
 }
