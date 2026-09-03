@@ -1,6 +1,6 @@
 {
- "generated_at": 1788415817,
- "count": 174,
+ "generated_at": 1788434053,
+ "count": 258,
  "jobs": [
   {
    "source": "Simplify",
@@ -23,6 +23,214 @@
    ],
    "first_seen": 1788415817,
    "uid": "05a63ec861aaeb84"
+  },
+  {
+   "source": "Simplify",
+   "company": "Lunar Energy",
+   "title": "Electronics Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1788403498,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "bcfbedf7f43dc456"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Digital IC Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788402957,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "ic design (+3)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "3fd75b9544a78656"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Design Verification Engineer Intern - MS/PhD",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1788402954,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "268ef7494f99277c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Design Verification Engineer Intern - Bachelors",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017545",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1788402953,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "998b9f8a3c0187cc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Analog IC Design Engineering Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Phoenix, AZ",
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788402949,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "ic design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "4ed536d271f49ce9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Analog IC Design Engineer Intern - Bachelors",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Phoenix, AZ",
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788402947,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "ic design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "ba040c27c111a74f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://jobs.apple.com/en-us/details/200681368",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "posted_at": 1788402277,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "868e7b052c12ff11"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "ASIC Verification Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91207?icims=1",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1788401829,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "7c1f1fe3c460c2fc"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Silicon Design Engineer Intern - Masters",
+   "url": "https://careers.amd.com/jobs/90743?icims=1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788401827,
+   "terms": [
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "6c59478b9164df91"
   },
   {
    "source": "Simplify",
@@ -246,34 +454,6 @@
   {
    "source": "Simplify",
    "company": "Intel",
-   "title": "Silicon Hardware Engineering Intern - Bachelor's",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
-   "locations": [
-    "Austin, TX",
-    "Santa Clara, CA",
-    "Hillsboro, OR",
-    "Folsom, CA",
-    "Phoenix, AZ"
-   ],
-   "posted_at": 1788307200,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "silicon (+3)",
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "af5b6efe7a4328b5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
    "title": "Silicon Hardware Engineering Intern - Graduate",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
    "locations": [
@@ -346,6 +526,27 @@
    ],
    "first_seen": 1788415817,
    "uid": "1f3b1dc9355a1846"
+  },
+  {
+   "source": "Simplify",
+   "company": "Sensata",
+   "title": "Electrical Engineer Intern",
+   "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Dynapower-South-Burlington-VT/Electrical-Engineer-Intern--Dynapower----Summer-2027_IRC98423",
+   "locations": [
+    "South Burlington, VT"
+   ],
+   "posted_at": 1788307200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "5e3af2e6d388181a"
   },
   {
    "source": "Greenhouse",
@@ -1085,7 +1286,7 @@
     "electrical (+2)",
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "45b1695f96ff174a"
   },
   {
@@ -1128,7 +1329,7 @@
    "reasons": [
     "analog (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "81ad817cf585bd62"
   },
   {
@@ -1214,7 +1415,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "a5b570d6609431a3"
   },
   {
@@ -1235,7 +1436,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "17059e370fe18160"
   },
   {
@@ -1277,7 +1478,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "a24810c400c06b1c"
   },
   {
@@ -1300,7 +1501,7 @@
     "electrical engineering (+2)",
     "sensor (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "2287381f166eeabe"
   },
   {
@@ -1322,7 +1523,7 @@
    "reasons": [
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "42088ac2bcfe32e6"
   },
   {
@@ -1367,7 +1568,7 @@
     "hardware (+2)",
     "electrical (+2)"
    ],
-   "first_seen": null,
+   "first_seen": 1788434053,
    "uid": "a59483ae01234366"
   },
   {
@@ -1414,6 +1615,28 @@
    ],
    "first_seen": 1788028141,
    "uid": "81d144e088e84470"
+  },
+  {
+   "source": "Simplify",
+   "company": "Fab2",
+   "title": "Electrical Engineer Intern - Winter",
+   "url": "https://jobs.ashbyhq.com/fab2/d6d07a47-9501-4928-b5b9-56191e2804fc/application?embed=true",
+   "locations": [
+    "SF",
+    "Austin, TX"
+   ],
+   "posted_at": 1787873166,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "2304ea14d0dd2b6d"
   },
   {
    "source": "Simplify",
@@ -1480,28 +1703,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Leidos",
-   "title": "Computer Engineering Co-op",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "posted_at": 1787788800,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineering (+3)"
-   ],
-   "first_seen": 1787874763,
-   "uid": "227dd68b02d4b6fe"
-  },
-  {
-   "source": "Simplify",
    "company": "Ciena",
    "title": "Layout Design Intern - Fall 2026",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587",
@@ -1520,6 +1721,27 @@
    ],
    "first_seen": 1787874763,
    "uid": "05ef47b4dc2bbed4"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Electrical-Engineer-MA-01060/1423783600/?ats=successfactors",
+   "locations": [
+    "Northampton, MA"
+   ],
+   "posted_at": 1787787589,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "03539bab35bc5240"
   },
   {
    "source": "Simplify",
@@ -1613,6 +1835,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Illinois Tool Works",
+   "title": "Electrical Engineer Intern",
+   "url": "https://careers.itw.com/global/en/job/JR9678",
+   "locations": [
+    "Appleton, WI"
+   ],
+   "posted_at": 1787704052,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "e931b9b9852fae3c"
+  },
+  {
+   "source": "Simplify",
    "company": "Ambarella",
    "title": "ASIC Design Engineer Intern",
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357",
@@ -1670,6 +1913,27 @@
    ],
    "first_seen": 1787694874,
    "uid": "b1ab7910928ac798"
+  },
+  {
+   "source": "Simplify",
+   "company": "Honeywell",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155540",
+   "locations": [
+    "United States"
+   ],
+   "posted_at": 1787691977,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "b65def6985e511e7"
   },
   {
    "source": "Simplify",
@@ -1771,6 +2035,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Brunswick",
+   "title": "Electrical Engineer Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Menomonee-Falls-WI/Electrical-Engineering-Intern_JR-051233",
+   "locations": [
+    "Menomonee Falls, WI"
+   ],
+   "posted_at": 1787616000,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "f0fcad4f7ff11e3f"
+  },
+  {
+   "source": "Simplify",
    "company": "Daktronics",
    "title": "Hardware Design Co-op Intern - Firmware",
    "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
@@ -1791,6 +2076,29 @@
    ],
    "first_seen": 1787606858,
    "uid": "1741b4843afb4463"
+  },
+  {
+   "source": "Simplify",
+   "company": "RoboForce",
+   "title": "Robotics Electrical Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/roboforce/jobs/5181214008",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "posted_at": 1787582868,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "ed754d925cd9eb87"
   },
   {
    "source": "Simplify",
@@ -1858,6 +2166,72 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern_01867089",
+   "locations": [
+    "Andover, MA",
+    "Marlborough, MA",
+    "Tewksbury, MA"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "b2dd42b07ab60a90"
+  },
+  {
+   "source": "Simplify",
+   "company": "E-Space",
+   "title": "Radio Frequency Product Development Lab Intern",
+   "url": "https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d/apply",
+   "locations": [
+    "Arlington, TX"
+   ],
+   "posted_at": 1787366007,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": null,
+   "uid": "c2c38daead146a23"
+  },
+  {
+   "source": "Simplify",
+   "company": "Arizona Public Service",
+   "title": "Engineering Intern - Electrical/Computer Engineer",
+   "url": "https://careers.aps.com/job/TONOPAH-Palo-Verde-Engineering-Summer-Internship-(ElectricalComputer-Engineer)-AZ-85354/1422192700/?ats=successfactors",
+   "locations": [
+    "Tonopah, AZ"
+   ],
+   "posted_at": 1787365904,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineer (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "137a5b66a05fe950"
+  },
+  {
+   "source": "Simplify",
    "company": "SimIS",
    "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
    "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern",
@@ -1878,6 +2252,49 @@
    "uid": "0bc935f1cc54a894"
   },
   {
+   "source": "Simplify",
+   "company": "Neuralink",
+   "title": "Electrical Engineer Intern - Robotics and Surgery Engineering",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787351562,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": null,
+   "uid": "52e241878036afc3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Albedo",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/albedo/jobs/4379497009",
+   "locations": [
+    "Broomfield, CO"
+   ],
+   "posted_at": 1787351426,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "2e4ec0cedf6b6e34"
+  },
+  {
    "source": "Greenhouse",
    "company": "Formlabs",
    "title": "Electrical Engineering Intern (Winter/Spring 2027)",
@@ -1886,8 +2303,11 @@
     "Somerville, MA"
    ],
    "posted_at": 1787342112,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
    "category": "electrical",
    "score": 4,
    "reasons": [
@@ -2073,24 +2493,132 @@
   },
   {
    "source": "Simplify",
-   "company": "Brunswick",
-   "title": "Engineering Validation Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
    "locations": [
-    "Tulsa, OK"
+    "Wilmington, MA",
+    "Durham, NC"
    ],
    "posted_at": 1787270400,
    "terms": [
-    "Summer 2026"
+    "Fall 2026"
    ],
    "sponsorship": "Other",
-   "category": "other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": null,
+   "uid": "bb51fc9d678a08f5"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Chicago-IL/Electrical-Engineering-Intern---Chicago--IL_R-16476",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "posted_at": 1787270400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
    "score": 2,
    "reasons": [
-    "validation (+2)"
+    "electrical (+2)"
    ],
-   "first_seen": 1787950754,
-   "uid": "a9ea6b3798dcf6a2"
+   "first_seen": null,
+   "uid": "48e1372c854ca10d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Framatome",
+   "title": "Electrical Engineer Intern Co-op - Technical",
+   "url": "https://careers-framatome.icims.com/jobs/3290/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Richland, WA"
+   ],
+   "posted_at": 1787263464,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "a224ee9c3b2b50e2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Framatome",
+   "title": "Electrical Engineer Intern Co-op - Technical",
+   "url": "https://careers-framatome.icims.com/jobs/3289/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Lynchburg, VA"
+   ],
+   "posted_at": 1787263464,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "8ec41a144ea729d2"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-C,-Electrical-Engineer-IN-46818/1421461500/?ats=successfactors",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "posted_at": 1787237894,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "48d930393904206d"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Matter",
+   "title": "Electrical Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376052008",
+   "locations": [
+    "LA"
+   ],
+   "posted_at": 1787187863,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "61147c576f59db29"
   },
   {
    "source": "Simplify",
@@ -2177,6 +2705,91 @@
    ],
    "first_seen": 1787179851,
    "uid": "6042135dbdf80eaf"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787177829,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "5015ba9ef3622ea2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zipline",
+   "title": "Electrical Engineer Intern - Electrical Engineering Team",
+   "url": "https://www.zipline.com/open-roles/7903708003?gh_jid=7903708003",
+   "locations": [
+    "South SF"
+   ],
+   "posted_at": 1787177825,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "b831ffff66483b11"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Electrical-Engineer-FL-32905/1421246800/?ats=successfactors",
+   "locations": [
+    "Palm Bay, FL"
+   ],
+   "posted_at": 1787177643,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "58fb2728cefa8368"
+  },
+  {
+   "source": "Simplify",
+   "company": "Humanscale",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "NYC"
+   ],
+   "posted_at": 1787145929,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "96b08d35cbbb21a0"
   },
   {
    "source": "Simplify",
@@ -2314,9 +2927,72 @@
   },
   {
    "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Germantown-MD/Electrical-Engineering-Intern---Germantown--MD_R-16437",
+   "locations": [
+    "Germantown, MD"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "80159ffe5561fcd3"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Electrical-Engineering-Intern---Greenwood-Village--CO_R-16556",
+   "locations": [
+    "Denver, CO"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "1eb7ad3836aa8530"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Electrical-Engineering-Intern--Naperville--IL_R-16470",
+   "locations": [
+    "Naperville, IL"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "864fbec1c25de8fb"
+  },
+  {
+   "source": "Simplify",
    "company": "NVIDIA",
-   "title": "Mixed Signal Design Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
+   "title": "Digital Circuit Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
    "locations": [
     "Santa Clara, CA"
    ],
@@ -2325,13 +3001,13 @@
     "Summer 2027"
    ],
    "sponsorship": "Other",
-   "category": "silicon",
+   "category": "electrical",
    "score": 3,
    "reasons": [
-    "mixed signal (+3)"
+    "circuit design (+3)"
    ],
-   "first_seen": 1787135234,
-   "uid": "9b36906ad559d1c3"
+   "first_seen": null,
+   "uid": "88921a6e2b89a29c"
   },
   {
    "source": "Simplify",
@@ -2379,6 +3055,91 @@
   },
   {
    "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineering Intern - EGSE Design",
+   "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-C,-EGSE-Design-Engineer-IN-46818/1420698800/?ats=successfactors",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "posted_at": 1787091612,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "e491ca8a2343a08c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Garmin",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers.garmin.com/jobs/19643?icims=1",
+   "locations": [
+    "Olathe, KS"
+   ],
+   "posted_at": 1787091574,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "ee349c94a13e4d25"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern - Spring 2027",
+   "url": "https://jobs.l3harris.com/job/Greenville-Electrical-Engineer-Intern-Spring-2027-TX-75402/1420329400/?ats=successfactors",
+   "locations": [
+    "Greenville, TX"
+   ],
+   "posted_at": 1787041248,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "aaae40a540dbe756"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Greenville-Intern,-Electrical-Engineer-TX-75402/1420331600/?ats=successfactors",
+   "locations": [
+    "Greenville, TX"
+   ],
+   "posted_at": 1787041246,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "6e12aac1915b213b"
+  },
+  {
+   "source": "Simplify",
    "company": "University of St. Thomas",
    "title": "Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub",
    "url": "https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false",
@@ -2397,6 +3158,112 @@
    ],
    "first_seen": 1787040895,
    "uid": "2ea39def261bde20"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hendrick Motorsports",
+   "title": "Electrical Engineer Intern - Unmanned Vehicles - UXVs",
+   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Electrical-Engineer---Unmanned-Vehicles--UXVs--1-year-internship_R-82724",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "posted_at": 1787011200,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "a071ed419210ad49"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376",
+   "locations": [
+    "Rock Island, IL"
+   ],
+   "posted_at": 1787011200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "0c7e2e9b8984cd57"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern - Education",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16364",
+   "locations": [
+    "Rock Island, IL"
+   ],
+   "posted_at": 1787011200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "af7ad05a43347daa"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern - FPGA",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FPGA-FL-32905/1420319100/?ats=successfactors",
+   "locations": [
+    "Palm Bay, FL"
+   ],
+   "posted_at": 1787006764,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "5e3a61453ebcea3a"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Waco-Electrical-Engineer-Intern-TX-76705/1420328700/?ats=successfactors",
+   "locations": [
+    "Waco, TX"
+   ],
+   "posted_at": 1787006763,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "f3360729aadad48c"
   },
   {
    "source": "Greenhouse",
@@ -2441,6 +3308,98 @@
   },
   {
    "source": "Simplify",
+   "company": "Brunswick",
+   "title": "Electrical Engineer Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Edgewater-FL/Electrical-Engineer-Intern_JR-050891",
+   "locations": [
+    "Edgewater, FL"
+   ],
+   "posted_at": 1786924800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "a8951b8419f43e7d"
+  },
+  {
+   "source": "Simplify",
+   "company": "GE Aerospace",
+   "title": "Systems Engineer Co-op - Electrical Engineering & Computer Engineering/Science - Avionics",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027_R5030141-1",
+   "locations": [
+    "Grand Rapids, MI",
+    "Clearwater, FL"
+   ],
+   "posted_at": 1786924800,
+   "terms": [
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 9,
+   "reasons": [
+    "computer engineering (+3)",
+    "electrical (+2)",
+    "electrical engineering (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": null,
+   "uid": "bca64473c4b1d0c4"
+  },
+  {
+   "source": "Simplify",
+   "company": "GE Aerospace",
+   "title": "Systems Engineer Intern - Electrical Engineering & Computer Engineering/Science - Avionics",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1",
+   "locations": [
+    "Grand Rapids, MI",
+    "Clearwater, FL"
+   ],
+   "posted_at": 1786924800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 9,
+   "reasons": [
+    "computer engineering (+3)",
+    "electrical (+2)",
+    "electrical engineering (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": null,
+   "uid": "b5e11af09cf64436"
+  },
+  {
+   "source": "Simplify",
+   "company": "IMEG",
+   "title": "Electrical Engineer Intern",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Electrical-Engineering-Intern---Minneapolis--MN_R-16464",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1786924800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "d380addf985b8fab"
+  },
+  {
+   "source": "Simplify",
    "company": "Epia Neuro",
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true",
@@ -2460,6 +3419,245 @@
    ],
    "first_seen": 1786988749,
    "uid": "4607e7a16c78401d"
+  },
+  {
+   "source": "Simplify",
+   "company": "MSA Safety",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://careers.msasafety.com/jobs/9930?icims=1",
+   "locations": [
+    "Cranberry Township, PA"
+   ],
+   "posted_at": 1786680163,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "66d17dfc7eb188bc"
+  },
+  {
+   "source": "Simplify",
+   "company": "EquipmentShare",
+   "title": "Electrical Engineering Intern",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8082027",
+   "locations": [
+    "Columbia, MO"
+   ],
+   "posted_at": 1786679920,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "0fa28657a0da63c8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Interstates",
+   "title": "Electrical Engineering Intern - Design Services",
+   "url": "https://www.interstates.com/careers/jobs?gh_jid=4368636009&gh_jid=4368636009",
+   "locations": [
+    "Sioux Falls, SD"
+   ],
+   "posted_at": 1786661185,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "7a35c11f3319b046"
+  },
+  {
+   "source": "Simplify",
+   "company": "Mill",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/mill/jobs/4724014005",
+   "locations": [
+    "San Bruno, CA"
+   ],
+   "posted_at": 1786660301,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "c13f79f778a07694"
+  },
+  {
+   "source": "Simplify",
+   "company": "Specter Aerospace",
+   "title": "Electrical Engineer Co-op - Spring 2027",
+   "url": "https://specteraerospace.bamboohr.com/careers/115/",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted_at": 1786602190,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "03053a1deb2c041e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Electronic Design Engineer Intern - Radio Frequency",
+   "url": "https://www.tesla.com/careers/search/job/279752",
+   "locations": [
+    "Palo Alto, CA",
+    "Fremont, CA"
+   ],
+   "posted_at": 1786583225,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": null,
+   "uid": "05a2a7d93c61804a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Western Aircraft",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.lever.co/westair/51bc12ff-c76e-42e7-8e79-d7a095de8681/apply",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1786572246,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "8f2065fdd72b1134"
+  },
+  {
+   "source": "Simplify",
+   "company": "Foundation ",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1786565957,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "e6f8c7b2b8668d28"
+  },
+  {
+   "source": "Simplify",
+   "company": "Vertiv",
+   "title": "Electrical Engineer Intern - Energy Storage",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271",
+   "locations": [
+    "Delaware, OH"
+   ],
+   "posted_at": 1786565880,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "2b041e649c2830bd"
+  },
+  {
+   "source": "Simplify",
+   "company": "Eaton",
+   "title": "Electrical Engineer Intern - Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687237981433",
+   "locations": [
+    "Cwmbran, UK",
+    "Luton, UK",
+    "Aldridge, Walsall, UK",
+    "Wimborne Minster, Wimborne, UK",
+    "Burton on the Wolds, Loughborough, UK"
+   ],
+   "posted_at": 1786534600,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "ce7fadb76eceb4b4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hendrick Motorsports",
+   "title": "Electrical Engineer Intern",
+   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Electrical-Engineering-Intern_R-82621-1",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "posted_at": 1786492800,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "dfe41e3c37717cee"
   },
   {
    "source": "Simplify",
@@ -2490,6 +3688,70 @@
    ],
    "first_seen": 1787840819,
    "uid": "1a5ada00ab96bf5a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Teledyne",
+   "title": "Electrical Engineer Intern",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563",
+   "locations": [
+    "Miamisburg, OH"
+   ],
+   "posted_at": 1786320000,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "7e95de70458a26be"
+  },
+  {
+   "source": "Simplify",
+   "company": "Luxium Solutions",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply",
+   "locations": [
+    "Hiram, OH"
+   ],
+   "posted_at": 1786151980,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "44da715c504653ba"
+  },
+  {
+   "source": "Simplify",
+   "company": "Axon",
+   "title": "2027 US Electrical Engineering Internship",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
+   "locations": [
+    "Scottsdale, AZ"
+   ],
+   "posted_at": 1786141804,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "00c7ce6bbe9a2b4d"
   },
   {
    "source": "Simplify",
@@ -2578,6 +3840,30 @@
    "uid": "183e08eb24ff1004"
   },
   {
+   "source": "Simplify",
+   "company": "Contoro",
+   "title": "Robotics Test & Validation Intern",
+   "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1785882020,
+   "terms": [
+    "Spring 2026",
+    "Summer 2026",
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "validation (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": null,
+   "uid": "813f291cf79a7109"
+  },
+  {
    "source": "Greenhouse",
    "company": "Astera Labs",
    "title": "Analog Mixed-Signal Layout Intern",
@@ -2597,6 +3883,29 @@
    ],
    "first_seen": 1786988749,
    "uid": "31d6e4d14a079d92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Electrical Design Engineer Intern - Vehicle Engineering",
+   "url": "https://www.tesla.com/careers/search/job/278630",
+   "locations": [
+    "Palo Alto, CA",
+    "Fremont, CA"
+   ],
+   "posted_at": 1785806549,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "2036483b14651070"
   },
   {
    "source": "Simplify",
@@ -2814,6 +4123,30 @@
    "uid": "743860f7099b4884"
   },
   {
+   "source": "Simplify",
+   "company": "Persona AI",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed/application?embed=true",
+   "locations": [
+    "Houston, TX",
+    "Pensacola, FL"
+   ],
+   "posted_at": 1785450258,
+   "terms": [
+    "Fall 2026",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "0213cf510fd5668d"
+  },
+  {
    "source": "Greenhouse",
    "company": "Formlabs",
    "title": "Hardware R&D Engineering Intern (Fall 2026)",
@@ -2831,6 +4164,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "f9714fe3abe72dff"
+  },
+  {
+   "source": "Simplify",
+   "company": "Flex",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-NH-Hollis/Electrical-Engineering-Co-op_WD226386",
+   "locations": [
+    "Hollis, NH"
+   ],
+   "posted_at": 1785369600,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": null,
+   "uid": "33091f03a49c277d"
   },
   {
    "source": "Simplify",
@@ -2852,6 +4207,48 @@
    ],
    "first_seen": 1786988749,
    "uid": "292e2eaa3503b8aa"
+  },
+  {
+   "source": "Simplify",
+   "company": "Skydio",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "posted_at": 1785277436,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "25836afa19a2a0a8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Techtronic Industries (TTI)",
+   "title": "Electrical Engineer Intern",
+   "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Electrical-Engineer-Internship_R76027",
+   "locations": [
+    "Anderson, SC"
+   ],
+   "posted_at": 1784851200,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "ccbfb39e25d2d894"
   },
   {
    "source": "Greenhouse",
@@ -2939,6 +4336,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Deft AI",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1784596445,
+   "terms": [
+    "Spring 2026",
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "adb8ba185dc1e245"
+  },
+  {
+   "source": "Simplify",
    "company": "GE Healthcare",
    "title": "Engineering Development Program Intern - Hardware",
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1",
@@ -2979,6 +4398,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "c61b0e3859703fc5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tacit",
+   "title": "Antenna Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1784124692,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "antenna (+2)"
+   ],
+   "first_seen": null,
+   "uid": "cebfee905ae29c5b"
   },
   {
    "source": "Simplify",
@@ -3068,6 +4508,49 @@
   },
   {
    "source": "Simplify",
+   "company": "Heron Power",
+   "title": "Power Electronics Controls Engineer Intern",
+   "url": "http://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862/application?embed=true",
+   "locations": [
+    "Scotts Valley, CA"
+   ],
+   "posted_at": 1783721496,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electronics (+2)",
+    "power electronics (+2)"
+   ],
+   "first_seen": null,
+   "uid": "e824d36d829db18a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Vital Lyfe",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1783635116,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "783b284eea97e0cb"
+  },
+  {
+   "source": "Simplify",
    "company": "Jump Trading",
    "title": "FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=8003013",
@@ -3111,6 +4594,113 @@
   },
   {
    "source": "Simplify",
+   "company": "Odys Aviation",
+   "title": "Robotics & Embedded Systems Intern",
+   "url": "https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "posted_at": 1783174095,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "robotics (+1)"
+   ],
+   "first_seen": null,
+   "uid": "c7dcc15640629e2e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nidec",
+   "title": "Electrical Engineer Intern",
+   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984",
+   "locations": [
+    "Jackson, TN"
+   ],
+   "posted_at": 1783167564,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "4d2c185b4b79892b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design/DSP/Verification Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1783163621,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": null,
+   "uid": "0db9e08857d0b3e1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475",
+   "locations": [
+    "Westlake Village, CA"
+   ],
+   "posted_at": 1783161284,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": null,
+   "uid": "1ab3b35ae4c564fb"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1783160703,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": null,
+   "uid": "4724c770fbd82fd7"
+  },
+  {
+   "source": "Simplify",
    "company": "Marvell",
    "title": "Analog Engineer Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Vancouver-Canada/Analog-Engineer-Intern---PhD_2502424-1",
@@ -3129,6 +4719,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "fe81474000f029fd"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Silicon Photonics Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1783158707,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "photonics (+2)"
+   ],
+   "first_seen": null,
+   "uid": "070cff7ee7d47a60"
   },
   {
    "source": "Simplify",
@@ -3151,6 +4763,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "dc251d8d3c5306fc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Human Computer Lab",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true",
+   "locations": [
+    "Toronto, ON, Canada",
+    "SF"
+   ],
+   "posted_at": 1782943843,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "23e3151d7fc554d0"
   },
   {
    "source": "Simplify",
@@ -3261,6 +4895,27 @@
   {
    "source": "Simplify",
    "company": "Tesla",
+   "title": "Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/274258",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1781849435,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "2d62171681f35895"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
    "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/273819",
    "locations": [
@@ -3304,6 +4959,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1781360188,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": null,
+   "uid": "f4e89cedcb1f2516"
+  },
+  {
+   "source": "Simplify",
    "company": "Anduril",
    "title": "Electrical Engineer Intern",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007",
@@ -3330,6 +5006,28 @@
    ],
    "first_seen": null,
    "uid": "b7a344cda399c3b3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Etched",
+   "title": "Signal Integrity / Power Integrity Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1781082437,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "signal integrity (+2)",
+    "power integrity (+2)"
+   ],
+   "first_seen": null,
+   "uid": "156ce4ef0ea0749b"
   },
   {
    "source": "Simplify",
@@ -3377,6 +5075,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "d19b93f56a2ac49c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/272601",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1780795950,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electronics (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "206e319e540688dd"
   },
   {
    "source": "Simplify",
@@ -3639,6 +5359,49 @@
    "uid": "4e1fcc9d8acdb340"
   },
   {
+   "source": "Simplify",
+   "company": "Stantec",
+   "title": "Electrical Engineer in Training Intern - Water",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005781",
+   "locations": [
+    "Winnipeg, MB, Canada"
+   ],
+   "posted_at": 1778105093,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "d55a87fdff0b0846"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "Power Electronics Intern - Fall 2026",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1777529662,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electronics (+2)",
+    "power electronics (+2)"
+   ],
+   "first_seen": null,
+   "uid": "45d07abcbb38d899"
+  },
+  {
    "source": "Greenhouse",
    "company": "Astranis",
    "title": "Power Electronics Intern (Fall 2026)",
@@ -3657,6 +5420,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfe5440d3217397a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Shield AI",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724/apply",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted_at": 1776762498,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": null,
+   "uid": "26197ea6cb552635"
   },
   {
    "source": "Simplify",
@@ -3679,6 +5463,50 @@
    ],
    "first_seen": 1786988749,
    "uid": "02e6fae24317329f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Pennsylvania State University",
+   "title": "Electronic Systems and Hardware Co-Op",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Electronic-Systems-and-Hardware-Co-Op_REQ_0000066567-1",
+   "locations": [
+    "Horsham, PA"
+   ],
+   "posted_at": 1776505532,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": null,
+   "uid": "bdbefaaa5acd12aa"
+  },
+  {
+   "source": "Simplify",
+   "company": "Neuralink",
+   "title": "Electrical Engineer Intern - Implant Embedded Systems",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003",
+   "locations": [
+    "Austin, TX",
+    "South SF"
+   ],
+   "posted_at": 1776325814,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "embedded (+1)"
+   ],
+   "first_seen": null,
+   "uid": "a42982da1f5ca77b"
   },
   {
    "source": "Lever",
@@ -3841,8 +5669,10 @@
     "San Jose"
    ],
    "posted_at": 1770427798,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
    "category": "electrical",
    "score": 2,
    "reasons": [
