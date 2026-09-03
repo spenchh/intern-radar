@@ -1,6 +1,6 @@
 {
- "generated_at": 1788470444,
- "count": 236,
+ "generated_at": 1788477891,
+ "count": 234,
  "jobs": [
   {
    "source": "Simplify",
@@ -465,28 +465,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "feac30c33ea53f5b"
-  },
-  {
-   "source": "Simplify",
-   "company": "Xcel Energy",
-   "title": "Geospatial Data Validation Intern",
-   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2",
-   "locations": [
-    "Minneapolis, MN",
-    "Denver, CO"
-   ],
-   "posted_at": 1788307200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "929fa76f0b182589"
   },
   {
    "source": "Simplify",
@@ -3019,27 +2997,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Rivian",
-   "title": "FPGA Design Intern - FPGA Design",
-   "url": "https://careers.rivian.com/jobs/32954?icims=1",
-   "locations": [
-    "Champaign, IL"
-   ],
-   "posted_at": 1786975587,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "589ebb2279b5aa96"
-  },
-  {
-   "source": "Simplify",
    "company": "Epia Neuro",
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true",
@@ -3454,29 +3411,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Tesla",
-   "title": "Electrical Design Engineer Intern - Vehicle Engineering",
-   "url": "https://www.tesla.com/careers/search/job/278630",
-   "locations": [
-    "Palo Alto, CA",
-    "Fremont, CA"
-   ],
-   "posted_at": 1785806549,
-   "terms": [
-    "Winter 2027",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "2036483b14651070"
-  },
-  {
-   "source": "Simplify",
    "company": "SpaceX",
    "title": "Silicon Engineer Intern/Co-op",
    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
@@ -3639,6 +3573,31 @@
    ],
    "first_seen": 1786988749,
    "uid": "ae37a62277b15e10"
+  },
+  {
+   "source": "Simplify",
+   "company": "SiFive",
+   "title": "Design Verification Infrastructure Intern - Platform",
+   "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1",
+   "locations": [
+    "Boston, MA",
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Berkeley, CA"
+   ],
+   "posted_at": 1785542400,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788477891,
+   "uid": "01e92e9e9e9b9e86"
   },
   {
    "source": "Simplify",
@@ -3964,6 +3923,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "6dcb788a4c51b918"
+  },
+  {
+   "source": "Simplify",
+   "company": "Peak Energy",
+   "title": "Systems Integration and Test Engineer Intern - Winter 2027",
+   "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007",
+   "locations": [
+    "Burlingame, CA"
+   ],
+   "posted_at": 1783980674,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "test engineer (+1)",
+    "integration and test (+1)"
+   ],
+   "first_seen": 1788477891,
+   "uid": "01cc2a6d6fe6e379"
   },
   {
    "source": "Simplify",
@@ -5076,30 +5057,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6f7c3ec86032dd79"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tenstorrent",
-   "title": "Design Verification Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007",
-   "locations": [
-    "Boston, MA"
-   ],
-   "posted_at": 1775772398,
-   "terms": [
-    "Winter 2026",
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "748494fb662012ef"
   },
   {
    "source": "Simplify",
