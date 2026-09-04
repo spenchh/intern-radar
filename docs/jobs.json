@@ -1,6 +1,6 @@
 {
- "generated_at": 1788532392,
- "count": 226,
+ "generated_at": 1788544134,
+ "count": 225,
  "jobs": [
   {
    "source": "Simplify",
@@ -2277,29 +2277,6 @@
    ],
    "first_seen": 1787582435,
    "uid": "69d491a136433970"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern_01867089",
-   "locations": [
-    "Andover, MA",
-    "Marlborough, MA",
-    "Tewksbury, MA"
-   ],
-   "posted_at": 1787529600,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "b2dd42b07ab60a90"
   },
   {
    "source": "Simplify",
