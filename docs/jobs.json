@@ -1,6 +1,6 @@
 {
- "generated_at": 1788501265,
- "count": 234,
+ "generated_at": 1788518380,
+ "count": 227,
  "jobs": [
   {
    "source": "Simplify",
@@ -2627,27 +2627,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Brunswick",
-   "title": "Engineering Validation Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "posted_at": 1787270400,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1787950754,
-   "uid": "a9ea6b3798dcf6a2"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
@@ -2906,28 +2885,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "411afaf73cdb9e99"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Hardware Verification Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "2b38f57dffc28027"
   },
   {
    "source": "Simplify",
@@ -4398,27 +4355,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Tesla",
-   "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/273819",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1781639154,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "radio frequency (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "e331310899bcedbc"
-  },
-  {
-   "source": "Simplify",
    "company": "Nidec",
    "title": "Aerospace Intern New Grad",
    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
@@ -4532,28 +4468,6 @@
    ],
    "first_seen": 1788470444,
    "uid": "b7a344cda399c3b3"
-  },
-  {
-   "source": "Simplify",
-   "company": "Etched",
-   "title": "Signal Integrity / Power Integrity Intern",
-   "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1781082437,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "signal integrity (+2)",
-    "power integrity (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "156ce4ef0ea0749b"
   },
   {
    "source": "Simplify",
@@ -4888,28 +4802,6 @@
    "uid": "4e1fcc9d8acdb340"
   },
   {
-   "source": "Simplify",
-   "company": "Astranis",
-   "title": "Power Electronics Intern - Fall 2026",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006",
-   "locations": [
-    "SF"
-   ],
-   "posted_at": 1777529662,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electronics (+2)",
-    "power electronics (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "45d07abcbb38d899"
-  },
-  {
    "source": "Greenhouse",
    "company": "Astranis",
    "title": "Power Electronics Intern (Fall 2026)",
@@ -4928,27 +4820,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfe5440d3217397a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Shield AI",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724/apply",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "posted_at": 1776762498,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "26197ea6cb552635"
   },
   {
    "source": "Simplify",
@@ -5077,27 +4948,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "7be2ac4d8c47c28d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Nightwing Intelligence Solutions",
-   "title": "Radio Frequency Engineering Intern",
-   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
-   "locations": [
-    "Dulles, VA"
-   ],
-   "posted_at": 1773295748,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "radio frequency (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "0eb758864eb1b7ed"
   },
   {
    "source": "Simplify",
