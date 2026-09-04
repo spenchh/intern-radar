@@ -1,5 +1,5 @@
 {
- "count": 310,
+ "count": 314,
  "jobs": {
   "00c7ce6bbe9a2b4d": {
    "company": "Axon",
@@ -421,6 +421,12 @@
    "title": "Image Sensor Development Intern",
    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475"
   },
+  "360e1feed0d88130": {
+   "company": "Apple",
+   "first_seen": 1788532392,
+   "title": "Formal Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200681934"
+  },
   "3675cf3fec65ee87": {
    "company": "Ambarella",
    "first_seen": 1787874763,
@@ -528,6 +534,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Electrical-Engineer-IN-46818/1420699700/?ats=successfactors"
+  },
+  "4afc4c771fa81c44": {
+   "company": "Qorvo",
+   "first_seen": 1788532392,
+   "title": "RF/Analog IC Design Intern",
+   "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors"
   },
   "4b7e7dc195658d88": {
    "company": "Jump Trading",
@@ -931,6 +943,12 @@
    "title": "IC Layout Engineer Intern",
    "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors"
   },
+  "88921a6e2b89a29c": {
+   "company": "NVIDIA",
+   "first_seen": 1788532392,
+   "title": "Digital Circuit Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504"
+  },
   "8966f38809b5c9c0": {
    "company": "Susquehanna International Group",
    "first_seen": 1788460724,
@@ -942,6 +960,12 @@
    "first_seen": 1786988749,
    "title": "ASIC Design Engineer Intern",
    "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100"
+  },
+  "8c0c1373d7b3acfe": {
+   "company": "RTX",
+   "first_seen": 1788532392,
+   "title": "Aerospace Engineering Intern - APU Programs Support",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035"
   },
   "8d5037f86ed15cc4": {
    "company": "Apple",
@@ -1862,6 +1886,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788518380,
- "runs": 361
+ "last_run": 1788532392,
+ "runs": 362
 }

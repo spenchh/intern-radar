@@ -1,7 +1,28 @@
 {
- "generated_at": 1788518380,
- "count": 227,
+ "generated_at": 1788532392,
+ "count": 226,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Formal Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200681934",
+   "locations": [
+    "St Albans, UK"
+   ],
+   "posted_at": 1788530858,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1788532392,
+   "uid": "360e1feed0d88130"
+  },
   {
    "source": "Simplify",
    "company": "Johns Hopkins Applied Physics Laboratory",
@@ -86,27 +107,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "d5871fcbb28aad25"
-  },
-  {
-   "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "RF Engineering Co-op",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010160",
-   "locations": [
-    "Santa Rosa, CA"
-   ],
-   "posted_at": 1788452838,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "rf (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "c1c7eb1fd7565eb9"
   },
   {
    "source": "Simplify",
@@ -1060,27 +1060,6 @@
   {
    "source": "Simplify",
    "company": "K2 Space",
-   "title": "Radio Frequency Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
-   "locations": [
-    "LA"
-   ],
-   "posted_at": 1788242690,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "radio frequency (+2)"
-   ],
-   "first_seen": 1788255923,
-   "uid": "dd091cea5733d02a"
-  },
-  {
-   "source": "Simplify",
-   "company": "K2 Space",
    "title": "Electrical Engineer Intern - Summer 2027",
    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008",
    "locations": [
@@ -1290,6 +1269,27 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Aerospace Engineering Intern - APU Programs Support",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
+   "locations": [
+    "Longueuil, QC, Canada"
+   ],
+   "posted_at": 1788220800,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "aerospace (+2)"
+   ],
+   "first_seen": 1788532392,
+   "uid": "8c0c1373d7b3acfe"
+  },
+  {
+   "source": "Simplify",
    "company": "Aerotech",
    "title": "Electrical/Computer Engineering Intern Co-op",
    "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027",
@@ -1418,6 +1418,29 @@
    ],
    "first_seen": 1788158465,
    "uid": "6c2713a0884d0979"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "RF/Analog IC Design Intern",
+   "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors",
+   "locations": [
+    "Fort Lauderdale, FL"
+   ],
+   "posted_at": 1788153917,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "ic design (+3)",
+    "rf (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788532392,
+   "uid": "4afc4c771fa81c44"
   },
   {
    "source": "Simplify",
@@ -1681,27 +1704,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineering-Intern--Summer-2027-_01864197",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1788134400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "a24810c400c06b1c"
-  },
-  {
-   "source": "Simplify",
    "company": "Draper",
    "title": "Sensor Electrical Engineering Co-op - Spring 2027",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
@@ -1744,28 +1746,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "42088ac2bcfe32e6"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northwood Space",
-   "title": "RF Engineer Intern - Summer Internship",
-   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true",
-   "locations": [
-    "LA",
-    "Torrance, CA"
-   ],
-   "posted_at": 1787964320,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "rf (+2)"
-   ],
-   "first_seen": 1787972884,
-   "uid": "2f5635207e8cf8e7"
   },
   {
    "source": "Simplify",
@@ -1834,28 +1814,6 @@
    ],
    "first_seen": 1788028141,
    "uid": "81d144e088e84470"
-  },
-  {
-   "source": "Simplify",
-   "company": "Fab2",
-   "title": "Electrical Engineer Intern - Winter",
-   "url": "https://jobs.ashbyhq.com/fab2/d6d07a47-9501-4928-b5b9-56191e2804fc/application?embed=true",
-   "locations": [
-    "SF",
-    "Austin, TX"
-   ],
-   "posted_at": 1787873166,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "2304ea14d0dd2b6d"
   },
   {
    "source": "Simplify",
@@ -2233,27 +2191,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Brunswick",
-   "title": "Electrical Engineer Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Menomonee-Falls-WI/Electrical-Engineering-Intern_JR-051233",
-   "locations": [
-    "Menomonee Falls, WI"
-   ],
-   "posted_at": 1787616000,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "f0fcad4f7ff11e3f"
-  },
-  {
-   "source": "Simplify",
    "company": "Daktronics",
    "title": "Hardware Design Co-op Intern - Firmware",
    "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
@@ -2627,6 +2564,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Brunswick",
+   "title": "Engineering Validation Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
+   "locations": [
+    "Tulsa, OK"
+   ],
+   "posted_at": 1787270400,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1787950754,
+   "uid": "a9ea6b3798dcf6a2"
+  },
+  {
+   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
@@ -2889,6 +2847,28 @@
   {
    "source": "Simplify",
    "company": "NVIDIA",
+   "title": "Hardware Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "2b38f57dffc28027"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
    "title": "Ph.D. Research Hardware Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
    "locations": [
@@ -2954,25 +2934,24 @@
   },
   {
    "source": "Simplify",
-   "company": "Zipline",
-   "title": "Long Range Platform Hardware Engineering Intern",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+   "company": "NVIDIA",
+   "title": "Digital Circuit Design Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
    "locations": [
-    "South SF"
+    "Santa Clara, CA"
    ],
-   "posted_at": 1787092360,
+   "posted_at": 1787097600,
    "terms": [
     "Summer 2027"
    ],
    "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
+   "category": "electrical",
+   "score": 3,
    "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
+    "circuit design (+3)"
    ],
-   "first_seen": 1787095247,
-   "uid": "6b28ed5001b73dc7"
+   "first_seen": 1788532392,
+   "uid": "88921a6e2b89a29c"
   },
   {
    "source": "Simplify",
