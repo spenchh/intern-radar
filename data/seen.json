@@ -1,5 +1,5 @@
 {
- "count": 302,
+ "count": 310,
  "jobs": {
   "00c7ce6bbe9a2b4d": {
    "company": "Axon",
@@ -343,6 +343,12 @@
    "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
    "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431"
   },
+  "29ca1a0ac0acff3f": {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "first_seen": 1788501265,
+   "title": "Sensor Systems Intern - Data Analytics",
+   "url": "https://careers.jhuapl.edu/jobs/59958?icims=1"
+  },
   "2b041e649c2830bd": {
    "company": "Vertiv",
    "first_seen": 1788460724,
@@ -678,6 +684,12 @@
    "first_seen": 1786988749,
    "title": "Integrated Photonics Intern",
    "url": "https://apply.workable.com/hyperlight/j/498D9988C8/apply"
+  },
+  "663689618ab79da5": {
+   "company": "Booz Allen",
+   "first_seen": 1788501265,
+   "title": "Electronic Warfare FPGA Engineer Intern",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1"
   },
   "66d17dfc7eb188bc": {
    "company": "MSA Safety",
@@ -1153,6 +1165,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/deft-ai/0d16afe8-30a9-43df-90d5-ccba1cb97b69/application?embed=true"
   },
+  "ae0786fd139327e1": {
+   "company": "Tesla",
+   "first_seen": 1788501265,
+   "title": "Electrical Test Engineer Intern - Vehicle Engineering",
+   "url": "https://www.tesla.com/careers/search/job/278976"
+  },
   "ae37a62277b15e10": {
    "company": "HPR (Hyannis Port Research)",
    "first_seen": 1786988749,
@@ -1243,6 +1261,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007"
   },
+  "b7aeebbbac1c8eb6": {
+   "company": "RTX",
+   "first_seen": 1788501265,
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineer-Intern--Summer-2027-_01864998"
+  },
   "b831ffff66483b11": {
    "company": "Zipline",
    "first_seen": 1788447714,
@@ -1290,6 +1314,12 @@
    "first_seen": 1788310887,
    "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226"
+  },
+  "bf28d488e3eda610": {
+   "company": "Viavi Solutions",
+   "first_seen": 1788501265,
+   "title": "Optical & Electrical Engineering Intern",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Optical---Electrical-Engineering-Intern_260004968-2"
   },
   "bfdd7b0fc5f7bdf8": {
    "company": "RTX",
@@ -1471,6 +1501,12 @@
    "title": "Electrical Engineer in Training Intern - Water",
    "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1005781"
   },
+  "d5871fcbb28aad25": {
+   "company": "Hexagon AB",
+   "first_seen": 1788501265,
+   "title": "Defense Engineer Intern - Aerospace and Defense Engineering",
+   "url": "https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false"
+  },
   "d59b971b1ebfa868": {
    "company": "Micron Technology",
    "first_seen": 1787277048,
@@ -1555,6 +1591,12 @@
    "title": "Hardware Design Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90379?icims=1"
   },
+  "dfa1ec19c69904fc": {
+   "company": "Hexagon AB",
+   "first_seen": 1788501265,
+   "title": "Sensor Fusion Defence Intern - Aerospace & Defence",
+   "url": "https://careers-hexagonpositioning.icims.com/jobs/3079/job?mobile=true&needsRedirect=false"
+  },
   "dfa2897a3575e538": {
    "company": "Micron Technology",
    "first_seen": 1788310887,
@@ -1578,6 +1620,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200663981"
+  },
+  "e1ece9e0d2d0ed1d": {
+   "company": "Keysight Technologies",
+   "first_seen": 1788501265,
+   "title": "Integrated Photonics Research Intern",
+   "url": "https://jobs.keysight.com/jobs/54138?icims=1"
   },
   "e331310899bcedbc": {
    "company": "Tesla",
@@ -1814,6 +1862,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788484192,
- "runs": 359
+ "last_run": 1788501265,
+ "runs": 360
 }
