@@ -1,5 +1,5 @@
 {
- "generated_at": 1788477891,
+ "generated_at": 1788484192,
  "count": 234,
  "jobs": [
   {
@@ -1247,28 +1247,6 @@
    ],
    "first_seen": 1788158465,
    "uid": "e0c674b19886429d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "Electrical Engineer Intern - Physical Verification",
-   "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors",
-   "locations": [
-    "Greensboro, NC"
-   ],
-   "posted_at": 1788153917,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1788158465,
-   "uid": "6c2713a0884d0979"
   },
   {
    "source": "Simplify",
@@ -3299,6 +3277,28 @@
    ],
    "first_seen": 1786988749,
    "uid": "4d896cb7f775088a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Hardware Validation Engineer Intern - Optimus",
+   "url": "https://www.tesla.com/careers/search/job/278982",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1785911305,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788484192,
+   "uid": "058d05378990c793"
   },
   {
    "source": "Simplify",
