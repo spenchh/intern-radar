@@ -1,6 +1,6 @@
 {
- "generated_at": 1788598169,
- "count": 241,
+ "generated_at": 1788611025,
+ "count": 242,
  "jobs": [
   {
    "source": "Simplify",
@@ -365,6 +365,32 @@
    ],
    "first_seen": 1788583724,
    "uid": "616b6f40f8f90874"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design Verification Intern - BS - Summer 2027",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "24b11760da9aca56"
   },
   {
    "source": "Simplify",
