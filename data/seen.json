@@ -1,5 +1,5 @@
 {
- "count": 314,
+ "count": 322,
  "jobs": {
   "00c7ce6bbe9a2b4d": {
    "company": "Axon",
@@ -114,6 +114,12 @@
    "first_seen": 1788470444,
    "title": "Silicon Photonics Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1"
+  },
+  "0a1a1f128f285515": {
+   "company": "CDM Smith",
+   "first_seen": 1788567479,
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://careers.cdmsmith.com/jobs/4398?icims=1"
   },
   "0bc935f1cc54a894": {
    "company": "SimIS",
@@ -264,6 +270,12 @@
    "first_seen": 1786988749,
    "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/272601"
+  },
+  "212021cdeb15d2b2": {
+   "company": "Tesla",
+   "first_seen": 1788567479,
+   "title": "Electrical Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/279743"
   },
   "2184217bf391c65f": {
    "company": "Cadence Design Systems",
@@ -919,6 +931,12 @@
    "title": "Characterization and Support Intern - Fall 2026",
    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1"
   },
+  "83efea7865cfa2e0": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "Analog Design Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1"
+  },
   "848e269d81c89829": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -1081,6 +1099,12 @@
    "title": "Electrical Engineer Intern - Unmanned Vehicles - UXVs",
    "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Electrical-Engineer---Unmanned-Vehicles--UXVs--1-year-internship_R-82724"
   },
+  "a082e2125be0cb61": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142"
+  },
   "a11de461298f82e4": {
    "company": "Bio-Techne",
    "first_seen": 1786988749,
@@ -1236,6 +1260,12 @@
    "first_seen": 1787694874,
    "title": "Hardware Technical Program Management Intern",
    "url": "https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2"
+  },
+  "b1c31765a3b8c43e": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "Design for Test Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1"
   },
   "b2dd42b07ab60a90": {
    "company": "RTX",
@@ -1579,6 +1609,12 @@
    "title": "Analog Design Intern",
    "url": "https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors"
   },
+  "db6ccc62e35452f9": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510"
+  },
   "dc251d8d3c5306fc": {
    "company": "IMC Trading",
    "first_seen": 1786988749,
@@ -1693,6 +1729,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307"
   },
+  "e7637a8e025e3cc0": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "Functional Validation Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514"
+  },
   "e824d36d829db18a": {
    "company": "Heron Power",
    "first_seen": 1788460724,
@@ -1716,6 +1758,12 @@
    "first_seen": 1788310887,
    "title": "Design Verification Intern",
    "url": "https://jobs.apple.com/en-us/details/200680980"
+  },
+  "ebcb647b33b3742e": {
+   "company": "Marvell",
+   "first_seen": 1788567479,
+   "title": "IC Validation Engineer Intern - MS - Multiple Teams",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515"
   },
   "ec8e4d7bc405e376": {
    "company": "Apple",
@@ -1886,6 +1934,6 @@
    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Internship---Hardware_R4043923-1"
   }
  },
- "last_run": 1788560861,
- "runs": 365
+ "last_run": 1788567479,
+ "runs": 366
 }

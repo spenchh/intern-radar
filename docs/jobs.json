@@ -1,7 +1,50 @@
 {
- "generated_at": 1788560861,
- "count": 225,
+ "generated_at": 1788567479,
+ "count": 233,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "CDM Smith",
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://careers.cdmsmith.com/jobs/4398?icims=1",
+   "locations": [
+    "Latham, NY"
+   ],
+   "posted_at": 1788560003,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "0a1a1f128f285515"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Electrical Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/279743",
+   "locations": [
+    "Palo Alto, CA",
+    "Austin, TX"
+   ],
+   "posted_at": 1788559808,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "212021cdeb15d2b2"
+  },
   {
    "source": "Simplify",
    "company": "Apple",
@@ -43,6 +86,150 @@
    ],
    "first_seen": 1788501265,
    "uid": "29ca1a0ac0acff3f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design for Test Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1",
+   "locations": [
+    "Morrisville, NC",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "b1c31765a3b8c43e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1",
+   "locations": [
+    "Santa Clara, CA",
+    "Burlington, VT"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "83efea7865cfa2e0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "IC Validation Engineer Intern - MS - Multiple Teams",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515",
+   "locations": [
+    "Irvine, CA",
+    "Santa Clara, CA",
+    "Westlake Village, CA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027",
+    "Winter 2028",
+    "Spring 2028",
+    "Summer 2028"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "ebcb647b33b3742e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142",
+   "locations": [
+    "Irvine, CA",
+    "Santa Clara, CA",
+    "Westlake Village, CA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "a082e2125be0cb61"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Functional Validation Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514",
+   "locations": [
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "e7637a8e025e3cc0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510",
+   "locations": [
+    "Santa Clara, CA",
+    "Burlington, VT"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "db6ccc62e35452f9"
   },
   {
    "source": "Simplify",
@@ -3968,27 +4155,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Jump Trading",
-   "title": "FPGA Engineer Intern",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8003013",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1783549628,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "40a718a41efe0e09"
-  },
-  {
-   "source": "Simplify",
    "company": "Citadel Securities",
    "title": "FPGA Engineer Intern",
    "url": "https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/",
@@ -4756,6 +4922,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "4e1fcc9d8acdb340"
+  },
+  {
+   "source": "Simplify",
+   "company": "Advanced Energy",
+   "title": "Electronics Service Intern",
+   "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1778277851,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "fc88eec2e1afa56f"
   },
   {
    "source": "Greenhouse",
