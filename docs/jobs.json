@@ -1,7 +1,116 @@
 {
- "generated_at": 1788567479,
- "count": 233,
+ "generated_at": 1788583724,
+ "count": 242,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Hardware Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986143",
+   "locations": [
+    "Hillsboro, OR"
+   ],
+   "posted_at": 1788570816,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "9c1973f95b34a386"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Electrical Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986145",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1788570805,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "ed21231e02f50535"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200681613",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1788570422,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1787643107,
+   "uid": "2669eb8306d6acb6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Solidigm",
+   "title": "Hardware & Product Development Engineering Intern",
+   "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839",
+   "locations": [
+    "Rancho Cordova, CA"
+   ],
+   "posted_at": 1788570356,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "0a8562d8b1b1411d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Solidigm",
+   "title": "Hardware, Electrical Validation and Product Engineering Intern - Validation",
+   "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613779",
+   "locations": [
+    "Rancho Cordova, CA"
+   ],
+   "posted_at": 1788570356,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 6,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "00654f7929f6df81"
+  },
   {
    "source": "Simplify",
    "company": "CDM Smith",
@@ -230,6 +339,138 @@
    ],
    "first_seen": 1788567479,
    "uid": "db6ccc62e35452f9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design Verification Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "616b6f40f8f90874"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design Verification Intern - BS - Summer 2027",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "24b11760da9aca56"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Physical Design Engineer Intern - MS - Multiple Teams",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Rochester, MN",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Burlington, VT",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "185f4ae307c0717c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Physical Design Engineer Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Rochester, MN",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Burlington, VT",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "ddbbf1a49ba2913f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design Verification Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
+   "locations": [
+    "Morrisville, NC",
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788583724,
+   "uid": "e46273dc2725df5e"
   },
   {
    "source": "Simplify",
@@ -5070,27 +5311,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "6f7c3ec86032dd79"
-  },
-  {
-   "source": "Simplify",
-   "company": "Rivian",
-   "title": "UIUC Research Park Intern - Validation",
-   "url": "https://careers.rivian.com/jobs/29771?lang=en-us&icims=1",
-   "locations": [
-    "Urbana, IL"
-   ],
-   "posted_at": 1774303831,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "7be2ac4d8c47c28d"
   },
   {
    "source": "Simplify",
