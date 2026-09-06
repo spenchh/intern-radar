@@ -1,6 +1,6 @@
 {
- "generated_at": 1788674246,
- "count": 242,
+ "generated_at": 1788691133,
+ "count": 241,
  "jobs": [
   {
    "source": "Simplify",
@@ -3855,25 +3855,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "d781240c49c45596"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "Avionics Intern - Neutron Flight Safety Systems",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819590003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785726075,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "avionics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "edc406d3155f9cdb"
   },
   {
    "source": "Greenhouse",
