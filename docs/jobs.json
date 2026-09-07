@@ -1,6 +1,6 @@
 {
- "generated_at": 1788776284,
- "count": 249,
+ "generated_at": 1788796742,
+ "count": 250,
  "jobs": [
   {
    "source": "Simplify",
@@ -149,6 +149,28 @@
    ],
    "first_seen": 1788776284,
    "uid": "2b34f157c50af4e9"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Design for Test Engineer Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "design for test (+3)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1788796742,
+   "uid": "2787c60c841cf63a"
   },
   {
    "source": "Simplify",

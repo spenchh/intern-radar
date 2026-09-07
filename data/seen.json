@@ -1,5 +1,5 @@
 {
- "count": 339,
+ "count": 340,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -372,6 +372,12 @@
    "first_seen": 1788434053,
    "title": "Design Verification Engineer Intern - MS/PhD",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546"
+  },
+  "2787c60c841cf63a": {
+   "company": "NXP Semiconductors",
+   "first_seen": 1788796742,
+   "title": "Design for Test Engineer Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550"
   },
   "292e2eaa3503b8aa": {
    "company": "National Laboratory of the Rockies",
@@ -2036,6 +2042,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1788776284,
- "runs": 385
+ "last_run": 1788796742,
+ "runs": 386
 }
