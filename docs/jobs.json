@@ -1,7 +1,28 @@
 {
- "generated_at": 1788740523,
- "count": 241,
+ "generated_at": 1788757362,
+ "count": 242,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "DRAM Test Structure Design and Layout Engineering Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1788652800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "layout (+2)"
+   ],
+   "first_seen": 1788757362,
+   "uid": "dac2400ecc5ba3a5"
+  },
   {
    "source": "Simplify",
    "company": "Microsoft",
