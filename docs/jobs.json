@@ -1,7 +1,155 @@
 {
- "generated_at": 1788757362,
- "count": 242,
+ "generated_at": 1788776284,
+ "count": 249,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Digital Validation Intern",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "55d8742d9994a90a"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Digital Physical Design Intern",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "ec96e5b0c685ea61"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Digital Design Intern - Spring 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "8f344119d64ffef5"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Digital Verification Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "374bc9cc82c6873f"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Digital Design Intern",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "ffad70abb3b96597"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Analog Validation Intern - Summer 2027",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "analog (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "92cf5146ecae4769"
+  },
+  {
+   "source": "Simplify",
+   "company": "NXP Semiconductors",
+   "title": "Design for Test Intern",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1788776284,
+   "uid": "2b34f157c50af4e9"
+  },
   {
    "source": "Simplify",
    "company": "Micron Technology",
@@ -1066,6 +1214,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Xcel Energy",
+   "title": "Geospatial Data Validation Intern",
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Tech---Data---Vendor-Mgmt-Intern---MN--CO_JR115634-2",
+   "locations": [
+    "Minneapolis, MN",
+    "Denver, CO"
+   ],
+   "posted_at": 1788307200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788415817,
+   "uid": "929fa76f0b182589"
+  },
+  {
+   "source": "Simplify",
    "company": "Intel",
    "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
@@ -1275,28 +1445,6 @@
    ],
    "first_seen": 1788303697,
    "uid": "7cf9aacb8b734ed6"
-  },
-  {
-   "source": "Simplify",
-   "company": "Apple",
-   "title": "Design Verification Intern",
-   "url": "https://jobs.apple.com/en-us/details/200680980",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "posted_at": 1788302614,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1788310887,
-   "uid": "ebb105c9c21db154"
   },
   {
    "source": "Simplify",
@@ -2708,27 +2856,6 @@
   },
   {
    "source": "Simplify",
-   "company": "The Walt Disney Company",
-   "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
-   "locations": [
-    "Lake Buena Vista, FL"
-   ],
-   "posted_at": 1787529600,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineering (+3)"
-   ],
-   "first_seen": 1787582435,
-   "uid": "69d491a136433970"
-  },
-  {
-   "source": "Simplify",
    "company": "SimIS",
    "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
    "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern",
@@ -3790,6 +3917,29 @@
    ],
    "first_seen": 1786988749,
    "uid": "31d6e4d14a079d92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Electrical Design Engineer Intern - Vehicle Engineering",
+   "url": "https://www.tesla.com/careers/search/job/278630",
+   "locations": [
+    "Palo Alto, CA",
+    "Fremont, CA"
+   ],
+   "posted_at": 1785806549,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "2036483b14651070"
   },
   {
    "source": "Simplify",
