@@ -1,7 +1,31 @@
 {
- "generated_at": 1788876903,
- "count": 251,
+ "generated_at": 1788890211,
+ "count": 252,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Test or Validation Engineering Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017578",
+   "locations": [
+    "Knoxville, TN",
+    "Dallas, TX",
+    "Phoenix, AZ",
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788884185,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788890211,
+   "uid": "0e8099df05707fd6"
+  },
   {
    "source": "Simplify",
    "company": "Lumentum",
@@ -22,6 +46,28 @@
    ],
    "first_seen": 1788861415,
    "uid": "428bebd03ffd7111"
+  },
+  {
+   "source": "Simplify",
+   "company": "Allegion",
+   "title": "Hardware Engineer Intern - Advanced Development",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788890211,
+   "uid": "27d427514f246c8a"
   },
   {
    "source": "Simplify",
@@ -1863,27 +1909,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "3818a7416c272486"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted_at": 1788220800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "d1880a596a590886"
   },
   {
    "source": "Simplify",
