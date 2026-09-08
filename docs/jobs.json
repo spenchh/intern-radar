@@ -1,7 +1,137 @@
 {
- "generated_at": 1788900836,
- "count": 252,
+ "generated_at": 1788909145,
+ "count": 263,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "CHAOS Industries",
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1788907600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "a4b495e937eb61cb"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bedrock Robotics",
+   "title": "Sensor Hardware Test Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1788906793,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware (+2)",
+    "sensor (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "bdd9603093b31a06"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://jobs.apple.com/en-us/details/200682067",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "posted_at": 1788906527,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "868e7b052c12ff11"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Packaging and Signal Integrity Intern",
+   "url": "https://jobs.keysight.com/jobs/54201?icims=1",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted_at": 1788905649,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "4ee44b58f1902248"
+  },
+  {
+   "source": "Simplify",
+   "company": "EquipmentShare",
+   "title": "Electrical Engineering Intern",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8185964",
+   "locations": [
+    "Columbia, MO"
+   ],
+   "posted_at": 1788905544,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788447714,
+   "uid": "0fa28657a0da63c8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Dominion Energy",
+   "title": "Electrical Engineer Intern - Operations Analytics",
+   "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors",
+   "locations": [
+    "Glen Allen, VA"
+   ],
+   "posted_at": 1788905373,
+   "terms": [
+    "Spring 2028"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "707a809bc6341eb4"
+  },
   {
    "source": "Simplify",
    "company": "Texas Instruments",
@@ -68,6 +198,118 @@
    ],
    "first_seen": 1788890211,
    "uid": "27d427514f246c8a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microchip Technology",
+   "title": "Engineering Intern - ASIC Verification",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "75e4d48091e8b8ca"
+  },
+  {
+   "source": "Simplify",
+   "company": "Boeing",
+   "title": "Microelectronics R&D Intern - Engineering & Technology Innovation",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675",
+   "locations": [
+    "Tukwila, WA",
+    "Huntington Beach, CA"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "microelectronics (+3)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "4e0fcd771d04fd73"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "FPGA Electrical Design Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-Intern--Summer-2027--Onsite-_01872989",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "63a0290dca2d2eb9"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Design Electrical Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "digital design (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "ce02913601fede36"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Firmware Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2026",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1788909145,
+   "uid": "df1f190887ab369e"
   },
   {
    "source": "Simplify",
