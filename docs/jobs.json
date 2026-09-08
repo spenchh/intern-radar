@@ -1,7 +1,28 @@
 {
- "generated_at": 1788844617,
- "count": 249,
+ "generated_at": 1788861415,
+ "count": 250,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Lumentum",
+   "title": "Optical Verification Engineer Intern Co-op",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1788861415,
+   "uid": "428bebd03ffd7111"
+  },
   {
    "source": "Simplify",
    "company": "NXP Semiconductors",
