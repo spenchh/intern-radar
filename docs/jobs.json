@@ -1,6 +1,6 @@
 {
- "generated_at": 1788820261,
- "count": 251,
+ "generated_at": 1788828063,
+ "count": 250,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -930,28 +930,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "ba040c27c111a74f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Apple",
-   "title": "Design Verification Engineer Intern",
-   "url": "https://jobs.apple.com/en-us/details/200681368",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "posted_at": 1788402277,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "868e7b052c12ff11"
   },
   {
    "source": "Simplify",
