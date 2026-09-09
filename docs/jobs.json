@@ -1,7 +1,88 @@
 {
- "generated_at": 1788989405,
- "count": 268,
+ "generated_at": 1788996508,
+ "count": 271,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Electrical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
+   "locations": [
+    "Toronto, CAN"
+   ],
+   "posted_at": 1788994052,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "123ac07a80e1b57c"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Electrical Engineering Intern Spring 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003",
+   "locations": [
+    "Toronto, CAN"
+   ],
+   "posted_at": 1788993908,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "09a0e68691ceab55"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Avionics Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "posted_at": 1788993393,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "1d84c336fa1e323c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hexagon AB",
+   "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
+   "url": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Calgary, AB, Canada"
+   ],
+   "posted_at": 1788991844,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "168ebe86c1068fea"
+  },
   {
    "source": "Greenhouse",
    "company": "Pacific Fusion",
@@ -170,6 +251,49 @@
    ],
    "first_seen": 1788967121,
    "uid": "8d8e1db57ebde45e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola",
+   "title": "FPGA Design Engineering Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401",
+   "locations": [
+    "Schaumburg, IL"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "681c2a088148c07f"
+  },
+  {
+   "source": "Simplify",
+   "company": "GE Vernova",
+   "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2",
+   "locations": [
+    "Rochester, NY"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788996508,
+   "uid": "1e52e5babaf4ae0c"
   },
   {
    "source": "Simplify",
@@ -4379,26 +4503,6 @@
    "uid": "03e2d5eddccd5026"
   },
   {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "Avionics Intern - Neutron Avionics Hardware",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819743003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785788409,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "avionics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "00eec0db1477fef4"
-  },
-  {
    "source": "Simplify",
    "company": "Jane Street",
    "title": "Hardware Engineer Intern - FPGA/ASIC",
@@ -5263,27 +5367,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Tesla",
-   "title": "Electrical Engineer Intern - Electronic Design Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/274258",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1781849435,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "2d62171681f35895"
-  },
-  {
-   "source": "Simplify",
    "company": "Nidec",
    "title": "Aerospace Intern New Grad",
    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
@@ -5444,28 +5527,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "d19b93f56a2ac49c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/272601",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1780795950,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "electronics (+2)",
-    "reliability (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "206e319e540688dd"
   },
   {
    "source": "Simplify",

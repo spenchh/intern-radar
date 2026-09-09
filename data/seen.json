@@ -1,5 +1,5 @@
 {
- "count": 362,
+ "count": 368,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -121,6 +121,12 @@
    "title": "Silicon Photonics Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469-1"
   },
+  "09a0e68691ceab55": {
+   "company": "Rocket Lab",
+   "first_seen": 1788996508,
+   "title": "Electrical Engineering Intern Spring 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003"
+  },
   "0a1a1f128f285515": {
    "company": "CDM Smith",
    "first_seen": 1788567479,
@@ -187,6 +193,12 @@
    "title": "MMIC Design Intern - Defense & Aerospace Products",
    "url": "https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors"
   },
+  "123ac07a80e1b57c": {
+   "company": "Rocket Lab",
+   "first_seen": 1788996508,
+   "title": "Electrical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
+  },
   "12608a75d89705a6": {
    "company": "AMD",
    "first_seen": 1787296034,
@@ -210,6 +222,12 @@
    "first_seen": 1788470444,
    "title": "Signal Integrity / Power Integrity Intern",
    "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true"
+  },
+  "168ebe86c1068fea": {
+   "company": "Hexagon AB",
+   "first_seen": 1788996508,
+   "title": "Digital Hardware Engineer Intern - GNSS Positioning Digital Team",
+   "url": "https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false"
   },
   "16e75909ae2aa9c7": {
    "company": "Etched",
@@ -277,11 +295,23 @@
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770/application"
   },
+  "1d84c336fa1e323c": {
+   "company": "Rocket Lab",
+   "first_seen": 1788996508,
+   "title": "Avionics Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003"
+  },
   "1e369fe21f1d1ec1": {
    "company": "Draper",
    "first_seen": 1788220763,
    "title": "Optics-Physics Sensor Engineering Co-op - Spring 2027",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884"
+  },
+  "1e52e5babaf4ae0c": {
+   "company": "GE Vernova",
+   "first_seen": 1788996508,
+   "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2"
   },
   "1f3b1dc9355a1846": {
    "company": "Stryker",
@@ -822,6 +852,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineering Co-op",
    "url": "https://careers.msasafety.com/jobs/9930?icims=1"
+  },
+  "681c2a088148c07f": {
+   "company": "Motorola",
+   "first_seen": 1788996508,
+   "title": "FPGA Design Engineering Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401"
   },
   "685aaeab80f7686b": {
    "company": "Astera Labs",
@@ -2174,6 +2210,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1788989405,
- "runs": 401
+ "last_run": 1788996508,
+ "runs": 402
 }
