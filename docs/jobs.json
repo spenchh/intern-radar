@@ -1,7 +1,46 @@
 {
- "generated_at": 1788979604,
- "count": 266,
+ "generated_at": 1788989405,
+ "count": 268,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Pacific Fusion",
+   "title": "Summer 2027 Internship - Electrical Engineering",
+   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009",
+   "locations": [
+    "San Leandro, CA/ Fremont, CA or Los Lunas, NM"
+   ],
+   "posted_at": 1788985572,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788989405,
+   "uid": "96592c3c6db19a5d"
+  },
+  {
+   "source": "Ashby",
+   "company": "Saronic",
+   "title": "Electrical Engineer Intern (Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788983256,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788989405,
+   "uid": "18d393610d6919df"
+  },
   {
    "source": "Lever",
    "company": "Hermeus",

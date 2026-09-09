@@ -1,5 +1,5 @@
 {
- "count": 360,
+ "count": 362,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -246,6 +246,12 @@
    "first_seen": 1788583724,
    "title": "Physical Design Engineer Intern - MS - Multiple Teams",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1"
+  },
+  "18d393610d6919df": {
+   "company": "Saronic",
+   "first_seen": 1788989405,
+   "title": "Electrical Engineer Intern (Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a"
   },
   "1a5ada00ab96bf5a": {
    "company": "Blue Origin",
@@ -1158,6 +1164,12 @@
    "first_seen": 1787174638,
    "title": "Electrical Engineering Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01864281"
+  },
+  "96592c3c6db19a5d": {
+   "company": "Pacific Fusion",
+   "first_seen": 1788989405,
+   "title": "Summer 2027 Internship - Electrical Engineering",
+   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009"
   },
   "96b08d35cbbb21a0": {
    "company": "Humanscale",
@@ -2162,6 +2174,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1788979604,
- "runs": 400
+ "last_run": 1788989405,
+ "runs": 401
 }
