@@ -1,7 +1,29 @@
 {
- "generated_at": 1788935007,
- "count": 262,
+ "generated_at": 1788954209,
+ "count": 263,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Moog",
+   "title": "Hardware Design Engineering Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
+   "locations": [
+    "Mineral Wells, TX"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788954209,
+   "uid": "e9de9c727462a9f6"
+  },
   {
    "source": "Simplify",
    "company": "CHAOS Industries",
@@ -1078,6 +1100,27 @@
    ],
    "first_seen": 1788415817,
    "uid": "05a63ec861aaeb84"
+  },
+  {
+   "source": "Simplify",
+   "company": "Reflect Orbital",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/reflect-orbital/a0f12586-4821-4683-8983-c268e621ca0e/application?embed=true",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "posted_at": 1788407562,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788954209,
+   "uid": "c0d05029057c3a5d"
   },
   {
    "source": "Simplify",
@@ -2172,28 +2215,6 @@
    ],
    "first_seen": 1788532392,
    "uid": "8c0c1373d7b3acfe"
-  },
-  {
-   "source": "Simplify",
-   "company": "Aerotech",
-   "title": "Electrical/Computer Engineering Intern Co-op",
-   "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "posted_at": 1788218949,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "computer engineering (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1788238438,
-   "uid": "9dd0c83018f21629"
   },
   {
    "source": "Simplify",
