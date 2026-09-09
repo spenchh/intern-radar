@@ -1,7 +1,28 @@
 {
- "generated_at": 1788954209,
- "count": 263,
+ "generated_at": 1788967121,
+ "count": 267,
  "jobs": [
+  {
+   "source": "Lever",
+   "company": "Hermeus",
+   "title": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
+   "url": "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "posted_at": 1788962832,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 6,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "a867858e46de3eb8"
+  },
   {
    "source": "Simplify",
    "company": "Moog",
@@ -23,6 +44,93 @@
    ],
    "first_seen": 1788954209,
    "uid": "e9de9c727462a9f6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bank of Montreal",
+   "title": "Hardware Asset Management Analyst Co-op Intern - 8 months",
+   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "380e5e88e7c92afe"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bank of Montreal",
+   "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "a1d16fb2401fa9be"
+  },
+  {
+   "source": "Simplify",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "88cc1959be3965a1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
+   "locations": [
+    "Burlington, VT"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "silicon (+3)",
+    "post silicon (+3)",
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "8d8e1db57ebde45e"
   },
   {
    "source": "Simplify",
@@ -1716,27 +1824,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "1f3b1dc9355a1846"
-  },
-  {
-   "source": "Simplify",
-   "company": "Sensata",
-   "title": "Electrical Engineer Intern",
-   "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Dynapower-South-Burlington-VT/Electrical-Engineer-Intern--Dynapower----Summer-2027_IRC98423",
-   "locations": [
-    "South Burlington, VT"
-   ],
-   "posted_at": 1788307200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "5e3af2e6d388181a"
   },
   {
    "source": "Greenhouse",
