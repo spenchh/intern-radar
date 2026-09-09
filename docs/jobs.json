@@ -1,6 +1,6 @@
 {
- "generated_at": 1788967121,
- "count": 267,
+ "generated_at": 1788979604,
+ "count": 266,
  "jobs": [
   {
    "source": "Lever",
@@ -4009,27 +4009,6 @@
    ],
    "first_seen": 1787040895,
    "uid": "2ea39def261bde20"
-  },
-  {
-   "source": "Simplify",
-   "company": "Hendrick Motorsports",
-   "title": "Electrical Engineer Intern - Unmanned Vehicles - UXVs",
-   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Technical-Solutions/Electrical-Engineer---Unmanned-Vehicles--UXVs--1-year-internship_R-82724",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "posted_at": 1787011200,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "a071ed419210ad49"
   },
   {
    "source": "Greenhouse",
