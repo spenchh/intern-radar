@@ -1,6 +1,6 @@
 {
- "generated_at": 1788916587,
- "count": 263,
+ "generated_at": 1788935007,
+ "count": 262,
  "jobs": [
   {
    "source": "Simplify",
@@ -3942,28 +3942,6 @@
    ],
    "first_seen": 1787002870,
    "uid": "d6f2717615594027"
-  },
-  {
-   "source": "Simplify",
-   "company": "Epia Neuro",
-   "title": "Hardware Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true",
-   "locations": [
-    "Alameda, CA"
-   ],
-   "posted_at": 1786754517,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "4607e7a16c78401d"
   },
   {
    "source": "Simplify",
