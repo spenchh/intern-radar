@@ -1,7 +1,72 @@
 {
- "generated_at": 1789003372,
- "count": 273,
+ "generated_at": 1789021328,
+ "count": 272,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Rocket Lab USA",
+   "title": "Electrical Engineer Intern - Space Systems Division",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1789003760,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789021328,
+   "uid": "486ac180c27a9e8b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
+   "url": "https://careers.jhuapl.edu/jobs/59764?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1789003192,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineer (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789021328,
+   "uid": "0a8547f49b7cc246"
+  },
+  {
+   "source": "Simplify",
+   "company": "Dell Technologies",
+   "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1789002219,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789021328,
+   "uid": "367593b86e8210d2"
+  },
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
@@ -337,27 +402,6 @@
    ],
    "first_seen": 1789003372,
    "uid": "d3180a5e8e3d3b1c"
-  },
-  {
-   "source": "Simplify",
-   "company": "CHAOS Industries",
-   "title": "Electrical Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted_at": 1788907600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788909145,
-   "uid": "a4b495e937eb61cb"
   },
   {
    "source": "Simplify",
@@ -880,28 +924,6 @@
    ],
    "first_seen": 1788583724,
    "uid": "ed21231e02f50535"
-  },
-  {
-   "source": "Simplify",
-   "company": "Apple",
-   "title": "Design Verification Intern",
-   "url": "https://jobs.apple.com/en-us/details/200681613",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1788570422,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787643107,
-   "uid": "2669eb8306d6acb6"
   },
   {
    "source": "Simplify",
@@ -4572,25 +4594,6 @@
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
-   "title": "Avionics Development Intern - Electron",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821144003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785728201,
-   "terms": [],
-   "sponsorship": "",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "avionics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "d781240c49c45596"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
    "title": "Ground Systems Engineering Intern - Instrumentation & Control",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003",
    "locations": [
@@ -5790,28 +5793,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "b12420b6027b4548"
-  },
-  {
-   "source": "Simplify",
-   "company": "Quadric",
-   "title": "Design Verification Intern",
-   "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/AAE0675990/apply",
-   "locations": [
-    "Burlingame, CA"
-   ],
-   "posted_at": 1779152970,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "d5d87bfd2a9c9935"
   },
   {
    "source": "Simplify",

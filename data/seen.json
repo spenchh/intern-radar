@@ -1,5 +1,5 @@
 {
- "count": 370,
+ "count": 373,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -132,6 +132,12 @@
    "first_seen": 1788567479,
    "title": "Electrical Engineer Intern - Summer 2027",
    "url": "https://careers.cdmsmith.com/jobs/4398?icims=1"
+  },
+  "0a8547f49b7cc246": {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "first_seen": 1789021328,
+   "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
+   "url": "https://careers.jhuapl.edu/jobs/59764?icims=1"
   },
   "0a8562d8b1b1411d": {
    "company": "Solidigm",
@@ -523,6 +529,12 @@
    "title": "Formal Verification Intern",
    "url": "https://jobs.apple.com/en-us/details/200681934"
   },
+  "367593b86e8210d2": {
+   "company": "Dell Technologies",
+   "first_seen": 1789021328,
+   "title": "Hardware Engineering Intern - Client Solutions Group Engineering",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216"
+  },
   "3675cf3fec65ee87": {
    "company": "Ambarella",
    "first_seen": 1787874763,
@@ -642,6 +654,12 @@
    "first_seen": 1788470444,
    "title": "Analog Engineer Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1"
+  },
+  "486ac180c27a9e8b": {
+   "company": "Rocket Lab USA",
+   "first_seen": 1789021328,
+   "title": "Electrical Engineer Intern - Space Systems Division",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003"
   },
   "48d930393904206d": {
    "company": "L3Harris Technologies",
@@ -2222,6 +2240,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789003372,
- "runs": 403
+ "last_run": 1789021328,
+ "runs": 404
 }
