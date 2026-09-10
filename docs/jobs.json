@@ -1,7 +1,65 @@
 {
- "generated_at": 1789064944,
- "count": 274,
+ "generated_at": 1789074474,
+ "count": 276,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Vast",
+   "title": "Emerging Talent - Electrical Internship",
+   "url": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006",
+   "locations": [
+    "Long Beach, California, United States"
+   ],
+   "posted_at": 1789067376,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789074474,
+   "uid": "62112f6f797a5593"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Test Engineering Intern - Avionics Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "posted_at": 1789067197,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1789074474,
+   "uid": "15d55ad391a836f6"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Electrical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "posted_at": 1789067065,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789074474,
+   "uid": "2292dff58e5a7da9"
+  },
   {
    "source": "Simplify",
    "company": "L3Harris Technologies",
@@ -4299,28 +4357,6 @@
    ],
    "first_seen": 1787002870,
    "uid": "d6f2717615594027"
-  },
-  {
-   "source": "Simplify",
-   "company": "MSA Safety",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://careers.msasafety.com/jobs/9930?icims=1",
-   "locations": [
-    "Cranberry Township, PA"
-   ],
-   "posted_at": 1786680163,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "66d17dfc7eb188bc"
   },
   {
    "source": "Simplify",

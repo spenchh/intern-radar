@@ -1,5 +1,5 @@
 {
- "count": 376,
+ "count": 379,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -235,6 +235,12 @@
    "title": "Signal Integrity / Power Integrity Intern",
    "url": "https://jobs.ashbyhq.com/Etched/ce683632-421a-4ef9-8664-b253356969a3/application?embed=true"
   },
+  "15d55ad391a836f6": {
+   "company": "Rocket Lab",
+   "first_seen": 1789074474,
+   "title": "Test Engineering Intern - Avionics Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003"
+  },
   "168ebe86c1068fea": {
    "company": "Hexagon AB",
    "first_seen": 1788996508,
@@ -378,6 +384,12 @@
    "first_seen": 1788434053,
    "title": "Sensor Electrical Engineering Co-op - Spring 2027",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885"
+  },
+  "2292dff58e5a7da9": {
+   "company": "Rocket Lab",
+   "first_seen": 1789074474,
+   "title": "Electrical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
   },
   "2304ea14d0dd2b6d": {
    "company": "Fab2",
@@ -846,6 +858,12 @@
    "first_seen": 1787755378,
    "title": "Silicon Engineer Intern",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170"
+  },
+  "62112f6f797a5593": {
+   "company": "Vast",
+   "first_seen": 1789074474,
+   "title": "Emerging Talent - Electrical Internship",
+   "url": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006"
   },
   "6240864d09acafb4": {
    "company": "Skydio",
@@ -2258,6 +2276,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789064944,
- "runs": 407
+ "last_run": 1789074474,
+ "runs": 408
 }
