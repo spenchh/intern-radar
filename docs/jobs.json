@@ -1,6 +1,6 @@
 {
- "generated_at": 1788996508,
- "count": 271,
+ "generated_at": 1789003372,
+ "count": 273,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -60,6 +60,28 @@
    ],
    "first_seen": 1788996508,
    "uid": "1d84c336fa1e323c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Electrical and Computer Engineer Intern - Miniature Device Technologies",
+   "url": "https://careers.jhuapl.edu/jobs/59993?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1788993009,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "computer engineer (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789003372,
+   "uid": "d38644916c8ef529"
   },
   {
    "source": "Simplify",
@@ -294,6 +316,27 @@
    ],
    "first_seen": 1788996508,
    "uid": "1e52e5babaf4ae0c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Varian",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Electrical-Engineering-Co-op---Hoffman-Estates--IL_R-30734",
+   "locations": [
+    "Hoffman Estates, IL"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789003372,
+   "uid": "d3180a5e8e3d3b1c"
   },
   {
    "source": "Simplify",
