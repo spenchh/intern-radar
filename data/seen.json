@@ -1,5 +1,5 @@
 {
- "count": 374,
+ "count": 376,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -42,6 +42,12 @@
    "first_seen": 1788477891,
    "title": "Design Verification Infrastructure Intern - Platform",
    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1"
+  },
+  "020a74dbaf3aff82": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1789053058,
+   "title": "Integration/Test Engineer Intern",
+   "url": "https://jobs.l3harris.com/job/Melbourne-IntegrationTest-Engineering-Intern-FL-32901/1428454000/?ats=successfactors"
   },
   "0213cf510fd5668d": {
    "company": "Persona AI",
@@ -1741,6 +1747,12 @@
    "title": "RTL Intern",
    "url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e"
   },
+  "cde20d2a41b322d6": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1789053058,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors"
+  },
   "ce02913601fede36": {
    "company": "RTX",
    "first_seen": 1788909145,
@@ -2246,6 +2258,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789040428,
- "runs": 405
+ "last_run": 1789053058,
+ "runs": 406
 }
