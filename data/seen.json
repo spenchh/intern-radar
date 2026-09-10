@@ -1,5 +1,5 @@
 {
- "count": 373,
+ "count": 374,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1387,6 +1387,12 @@
    "title": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
    "url": "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462"
   },
+  "a9d5ad241bda4504": {
+   "company": "Blue Origin",
+   "first_seen": 1789040428,
+   "title": "Electrical Systems Engineer Co-op - Fixed Term",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"
+  },
   "a9ea6b3798dcf6a2": {
    "company": "Brunswick",
    "first_seen": 1787950754,
@@ -2240,6 +2246,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789021328,
- "runs": 404
+ "last_run": 1789040428,
+ "runs": 405
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": 1789021328,
- "count": 272,
+ "generated_at": 1789040428,
+ "count": 273,
  "jobs": [
   {
    "source": "Simplify",
@@ -690,6 +690,28 @@
    ],
    "first_seen": 1788909145,
    "uid": "df1f190887ab369e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Blue Origin",
+   "title": "Electrical Systems Engineer Co-op - Fixed Term",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548",
+   "locations": [
+    "LA"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789040428,
+   "uid": "a9d5ad241bda4504"
   },
   {
    "source": "Simplify",
