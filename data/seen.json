@@ -1,5 +1,5 @@
 {
- "count": 397,
+ "count": 399,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -769,6 +769,12 @@
    "title": "Microelectronics R&D Intern - Engineering & Technology Innovation",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675"
   },
+  "4e194836c2857163": {
+   "company": "Xcimer Energy",
+   "first_seen": 1789151575,
+   "title": "Summer 2027 Internship - Electrical and Pulsed Power Engineering",
+   "url": "https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d"
+  },
   "4e1fcc9d8acdb340": {
    "company": "Heron Power",
    "first_seen": 1786988749,
@@ -1170,6 +1176,12 @@
    "first_seen": 1786988749,
    "title": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004"
+  },
+  "800f6bae6c47dc88": {
+   "company": "Ciena",
+   "first_seen": 1789151575,
+   "title": "NPI Hardware Co-op - 8 month",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642"
   },
   "813f291cf79a7109": {
    "company": "Contoro",
@@ -2384,6 +2396,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789138901,
- "runs": 413
+ "last_run": 1789151575,
+ "runs": 414
 }

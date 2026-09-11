@@ -1,7 +1,26 @@
 {
- "generated_at": 1789138901,
- "count": 294,
+ "generated_at": 1789151575,
+ "count": 295,
  "jobs": [
+  {
+   "source": "Lever",
+   "company": "Xcimer Energy",
+   "title": "Summer 2027 Internship - Electrical and Pulsed Power Engineering",
+   "url": "https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d",
+   "locations": [
+    "Denver, CO"
+   ],
+   "posted_at": 1789138882,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789151575,
+   "uid": "4e194836c2857163"
+  },
   {
    "source": "Simplify",
    "company": "Lightmatter",
@@ -65,6 +84,28 @@
    ],
    "first_seen": 1789088757,
    "uid": "1accd118947fc518"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "NPI Hardware Co-op - 8 month",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789084800,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789151575,
+   "uid": "800f6bae6c47dc88"
   },
   {
    "source": "Simplify",
@@ -4797,27 +4838,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "e6f8c7b2b8668d28"
-  },
-  {
-   "source": "Simplify",
-   "company": "Teledyne",
-   "title": "Electrical Engineer Intern",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563",
-   "locations": [
-    "Miamisburg, OH"
-   ],
-   "posted_at": 1786320000,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "7e95de70458a26be"
   },
   {
    "source": "Simplify",
