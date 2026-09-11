@@ -1,7 +1,165 @@
 {
- "generated_at": 1789161565,
- "count": 296,
+ "generated_at": 1789169289,
+ "count": 304,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Analog/Mixed-Signal Design Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92346?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789165204,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "9c3cbef99dfe6c39"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92350?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789165204,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "silicon (+3)",
+    "serdes (+3)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "f52d3f8c2c2733ff"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Optical & Photonics Engineering Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92358?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789165201,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "photonics (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "2f2f4b92392aa414"
+  },
+  {
+   "source": "Simplify",
+   "company": "Quantinuum",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply",
+   "locations": [
+    "Broomfield, CO"
+   ],
+   "posted_at": 1789164972,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "5211b60cb0a2db60"
+  },
+  {
+   "source": "Simplify",
+   "company": "Quantinuum",
+   "title": "Photonic Integrated Circuit Design Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107/apply",
+   "locations": [
+    "Broomfield, CO"
+   ],
+   "posted_at": 1789164972,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "integrated circuit (+3)",
+    "circuit design (+3)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "1023add390c8698d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Quantinuum",
+   "title": "Layout Automation Engineering Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply",
+   "locations": [
+    "Brooklyn Park, MN"
+   ],
+   "posted_at": 1789164971,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "layout (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "7c87133079068308"
+  },
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Hardware Design Engineer Intern",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801",
+   "locations": [
+    "Round Rock, TX"
+   ],
+   "posted_at": 1789164798,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "5bcb2265ed42132d"
+  },
   {
    "source": "Lever",
    "company": "Xcimer Energy",
@@ -125,6 +283,48 @@
    ],
    "first_seen": 1789151575,
    "uid": "800f6bae6c47dc88"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern - Test",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern---Test_01874305",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1789084800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "a82d77b9f7a49455"
+  },
+  {
+   "source": "Simplify",
+   "company": "Varian",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Electrical-Engineering-Co-op---Knoxville--TN_R-30765",
+   "locations": [
+    "Knoxville, TN"
+   ],
+   "posted_at": 1789084800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789169289,
+   "uid": "be95fea7eb99932f"
   },
   {
    "source": "Simplify",
@@ -4098,27 +4298,6 @@
    ],
    "first_seen": 1788447714,
    "uid": "52e241878036afc3"
-  },
-  {
-   "source": "Simplify",
-   "company": "Albedo",
-   "title": "Electrical Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/albedo/jobs/4379497009",
-   "locations": [
-    "Broomfield, CO"
-   ],
-   "posted_at": 1787351426,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "2e4ec0cedf6b6e34"
   },
   {
    "source": "Greenhouse",

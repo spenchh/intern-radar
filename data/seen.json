@@ -1,5 +1,5 @@
 {
- "count": 400,
+ "count": 409,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -204,6 +204,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineering Intern",
    "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8082027"
+  },
+  "1023add390c8698d": {
+   "company": "Quantinuum",
+   "first_seen": 1789169289,
+   "title": "Photonic Integrated Circuit Design Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/ef4b4db2-4ce1-47f5-bfd1-12dfc8a90107/apply"
   },
   "10ebc4d2818416d5": {
    "company": "Cadence Design Systems",
@@ -541,6 +547,12 @@
    "title": "Analog and Mixed-Signal IC Design Engineer Intern",
    "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003"
   },
+  "2f2f4b92392aa414": {
+   "company": "AMD",
+   "first_seen": 1789169289,
+   "title": "Optical & Photonics Engineering Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92358?icims=1"
+  },
   "2f5635207e8cf8e7": {
    "company": "Northwood Space",
    "first_seen": 1787972884,
@@ -817,6 +829,12 @@
    "title": "Intern, Optical Packaging and Characterization Engineer",
    "url": "https://www.psiquantum.com/apply?gh_jid=7761881003"
   },
+  "5211b60cb0a2db60": {
+   "company": "Quantinuum",
+   "first_seen": 1789169289,
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply"
+  },
   "52327d3d3a19d073": {
    "company": "Sensata",
    "first_seen": 1786988749,
@@ -864,6 +882,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FL-32905/1420319900/?ats=successfactors"
+  },
+  "5bcb2265ed42132d": {
+   "company": "Emerson Electric",
+   "first_seen": 1789169289,
+   "title": "Hardware Design Engineer Intern",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801"
   },
   "5bf5d363b8e8f35b": {
    "company": "Qorvo",
@@ -1147,6 +1171,12 @@
    "title": "ASIC Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91207?icims=1"
   },
+  "7c87133079068308": {
+   "company": "Quantinuum",
+   "first_seen": 1789169289,
+   "title": "Layout Automation Engineering Intern",
+   "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply"
+  },
   "7cf9aacb8b734ed6": {
    "company": "Skydio",
    "first_seen": 1788303697,
@@ -1381,6 +1411,12 @@
    "title": "Hardware Design Verification Engineering Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90820?icims=1"
   },
+  "9c3cbef99dfe6c39": {
+   "company": "AMD",
+   "first_seen": 1789169289,
+   "title": "Analog/Mixed-Signal Design Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92346?icims=1"
+  },
   "9cca48f20c24d6c9": {
    "company": "NXP Semiconductors",
    "first_seen": 1786988749,
@@ -1494,6 +1530,12 @@
    "first_seen": 1788415817,
    "title": "Silicon Hardware Engineering Intern - Graduate",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830"
+  },
+  "a82d77b9f7a49455": {
+   "company": "RTX",
+   "first_seen": 1789169289,
+   "title": "Electrical Engineer Intern - Test",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern---Test_01874305"
   },
   "a867858e46de3eb8": {
    "company": "Hermeus",
@@ -1722,6 +1764,12 @@
    "first_seen": 1788909145,
    "title": "Sensor Hardware Test Engineer Intern",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/1f413f83-b897-4938-a19e-ab91bd326c51/application?embed=true"
+  },
+  "be95fea7eb99932f": {
+   "company": "Varian",
+   "first_seen": 1789169289,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Electrical-Engineering-Co-op---Knoxville--TN_R-30765"
   },
   "bf12a1cdfd5cda22": {
    "company": "Formlabs",
@@ -2305,6 +2353,12 @@
    "title": "Analog Engineer Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426-1"
   },
+  "f52d3f8c2c2733ff": {
+   "company": "AMD",
+   "first_seen": 1789169289,
+   "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92350?icims=1"
+  },
   "f67932f1dd373171": {
    "company": "Western Digital",
    "first_seen": 1788470444,
@@ -2402,6 +2456,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789161565,
- "runs": 415
+ "last_run": 1789169289,
+ "runs": 416
 }
