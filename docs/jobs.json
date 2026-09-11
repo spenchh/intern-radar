@@ -1,6 +1,6 @@
 {
- "generated_at": 1789106389,
- "count": 292,
+ "generated_at": 1789124857,
+ "count": 293,
  "jobs": [
   {
    "source": "Simplify",
@@ -878,6 +878,27 @@
    ],
    "first_seen": 1788909145,
    "uid": "bdd9603093b31a06"
+  },
+  {
+   "source": "Simplify",
+   "company": "Allen Control Systems",
+   "title": "Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1788906718,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789124857,
+   "uid": "c377e9b34b728965"
   },
   {
    "source": "Simplify",
