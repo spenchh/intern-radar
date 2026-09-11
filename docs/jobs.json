@@ -1,7 +1,27 @@
 {
- "generated_at": 1789081844,
- "count": 288,
+ "generated_at": 1789088757,
+ "count": 289,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Lightmatter",
+   "title": "Photonics Characterization Intern & New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5374627008?gh_jid=5374627008",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted_at": 1789088212,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "characterization (+2)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1789088757,
+   "uid": "1accd118947fc518"
+  },
   {
    "source": "Simplify",
    "company": "Bedrock Robotics",
@@ -93,7 +113,7 @@
   {
    "source": "Greenhouse",
    "company": "Vast",
-   "title": "Emerging Talent - Electrical Internship",
+   "title": "Emerging Talent - Electrical Engineering Internship",
    "url": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006",
    "locations": [
     "Long Beach, California, United States"
@@ -102,12 +122,13 @@
    "terms": [],
    "sponsorship": "",
    "category": "electrical",
-   "score": 2,
+   "score": 4,
    "reasons": [
-    "electrical (+2)"
+    "electrical (+2)",
+    "electrical engineering (+2)"
    ],
-   "first_seen": 1789074474,
-   "uid": "62112f6f797a5593"
+   "first_seen": 1789088757,
+   "uid": "3da656018c5229a7"
   },
   {
    "source": "Greenhouse",
