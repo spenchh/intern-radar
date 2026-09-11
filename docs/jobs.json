@@ -1,7 +1,51 @@
 {
- "generated_at": 1789088757,
- "count": 289,
+ "generated_at": 1789106389,
+ "count": 292,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Lightmatter",
+   "title": "Photonics Characterization Intern New Grad - New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5374627008",
+   "locations": [
+    "Boston, MA"
+   ],
+   "posted_at": 1789090942,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "characterization (+2)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1789106389,
+   "uid": "0d440c42b722966d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bedrock Robotics",
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1789089971,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789106389,
+   "uid": "9cff98247da51af4"
+  },
   {
    "source": "Greenhouse",
    "company": "Lightmatter",
@@ -87,6 +131,28 @@
    ],
    "first_seen": 1789081844,
    "uid": "db79924555c3d12b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Geotab",
+   "title": "Embedded Developer Intern - Engine Data Reliability",
+   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008",
+   "locations": [
+    "Oakville, ON, Canada"
+   ],
+   "posted_at": 1789077910,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1789106389,
+   "uid": "c7d2b4b3b0a4dcd2"
   },
   {
    "source": "Simplify",

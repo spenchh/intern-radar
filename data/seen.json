@@ -1,5 +1,5 @@
 {
- "count": 393,
+ "count": 396,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -168,6 +168,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376"
+  },
+  "0d440c42b722966d": {
+   "company": "Lightmatter",
+   "first_seen": 1789106389,
+   "title": "Photonics Characterization Intern New Grad - New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5374627008"
   },
   "0db9e08857d0b3e1": {
    "company": "Marvell",
@@ -1369,6 +1375,12 @@
    "title": "Digital Physical Design Intern - P&R",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673"
   },
+  "9cff98247da51af4": {
+   "company": "Bedrock Robotics",
+   "first_seen": 1789106389,
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true"
+  },
   "9d5a7fb3fc3758d0": {
    "company": "Intel",
    "first_seen": 1788415817,
@@ -1770,6 +1782,12 @@
    "first_seen": 1787800689,
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
+  },
+  "c7d2b4b3b0a4dcd2": {
+   "company": "Geotab",
+   "first_seen": 1789106389,
+   "title": "Embedded Developer Intern - Engine Data Reliability",
+   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008"
   },
   "c7dcc15640629e2e": {
    "company": "Odys Aviation",
@@ -2360,6 +2378,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789088757,
- "runs": 410
+ "last_run": 1789106389,
+ "runs": 411
 }
