@@ -1,7 +1,26 @@
 {
- "generated_at": 1789151575,
- "count": 295,
+ "generated_at": 1789161565,
+ "count": 296,
  "jobs": [
+  {
+   "source": "Lever",
+   "company": "Xcimer Energy",
+   "title": "Summer 2027 Internship - Optical Engineering",
+   "url": "https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a",
+   "locations": [
+    "Denver, CO"
+   ],
+   "posted_at": 1789157893,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1789161565,
+   "uid": "e695128719e6f591"
+  },
   {
    "source": "Lever",
    "company": "Xcimer Energy",
