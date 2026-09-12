@@ -1,6 +1,6 @@
 {
- "generated_at": 1789222048,
- "count": 303,
+ "generated_at": 1789232962,
+ "count": 304,
  "jobs": [
   {
    "source": "Simplify",
@@ -5994,6 +5994,27 @@
    ],
    "first_seen": 1788470444,
    "uid": "23e3151d7fc554d0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Engineer Intern - PhD",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1782562336,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": 1788470444,
+   "uid": "a6b0063349a7d903"
   },
   {
    "source": "Simplify",
