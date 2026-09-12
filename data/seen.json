@@ -1,5 +1,5 @@
 {
- "count": 409,
+ "count": 412,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -90,6 +90,12 @@
    "first_seen": 1786988749,
    "title": "Ground Systems Engineering Intern - Instrumentation & Control",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
+  },
+  "043e8a225ff655c8": {
+   "company": "Blue Robotics",
+   "first_seen": 1789176399,
+   "title": "Electronics Design Co-op",
+   "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8"
   },
   "0479978665945939": {
    "company": "Insulet",
@@ -931,6 +937,12 @@
    "title": "Hardware Test Intern - Spring 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7894349003"
   },
+  "611e9c16b192dcff": {
+   "company": "Allegion",
+   "first_seen": 1789176399,
+   "title": "Hardware Engineer Intern - Product Lifecycle Engineering",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1"
+  },
   "613f866181243553": {
    "company": "AMD",
    "first_seen": 1787296034,
@@ -1014,6 +1026,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Developer Engineer Co-op/Intern",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231"
+  },
+  "6ad5884421738578": {
+   "company": "Lightmatter",
+   "first_seen": 1789176399,
+   "title": "Silicon Packaging Engineer - Intern & New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008"
   },
   "6afca8f55a376899": {
    "company": "GlobalFoundries",
@@ -2456,6 +2474,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789169289,
- "runs": 416
+ "last_run": 1789176399,
+ "runs": 417
 }

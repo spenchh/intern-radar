@@ -1,7 +1,49 @@
 {
- "generated_at": 1789169289,
- "count": 304,
+ "generated_at": 1789176399,
+ "count": 305,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Blue Robotics",
+   "title": "Electronics Design Co-op",
+   "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
+   "locations": [
+    "Victoria, BC, Canada"
+   ],
+   "posted_at": 1789170973,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1789176399,
+   "uid": "043e8a225ff655c8"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Lightmatter",
+   "title": "Silicon Packaging Engineer - Intern & New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1789169825,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1789176399,
+   "uid": "6ad5884421738578"
+  },
   {
    "source": "Simplify",
    "company": "AMD",
@@ -325,6 +367,28 @@
    ],
    "first_seen": 1789169289,
    "uid": "be95fea7eb99932f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Allegion",
+   "title": "Hardware Engineer Intern - Product Lifecycle Engineering",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1789084800,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789176399,
+   "uid": "611e9c16b192dcff"
   },
   {
    "source": "Simplify",
@@ -2484,28 +2548,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "c4ed005d6cc27fc2"
-  },
-  {
-   "source": "Simplify",
-   "company": "GlobalFoundries",
-   "title": "Silicon Photonics Advanced Packaging Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270",
-   "locations": [
-    "Malta, NY"
-   ],
-   "posted_at": 1788393600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "silicon (+3)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "6afca8f55a376899"
   },
   {
    "source": "Simplify",
@@ -4799,27 +4841,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "2b38f57dffc28027"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Ph.D. Research Hardware Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "31482f9f0093f32d"
   },
   {
    "source": "Simplify",
