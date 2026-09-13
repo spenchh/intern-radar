@@ -1,5 +1,5 @@
 {
- "generated_at": 1789281190,
+ "generated_at": 1789301846,
  "count": 304,
  "jobs": [
   {
@@ -1952,29 +1952,6 @@
   {
    "source": "Simplify",
    "company": "Marvell",
-   "title": "Functional Validation Intern - BS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514",
-   "locations": [
-    "Santa Clara, CA",
-    "Boise, ID",
-    "Westborough, MA"
-   ],
-   "posted_at": 1788480000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1788567479,
-   "uid": "e7637a8e025e3cc0"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
    "title": "Analog Design Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510",
    "locations": [
@@ -1994,6 +1971,29 @@
    ],
    "first_seen": 1788567479,
    "uid": "db6ccc62e35452f9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Functional Validation Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1",
+   "locations": [
+    "Santa Clara, CA",
+    "Boise, ID",
+    "Westborough, MA"
+   ],
+   "posted_at": 1788480000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788567479,
+   "uid": "e7637a8e025e3cc0"
   },
   {
    "source": "Simplify",
