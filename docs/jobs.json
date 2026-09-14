@@ -1,6 +1,6 @@
 {
- "generated_at": 1789368261,
- "count": 303,
+ "generated_at": 1789392200,
+ "count": 302,
  "jobs": [
   {
    "source": "Simplify",
@@ -4927,27 +4927,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "cca13839f4042e84"
-  },
-  {
-   "source": "Simplify",
-   "company": "University of St. Thomas",
-   "title": "Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub",
-   "url": "https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "St Paul, MN"
-   ],
-   "posted_at": 1787039392,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "semiconductor (+3)"
-   ],
-   "first_seen": 1787040895,
-   "uid": "2ea39def261bde20"
   },
   {
    "source": "Greenhouse",
