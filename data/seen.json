@@ -1,5 +1,5 @@
 {
- "count": 417,
+ "count": 428,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -355,6 +355,12 @@
    "title": "Characterization and Support Intern",
    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998"
   },
+  "1b9def52f649fd55": {
+   "company": "Bedrock Robotics",
+   "first_seen": 1789424135,
+   "title": "Hardware Engineer Intern - Machine Integration & Test",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true"
+  },
   "1d09da6b7fe00526": {
    "company": "Base Power",
    "first_seen": 1786988749,
@@ -607,6 +613,12 @@
    "title": "Analog Mixed-Signal Layout Intern",
    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4721054005"
   },
+  "32cc818e9e42f4e2": {
+   "company": "Google",
+   "first_seen": 1789424135,
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422"
+  },
   "343b23c11ad03785": {
    "company": "onsemi",
    "first_seen": 1788238438,
@@ -751,6 +763,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true"
   },
+  "46cd886019cb4f1c": {
+   "company": "Google",
+   "first_seen": 1789424135,
+   "title": "Hardware Engineer Intern - PhD",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574"
+  },
   "4724c770fbd82fd7": {
    "company": "Marvell",
    "first_seen": 1788470444,
@@ -768,6 +786,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Electrical-Engineer-IN-46818/1420699700/?ats=successfactors"
+  },
+  "49bbb83fc91c57e6": {
+   "company": "Cyvl",
+   "first_seen": 1789424135,
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application?embed=true"
   },
   "4afc4c771fa81c44": {
    "company": "Qorvo",
@@ -1111,6 +1135,12 @@
    "title": "DFT Intern",
    "url": "https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d"
   },
+  "6f9b3f2d1a296182": {
+   "company": "RTX",
+   "first_seen": 1789424135,
+   "title": "Validation Engineering Intern - Product Safety, Certification & Validation",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406-1"
+  },
   "707a809bc6341eb4": {
    "company": "Dominion Energy",
    "first_seen": 1788909145,
@@ -1152,6 +1182,12 @@
    "first_seen": 1787179851,
    "title": "Hardware Test Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003"
+  },
+  "7535d03a08ddda17": {
+   "company": "Google",
+   "first_seen": 1789424135,
+   "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662"
   },
   "759e09bdf1f4dbba": {
    "company": "Kodiak Robotics",
@@ -1284,6 +1320,12 @@
    "first_seen": 1787135234,
    "title": "Hardware ASIC Design Intern - Hardware",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486"
+  },
+  "8512ca8debc67b92": {
+   "company": "Marvell",
+   "first_seen": 1789424135,
+   "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525"
   },
   "864fbec1c25de8fb": {
    "company": "IMEG",
@@ -1501,6 +1543,12 @@
    "title": "Analog Design Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142"
   },
+  "a08b01a90ebcf9ce": {
+   "company": "RTX",
+   "first_seen": 1789424135,
+   "title": "Electrical Engineer Intern - RDP",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242"
+  },
   "a11de461298f82e4": {
    "company": "Bio-Techne",
    "first_seen": 1786988749,
@@ -1626,6 +1674,12 @@
    "first_seen": 1786988749,
    "title": "CMOS Co-op",
    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1"
+  },
+  "abef66a7d3890e9d": {
+   "company": "Google",
+   "first_seen": 1789424135,
+   "title": "Silicon Engineering Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006"
   },
   "acb5ecc1179944d8": {
    "company": "AMD",
@@ -1866,6 +1920,12 @@
    "first_seen": 1786988749,
    "title": "Avionics Engineer Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597413006"
+  },
+  "c369db4c84e53d0e": {
+   "company": "North Atlantic Industries",
+   "first_seen": 1789424135,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330"
   },
   "c377e9b34b728965": {
    "company": "Allen Control Systems",
@@ -2371,6 +2431,12 @@
    "title": "Spaceflight Hardware Intern",
    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Fall-2026---Spaceflight-Hardware-Intern_R0166096"
   },
+  "f0a62d666cac0a54": {
+   "company": "EquipmentShare",
+   "first_seen": 1789424135,
+   "title": "Electrical Engineering Intern - Embedded",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8142763"
+  },
   "f0fcad4f7ff11e3f": {
    "company": "Brunswick",
    "first_seen": 1788434053,
@@ -2504,6 +2570,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789411706,
- "runs": 435
+ "last_run": 1789424135,
+ "runs": 436
 }

@@ -1,7 +1,246 @@
 {
- "generated_at": 1789411706,
- "count": 306,
+ "generated_at": 1789424135,
+ "count": 317,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Cyvl",
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application?embed=true",
+   "locations": [
+    "Boston, MA",
+    "Somerville, MA"
+   ],
+   "posted_at": 1789420443,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "49bbb83fc91c57e6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Google",
+   "title": "Silicon Engineering Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/136529930677560006",
+   "locations": [
+    "Madison, WI",
+    "Austin, TX",
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1789417464,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "abef66a7d3890e9d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Google",
+   "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662",
+   "locations": [
+    "Madison, WI",
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1789417431,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "7535d03a08ddda17"
+  },
+  {
+   "source": "Simplify",
+   "company": "Google",
+   "title": "Hardware Engineer Intern - PhD",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
+   "locations": [
+    "Palo Alto, CA",
+    "Cambridge, MA",
+    "Madison, WI",
+    "Seattle, WA",
+    "Washington, DC",
+    "SF",
+    "Austin, TX",
+    "LA",
+    "San Jose, CA",
+    "Irvine, CA",
+    "South SF",
+    "Redwood City, CA",
+    "Raleigh, NC",
+    "San Bruno, CA",
+    "Redmond, WA",
+    "Durham, NC",
+    "Ann Arbor, MI",
+    "Santa Cruz, CA",
+    "Chicago, IL",
+    "Goleta, CA",
+    "Pittsburgh, PA",
+    "Kirkland, WA",
+    "Reston, VA",
+    "NYC",
+    "Bellevue, WA",
+    "Sunnyvale, CA",
+    "Mountain View, CA",
+    "Portland, OR",
+    "Boulder, CO",
+    "Atlanta, GA",
+    "San Diego, CA"
+   ],
+   "posted_at": 1789417425,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "46cd886019cb4f1c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Google",
+   "title": "Hardware Engineer Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422",
+   "locations": [
+    "Palo Alto, CA",
+    "Cambridge, MA",
+    "Madison, WI",
+    "Seattle, WA",
+    "Washington, DC",
+    "SF",
+    "Austin, TX",
+    "LA",
+    "San Jose, CA",
+    "Irvine, CA",
+    "South SF",
+    "Redwood City, CA",
+    "Raleigh, NC",
+    "San Bruno, CA",
+    "Redmond, WA",
+    "Durham, NC",
+    "Ann Arbor, MI",
+    "Santa Cruz, CA",
+    "Chicago, IL",
+    "Goleta, CA",
+    "Pittsburgh, PA",
+    "Kirkland, WA",
+    "Reston, VA",
+    "NYC",
+    "Bellevue, WA",
+    "Sunnyvale, CA",
+    "Mountain View, CA",
+    "Portland, OR",
+    "Boulder, CO",
+    "Atlanta, GA",
+    "San Diego, CA"
+   ],
+   "posted_at": 1789417416,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "32cc818e9e42f4e2"
+  },
+  {
+   "source": "Simplify",
+   "company": "EquipmentShare",
+   "title": "Electrical Engineering Intern - Embedded",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8142763",
+   "locations": [
+    "Columbia, MO"
+   ],
+   "posted_at": 1789417020,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)",
+    "embedded (+1)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "f0a62d666cac0a54"
+  },
+  {
+   "source": "Simplify",
+   "company": "Bedrock Robotics",
+   "title": "Hardware Engineer Intern - Machine Integration & Test",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1789416682,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 6,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "integration test (+1)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "1b9def52f649fd55"
+  },
+  {
+   "source": "Simplify",
+   "company": "North Atlantic Industries",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330",
+   "locations": [
+    "Bohemia, NY"
+   ],
+   "posted_at": 1789414151,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "c369db4c84e53d0e"
+  },
   {
    "source": "Simplify",
    "company": "Emerson Electric",
@@ -112,6 +351,51 @@
    ],
    "first_seen": 1789411706,
    "uid": "0da18c20f873486d"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Validation Engineering Intern - Product Safety, Certification & Validation",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406-1",
+   "locations": [
+    "East Hartford, CT"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "6f9b3f2d1a296182"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525",
+   "locations": [
+    "Toronto, ON, Canada",
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "silicon (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "8512ca8debc67b92"
   },
   {
    "source": "Simplify",
@@ -1334,6 +1618,27 @@
    ],
    "first_seen": 1789124857,
    "uid": "c377e9b34b728965"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern - RDP",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242",
+   "locations": [
+    "Tewksbury, MA"
+   ],
+   "posted_at": 1788906208,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789424135,
+   "uid": "a08b01a90ebcf9ce"
   },
   {
    "source": "Simplify",
