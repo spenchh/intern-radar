@@ -1,5 +1,5 @@
 {
- "count": 412,
+ "count": 417,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -175,11 +175,23 @@
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376"
   },
+  "0cdd0601d2c54cb8": {
+   "company": "Emerson Electric",
+   "first_seen": 1789411706,
+   "title": "Analog Hardware Design Intern",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010830"
+  },
   "0d440c42b722966d": {
    "company": "Lightmatter",
    "first_seen": 1789106389,
    "title": "Photonics Characterization Intern New Grad - New Grad",
    "url": "https://boards.greenhouse.io/lightmatter/jobs/5374627008"
+  },
+  "0da18c20f873486d": {
+   "company": "Marvell",
+   "first_seen": 1789411706,
+   "title": "Analog Layout Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern_2604101-1"
   },
   "0db9e08857d0b3e1": {
    "company": "Marvell",
@@ -252,6 +264,12 @@
    "first_seen": 1788415817,
    "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
+  },
+  "1501cce989424b1f": {
+   "company": "Viavi Solutions",
+   "first_seen": 1789411706,
+   "title": "Hardware Engineering Co-op",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2"
   },
   "156ce4ef0ea0749b": {
    "company": "Etched",
@@ -1315,6 +1333,12 @@
    "title": "Aerospace Engineering Intern - APU Programs Support",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035"
   },
+  "8c3545fb3a60cb16": {
+   "company": "Oshkosh",
+   "first_seen": 1789411706,
+   "title": "Electronics & Controls Intern",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319"
+  },
   "8d5037f86ed15cc4": {
    "company": "Apple",
    "first_seen": 1786988749,
@@ -2041,6 +2065,12 @@
    "title": "SoC RTL Design Engineer Intern - HBM",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290"
   },
+  "d5b70e343231e977": {
+   "company": "Dell Technologies",
+   "first_seen": 1789411706,
+   "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770"
+  },
   "d5d87bfd2a9c9935": {
    "company": "Quadric",
    "first_seen": 1786988749,
@@ -2474,6 +2504,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789392200,
- "runs": 434
+ "last_run": 1789411706,
+ "runs": 435
 }

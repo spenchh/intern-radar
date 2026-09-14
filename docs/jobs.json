@@ -1,7 +1,118 @@
 {
- "generated_at": 1789392200,
- "count": 302,
+ "generated_at": 1789411706,
+ "count": 306,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Analog Hardware Design Intern",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010830",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1789409417,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1789411706,
+   "uid": "0cdd0601d2c54cb8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Dell Technologies",
+   "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770",
+   "locations": [
+    "Round Rock, TX",
+    "Hopkinton, MA"
+   ],
+   "posted_at": 1789396889,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789411706,
+   "uid": "d5b70e343231e977"
+  },
+  {
+   "source": "Simplify",
+   "company": "Oshkosh",
+   "title": "Electronics & Controls Intern",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319",
+   "locations": [
+    "New Hudson, MI"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1789411706,
+   "uid": "8c3545fb3a60cb16"
+  },
+  {
+   "source": "Simplify",
+   "company": "Viavi Solutions",
+   "title": "Hardware Engineering Co-op",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2",
+   "locations": [
+    "Germantown, MD"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789411706,
+   "uid": "1501cce989424b1f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Layout Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern_2604101-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "layout (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1789411706,
+   "uid": "0da18c20f873486d"
+  },
   {
    "source": "Simplify",
    "company": "Blue Robotics",
@@ -2588,27 +2699,6 @@
    ],
    "first_seen": 1788382996,
    "uid": "1210cd00f60c7815"
-  },
-  {
-   "source": "Simplify",
-   "company": "North Atlantic Industries",
-   "title": "Electrical Engineer Intern - Test Systems",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450195",
-   "locations": [
-    "Bohemia, NY"
-   ],
-   "posted_at": 1788313825,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "dd4480570bb4e02f"
   },
   {
    "source": "Simplify",
