@@ -1,5 +1,5 @@
 {
- "count": 438,
+ "count": 442,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -691,6 +691,12 @@
    "title": "Emerging Talent - Electrical Engineering Internship",
    "url": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006"
   },
+  "3dacf7b66ac663c5": {
+   "company": "Huntington Ingalls Industries",
+   "first_seen": 1789486415,
+   "title": "Computer Engineering Intern",
+   "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
+  },
   "3e0f8b53109c3dde": {
    "company": "Qorvo",
    "first_seen": 1788415817,
@@ -805,6 +811,12 @@
    "title": "RF/Analog IC Design Intern",
    "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-RFAnalog-IC-Design-Intern-FL-33309/1421449000/?ats=successfactors"
   },
+  "4b461cc0047b51d3": {
+   "company": "Graco",
+   "first_seen": 1789486415,
+   "title": "Electrical Engineering Intern",
+   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525"
+  },
   "4b7e7dc195658d88": {
    "company": "Jump Trading",
    "first_seen": 1786988749,
@@ -870,6 +882,12 @@
    "first_seen": 1786988749,
    "title": "Hardware R&D Engineer Intern",
    "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
+  },
+  "5006dce1d428c904": {
+   "company": "Apple",
+   "first_seen": 1789486415,
+   "title": "PMU Design Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200683293"
   },
   "5015ba9ef3622ea2": {
    "company": "Zipline",
@@ -1554,6 +1572,12 @@
    "first_seen": 1788238438,
    "title": "Electrical/Computer Engineering Intern Co-op",
    "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027"
+  },
+  "9f80170f6b17cd98": {
+   "company": "Nokia",
+   "first_seen": 1789486415,
+   "title": "Hardware Engineer Co-op Intern - IP Routing",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600"
   },
   "a071ed419210ad49": {
    "company": "Hendrick Motorsports",
@@ -2630,6 +2654,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789470520,
- "runs": 439
+ "last_run": 1789486415,
+ "runs": 440
 }

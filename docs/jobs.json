@@ -1,7 +1,72 @@
 {
- "generated_at": 1789470520,
- "count": 321,
+ "generated_at": 1789486415,
+ "count": 325,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "Hardware Engineer Co-op Intern - IP Routing",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789481922,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789486415,
+   "uid": "9f80170f6b17cd98"
+  },
+  {
+   "source": "Simplify",
+   "company": "Huntington Ingalls Industries",
+   "title": "Computer Engineering Intern",
+   "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
+   "locations": [
+    "Pascagoula, MS"
+   ],
+   "posted_at": 1789481112,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineering (+3)"
+   ],
+   "first_seen": 1789486415,
+   "uid": "3dacf7b66ac663c5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "PMU Design Verification Intern",
+   "url": "https://jobs.apple.com/en-us/details/200683293",
+   "locations": [
+    "Swindon, UK"
+   ],
+   "posted_at": 1789481002,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1789486415,
+   "uid": "5006dce1d428c904"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
@@ -85,6 +150,28 @@
    ],
    "first_seen": 1789451478,
    "uid": "8faad42af40ab9a5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Graco",
+   "title": "Electrical Engineering Intern",
+   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dexter-Michigan-USA/Electrical-Engineering-Intern_R0023525",
+   "locations": [
+    "Dexter, MI"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789486415,
+   "uid": "4b461cc0047b51d3"
   },
   {
    "source": "Simplify",
