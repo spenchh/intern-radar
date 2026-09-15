@@ -1,5 +1,5 @@
 {
- "count": 428,
+ "count": 433,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1063,6 +1063,12 @@
    "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145"
   },
+  "6a7f45ebe9a4b06b": {
+   "company": "Samsung Research America",
+   "first_seen": 1789433222,
+   "title": "SoC Modeling Intern - SOC Modeling",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002"
+  },
   "6ac14fd4d30a8d57": {
    "company": "Nokia",
    "first_seen": 1787179851,
@@ -1308,6 +1314,12 @@
    "first_seen": 1788028141,
    "title": "Characterization and Support Intern - Fall 2026",
    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1"
+  },
+  "82367138b2ed6878": {
+   "company": "Keysight Technologies",
+   "first_seen": 1789433222,
+   "title": "Compound Semiconductor Device Characterization Intern",
+   "url": "https://jobs.keysight.com/jobs/54226?icims=1"
   },
   "83efea7865cfa2e0": {
    "company": "Marvell",
@@ -1657,6 +1669,12 @@
    "title": "Electrical Engineer Intern - Spring 2027",
    "url": "https://jobs.l3harris.com/job/Greenville-Electrical-Engineer-Intern-Spring-2027-TX-75402/1420329400/?ats=successfactors"
   },
+  "aad980730a8c1466": {
+   "company": "Engenious Design",
+   "first_seen": 1789433222,
+   "title": "Electrical Engineering Intern",
+   "url": "http://engeniousdesign.applytojob.com/apply/loqVRerwDa/Internship-2027-Electrical-Engineering"
+  },
   "ab10209617340161": {
    "company": "Eaton",
    "first_seen": 1788415817,
@@ -1896,6 +1914,12 @@
    "first_seen": 1786988749,
    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"
+  },
+  "c02d520847cbe630": {
+   "company": "Microsoft",
+   "first_seen": 1789433222,
+   "title": "Electrical Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572"
   },
   "c0d05029057c3a5d": {
    "company": "Reflect Orbital",
@@ -2257,6 +2281,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Electrical-Engineering-Intern_R-82621-1"
   },
+  "e0b2da4276ed2d37": {
+   "company": "Johnson & Johnson",
+   "first_seen": 1789433222,
+   "title": "Electrical Engineer Intern - Robotics R&D",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1"
+  },
   "e0c674b19886429d": {
    "company": "Qorvo",
    "first_seen": 1788158465,
@@ -2570,6 +2600,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789424135,
- "runs": 436
+ "last_run": 1789433222,
+ "runs": 437
 }

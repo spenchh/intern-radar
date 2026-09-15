@@ -1,7 +1,93 @@
 {
- "generated_at": 1789424135,
- "count": 317,
+ "generated_at": 1789433222,
+ "count": 321,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Engenious Design",
+   "title": "Electrical Engineering Intern",
+   "url": "http://engeniousdesign.applytojob.com/apply/loqVRerwDa/Internship-2027-Electrical-Engineering",
+   "locations": [
+    "Prairie Village, KS"
+   ],
+   "posted_at": 1789425315,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "aad980730a8c1466"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Electrical Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1789425236,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "c02d520847cbe630"
+  },
+  {
+   "source": "Simplify",
+   "company": "Samsung Research America",
+   "title": "SoC Modeling Intern - SOC Modeling",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1789424391,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "soc (+3)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "6a7f45ebe9a4b06b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Compound Semiconductor Device Characterization Intern",
+   "url": "https://jobs.keysight.com/jobs/54226?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1789423814,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "semiconductor (+3)",
+    "characterization (+2)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "82367138b2ed6878"
+  },
   {
    "source": "Simplify",
    "company": "Cyvl",
@@ -396,6 +482,28 @@
    ],
    "first_seen": 1789424135,
    "uid": "8512ca8debc67b92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johnson & Johnson",
+   "title": "Electrical Engineer Intern - Robotics R&D",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "e0b2da4276ed2d37"
   },
   {
    "source": "Simplify",
@@ -5081,27 +5189,6 @@
    ],
    "first_seen": 1788447714,
    "uid": "548d0f323f5780ce"
-  },
-  {
-   "source": "Simplify",
-   "company": "Humanscale",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "NYC"
-   ],
-   "posted_at": 1787145929,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "96b08d35cbbb21a0"
   },
   {
    "source": "Simplify",
