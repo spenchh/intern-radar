@@ -1,6 +1,6 @@
 {
- "generated_at": 1789486415,
- "count": 325,
+ "generated_at": 1789499594,
+ "count": 324,
  "jobs": [
   {
    "source": "Simplify",
@@ -3807,27 +3807,6 @@
    ],
    "first_seen": 1788238438,
    "uid": "c89fc38cdddfd937"
-  },
-  {
-   "source": "Simplify",
-   "company": "onsemi",
-   "title": "Image Sensor Development Intern",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475",
-   "locations": [
-    "Hopewell Junction, NY"
-   ],
-   "posted_at": 1788224686,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "sensor (+2)"
-   ],
-   "first_seen": 1788238438,
-   "uid": "343b23c11ad03785"
   },
   {
    "source": "Simplify",
