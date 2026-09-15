@@ -1,7 +1,47 @@
 {
- "generated_at": 1789433222,
- "count": 321,
+ "generated_at": 1789451478,
+ "count": 319,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "IonQ",
+   "title": "Research & Development - Characterization Intern",
+   "url": "https://job-boards.greenhouse.io/ionq/jobs/6188828004",
+   "locations": [
+    "Boston, Massachusetts, United States"
+   ],
+   "posted_at": 1789435129,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1789451478,
+   "uid": "22511fa5fed3d3de"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Computer Engineer Intern - Shipboard Systems Group",
+   "url": "https://careers.jhuapl.edu/jobs/60049?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1789435075,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineer (+3)"
+   ],
+   "first_seen": 1789451478,
+   "uid": "8faad42af40ab9a5"
+  },
   {
    "source": "Simplify",
    "company": "Engenious Design",
@@ -1881,29 +1921,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Microchip Technology",
-   "title": "Engineering Intern - ASIC Verification",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern---Engineering--ASIC-Verification-_R3851-26",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1788825600,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "asic (+3)",
-    "verification (+2)",
-    "asic verification (+2)"
-   ],
-   "first_seen": 1788909145,
-   "uid": "75e4d48091e8b8ca"
-  },
-  {
-   "source": "Simplify",
    "company": "Boeing",
    "title": "Microelectronics R&D Intern - Engineering & Technology Innovation",
    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675",
@@ -2738,27 +2755,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Reflect Orbital",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/reflect-orbital/a0f12586-4821-4683-8983-c268e621ca0e/application?embed=true",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "posted_at": 1788407562,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788954209,
-   "uid": "c0d05029057c3a5d"
-  },
-  {
-   "source": "Simplify",
    "company": "Lunar Energy",
    "title": "Electronics Design Engineer Intern",
    "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
@@ -3091,27 +3087,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "bf28d488e3eda610"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qorvo",
-   "title": "MMIC Design Intern - Defense & Aerospace Products",
-   "url": "https://careers.qorvo.com/job/Denver-MMIC-Design-Intern-CO-80014/1425889900/?ats=successfactors",
-   "locations": [
-    "Denver, CO"
-   ],
-   "posted_at": 1788377047,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "aerospace (+2)"
-   ],
-   "first_seen": 1788382996,
-   "uid": "1210cd00f60c7815"
   },
   {
    "source": "Simplify",
@@ -6728,29 +6703,6 @@
    "uid": "5cc80bb222223370"
   },
   {
-   "source": "Simplify",
-   "company": "Nightwing Intelligence Solutions",
-   "title": "Software / Hardware Engineering Intern",
-   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "posted_at": 1780524547,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)",
-    "software (-3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "0e4380fe57215aa7"
-  },
-  {
    "source": "Greenhouse",
    "company": "PsiQuantum",
    "title": "Intern, Optical Packaging and Characterization Engineer",
@@ -6903,11 +6855,11 @@
    "source": "Simplify",
    "company": "BorgWarner",
    "title": "Validation Intern",
-   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1958-1",
+   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
    "locations": [
     "Kokomo, IN"
    ],
-   "posted_at": 1779372588,
+   "posted_at": 1779372586,
    "terms": [
     "Winter 2026",
     "Spring 2026",
