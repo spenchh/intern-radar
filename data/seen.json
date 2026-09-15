@@ -1,5 +1,5 @@
 {
- "count": 435,
+ "count": 438,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1609,6 +1609,12 @@
    "title": "Electrical Engineer Intern - Implant Embedded Systems",
    "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003"
   },
+  "a4a483ee8c088155": {
+   "company": "IonQ",
+   "first_seen": 1789470520,
+   "title": "Research and Development Characterization Intern",
+   "url": "https://job-boards.greenhouse.io/ionq/jobs/6188828004"
+  },
   "a4b495e937eb61cb": {
    "company": "CHAOS Industries",
    "first_seen": 1788909145,
@@ -2143,6 +2149,12 @@
    "title": "Electrical and Computer Engineer Intern - Miniature Device Technologies",
    "url": "https://careers.jhuapl.edu/jobs/59993?icims=1"
   },
+  "d391a782fe393300": {
+   "company": "Autostore",
+   "first_seen": 1789470520,
+   "title": "Electronics Engineering Co-op",
+   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695"
+  },
   "d55a87fdff0b0846": {
    "company": "Stantec",
    "first_seen": 1788470444,
@@ -2310,6 +2322,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200663981"
+  },
+  "e15d170b273e1aa4": {
+   "company": "Tesla",
+   "first_seen": 1789470520,
+   "title": "Solar Hardware Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/283423"
   },
   "e1ece9e0d2d0ed1d": {
    "company": "Keysight Technologies",
@@ -2612,6 +2630,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789451478,
- "runs": 438
+ "last_run": 1789470520,
+ "runs": 439
 }
