@@ -1,5 +1,5 @@
 {
- "count": 458,
+ "count": 459,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2491,6 +2491,12 @@
    "title": "Summer 2027 Internship - Optical Engineering",
    "url": "https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a"
   },
+  "e6970826afdc9a61": {
+   "company": "Rocket Lab",
+   "first_seen": 1789584504,
+   "title": "RF Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003"
+  },
   "e6b753229054e651": {
    "company": "Emerson Electric",
    "first_seen": 1788285480,
@@ -2750,6 +2756,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789570723,
- "runs": 446
+ "last_run": 1789584504,
+ "runs": 447
 }
