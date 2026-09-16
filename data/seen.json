@@ -1,5 +1,5 @@
 {
- "count": 442,
+ "count": 453,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -607,6 +607,12 @@
    "title": "Ph.D. Research Hardware Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855"
   },
+  "314ce7f7836bdba5": {
+   "company": "Micron Technology",
+   "first_seen": 1789519147,
+   "title": "HBM SoC Physical Design Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041"
+  },
   "316edc94ef0af05b": {
    "company": "Shield AI",
    "first_seen": 1788238438,
@@ -630,6 +636,12 @@
    "first_seen": 1788238438,
    "title": "Image Sensor Development Intern",
    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475"
+  },
+  "359fb0f5fda5777b": {
+   "company": "Anduril",
+   "first_seen": 1789519147,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007"
   },
   "360e1feed0d88130": {
    "company": "Apple",
@@ -744,6 +756,12 @@
    "first_seen": 1788861415,
    "title": "Optical Verification Engineer Intern Co-op",
    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193"
+  },
+  "43c38f57030fa88c": {
+   "company": "NVIDIA",
+   "first_seen": 1789519147,
+   "title": "Physical Design and Timing Engineer Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511"
   },
   "44da715c504653ba": {
    "company": "Luxium Solutions",
@@ -1501,6 +1519,12 @@
    "title": "ASIC Package Engineering Intern Co-op",
    "url": "https://careers.amd.com/jobs/91466?icims=1"
   },
+  "984f71b7050114ba": {
+   "company": "Micron Technology",
+   "first_seen": 1789519147,
+   "title": "AI Hardware and Memory Systems Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017"
+  },
   "998b9f8a3c0187cc": {
    "company": "Texas Instruments",
    "first_seen": 1788434053,
@@ -1555,6 +1579,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true"
   },
+  "9d456255953fd406": {
+   "company": "Lunar Outpost",
+   "first_seen": 1789519147,
+   "title": "Electrical Engineer Intern",
+   "url": "https://lunaroutpost.bamboohr.com/careers/396/"
+  },
   "9d5a7fb3fc3758d0": {
    "company": "Intel",
    "first_seen": 1788415817,
@@ -1596,6 +1626,12 @@
    "first_seen": 1789424135,
    "title": "Electrical Engineer Intern - RDP",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242"
+  },
+  "a0b63648b3743dc1": {
+   "company": "Viavi Solutions",
+   "first_seen": 1789519147,
+   "title": "Electrical Engineer Intern",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260005049-1"
   },
   "a11de461298f82e4": {
    "company": "Bio-Techne",
@@ -1897,6 +1933,12 @@
    "title": "Analog Design Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297"
   },
+  "bbae66f3d82a7977": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1789519147,
+   "title": "FPGA Designer Co-op",
+   "url": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors"
+  },
   "bca64473c4b1d0c4": {
    "company": "GE Aerospace",
    "first_seen": 1788447714,
@@ -2155,6 +2197,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214748007"
   },
+  "d2b6ec5e4b36b5a5": {
+   "company": "bioM\u00e9rieux",
+   "first_seen": 1789519147,
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false"
+  },
   "d3180a5e8e3d3b1c": {
    "company": "Varian",
    "first_seen": 1789003372,
@@ -2178,6 +2226,12 @@
    "first_seen": 1789470520,
    "title": "Electronics Engineering Co-op",
    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695"
+  },
+  "d542f36f059d71f9": {
+   "company": "Anduril",
+   "first_seen": 1789519147,
+   "title": "PCB Layout Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007"
   },
   "d55a87fdff0b0846": {
    "company": "Stantec",
@@ -2346,6 +2400,12 @@
    "first_seen": 1786988749,
    "title": "Hardware Engineering Intern",
    "url": "https://jobs.apple.com/en-us/details/200663981"
+  },
+  "e1269b6af19d2c3c": {
+   "company": "Keysight Technologies",
+   "first_seen": 1789519147,
+   "title": "ASIC Design-for-Test Engineer Intern - DFT",
+   "url": "https://jobs.keysight.com/jobs/54276?icims=1"
   },
   "e15d170b273e1aa4": {
    "company": "Tesla",
@@ -2539,6 +2599,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Waco-Electrical-Engineer-Intern-TX-76705/1420328700/?ats=successfactors"
   },
+  "f3d4eeba75132a8d": {
+   "company": "Micron Technology",
+   "first_seen": 1789519147,
+   "title": "ASIC Validation Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823"
+  },
   "f3e029b186eb9899": {
    "company": "Apple",
    "first_seen": 1786988749,
@@ -2654,6 +2720,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789510569,
- "runs": 442
+ "last_run": 1789519147,
+ "runs": 443
 }

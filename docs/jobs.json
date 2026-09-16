@@ -1,7 +1,138 @@
 {
- "generated_at": 1789510569,
- "count": 321,
+ "generated_at": 1789519147,
+ "count": 330,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Lunar Outpost",
+   "title": "Electrical Engineer Intern",
+   "url": "https://lunaroutpost.bamboohr.com/careers/396/",
+   "locations": [
+    "Golden, CO"
+   ],
+   "posted_at": 1789510942,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "ASIC Design-for-Test Engineer Intern - DFT",
+   "url": "https://jobs.keysight.com/jobs/54276?icims=1",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted_at": 1789510243,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "asic (+3)",
+    "dft (+3)",
+    "design for test (+3)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "e1269b6af19d2c3c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Anduril",
+   "title": "PCB Layout Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1789509978,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "pcb (+2)",
+    "layout (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d542f36f059d71f9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Anduril",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007",
+   "locations": [
+    "Quincy, MA",
+    "Costa Mesa, CA"
+   ],
+   "posted_at": 1789509978,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "359fb0f5fda5777b"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "FPGA Designer Co-op",
+   "url": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors",
+   "locations": [
+    "Waterdown, Hamilton, ON, Canada"
+   ],
+   "posted_at": 1789509963,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "bbae66f3d82a7977"
+  },
   {
    "source": "Simplify",
    "company": "Nokia",
@@ -112,25 +243,6 @@
    "uid": "a4a483ee8c088155"
   },
   {
-   "source": "Greenhouse",
-   "company": "IonQ",
-   "title": "Research & Development - Characterization Intern",
-   "url": "https://job-boards.greenhouse.io/ionq/jobs/6188828004",
-   "locations": [
-    "Boston, Massachusetts, United States"
-   ],
-   "posted_at": 1789435129,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "characterization (+2)"
-   ],
-   "first_seen": 1789451478,
-   "uid": "22511fa5fed3d3de"
-  },
-  {
    "source": "Simplify",
    "company": "Johns Hopkins Applied Physics Laboratory",
    "title": "Computer Engineer Intern - Shipboard Systems Group",
@@ -172,6 +284,113 @@
    ],
    "first_seen": 1789486415,
    "uid": "4b461cc0047b51d3"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Physical Design and Timing Engineer Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "43c38f57030fa88c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Viavi Solutions",
+   "title": "Electrical Engineer Intern",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260005049-1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "a0b63648b3743dc1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "ASIC Validation Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "asic (+3)",
+    "validation (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "f3d4eeba75132a8d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "AI Hardware and Memory Systems Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "984f71b7050114ba"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "HBM SoC Physical Design Engineer Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-Physical-Design-Engineer_JR111041",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "soc (+3)",
+    "physical design (+3)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "314ce7f7836bdba5"
   },
   {
    "source": "Simplify",
@@ -1897,27 +2116,6 @@
    ],
    "first_seen": 1789124857,
    "uid": "c377e9b34b728965"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern - RDP",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineering-Intern--Summer-2027-_01866242",
-   "locations": [
-    "Tewksbury, MA"
-   ],
-   "posted_at": 1788906208,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "a08b01a90ebcf9ce"
   },
   {
    "source": "Simplify",
