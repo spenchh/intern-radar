@@ -1,7 +1,94 @@
 {
- "generated_at": 1789519147,
- "count": 330,
+ "generated_at": 1789535833,
+ "count": 334,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Lightmatter",
+   "title": "Silicon, Hardware, & Photonics Engineering - Internship ",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008",
+   "locations": [
+    "Boston, MA; Mountain View, CA"
+   ],
+   "posted_at": 1789524084,
+   "terms": [],
+   "sponsorship": "",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1789535833,
+   "uid": "8f1bfaad21c00b1d"
+  },
+  {
+   "source": "Simplify",
+   "company": "CesiumAstro",
+   "title": "Electrical Engineer Intern - Hardware",
+   "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1789521283,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789535833,
+   "uid": "02543719f8153d01"
+  },
+  {
+   "source": "Simplify",
+   "company": "CesiumAstro",
+   "title": "Electrical Engineer Intern - Hardware",
+   "url": "https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "posted_at": 1789521275,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789535833,
+   "uid": "481e20aa40075e17"
+  },
+  {
+   "source": "Simplify",
+   "company": "CesiumAstro",
+   "title": "Electrical Engineer Intern - FPGA",
+   "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "posted_at": 1789521275,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789535833,
+   "uid": "946160f487b61ea9"
+  },
   {
    "source": "Simplify",
    "company": "Lunar Outpost",
