@@ -1,5 +1,5 @@
 {
- "generated_at": 1789553418,
+ "generated_at": 1789570723,
  "count": 333,
  "jobs": [
   {
@@ -460,28 +460,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "314ce7f7836bdba5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Engenious Design",
-   "title": "Electrical Engineering Intern",
-   "url": "http://engeniousdesign.applytojob.com/apply/loqVRerwDa/Internship-2027-Electrical-Engineering",
-   "locations": [
-    "Prairie Village, KS"
-   ],
-   "posted_at": 1789425315,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1789433222,
-   "uid": "aad980730a8c1466"
   },
   {
    "source": "Simplify",
@@ -5760,6 +5738,29 @@
    ],
    "first_seen": 1787002870,
    "uid": "d6f2717615594027"
+  },
+  {
+   "source": "Simplify",
+   "company": "WindBorne Systems",
+   "title": "Embedded Electrical Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application?embed=true",
+   "locations": [
+    "Palo Alto, CA",
+    "Redwood City, CA"
+   ],
+   "posted_at": 1786574688,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "embedded (+1)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "e674b56490884e6c"
   },
   {
    "source": "Simplify",
