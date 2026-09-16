@@ -1,11 +1,11 @@
 {
- "generated_at": 1789584504,
- "count": 333,
+ "generated_at": 1789595598,
+ "count": 332,
  "jobs": [
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
-   "title": "RF Engineering Intern",
+   "title": "RF Engineering Intern Summer 2027",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003",
    "locations": [
     "Long Beach, CA"
@@ -18,8 +18,8 @@
    "reasons": [
     "rf (+2)"
    ],
-   "first_seen": 1789584504,
-   "uid": "e6970826afdc9a61"
+   "first_seen": 1789595598,
+   "uid": "c0fe312257faedd9"
   },
   {
    "source": "Simplify",
@@ -3147,27 +3147,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "05a63ec861aaeb84"
-  },
-  {
-   "source": "Simplify",
-   "company": "Lunar Energy",
-   "title": "Electronics Design Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1788403498,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "bcfbedf7f43dc456"
   },
   {
    "source": "Simplify",
