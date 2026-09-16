@@ -1,5 +1,5 @@
 {
- "count": 457,
+ "count": 458,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -756,6 +756,12 @@
    "first_seen": 1788434053,
    "title": "Electrical Engineer Intern - Summer Internship",
    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true"
+  },
+  "4267cbb8fd0a4851": {
+   "company": "Lightmatter",
+   "first_seen": 1789553418,
+   "title": "Silicon Intern - Hardware & Photonics Engineering",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008"
   },
   "428bebd03ffd7111": {
    "company": "Lumentum",
@@ -2744,6 +2750,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789535833,
- "runs": 444
+ "last_run": 1789553418,
+ "runs": 445
 }
