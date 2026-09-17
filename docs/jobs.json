@@ -1,7 +1,74 @@
 {
- "generated_at": 1789595598,
- "count": 332,
+ "generated_at": 1789603625,
+ "count": 337,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "General Dynamics Mission Systems",
+   "title": "Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions",
+   "url": "https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Scottsdale, AZ"
+   ],
+   "posted_at": 1789596920,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "79fed546d7898a19"
+  },
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003",
+   "locations": [
+    "Rockford, IL",
+    "Elyria, OH"
+   ],
+   "posted_at": 1789596890,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "e7feb4497b2f4e93"
+  },
+  {
+   "source": "Simplify",
+   "company": "Emerson Electric",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996",
+   "locations": [
+    "Rockford, IL",
+    "Elyria, OH"
+   ],
+   "posted_at": 1789596890,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "b032a988b9d52c1c"
+  },
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
@@ -134,6 +201,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Marvell",
+   "title": "IC Validation Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/IC-Validation-Engineer-Intern_2603925",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789516800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1789603625,
+   "uid": "0202d60c0ca5cc44"
+  },
+  {
+   "source": "Simplify",
    "company": "Lunar Outpost",
    "title": "Electrical Engineer Intern",
    "url": "https://lunaroutpost.bamboohr.com/careers/396/",
@@ -152,6 +240,27 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",

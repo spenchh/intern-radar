@@ -1,5 +1,5 @@
 {
- "count": 460,
+ "count": 464,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -42,6 +42,12 @@
    "first_seen": 1788477891,
    "title": "Design Verification Infrastructure Intern - Platform",
    "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Intern---Design-Verification-Infrastructure-Engineer---Platform_R-101291-1"
+  },
+  "0202d60c0ca5cc44": {
+   "company": "Marvell",
+   "first_seen": 1789603625,
+   "title": "IC Validation Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/IC-Validation-Engineer-Intern_2603925"
   },
   "020a74dbaf3aff82": {
    "company": "L3Harris Technologies",
@@ -1291,6 +1297,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true"
   },
+  "79fed546d7898a19": {
+   "company": "General Dynamics Mission Systems",
+   "first_seen": 1789603625,
+   "title": "Hardware Electrical Engineer Intern - Crypto and Cross Domain Solutions",
+   "url": "https://careers-gdms.icims.com/jobs/74787/job?mobile=true&needsRedirect=false"
+  },
   "7a99beaa6e5987a0": {
    "company": "Cadence Design Systems",
    "first_seen": 1787658222,
@@ -1848,6 +1860,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern - Education",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16364"
+  },
+  "b032a988b9d52c1c": {
+   "company": "Emerson Electric",
+   "first_seen": 1789603625,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010996"
   },
   "b12420b6027b4548": {
    "company": "BorgWarner",
@@ -2521,6 +2539,12 @@
    "title": "Functional Validation Intern - BS",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514"
   },
+  "e7feb4497b2f4e93": {
+   "company": "Emerson Electric",
+   "first_seen": 1789603625,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011003"
+  },
   "e824d36d829db18a": {
    "company": "Heron Power",
    "first_seen": 1788460724,
@@ -2762,6 +2786,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789595598,
- "runs": 448
+ "last_run": 1789603625,
+ "runs": 449
 }
