@@ -1,7 +1,157 @@
 {
- "generated_at": 1789681563,
- "count": 332,
+ "generated_at": 1789689303,
+ "count": 346,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Optical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1789687265,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "c3b2d084e1aafd8a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Lennox International",
+   "title": "Hardware Engineering Co-op",
+   "url": "https://uscareers-lennox.icims.com/jobs/54692/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Carrollton, TX"
+   ],
+   "posted_at": 1789683809,
+   "terms": [
+    "Spring 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "34852c28b8a06806"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721142985",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1789683779,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "layout (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "b75c89e74bf899bb"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Analog Design Intern - Hardware Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721140914",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1789683777,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "analog design (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "151c477bf416fde0"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Dynamics Mission Systems",
+   "title": "Electrical Engineer Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75019/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Salt Lake City, UT",
+    "Boise, ID"
+   ],
+   "posted_at": 1789683713,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "b72de8e103140b1e"
+  },
+  {
+   "source": "Simplify",
+   "company": "REV Robotics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
+   "locations": [
+    "Carrollton, TX"
+   ],
+   "posted_at": 1789683495,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "fb545d13a7d67ac1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
+   "url": "https://careers.rivian.com/jobs/33725?icims=1",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1789683272,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "496ca42b1296a2eb"
+  },
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
@@ -40,6 +190,155 @@
    ],
    "first_seen": 1789681563,
    "uid": "7dbcf44a285e1b9e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design for Test Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "45df3de2a82ac657"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "SRAM Circuit Design Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1",
+   "locations": [
+    "Burlington, VT"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "circuit design (+3)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "fe49acf4c1bb199f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Layout Co-op Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "layout (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "a8146d38a49e8bf5"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Research Intern - Hardware and Systems Architecture",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "7cb77806129e2d8e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Danaher",
+   "title": "Hardware Engineer Intern",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720",
+   "locations": [
+    "Vista, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "1ff0bae49a9a3e22"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "FPGA Design Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "d84afca6531a1dc8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nordson",
+   "title": "Electronics Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Electronics-Engineering-_REQ52928",
+   "locations": [
+    "Allen, TX"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "8562bc7d703c84a2"
   },
   {
    "source": "Simplify",

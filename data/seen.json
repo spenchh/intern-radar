@@ -1,5 +1,5 @@
 {
- "count": 466,
+ "count": 480,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -283,6 +283,12 @@
    "title": "Hardware Engineering Co-op",
    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2"
   },
+  "151c477bf416fde0": {
+   "company": "Qualcomm",
+   "first_seen": 1789689303,
+   "title": "Analog Design Intern - Hardware Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721140914"
+  },
   "156ce4ef0ea0749b": {
    "company": "Etched",
    "first_seen": 1788470444,
@@ -408,6 +414,12 @@
    "first_seen": 1788415817,
    "title": "Electrical Engineer Intern",
    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"
+  },
+  "1ff0bae49a9a3e22": {
+   "company": "Danaher",
+   "first_seen": 1789689303,
+   "title": "Hardware Engineer Intern",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720"
   },
   "2036483b14651070": {
    "company": "Tesla",
@@ -655,6 +667,12 @@
    "title": "Image Sensor Development Intern",
    "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506475"
   },
+  "34852c28b8a06806": {
+   "company": "Lennox International",
+   "first_seen": 1789689303,
+   "title": "Hardware Engineering Co-op",
+   "url": "https://uscareers-lennox.icims.com/jobs/54692/job?mobile=true&needsRedirect=false"
+  },
   "359fb0f5fda5777b": {
    "company": "Anduril",
    "first_seen": 1789519147,
@@ -811,6 +829,12 @@
    "title": "Power Electronics Intern - Fall 2026",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006"
   },
+  "45df3de2a82ac657": {
+   "company": "Marvell",
+   "first_seen": 1789689303,
+   "title": "Design for Test Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788"
+  },
   "4607e7a16c78401d": {
    "company": "Epia Neuro",
    "first_seen": 1786988749,
@@ -846,6 +870,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Electrical-Engineer-IN-46818/1420699700/?ats=successfactors"
+  },
+  "496ca42b1296a2eb": {
+   "company": "Rivian",
+   "first_seen": 1789689303,
+   "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
+   "url": "https://careers.rivian.com/jobs/33725?icims=1"
   },
   "49bbb83fc91c57e6": {
    "company": "Cyvl",
@@ -1333,6 +1363,12 @@
    "title": "Layout Automation Engineering Intern",
    "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply"
   },
+  "7cb77806129e2d8e": {
+   "company": "NVIDIA",
+   "first_seen": 1789689303,
+   "title": "Research Intern - Hardware and Systems Architecture",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"
+  },
   "7cf9aacb8b734ed6": {
    "company": "Skydio",
    "first_seen": 1788303697,
@@ -1422,6 +1458,12 @@
    "first_seen": 1789424135,
    "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---Winter-2027_2604525"
+  },
+  "8562bc7d703c84a2": {
+   "company": "Nordson",
+   "first_seen": 1789689303,
+   "title": "Electronics Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Electronics-Engineering-_REQ52928"
   },
   "864fbec1c25de8fb": {
    "company": "IMEG",
@@ -1765,6 +1807,12 @@
    "title": "Silicon Hardware Engineering Intern - Graduate",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830"
   },
+  "a8146d38a49e8bf5": {
+   "company": "Marvell",
+   "first_seen": 1789689303,
+   "title": "Analog Layout Co-op Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789"
+  },
   "a82d77b9f7a49455": {
    "company": "RTX",
    "first_seen": 1789169289,
@@ -1939,6 +1987,12 @@
    "title": "Hardware Engineering Intern/Co-op - Undergrad",
    "url": "https://careers.amd.com/jobs/91173?icims=1"
   },
+  "b72de8e103140b1e": {
+   "company": "General Dynamics Mission Systems",
+   "first_seen": 1789689303,
+   "title": "Electrical Engineer Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75019/job?mobile=true&needsRedirect=false"
+  },
   "b7311d30749bf80d": {
    "company": "Kepler Communications",
    "first_seen": 1786988749,
@@ -1950,6 +2004,12 @@
    "first_seen": 1787342236,
    "title": "Electrical Engineering Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283"
+  },
+  "b75c89e74bf899bb": {
+   "company": "Qualcomm",
+   "first_seen": 1789689303,
+   "title": "Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721142985"
   },
   "b7a2bcfc472eba0b": {
    "company": "Masco",
@@ -2106,6 +2166,12 @@
    "first_seen": 1789124857,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true"
+  },
+  "c3b2d084e1aafd8a": {
+   "company": "Rocket Lab",
+   "first_seen": 1789689303,
+   "title": "Optical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003"
   },
   "c4ed005d6cc27fc2": {
    "company": "Shure",
@@ -2352,6 +2418,12 @@
    "first_seen": 1787006436,
    "title": "Digital Design Engineer Intern",
    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119"
+  },
+  "d84afca6531a1dc8": {
+   "company": "RTX",
+   "first_seen": 1789689303,
+   "title": "FPGA Design Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290"
   },
   "d9e10211d9c3e215": {
    "company": "Emerson Electric",
@@ -2743,6 +2815,12 @@
    "title": "Electronics Design Engineer Intern",
    "url": "http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application"
   },
+  "fb545d13a7d67ac1": {
+   "company": "REV Robotics",
+   "first_seen": 1789689303,
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744"
+  },
   "fb8b589343a28ea9": {
    "company": "Ambarella",
    "first_seen": 1786988749,
@@ -2760,6 +2838,12 @@
    "first_seen": 1786988749,
    "title": "Digital Logic + Design Verification Co-op",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858"
+  },
+  "fe49acf4c1bb199f": {
+   "company": "Marvell",
+   "first_seen": 1789689303,
+   "title": "SRAM Circuit Design Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1"
   },
   "fe5a695bda0685d7": {
    "company": "AMD",
@@ -2798,6 +2882,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789681563,
- "runs": 454
+ "last_run": 1789689303,
+ "runs": 455
 }
