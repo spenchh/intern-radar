@@ -1,6 +1,6 @@
 {
- "generated_at": 1789638575,
- "count": 334,
+ "generated_at": 1789656111,
+ "count": 332,
  "jobs": [
   {
    "source": "Simplify",
@@ -1799,27 +1799,6 @@
    ],
    "first_seen": 1789081844,
    "uid": "0479978665945939"
-  },
-  {
-   "source": "Simplify",
-   "company": "Insulet",
-   "title": "R&D Electronics Engineering Co-op",
-   "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electronics-Engineering--January-June-2027--Hybrid-_REQ-2026-18014-1",
-   "locations": [
-    "Acton, MA"
-   ],
-   "posted_at": 1788998400,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1789081844,
-   "uid": "64d0948c50d68b1a"
   },
   {
    "source": "Simplify",
@@ -7210,27 +7189,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "b12420b6027b4548"
-  },
-  {
-   "source": "Simplify",
-   "company": "Heron Power",
-   "title": "Hardware Test Engineering Intern",
-   "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
-   "locations": [
-    "Santa Cruz, CA"
-   ],
-   "posted_at": 1778537308,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "4e1fcc9d8acdb340"
   },
   {
    "source": "Simplify",
