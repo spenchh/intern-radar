@@ -1,7 +1,46 @@
 {
- "generated_at": 1789670101,
+ "generated_at": 1789681563,
  "count": 332,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Rocket Lab",
+   "title": "Electrical Engineering Intern Summer 2027",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7998598003",
+   "locations": [
+    "Pasadena, CA"
+   ],
+   "posted_at": 1789678272,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789681563,
+   "uid": "1b77c8b55645bb4d"
+  },
+  {
+   "source": "Ashby",
+   "company": "Skydio",
+   "title": "Electrical Engineer Intern - Winter 2027",
+   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
+   "locations": [
+    "San Mateo, California, United States"
+   ],
+   "posted_at": 1789674448,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789681563,
+   "uid": "7dbcf44a285e1b9e"
+  },
   {
    "source": "Simplify",
    "company": "General Dynamics Mission Systems",
@@ -264,28 +303,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "e1269b6af19d2c3c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Anduril",
-   "title": "PCB Layout Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007",
-   "locations": [
-    "Costa Mesa, CA"
-   ],
-   "posted_at": 1789509978,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "pcb (+2)",
-    "layout (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d542f36f059d71f9"
   },
   {
    "source": "Simplify",
@@ -3701,25 +3718,6 @@
    ],
    "first_seen": 1788310887,
    "uid": "3d336588850df591"
-  },
-  {
-   "source": "Ashby",
-   "company": "Skydio",
-   "title": "Electrical Engineer Intern - Fall 2026",
-   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee",
-   "locations": [
-    "San Mateo, California, United States"
-   ],
-   "posted_at": 1788303941,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788303697,
-   "uid": "7cf9aacb8b734ed6"
   },
   {
    "source": "Simplify",
