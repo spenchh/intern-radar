@@ -1,6 +1,6 @@
 {
- "generated_at": 1789603625,
- "count": 337,
+ "generated_at": 1789620734,
+ "count": 335,
  "jobs": [
   {
    "source": "Simplify",
@@ -2315,28 +2315,6 @@
   },
   {
    "source": "Simplify",
-   "company": "EquipmentShare",
-   "title": "Electrical Engineering Intern",
-   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8185964",
-   "locations": [
-    "Columbia, MO"
-   ],
-   "posted_at": 1788905544,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788447714,
-   "uid": "0fa28657a0da63c8"
-  },
-  {
-   "source": "Simplify",
    "company": "Dominion Energy",
    "title": "Electrical Engineer Intern - Operations Analytics",
    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors",
@@ -3421,27 +3399,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "6c59478b9164df91"
-  },
-  {
-   "source": "Simplify",
-   "company": "Geotab",
-   "title": "Hardware Developer Intern",
-   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008",
-   "locations": [
-    "Oakville, ON, Canada"
-   ],
-   "posted_at": 1788401478,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "6007a9eeed4552ee"
   },
   {
    "source": "Simplify",
