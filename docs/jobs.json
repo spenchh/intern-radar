@@ -1,7 +1,26 @@
 {
- "generated_at": 1789736669,
- "count": 351,
+ "generated_at": 1789751103,
+ "count": 352,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Formlabs",
+   "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
+   "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1789744266,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789751103,
+   "uid": "b4781c16a4a4d325"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
