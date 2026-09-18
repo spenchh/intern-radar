@@ -1,7 +1,75 @@
 {
- "generated_at": 1789701651,
- "count": 348,
+ "generated_at": 1789719933,
+ "count": 351,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027",
+   "url": "https://www.tesla.com/careers/search/job/284009",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1789711858,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 6,
+   "reasons": [
+    "electrical (+2)",
+    "electronics (+2)",
+    "power electronics (+2)"
+   ],
+   "first_seen": 1789719933,
+   "uid": "6c9a47bf9d79ab95"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Silicon Engineering Intern - 6-month Program",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259",
+   "locations": [
+    "Hillsboro, OR",
+    "Mountain View, CA"
+   ],
+   "posted_at": 1789711593,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1789719933,
+   "uid": "084b0618bb6adf1b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Electrical Engineer Intern - 6-Month Program",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982262",
+   "locations": [
+    "Seattle, WA",
+    "San Jose, CA",
+    "Raleigh, NC"
+   ],
+   "posted_at": 1789711587,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789719933,
+   "uid": "8c116af71e58e2f6"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -645,6 +713,27 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -1364,27 +1453,6 @@
    ],
    "first_seen": 1789411706,
    "uid": "0da18c20f873486d"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Validation Engineering Intern - Product Safety, Certification & Validation",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406-1",
-   "locations": [
-    "East Hartford, CT"
-   ],
-   "posted_at": 1789344000,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "6f9b3f2d1a296182"
   },
   {
    "source": "Simplify",
