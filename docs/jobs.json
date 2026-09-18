@@ -1,6 +1,6 @@
 {
- "generated_at": 1789751103,
- "count": 352,
+ "generated_at": 1789760152,
+ "count": 351,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -7467,28 +7467,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "51981e83400c95c4"
-  },
-  {
-   "source": "Simplify",
-   "company": "Diversified Automation",
-   "title": "Hardware Engineering Co-op",
-   "url": "https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146/apply",
-   "locations": [
-    "Louisville, KY"
-   ],
-   "posted_at": 1780005873,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "8e240372f24bbcd8"
   },
   {
    "source": "Simplify",
