@@ -1,5 +1,5 @@
 {
- "generated_at": 1789768350,
+ "generated_at": 1789775623,
  "count": 351,
  "jobs": [
   {
@@ -131,6 +131,28 @@
    "uid": "33d9691616fbd50f"
   },
   {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "ASIC Digital Design Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "asic (+3)",
+    "digital design (+3)"
+   ],
+   "first_seen": 1789775623,
+   "uid": "ba77b86a1525ba84"
+  },
+  {
    "source": "Greenhouse",
    "company": "Rocket Lab",
    "title": "Optical Engineering Intern Summer 2027",
@@ -237,27 +259,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "b72de8e103140b1e"
-  },
-  {
-   "source": "Simplify",
-   "company": "REV Robotics",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "posted_at": 1789683495,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "fb545d13a7d67ac1"
   },
   {
    "source": "Simplify",
