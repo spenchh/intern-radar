@@ -1,5 +1,5 @@
 {
- "count": 480,
+ "count": 482,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -661,6 +661,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422"
   },
+  "33d9691616fbd50f": {
+   "company": "Qualcomm",
+   "first_seen": 1789701651,
+   "title": "Silicon Validation Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721143274"
+  },
   "343b23c11ad03785": {
    "company": "onsemi",
    "first_seen": 1788238438,
@@ -1140,6 +1146,12 @@
    "first_seen": 1788501265,
    "title": "Electronic Warfare FPGA Engineer Intern",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1"
+  },
+  "6650e3704ad6b798": {
+   "company": "RTX",
+   "first_seen": 1789701651,
+   "title": "Electrical Engineer Co-op - Summer/Fall",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533"
   },
   "66d17dfc7eb188bc": {
    "company": "MSA Safety",
@@ -2882,6 +2894,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789689303,
- "runs": 455
+ "last_run": 1789701651,
+ "runs": 456
 }
