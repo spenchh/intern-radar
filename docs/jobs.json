@@ -1,7 +1,121 @@
 {
- "generated_at": 1789775623,
- "count": 351,
+ "generated_at": 1789787817,
+ "count": 361,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "MSIP Digital Design Verification Engineering Intern - HW",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721156800",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1789770259,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "digital design (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "78c7c043e670b1b1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Electrical and Optical Systems Intern - Silicon Validation Engineer - Interim Engineering Intern - Hardware",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721156176",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1789770259,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 9,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)",
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "4576d9d1aa1cf922"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Dynamics Mission Systems",
+   "title": "Engineering Intern - FPGA",
+   "url": "https://careers-gdms.icims.com/jobs/75044/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Bloomington, MN"
+   ],
+   "posted_at": 1789769706,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "fad53fe6ea441c4d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Formlabs",
+   "title": "Hardware Test Engineer Intern",
+   "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1789769655,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "c2364900f108c5ae"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Reliability Electronics Design Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284126",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1789769338,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electronics (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "c363f3c3a375b334"
+  },
   {
    "source": "Ashby",
    "company": "Etched",
@@ -11,8 +125,10 @@
     "San Jose"
    ],
    "posted_at": 1789766923,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
    "category": "silicon",
    "score": 3,
    "reasons": [
@@ -153,6 +269,73 @@
    "uid": "ba77b86a1525ba84"
   },
   {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Summer-Fall-2027--Onsite-_01871519",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "02ad94b4ea903751"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Winter 2026",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "7f4fa7717e9dfef4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Magna",
+   "title": "Validation Engineer Intern - EMC Validation",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
+   "locations": [
+    "Auburn Hills, MI"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "6803ae319aa6aa80"
+  },
+  {
    "source": "Greenhouse",
    "company": "Rocket Lab",
    "title": "Optical Engineering Intern Summer 2027",
@@ -259,6 +442,27 @@
    ],
    "first_seen": 1789689303,
    "uid": "b72de8e103140b1e"
+  },
+  {
+   "source": "Simplify",
+   "company": "REV Robotics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
+   "locations": [
+    "Carrollton, TX"
+   ],
+   "posted_at": 1789683495,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "fb545d13a7d67ac1"
   },
   {
    "source": "Simplify",
@@ -752,6 +956,27 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
