@@ -1,6 +1,6 @@
 {
- "generated_at": 1789805574,
- "count": 361,
+ "generated_at": 1789821080,
+ "count": 359,
  "jobs": [
   {
    "source": "Simplify",
@@ -978,27 +978,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -3353,27 +3332,6 @@
    ],
    "first_seen": 1788757362,
    "uid": "dac2400ecc5ba3a5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Microsoft",
-   "title": "Electrical Engineer Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986145",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1788570805,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788583724,
-   "uid": "ed21231e02f50535"
   },
   {
    "source": "Simplify",
