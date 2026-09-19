@@ -1,7 +1,29 @@
 {
- "generated_at": 1789787817,
+ "generated_at": 1789805574,
  "count": 361,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Hardware Engineering Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1789797965,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789805574,
+   "uid": "35e37862c0f1281a"
+  },
   {
    "source": "Simplify",
    "company": "Qualcomm",
@@ -3331,28 +3353,6 @@
    ],
    "first_seen": 1788757362,
    "uid": "dac2400ecc5ba3a5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Microsoft",
-   "title": "Hardware Engineer Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986143",
-   "locations": [
-    "Hillsboro, OR"
-   ],
-   "posted_at": 1788570816,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788583724,
-   "uid": "9c1973f95b34a386"
   },
   {
    "source": "Simplify",
