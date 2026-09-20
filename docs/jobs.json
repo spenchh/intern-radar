@@ -1,6 +1,6 @@
 {
- "generated_at": 1789904521,
- "count": 358,
+ "generated_at": 1789915968,
+ "count": 357,
  "jobs": [
   {
    "source": "Simplify",
@@ -981,27 +981,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -1197,27 +1176,6 @@
    ],
    "first_seen": 1789486415,
    "uid": "4b461cc0047b51d3"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Physical Design and Timing Engineer Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789430400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "physical design (+3)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "43c38f57030fa88c"
   },
   {
    "source": "Simplify",
@@ -4184,6 +4142,34 @@
    ],
    "first_seen": 1788415817,
    "uid": "133c9ffef8691ec0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "Silicon Hardware Engineering Intern - Bachelor's",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Folsom, CA",
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1788307200,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "silicon (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788415817,
+   "uid": "af5b6efe7a4328b5"
   },
   {
    "source": "Simplify",
