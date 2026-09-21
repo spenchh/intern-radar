@@ -1,5 +1,5 @@
 {
- "generated_at": 1789950704,
+ "generated_at": 1789968616,
  "count": 357,
  "jobs": [
   {
@@ -676,27 +676,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Nordson",
-   "title": "Electronics Engineer Intern",
-   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Electronics-Engineering-_REQ52928",
-   "locations": [
-    "Allen, TX"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "8562bc7d703c84a2"
-  },
-  {
-   "source": "Simplify",
    "company": "RTX",
    "title": "Electrical Engineer Co-op - Summer/Fall",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
@@ -978,6 +957,27 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
