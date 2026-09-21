@@ -1,7 +1,28 @@
 {
- "generated_at": 1789968616,
- "count": 357,
+ "generated_at": 1789988791,
+ "count": 355,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Nordson",
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "posted_at": 1789862400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789988791,
+   "uid": "ba76930a721d3037"
+  },
   {
    "source": "Simplify",
    "company": "Microsoft",
@@ -957,27 +978,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -2728,48 +2728,6 @@
    ],
    "first_seen": 1788954209,
    "uid": "e9de9c727462a9f6"
-  },
-  {
-   "source": "Simplify",
-   "company": "Bank of Montreal",
-   "title": "Hardware Asset Management Analyst Co-op Intern - 8 months",
-   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-2",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1788912000,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1788967121,
-   "uid": "380e5e88e7c92afe"
-  },
-  {
-   "source": "Simplify",
-   "company": "Bank of Montreal",
-   "title": "Hardware Asset Management Analyst Co-op Intern - Multiple Teams",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Hardware-Asset-Management-Analyst--Winter-2027--Co-op-Internship----8-months_R260026279-3",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1788912000,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1788967121,
-   "uid": "a1d16fb2401fa9be"
   },
   {
    "source": "Simplify",

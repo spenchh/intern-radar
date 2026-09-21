@@ -1,5 +1,5 @@
 {
- "count": 496,
+ "count": 497,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2119,6 +2119,12 @@
    "title": "Analog IC Design Engineer Intern - Bachelors",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543"
   },
+  "ba76930a721d3037": {
+   "company": "Nordson",
+   "first_seen": 1789988791,
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913"
+  },
   "ba77b86a1525ba84": {
    "company": "Micron Technology",
    "first_seen": 1789775623,
@@ -2978,6 +2984,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1789968616,
- "runs": 478
+ "last_run": 1789988791,
+ "runs": 479
 }
