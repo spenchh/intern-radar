@@ -1,7 +1,51 @@
 {
- "generated_at": 1790086279,
- "count": 360,
+ "generated_at": 1790100344,
+ "count": 363,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "SoundOff Signal",
+   "title": "Electrical Engineer Intern/Co-op",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4524444",
+   "locations": [
+    "Hudsonville, MI"
+   ],
+   "posted_at": 1790086789,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790100344,
+   "uid": "f98be549437c62c6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
+   "url": "https://careers.jhuapl.edu/jobs/60123?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "posted_at": 1790086705,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "computer engineering (+3)",
+    "electrical (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1790100344,
+   "uid": "40dde5020efcdb9b"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
@@ -48,6 +92,27 @@
    ],
    "first_seen": 1790052937,
    "uid": "c546bdc03e85173c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Verification Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1790100344,
+   "uid": "4cda20a3e8b85865"
   },
   {
    "source": "Simplify",
@@ -1132,6 +1197,27 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -7230,27 +7316,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "c7dcc15640629e2e"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Design/DSP/Verification Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1783163621,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "0db9e08857d0b3e1"
   },
   {
    "source": "Simplify",

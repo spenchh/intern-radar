@@ -1,5 +1,5 @@
 {
- "count": 509,
+ "count": 512,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -805,6 +805,12 @@
    "title": "FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=8003013"
   },
+  "40dde5020efcdb9b": {
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "first_seen": 1790100344,
+   "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
+   "url": "https://careers.jhuapl.edu/jobs/60123?icims=1"
+  },
   "411afaf73cdb9e99": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -942,6 +948,12 @@
    "first_seen": 1786988749,
    "title": "Campus FPGA Engineer Intern",
    "url": "https://boards.greenhouse.io/embed/job_app?token=7974391"
+  },
+  "4cda20a3e8b85865": {
+   "company": "Ciena",
+   "first_seen": 1790100344,
+   "title": "Verification Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686"
   },
   "4d2c185b4b79892b": {
    "company": "Nidec",
@@ -2965,6 +2977,12 @@
    "title": "Hardware R&D Engineering Intern (Fall 2026)",
    "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"
   },
+  "f98be549437c62c6": {
+   "company": "SoundOff Signal",
+   "first_seen": 1790100344,
+   "title": "Electrical Engineer Intern/Co-op",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4524444"
+  },
   "fa033f8af545ae36": {
    "company": "Virtu Financial",
    "first_seen": 1786988749,
@@ -3056,6 +3074,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790086279,
- "runs": 485
+ "last_run": 1790100344,
+ "runs": 486
 }
