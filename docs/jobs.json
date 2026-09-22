@@ -1,7 +1,71 @@
 {
- "generated_at": 1790111897,
- "count": 363,
+ "generated_at": 1790120534,
+ "count": 370,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Eaton",
+   "title": "Electrical Engineer Intern/Co-op - Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687238597770",
+   "locations": [
+    "Peachtree City, GA"
+   ],
+   "posted_at": 1790115714,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "7ff5c7966c44a932"
+  },
+  {
+   "source": "Simplify",
+   "company": "Two Sigma",
+   "title": "Hardware Engineering Intern",
+   "url": "https://twosigma.avature.net/careers/JobDetail/14289",
+   "locations": [
+    "NYC"
+   ],
+   "posted_at": 1790115642,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "e26b838be38848fc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "Hardware Test Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790115429,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "91d88f127ed2c505"
+  },
   {
    "source": "Greenhouse",
    "company": "Astranis",
@@ -132,6 +196,98 @@
    ],
    "first_seen": 1790100344,
    "uid": "4cda20a3e8b85865"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "ASIC Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "a9b9cd188efc16e7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Danaher",
+   "title": "Hardware Engineer Co-op",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537",
+   "locations": [
+    "Concord, Vaughan, ON, Canada"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "d2a6f051df04d0ed"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Layout Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1",
+   "locations": [
+    "Irvine, CA",
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "layout (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "57c554c0d25f0ded"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Electrical Validation Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027",
+    "Winter 2028",
+    "Spring 2028",
+    "Summer 2028"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "c33c8380a551ba29"
   },
   {
    "source": "Simplify",
@@ -959,27 +1115,6 @@
   {
    "source": "Simplify",
    "company": "Marvell",
-   "title": "SRAM Circuit Design Intern - MS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Circuit-Design-Intern--MS---Summer-2027_2604083-1",
-   "locations": [
-    "Burlington, VT"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "circuit design (+3)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "fe49acf4c1bb199f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
    "title": "Analog Layout Co-op Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
    "locations": [
@@ -1020,6 +1155,28 @@
    ],
    "first_seen": 1789689303,
    "uid": "1ff0bae49a9a3e22"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Co-op - Summer/Fall",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789701651,
+   "uid": "6650e3704ad6b798"
   },
   {
    "source": "Simplify",
@@ -1219,27 +1376,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -1435,6 +1571,27 @@
    ],
    "first_seen": 1789486415,
    "uid": "4b461cc0047b51d3"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Physical Design and Timing Engineer Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789430400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "43c38f57030fa88c"
   },
   {
    "source": "Simplify",
@@ -6793,26 +6950,6 @@
    "uid": "d78c709451f67bfe"
   },
   {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "Ground Systems Engineering Intern - Instrumentation & Control",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1785724187,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "instrumentation (+2)",
-    "systems engineering (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "0417e6afaf4f022c"
-  },
-  {
    "source": "Simplify",
    "company": "HPR (Hyannis Port Research)",
    "title": "FPGA Engineer Intern",
@@ -7928,6 +8065,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "bfe5440d3217397a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Figure",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1777269962,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "ea364f6ade622e21"
   },
   {
    "source": "Simplify",

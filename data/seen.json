@@ -1,5 +1,5 @@
 {
- "count": 513,
+ "count": 521,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1081,6 +1081,12 @@
    "title": "Digital Validation Intern",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557"
   },
+  "57c554c0d25f0ded": {
+   "company": "Marvell",
+   "first_seen": 1790120534,
+   "title": "Analog Layout Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern--BS---Summer-2027_2604735-1"
+  },
   "589ebb2279b5aa96": {
    "company": "Rivian",
    "first_seen": 1786988749,
@@ -1489,6 +1495,12 @@
    "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1"
   },
+  "7ff5c7966c44a932": {
+   "company": "Eaton",
+   "first_seen": 1790120534,
+   "title": "Electrical Engineer Intern/Co-op - Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687238597770"
+  },
   "7ffabb8f74553715": {
    "company": "Kairos Power",
    "first_seen": 1786988749,
@@ -1668,6 +1680,12 @@
    "first_seen": 1788415817,
    "title": "Automated Test Engineer Intern - Hardware",
    "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false"
+  },
+  "91d88f127ed2c505": {
+   "company": "Astranis",
+   "first_seen": 1790120534,
+   "title": "Hardware Test Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006"
   },
   "929fa76f0b182589": {
    "company": "Xcel Energy",
@@ -1926,6 +1944,12 @@
    "first_seen": 1788967121,
    "title": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
    "url": "https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462"
+  },
+  "a9b9cd188efc16e7": {
+   "company": "Ciena",
+   "first_seen": 1790120534,
+   "title": "ASIC Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750"
   },
   "a9d5ad241bda4504": {
    "company": "Blue Origin",
@@ -2293,6 +2317,12 @@
    "title": "Avionics Engineer Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597413006"
   },
+  "c33c8380a551ba29": {
+   "company": "Marvell",
+   "first_seen": 1790120534,
+   "title": "Electrical Validation Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1"
+  },
   "c363f3c3a375b334": {
    "company": "Tesla",
    "first_seen": 1789787817,
@@ -2478,6 +2508,12 @@
    "first_seen": 1786988749,
    "title": "Solar Hardware Engineer Intern - Solar Hardware Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/271539"
+  },
+  "d2a6f051df04d0ed": {
+   "company": "Danaher",
+   "first_seen": 1790120534,
+   "title": "Hardware Engineer Co-op",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537"
   },
   "d2b4fa8e0c3d2207": {
    "company": "Toshiba Global Commerce",
@@ -2725,6 +2761,12 @@
    "title": "Integrated Photonics Research Intern",
    "url": "https://jobs.keysight.com/jobs/54138?icims=1"
   },
+  "e26b838be38848fc": {
+   "company": "Two Sigma",
+   "first_seen": 1790120534,
+   "title": "Hardware Engineering Intern",
+   "url": "https://twosigma.avature.net/careers/JobDetail/14289"
+  },
   "e331310899bcedbc": {
    "company": "Tesla",
    "first_seen": 1786988749,
@@ -2832,6 +2874,12 @@
    "first_seen": 1788954209,
    "title": "Hardware Design Engineering Intern",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887"
+  },
+  "ea364f6ade622e21": {
+   "company": "Figure",
+   "first_seen": 1790120534,
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006"
   },
   "ebb105c9c21db154": {
    "company": "Apple",
@@ -3080,6 +3128,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790111897,
- "runs": 487
+ "last_run": 1790120534,
+ "runs": 488
 }
