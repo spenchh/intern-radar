@@ -1,6 +1,6 @@
 {
- "generated_at": 1790052937,
- "count": 367,
+ "generated_at": 1790069935,
+ "count": 362,
  "jobs": [
   {
    "source": "Simplify",
@@ -961,49 +961,6 @@
   {
    "source": "Simplify",
    "company": "RTX",
-   "title": "FPGA Design Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "d84afca6531a1dc8"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Co-op - Summer/Fall",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789701651,
-   "uid": "6650e3704ad6b798"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
    "title": "Electrical Firmware Co-op",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872-1",
    "locations": [
@@ -1112,30 +1069,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Lightmatter",
-   "title": "Silicon Intern - Hardware & Photonics Engineering",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008",
-   "locations": [
-    "Boston, MA",
-    "Mountain View, CA"
-   ],
-   "posted_at": 1789540928,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1789553418,
-   "uid": "4267cbb8fd0a4851"
-  },
-  {
-   "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineer Intern - Hardware",
    "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
@@ -1241,27 +1174,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -2027,27 +1939,6 @@
    ],
    "first_seen": 1789470520,
    "uid": "d391a782fe393300"
-  },
-  {
-   "source": "Simplify",
-   "company": "Blue Robotics",
-   "title": "Electronics Design Co-op",
-   "url": "https://ats.rippling.com/blue-robotics/jobs/25a883e5-3fa4-459e-9762-5f33a3512cd8",
-   "locations": [
-    "Victoria, BC, Canada"
-   ],
-   "posted_at": 1789170973,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1789176399,
-   "uid": "043e8a225ff655c8"
   },
   {
    "source": "Simplify",
