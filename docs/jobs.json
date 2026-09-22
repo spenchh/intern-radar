@@ -1,7 +1,26 @@
 {
- "generated_at": 1790100344,
+ "generated_at": 1790111897,
  "count": 363,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Hardware Test Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790110670,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790111897,
+   "uid": "e0b970af4d287111"
+  },
   {
    "source": "Simplify",
    "company": "SoundOff Signal",
@@ -7316,28 +7335,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "c7dcc15640629e2e"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Analog Design Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475",
-   "locations": [
-    "Westlake Village, CA"
-   ],
-   "posted_at": 1783161284,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "1ab3b35ae4c564fb"
   },
   {
    "source": "Simplify",
