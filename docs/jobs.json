@@ -1,7 +1,221 @@
 {
- "generated_at": 1790024654,
- "count": 355,
+ "generated_at": 1790035604,
+ "count": 365,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "CesiumAstro",
+   "title": "Electrical Engineer Intern - FPGA",
+   "url": "https://jobs.lever.co/CesiumAstro/7778b1db-4953-4320-83ec-35805f5a0516/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1790029068,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "df931de4c1af0c24"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Validation Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150748389",
+   "locations": [
+    "Tempe, AZ"
+   ],
+   "posted_at": 1790028431,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "ab64135057e739e8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "DRAM Technology Physical Design and Block-Level PPA Optimization Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584",
+   "locations": [
+    "Boise, ID"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "5482d3c611e00d4b"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
+  },
+  {
+   "source": "Simplify",
+   "company": "Sanofi",
+   "title": "mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-mRNA-Drug-Substance-Process-Characterization-Data-Analytics-and-Visualization--Waltham--MA_R2854370",
+   "locations": [
+    "Waltham, MA"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "9b41701b5c9aaf2e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Client Co-op - ASIC IP",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672",
+   "locations": [
+    "Rochester, NY"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "e763d3d167818231"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Digital IC Design Intern - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1",
+   "locations": [
+    "Hudson Valley, NY",
+    "Austin, TX",
+    "Irvine, CA",
+    "Santa Clara, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027",
+    "Winter 2028",
+    "Spring 2028",
+    "Summer 2028"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "ic design (+3)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "49c9d745778e6d9c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Digital IC Design Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1",
+   "locations": [
+    "Hudson Valley, NY",
+    "Austin, TX",
+    "Irvine, CA",
+    "Santa Clara, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "ic design (+3)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "b63c42620630a995"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Digital IC Design Intern - MS - Multiple Teams",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828",
+   "locations": [
+    "Hudson Valley, NY",
+    "Austin, TX",
+    "Irvine, CA",
+    "Santa Clara, CA",
+    "Boise, ID"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027",
+    "Winter 2028",
+    "Spring 2028",
+    "Summer 2028"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "ic design (+3)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "c50a2981e9b1d7eb"
+  },
   {
    "source": "Simplify",
    "company": "Nordson",
@@ -5363,6 +5577,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "89a3d384d07dea86"
+  },
+  {
+   "source": "Simplify",
+   "company": "Microchip Technology",
+   "title": "Verification Intern - Verification",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26",
+   "locations": [
+    "Chandler, AZ"
+   ],
+   "posted_at": 1787702400,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1787782127,
+   "uid": "ccd10d2a8f8c96b7"
   },
   {
    "source": "Greenhouse",
