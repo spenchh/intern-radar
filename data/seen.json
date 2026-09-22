@@ -1,5 +1,5 @@
 {
- "count": 506,
+ "count": 509,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2317,6 +2317,12 @@
    "title": "Digital IC Design Intern - MS - Multiple Teams",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828"
   },
+  "c546bdc03e85173c": {
+   "company": "Tesla",
+   "first_seen": 1790052937,
+   "title": "Reliability Test Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284278"
+  },
   "c61b0e3859703fc5": {
    "company": "DRW",
    "first_seen": 1786988749,
@@ -2785,6 +2791,12 @@
    "title": "Power Electronics Controls Engineer Intern",
    "url": "http://jobs.ashbyhq.com/heron-power/225d25cd-4b1a-4025-92bf-0624f2261862/application?embed=true"
   },
+  "e861eae90b786644": {
+   "company": "Tesla",
+   "first_seen": 1790052937,
+   "title": "Power Electronics Firmware Engineer Intern",
+   "url": "https://www.tesla.com/careers/search/job/284029"
+  },
   "e931b9b9852fae3c": {
    "company": "Illinois Tool Works",
    "first_seen": 1788434053,
@@ -2868,6 +2880,12 @@
    "first_seen": 1786988749,
    "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/275689"
+  },
+  "f02b01d84e4b983e": {
+   "company": "Symbotic",
+   "first_seen": 1790052937,
+   "title": "Hardware Engineer Intern - Hardware Engineering",
+   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101"
   },
   "f07d19bab1bc16d2": {
    "company": "Amentum",
@@ -3038,6 +3056,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790035604,
- "runs": 482
+ "last_run": 1790052937,
+ "runs": 483
 }

@@ -1,7 +1,54 @@
 {
- "generated_at": 1790035604,
- "count": 365,
+ "generated_at": 1790052937,
+ "count": 367,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Power Electronics Firmware Engineer Intern",
+   "url": "https://www.tesla.com/careers/search/job/284029",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790039215,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "electronics (+2)",
+    "power electronics (+2)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790052937,
+   "uid": "e861eae90b786644"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Reliability Test Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284278",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790039210,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "test engineer (+1)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1790052937,
+   "uid": "c546bdc03e85173c"
+  },
   {
    "source": "Simplify",
    "company": "CesiumAstro",
@@ -215,6 +262,29 @@
    ],
    "first_seen": 1790035604,
    "uid": "c50a2981e9b1d7eb"
+  },
+  {
+   "source": "Simplify",
+   "company": "Symbotic",
+   "title": "Hardware Engineer Intern - Hardware Engineering",
+   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Hardware-Engineer_R8101",
+   "locations": [
+    "Wilmington, MA"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 8,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790052937,
+   "uid": "f02b01d84e4b983e"
   },
   {
    "source": "Simplify",
@@ -1065,27 +1135,6 @@
    "uid": "4267cbb8fd0a4851"
   },
   {
-   "source": "Greenhouse",
-   "company": "Lightmatter",
-   "title": "Silicon, Hardware, & Photonics Engineering - Internship ",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008",
-   "locations": [
-    "Boston, MA; Mountain View, CA"
-   ],
-   "posted_at": 1789524084,
-   "terms": [],
-   "sponsorship": "",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1789535833,
-   "uid": "8f1bfaad21c00b1d"
-  },
-  {
    "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineer Intern - Hardware",
@@ -1192,6 +1241,27 @@
    ],
    "first_seen": 1789519147,
    "uid": "9d456255953fd406"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -1978,27 +2048,6 @@
    ],
    "first_seen": 1789176399,
    "uid": "043e8a225ff655c8"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Lightmatter",
-   "title": "Silicon Packaging Engineer - Intern & New Grad",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1789169825,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1789176399,
-   "uid": "6ad5884421738578"
   },
   {
    "source": "Simplify",
