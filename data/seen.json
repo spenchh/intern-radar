@@ -1,5 +1,5 @@
 {
- "count": 522,
+ "count": 530,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -847,6 +847,12 @@
    "title": "Electrical Engineer Co-op",
    "url": "https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply"
   },
+  "455e4e22bb9ad132": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Power Electronics Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706427006"
+  },
   "4576d9d1aa1cf922": {
    "company": "Qualcomm",
    "first_seen": 1789787817,
@@ -1081,6 +1087,12 @@
    "title": "Digital Validation Intern",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557"
   },
+  "56148f2a99a617d1": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Power Electronics Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006"
+  },
   "57c554c0d25f0ded": {
    "company": "Marvell",
    "first_seen": 1790120534,
@@ -1122,6 +1134,12 @@
    "first_seen": 1788470444,
    "title": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
    "url": "https://www.tesla.com/careers/search/job/272912"
+  },
+  "5deaed8aaa31ec13": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Avionics Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006"
   },
   "5e3a61453ebcea3a": {
    "company": "L3Harris Technologies",
@@ -1380,6 +1398,12 @@
    "first_seen": 1789424135,
    "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
    "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662"
+  },
+  "755a1ac6402aee33": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Electrical Reliability Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006"
   },
   "759e09bdf1f4dbba": {
    "company": "Kodiak Robotics",
@@ -1897,6 +1921,12 @@
    "title": "Electrical Engineer Intern - Summer 2027",
    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007"
   },
+  "a4dfa211b17217ca": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Antenna Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704284006"
+  },
   "a59483ae01234366": {
    "company": "V2X",
    "first_seen": 1788434053,
@@ -2377,6 +2407,12 @@
    "title": "Research Intern - Robotic Hardware - Simulation and Data",
    "url": "https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application"
   },
+  "c731d161cd99219f": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Avionics Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006"
+  },
   "c7d2b4b3b0a4dcd2": {
    "company": "Geotab",
    "first_seen": 1789106389,
@@ -2773,6 +2809,12 @@
    "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/273819"
   },
+  "e36ff830bc4f9631": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Antenna Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704274006"
+  },
   "e3ce8c54b3ec6ee5": {
    "company": "Tacit",
    "first_seen": 1786988749,
@@ -3001,6 +3043,12 @@
    "title": "Semiconductor Systems Automation Intern",
    "url": "https://jobs.keysight.com/jobs/54371?icims=1"
   },
+  "f4bb94ce2f26fa9b": {
+   "company": "Astranis",
+   "first_seen": 1790148167,
+   "title": "Electrical Reliability Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006"
+  },
   "f4e89cedcb1f2516": {
    "company": "Marvell",
    "first_seen": 1788470444,
@@ -3134,6 +3182,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790128154,
- "runs": 489
+ "last_run": 1790148167,
+ "runs": 490
 }

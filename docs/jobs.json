@@ -1,7 +1,163 @@
 {
- "generated_at": 1790128154,
- "count": 372,
+ "generated_at": 1790148167,
+ "count": 377,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Antenna Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704274006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790136574,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "antenna (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "e36ff830bc4f9631"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Antenna Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704284006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790136571,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "antenna (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "a4dfa211b17217ca"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Electrical Reliability Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790135057,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "755a1ac6402aee33"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Electrical Reliability Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790135055,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "f4bb94ce2f26fa9b"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Power Electronics Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706427006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790134157,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electronics (+2)",
+    "power electronics (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "455e4e22bb9ad132"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Power Electronics Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790134154,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electronics (+2)",
+    "power electronics (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "56148f2a99a617d1"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Avionics Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790133527,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "5deaed8aaa31ec13"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Avionics Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790133525,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1790148167,
+   "uid": "c731d161cd99219f"
+  },
   {
    "source": "Simplify",
    "company": "Keysight Technologies",
@@ -881,29 +1037,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1789689600,
-   "terms": [
-    "Winter 2026",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789787817,
-   "uid": "7f4fa7717e9dfef4"
-  },
-  {
-   "source": "Simplify",
    "company": "Magna",
    "title": "Validation Engineer Intern - EMC Validation",
    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
@@ -1394,27 +1527,6 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -7663,28 +7775,6 @@
    ],
    "first_seen": 1787800689,
    "uid": "c64b8165a000ddb2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Figure",
-   "title": "Hardware Reliability Intern",
-   "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1782252642,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "hardware (+2)",
-    "reliability (+1)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "9d9e1d8f5503b627"
   },
   {
    "source": "Simplify",
