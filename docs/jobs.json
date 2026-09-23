@@ -1,6 +1,6 @@
 {
- "generated_at": 1790185381,
- "count": 376,
+ "generated_at": 1790196101,
+ "count": 375,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -5735,28 +5735,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "03539bab35bc5240"
-  },
-  {
-   "source": "Simplify",
-   "company": "L3Harris Technologies",
-   "title": "Integration and Test Engineer Intern - Non-Automation",
-   "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Integration-and-Test-Engineering-Non-Automation-MA-01060/1423743300/?ats=successfactors",
-   "locations": [
-    "Northampton, MA"
-   ],
-   "posted_at": 1787780765,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "test engineer (+1)",
-    "integration and test (+1)"
-   ],
-   "first_seen": 1787782127,
-   "uid": "abb34759724e3246"
   },
   {
    "source": "Simplify",
