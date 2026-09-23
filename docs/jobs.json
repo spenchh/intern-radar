@@ -1,7 +1,28 @@
 {
- "generated_at": 1790120534,
- "count": 370,
+ "generated_at": 1790128154,
+ "count": 372,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Semiconductor Systems Automation Intern",
+   "url": "https://jobs.keysight.com/jobs/54371?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1790125918,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "semiconductor (+3)"
+   ],
+   "first_seen": 1790128154,
+   "uid": "f437d298f8f1dcac"
+  },
   {
    "source": "Simplify",
    "company": "Eaton",
@@ -1376,6 +1397,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -2049,28 +2091,6 @@
    ],
    "first_seen": 1789411706,
    "uid": "1501cce989424b1f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Analog Layout Engineer Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Layout-Intern_2604101-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789344000,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "layout (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1789411706,
-   "uid": "0da18c20f873486d"
   },
   {
    "source": "Simplify",
@@ -5984,6 +6004,27 @@
    ],
    "first_seen": 1787582435,
    "uid": "21e705aeae65bd01"
+  },
+  {
+   "source": "Simplify",
+   "company": "The Walt Disney Company",
+   "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
+   "locations": [
+    "Lake Buena Vista, FL"
+   ],
+   "posted_at": 1787529600,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineering (+3)"
+   ],
+   "first_seen": 1787582435,
+   "uid": "69d491a136433970"
   },
   {
    "source": "Simplify",
