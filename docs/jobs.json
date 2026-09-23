@@ -1,6 +1,6 @@
 {
- "generated_at": 1790168058,
- "count": 377,
+ "generated_at": 1790185381,
+ "count": 376,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -1504,27 +1504,6 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
