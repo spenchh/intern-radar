@@ -1,7 +1,155 @@
 {
- "generated_at": 1790196101,
- "count": 375,
+ "generated_at": 1790205059,
+ "count": 384,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "FPGA Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790204705,
+   "terms": [],
+   "sponsorship": "",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "513367dd009cbf9c"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "FPGA Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704803006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790204702,
+   "terms": [],
+   "sponsorship": "",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "bcb7ce64bc3d9baa"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Analog and Mixed Signal IC Design Engineer Intern",
+   "url": "https://jobs.keysight.com/jobs/54221?icims=1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790201597,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "ic design (+3)",
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "66d001e17a35b7d2"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
+   "url": "https://careers.amd.com/jobs/90997?icims=1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790201433,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "393dc6e574c56ea8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keenfinity",
+   "title": "Electrical Test Engineer Co-op",
+   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151397415",
+   "locations": [
+    "Fairport, NY"
+   ],
+   "posted_at": 1790201137,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "870f08ff58312a2c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keenfinity",
+   "title": "Embedded Firmware Engineer Co-op",
+   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151397189",
+   "locations": [
+    "Fairport, NY"
+   ],
+   "posted_at": 1790201137,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "b7162342ea731b2a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Apple",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://jobs.apple.com/en-us/details/200685172",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "posted_at": 1790201135,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1788434053,
+   "uid": "868e7b052c12ff11"
+  },
   {
    "source": "Greenhouse",
    "company": "Astranis",
@@ -178,6 +326,50 @@
    ],
    "first_seen": 1790128154,
    "uid": "f437d298f8f1dcac"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hitachi Energy",
+   "title": "Electrical Component Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Fall 2026",
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "4bf75d6e7babf842"
+  },
+  {
+   "source": "Simplify",
+   "company": "Saab",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
+   "locations": [
+    "East Syracuse, NY"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "79fdc007ad63aa77"
   },
   {
    "source": "Simplify",
