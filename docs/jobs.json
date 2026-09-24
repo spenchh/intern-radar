@@ -1,7 +1,175 @@
 {
- "generated_at": 1790281831,
- "count": 395,
+ "generated_at": 1790292486,
+ "count": 410,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Mill",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/mill/jobs/4737766005",
+   "locations": [
+    "San Bruno, CA"
+   ],
+   "posted_at": 1790289604,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "c13f79f778a07694"
+  },
+  {
+   "source": "Simplify",
+   "company": "AccuWeather",
+   "title": "Hardware Intern",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8230684",
+   "locations": [
+    "State College, PA"
+   ],
+   "posted_at": 1790288828,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "0d3724bdbb35e931"
+  },
+  {
+   "source": "Simplify",
+   "company": "Acuity",
+   "title": "Hardware Development Intern - Hardware",
+   "url": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors",
+   "locations": [
+    "Brossard, QC, Canada"
+   ],
+   "posted_at": 1790287974,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "3f795248af4c9ce9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Arista Networks",
+   "title": "Hardware Engineering Intern",
+   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000151659973",
+   "locations": [
+    "Nashua, NH"
+   ],
+   "posted_at": 1790287741,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "053d85fbd587d44f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Validation Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151680529",
+   "locations": [
+    "Tempe, AZ"
+   ],
+   "posted_at": 1790287698,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "ab64135057e739e8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "RF Validation Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790287585,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "rf (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "bc38fbbdf4efa8c6"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "RF Validation Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790283705,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "rf (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "4941a6c14610c9e1"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "RF Validation Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790283702,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "rf (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "8011b499f3de91ef"
+  },
   {
    "source": "Greenhouse",
    "company": "Astranis",
@@ -261,6 +429,160 @@
    ],
    "first_seen": 1790269840,
    "uid": "4fb29f4e9e87dc10"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern Co-op - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "e5902353fb150623"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog Design Intern Co-op - Master\u2019s",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "13cd28bfeb7a0691"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Analog and Mixed Signal Layout Engineer Intern Co-op",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "mixed signal (+3)",
+    "layout (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "7832fa46719b4b8e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola",
+   "title": "SoC Digital Engineer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149",
+   "locations": [
+    "Plantation, FL"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "soc (+3)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "dd6911c655743e83"
+  },
+  {
+   "source": "Simplify",
+   "company": "Johnson & Johnson",
+   "title": "Electrical Engineer Co-op - Beatbox",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679",
+   "locations": [
+    "Danvers, MA"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "095c9eb9ec45315f"
+  },
+  {
+   "source": "Simplify",
+   "company": "iRhythm Technologies",
+   "title": "Electrical Engineer Co-op Intern",
+   "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "97c2da422990cb5f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525",
+   "locations": [
+    "Toronto, ON, Canada",
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "silicon (+3)",
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "9e860a8614a0d811"
   },
   {
    "source": "Greenhouse",

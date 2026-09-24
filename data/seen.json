@@ -1,5 +1,5 @@
 {
- "count": 552,
+ "count": 566,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -121,6 +121,12 @@
    "title": "Life Cycle Engineering Co-op - Electrical",
    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043"
   },
+  "053d85fbd587d44f": {
+   "company": "Arista Networks",
+   "first_seen": 1790292486,
+   "title": "Hardware Engineering Intern",
+   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000151659973"
+  },
   "058d05378990c793": {
    "company": "Tesla",
    "first_seen": 1788484192,
@@ -163,6 +169,12 @@
    "title": "Silicon Engineering Intern - 6-month Program",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982259"
   },
+  "095c9eb9ec45315f": {
+   "company": "Johnson & Johnson",
+   "first_seen": 1790292486,
+   "title": "Electrical Engineer Co-op - Beatbox",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Beatbox-Electrical-Engineering-Co-op_R-101679"
+  },
   "09a0e68691ceab55": {
    "company": "Rocket Lab",
    "first_seen": 1788996508,
@@ -204,6 +216,12 @@
    "first_seen": 1789411706,
    "title": "Analog Hardware Design Intern",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010830"
+  },
+  "0d3724bdbb35e931": {
+   "company": "AccuWeather",
+   "first_seen": 1790292486,
+   "title": "Hardware Intern",
+   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8230684"
   },
   "0d440c42b722966d": {
    "company": "Lightmatter",
@@ -294,6 +312,12 @@
    "first_seen": 1788415817,
    "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
+  },
+  "13cd28bfeb7a0691": {
+   "company": "Marvell",
+   "first_seen": 1790292486,
+   "title": "Analog Design Intern Co-op - Master\u2019s",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862"
   },
   "1501cce989424b1f": {
    "company": "Viavi Solutions",
@@ -811,6 +835,12 @@
    "title": "Avionics Intern - Neutron Avionics Systems",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819822003"
   },
+  "3f795248af4c9ce9": {
+   "company": "Acuity",
+   "first_seen": 1790292486,
+   "title": "Hardware Development Intern - Hardware",
+   "url": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors"
+  },
   "3fd75b9544a78656": {
    "company": "Texas Instruments",
    "first_seen": 1788434053,
@@ -948,6 +978,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Electrical-Engineer-IN-46818/1420699700/?ats=successfactors"
+  },
+  "4941a6c14610c9e1": {
+   "company": "Astranis",
+   "first_seen": 1790292486,
+   "title": "RF Validation Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006"
   },
   "496ca42b1296a2eb": {
    "company": "Rivian",
@@ -1501,6 +1537,12 @@
    "title": "Hardware Engineer Intern",
    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417"
   },
+  "7832fa46719b4b8e": {
+   "company": "Marvell",
+   "first_seen": 1790292486,
+   "title": "Analog and Mixed Signal Layout Engineer Intern Co-op",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/AMS-Layout-Engineer-Intern---BS---2027-Co-Op_2604790"
+  },
   "783b284eea97e0cb": {
    "company": "Vital Lyfe",
    "first_seen": 1788460724,
@@ -1614,6 +1656,12 @@
    "first_seen": 1789151575,
    "title": "NPI Hardware Co-op - 8 month",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/NPI-Hardware-Co-op--8-month---January-2027-_R031642"
+  },
+  "8011b499f3de91ef": {
+   "company": "Astranis",
+   "first_seen": 1790292486,
+   "title": "RF Validation Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006"
   },
   "813f291cf79a7109": {
    "company": "Contoro",
@@ -1843,6 +1891,12 @@
    "title": "ASIC Package Engineering Intern Co-op",
    "url": "https://careers.amd.com/jobs/91466?icims=1"
   },
+  "97c2da422990cb5f": {
+   "company": "iRhythm Technologies",
+   "first_seen": 1790292486,
+   "title": "Electrical Engineer Co-op Intern",
+   "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op-Intern-January-June-2027_JR1785"
+  },
   "984f71b7050114ba": {
    "company": "Micron Technology",
    "first_seen": 1789519147,
@@ -1932,6 +1986,12 @@
    "first_seen": 1788238438,
    "title": "Electrical/Computer Engineering Intern Co-op",
    "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027"
+  },
+  "9e860a8614a0d811": {
+   "company": "Marvell",
+   "first_seen": 1790292486,
+   "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Data-Center-Silicon-Hardware-Engineering-Intern---BS---2027-Co-Op_2604525"
   },
   "9f80170f6b17cd98": {
    "company": "Nokia",
@@ -2353,6 +2413,12 @@
    "title": "FPGA Designer Co-op",
    "url": "https://jobs.l3harris.com/job/Waterdown-FPGA-Designer-Coop-(Waterdown,-CAN)-ON-L9H-0C5/1430127300/?ats=successfactors"
   },
+  "bc38fbbdf4efa8c6": {
+   "company": "Astranis",
+   "first_seen": 1790292486,
+   "title": "RF Validation Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006"
+  },
   "bca64473c4b1d0c4": {
    "company": "GE Aerospace",
    "first_seen": 1788447714,
@@ -2436,6 +2502,12 @@
    "first_seen": 1789595598,
    "title": "RF Engineering Intern Summer 2027",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003"
+  },
+  "c13f79f778a07694": {
+   "company": "Mill",
+   "first_seen": 1790292486,
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/mill/jobs/4737766005"
   },
   "c1c7eb1fd7565eb9": {
    "company": "Emerson Electric",
@@ -2845,6 +2917,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003"
   },
+  "dd6911c655743e83": {
+   "company": "Motorola",
+   "first_seen": 1790292486,
+   "title": "SoC Digital Engineer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Intern---SoC-Digital-Engineer_R69149"
+  },
   "ddbbf1a49ba2913f": {
    "company": "Marvell",
    "first_seen": 1788583724,
@@ -2964,6 +3042,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineering Intern - EGSE Design",
    "url": "https://jobs.l3harris.com/job/Fort-Wayne-Intern-C,-EGSE-Design-Engineer-IN-46818/1420698800/?ats=successfactors"
+  },
+  "e5902353fb150623": {
+   "company": "Marvell",
+   "first_seen": 1790292486,
+   "title": "Analog Design Intern Co-op - BS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788"
   },
   "e5b92d05736c9702": {
    "company": "Rocket Lab",
@@ -3314,6 +3398,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790281831,
- "runs": 499
+ "last_run": 1790292486,
+ "runs": 500
 }
