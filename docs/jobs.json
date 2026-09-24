@@ -1,6 +1,6 @@
 {
- "generated_at": 1790251676,
- "count": 388,
+ "generated_at": 1790269840,
+ "count": 395,
  "jobs": [
   {
    "source": "Simplify",
@@ -88,6 +88,159 @@
    ],
    "first_seen": 1790231369,
    "uid": "78c43c67b9ae406b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Digital IC Design Engineering Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621",
+   "locations": [
+    "Burlington, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "ic design (+3)",
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "dcc118a71af0986d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Validation Engineering Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628",
+   "locations": [
+    "Burlington, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "signal integrity (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "b364d9b6f49a8473"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623",
+   "locations": [
+    "Calgary, AB, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "2c87b1e723fdcc29"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Analog Design Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "6f4e49389cf89d52"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622",
+   "locations": [
+    "Burlington, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "analog design (+3)",
+    "signal integrity (+2)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "5a76aa21d13a200f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Digital IC Design Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "ic design (+3)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "44c490b3afcb23e6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Semtech",
+   "title": "Validation Engineering Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790208000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790269840,
+   "uid": "4fb29f4e9e87dc10"
   },
   {
    "source": "Greenhouse",
@@ -5453,6 +5606,27 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Aerospace Engineering Intern - APU Programs Support",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
+   "locations": [
+    "Longueuil, QC, Canada"
+   ],
+   "posted_at": 1788220800,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "aerospace (+2)"
+   ],
+   "first_seen": 1788532392,
+   "uid": "8c0c1373d7b3acfe"
+  },
+  {
+   "source": "Simplify",
    "company": "Hudson River Trading",
    "title": "Hardware Engineer Intern",
    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
@@ -8368,30 +8542,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "39a2b2bc2d5600c7"
-  },
-  {
-   "source": "Simplify",
-   "company": "BorgWarner",
-   "title": "Validation Intern",
-   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
-   "locations": [
-    "Kokomo, IN"
-   ],
-   "posted_at": 1779372586,
-   "terms": [
-    "Winter 2026",
-    "Spring 2026",
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "b12420b6027b4548"
   },
   {
    "source": "Simplify",

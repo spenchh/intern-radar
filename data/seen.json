@@ -1,5 +1,5 @@
 {
- "count": 544,
+ "count": 551,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -601,6 +601,12 @@
    "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7891459003"
   },
+  "2c87b1e723fdcc29": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Analog Design Engineer Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623"
+  },
   "2d62171681f35895": {
    "company": "Tesla",
    "first_seen": 1788470444,
@@ -853,6 +859,12 @@
    "title": "Physical Design and Timing Engineer Intern",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511"
   },
+  "44c490b3afcb23e6": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Digital IC Design Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620"
+  },
   "44da715c504653ba": {
    "company": "Luxium Solutions",
    "first_seen": 1788460724,
@@ -1033,6 +1045,12 @@
    "title": "R&D Packaging and Signal Integrity Intern",
    "url": "https://jobs.keysight.com/jobs/54201?icims=1"
   },
+  "4fb29f4e9e87dc10": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Validation Engineering Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Validation-Engineering-Intern_REQ3618"
+  },
   "4fdf1239d37aada3": {
    "company": "Formlabs",
    "first_seen": 1786988749,
@@ -1134,6 +1152,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Electrical-Engineer-FL-32905/1420319900/?ats=successfactors"
+  },
+  "5a76aa21d13a200f": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622"
   },
   "5bcb2265ed42132d": {
    "company": "Emerson Electric",
@@ -1368,6 +1392,12 @@
    "first_seen": 1788328178,
    "title": "Hardware Engineer Co-op",
    "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007"
+  },
+  "6f4e49389cf89d52": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Analog Design Intern",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625"
   },
   "6f7c3ec86032dd79": {
    "company": "Etched",
@@ -2179,6 +2209,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern_01867089"
   },
+  "b364d9b6f49a8473": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Validation Engineering Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Validation-Engineering-Intern_REQ3628"
+  },
   "b4781c16a4a4d325": {
    "company": "Formlabs",
    "first_seen": 1789751103,
@@ -2779,6 +2815,12 @@
    "title": "Electrical Engineer Co-op",
    "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594"
   },
+  "dcc118a71af0986d": {
+   "company": "Semtech",
+   "first_seen": 1790269840,
+   "title": "Digital IC Design Engineering Intern - Signal Integrity Products Group",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Digital-IC-Design-Engineering-Intern_REQ3621"
+  },
   "dd091cea5733d02a": {
    "company": "K2 Space",
    "first_seen": 1788255923,
@@ -3266,6 +3308,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790251676,
- "runs": 497
+ "last_run": 1790269840,
+ "runs": 498
 }
