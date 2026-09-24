@@ -1,6 +1,6 @@
 {
- "generated_at": 1790231369,
- "count": 392,
+ "generated_at": 1790251676,
+ "count": 388,
  "jobs": [
   {
    "source": "Simplify",
@@ -1850,27 +1850,6 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -5474,27 +5453,6 @@
   },
   {
    "source": "Simplify",
-   "company": "RTX",
-   "title": "Aerospace Engineering Intern - APU Programs Support",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Support-aux-Programmes-des-GAP---Internship---Winter-2027---APU-Programs-Support_01869035",
-   "locations": [
-    "Longueuil, QC, Canada"
-   ],
-   "posted_at": 1788220800,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "aerospace (+2)"
-   ],
-   "first_seen": 1788532392,
-   "uid": "8c0c1373d7b3acfe"
-  },
-  {
-   "source": "Simplify",
    "company": "Hudson River Trading",
    "title": "Hardware Engineer Intern",
    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
@@ -5907,28 +5865,6 @@
    ],
    "first_seen": 1788434053,
    "uid": "2287381f166eeabe"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northwood Space",
-   "title": "Electrical Engineer Intern - Summer Internship",
-   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/1bc230b1-5ad2-44b8-ad61-e80a730e5026/application?embed=true",
-   "locations": [
-    "LA",
-    "Torrance, CA"
-   ],
-   "posted_at": 1787964321,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "42088ac2bcfe32e6"
   },
   {
    "source": "Simplify",
@@ -6438,27 +6374,6 @@
    ],
    "first_seen": 1787582435,
    "uid": "21e705aeae65bd01"
-  },
-  {
-   "source": "Simplify",
-   "company": "The Walt Disney Company",
-   "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1",
-   "locations": [
-    "Lake Buena Vista, FL"
-   ],
-   "posted_at": 1787529600,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineering (+3)"
-   ],
-   "first_seen": 1787582435,
-   "uid": "69d491a136433970"
   },
   {
    "source": "Simplify",
