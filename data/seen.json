@@ -1,5 +1,5 @@
 {
- "count": 539,
+ "count": 544,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -696,6 +696,12 @@
    "first_seen": 1789689303,
    "title": "Hardware Engineering Co-op",
    "url": "https://uscareers-lennox.icims.com/jobs/54692/job?mobile=true&needsRedirect=false"
+  },
+  "3549f33fd10039d2": {
+   "company": "Tesla",
+   "first_seen": 1790231369,
+   "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284489"
   },
   "359fb0f5fda5777b": {
    "company": "Anduril",
@@ -1465,6 +1471,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true"
   },
+  "78c43c67b9ae406b": {
+   "company": "Astranis",
+   "first_seen": 1790231369,
+   "title": "FPGA Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006"
+  },
   "78c7c043e670b1b1": {
    "company": "Qualcomm",
    "first_seen": 1789787817,
@@ -1758,6 +1770,12 @@
    "first_seen": 1788776284,
    "title": "Analog Validation Intern - Summer 2027",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558"
+  },
+  "9406cf8f3ae49503": {
+   "company": "Astranis",
+   "first_seen": 1790231369,
+   "title": "FPGA Intern - Winter 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704803006"
   },
   "946160f487b61ea9": {
    "company": "CesiumAstro",
@@ -2575,6 +2593,12 @@
    "title": "Antenna Engineer Intern",
    "url": "https://jobs.ashbyhq.com/tacit/9d8cf04c-4033-40ff-9af4-91dd8e4f02c6/application?embed=true"
   },
+  "cf2abc1a5f2d0a19": {
+   "company": "Analog Devices",
+   "first_seen": 1790231369,
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614"
+  },
   "d07a6ac762afcf90": {
    "company": "Nidec",
    "first_seen": 1788470444,
@@ -2706,6 +2730,12 @@
    "first_seen": 1789689303,
    "title": "FPGA Design Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/FPGA-Design-Intern--Summer-2027-_01870290"
+  },
+  "d93c72d46e3fc6b3": {
+   "company": "Tesla",
+   "first_seen": 1790231369,
+   "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
+   "url": "https://www.tesla.com/careers/search/job/284593"
   },
   "d9e10211d9c3e215": {
    "company": "Emerson Electric",
@@ -3236,6 +3266,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790213076,
- "runs": 495
+ "last_run": 1790231369,
+ "runs": 496
 }

@@ -1,7 +1,94 @@
 {
- "generated_at": 1790213076,
- "count": 386,
+ "generated_at": 1790231369,
+ "count": 392,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284489",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790213504,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790231369,
+   "uid": "3549f33fd10039d2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Robotics Electrical Design Engineer Intern - Tactile Sensing",
+   "url": "https://www.tesla.com/careers/search/job/284593",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790213098,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": 1790231369,
+   "uid": "d93c72d46e3fc6b3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "FPGA Intern - Winter 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704803006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790212086,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1790231369,
+   "uid": "9406cf8f3ae49503"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "FPGA Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790212086,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1790231369,
+   "uid": "78c43c67b9ae406b"
+  },
   {
    "source": "Greenhouse",
    "company": "Graphcore",
@@ -11,8 +98,10 @@
     "Austin, Texas, United States"
    ],
    "posted_at": 1790207185,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
    "category": "other",
    "score": 2,
    "reasons": [
@@ -392,6 +481,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Analog Devices",
+   "title": "Analog Design Engineering Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1790231369,
+   "uid": "cf2abc1a5f2d0a19"
+  },
+  {
+   "source": "Simplify",
    "company": "Eaton",
    "title": "Electrical Engineer Intern/Co-op - Engineering",
    "url": "https://eaton.eightfold.ai/careers/job/687238597770",
@@ -698,27 +809,6 @@
    ],
    "first_seen": 1790035604,
    "uid": "df931de4c1af0c24"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Validation Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150748389",
-   "locations": [
-    "Tempe, AZ"
-   ],
-   "posted_at": 1790028431,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1790035604,
-   "uid": "ab64135057e739e8"
   },
   {
    "source": "Simplify",
@@ -1630,6 +1720,30 @@
    "uid": "c0fe312257faedd9"
   },
   {
+   "source": "Simplify",
+   "company": "Lightmatter",
+   "title": "Silicon Intern - Hardware & Photonics Engineering",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008",
+   "locations": [
+    "Boston, MA",
+    "Mountain View, CA"
+   ],
+   "posted_at": 1789540928,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1789553418,
+   "uid": "4267cbb8fd0a4851"
+  },
+  {
    "source": "Greenhouse",
    "company": "Lightmatter",
    "title": "Silicon, Hardware, & Photonics Engineering - Internship ",
@@ -1736,6 +1850,27 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
