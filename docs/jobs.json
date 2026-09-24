@@ -1,7 +1,27 @@
 {
- "generated_at": 1790269840,
+ "generated_at": 1790281831,
  "count": 395,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Electrical Integration Intern - RF (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790270455,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "rf (+2)"
+   ],
+   "first_seen": 1790281831,
+   "uid": "114ff8e8768e0706"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
@@ -7269,28 +7289,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Axon",
-   "title": "2027 US Electrical Engineering Internship",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "posted_at": 1786141804,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "00c7ce6bbe9a2b4d"
-  },
-  {
-   "source": "Simplify",
    "company": "ByteDance",
    "title": "ASIC Design Engineer Intern - Video Silicon IP",
    "url": "https://jobs.bytedance.com/en/position/7670332179383699717/detail",
@@ -8529,7 +8527,8 @@
    "title": "Hardware Engineering Intern",
    "url": "https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770",
    "locations": [
-    "Austin, TX"
+    "Austin, TX",
+    "San Carlos, CA"
    ],
    "posted_at": 1779397743,
    "terms": [],
