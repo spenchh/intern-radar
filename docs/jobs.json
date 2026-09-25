@@ -1,5 +1,5 @@
 {
- "generated_at": 1790358405,
+ "generated_at": 1790370466,
  "count": 406,
  "jobs": [
   {
@@ -43,27 +43,6 @@
    ],
    "first_seen": 1790292486,
    "uid": "c13f79f778a07694"
-  },
-  {
-   "source": "Simplify",
-   "company": "AccuWeather",
-   "title": "Hardware Intern",
-   "url": "https://job-boards.greenhouse.io/accuweather/jobs/8230684",
-   "locations": [
-    "State College, PA"
-   ],
-   "posted_at": 1790288828,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1790292486,
-   "uid": "0d3724bdbb35e931"
   },
   {
    "source": "Simplify",
@@ -3108,6 +3087,25 @@
    ],
    "first_seen": 1789176399,
    "uid": "043e8a225ff655c8"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Lightmatter",
+   "title": "Silicon Packaging Engineer - Intern & New Grad",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1789169825,
+   "terms": [],
+   "sponsorship": "",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1789176399,
+   "uid": "6ad5884421738578"
   },
   {
    "source": "Simplify",
