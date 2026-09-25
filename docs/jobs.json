@@ -1,6 +1,6 @@
 {
- "generated_at": 1790320127,
- "count": 409,
+ "generated_at": 1790340350,
+ "count": 408,
  "jobs": [
   {
    "source": "Simplify",
@@ -2082,28 +2082,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "1ff0bae49a9a3e22"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Co-op - Summer/Fall",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Engineering-Co-op--Summer-Fall-27-_01870533",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789701651,
-   "uid": "6650e3704ad6b798"
   },
   {
    "source": "Simplify",
