@@ -1,7 +1,28 @@
 {
- "generated_at": 1790340350,
- "count": 408,
+ "generated_at": 1790358405,
+ "count": 406,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Barrios",
+   "title": "Data and Computer Engineering/Computer Science Intern",
+   "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Houston, TX"
+   ],
+   "posted_at": 1790344923,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineering (+3)"
+   ],
+   "first_seen": 1790358405,
+   "uid": "1dbb728fa23ffec1"
+  },
   {
    "source": "Simplify",
    "company": "Mill",
@@ -86,27 +107,6 @@
    ],
    "first_seen": 1790292486,
    "uid": "053d85fbd587d44f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Validation Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151680529",
-   "locations": [
-    "Tempe, AZ"
-   ],
-   "posted_at": 1790287698,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1790035604,
-   "uid": "ab64135057e739e8"
   },
   {
    "source": "Simplify",
@@ -2323,6 +2323,27 @@
    ],
    "first_seen": 1789603625,
    "uid": "0202d60c0ca5cc44"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -7134,28 +7155,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "SoC RTL Design Engineer Intern - HBM",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "posted_at": 1787184000,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 6,
-   "reasons": [
-    "rtl (+3)",
-    "soc (+3)"
-   ],
-   "first_seen": 1787277048,
-   "uid": "d59b971b1ebfa868"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Mixed Signal Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299",
@@ -8643,55 +8642,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "685aaeab80f7686b"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
-   "url": "https://www.tesla.com/careers/search/job/272581",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1780813216,
-   "terms": [
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 10,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware design (+3)",
-    "hardware (+2)",
-    "sensor (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "d19b93f56a2ac49c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware",
-   "url": "https://www.tesla.com/careers/search/job/272912",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1780794687,
-   "terms": [
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "5cc80bb222223370"
   },
   {
    "source": "Greenhouse",
