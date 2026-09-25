@@ -1,7 +1,137 @@
 {
- "generated_at": 1790370466,
- "count": 406,
+ "generated_at": 1790380604,
+ "count": 417,
  "jobs": [
+  {
+   "source": "Ashby",
+   "company": "Helion Energy",
+   "title": "Electrical Engineering Summer Intern",
+   "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4",
+   "locations": [
+    "Everett, WA"
+   ],
+   "posted_at": 1790376606,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "91ce73d776a529b7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Efficient Computer",
+   "title": "Hardware/Silicon Intern",
+   "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009",
+   "locations": [
+    "SF",
+    "Austin, TX",
+    "San Jose, CA",
+    "Pittsburgh, PA"
+   ],
+   "posted_at": 1790376112,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "a26597e6c2264ec8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qorvo",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1790374469,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "7362148b675d656b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Charles Schwab",
+   "title": "Model Risk Governance & Validation Intern",
+   "url": "https://career-schwab.icims.com/jobs/126262/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Southlake, TX"
+   ],
+   "posted_at": 1790374146,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "815358257059f3f3"
+  },
+  {
+   "source": "Simplify",
+   "company": "onsemi",
+   "title": "Test Engineer Intern - Intelligent Sensor Group - Test Engineering",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506604",
+   "locations": [
+    "Nampa, ID"
+   ],
+   "posted_at": 1790374125,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "sensor (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "9cea478ca57f2d6b"
+  },
+  {
+   "source": "Simplify",
+   "company": "onsemi",
+   "title": "Validation Engineer Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506611",
+   "locations": [
+    "Nampa, ID"
+   ],
+   "posted_at": 1790374125,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "ccfe183c85be221d"
+  },
   {
    "source": "Simplify",
    "company": "Barrios",
@@ -22,6 +152,94 @@
    ],
    "first_seen": 1790358405,
    "uid": "1dbb728fa23ffec1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Hardware Design and Verification Intern - PCBA",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "db4e3ed32c48de0a"
+  },
+  {
+   "source": "Simplify",
+   "company": "The Toro Company",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124",
+   "locations": [
+    "Bloomington, MN"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "3df57dbd7c0cc973"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Embedded Firmware Intern - Summer 2027",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
+   "locations": [
+    "Milwaukee, WI"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "17081ed01b6277ea"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Embedded Hardware Intern",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
+   "locations": [
+    "Milwaukee, WI"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "embedded (+1)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "9140fc730eee0534"
   },
   {
    "source": "Simplify",
@@ -2305,6 +2523,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Neogen",
+   "title": "Electrical Engineer Intern - Instrumentation",
+   "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Electrical-Engineer-Intern_REQ-11065",
+   "locations": [
+    "Oakdale, MN"
+   ],
+   "posted_at": 1789516800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "instrumentation (+2)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "cb34ee3bf01ee1fa"
+  },
+  {
+   "source": "Simplify",
    "company": "bioM\u00e9rieux",
    "title": "Hardware Co-op",
    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
@@ -3097,8 +3337,10 @@
     "Mountain View, CA"
    ],
    "posted_at": 1789169825,
-   "terms": [],
-   "sponsorship": "",
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
    "category": "silicon",
    "score": 3,
    "reasons": [

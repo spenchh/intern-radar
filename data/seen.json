@@ -1,5 +1,5 @@
 {
- "count": 567,
+ "count": 578,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -360,6 +360,12 @@
    "first_seen": 1788434053,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.stryten.com/jobs/5800?icims=1"
+  },
+  "17081ed01b6277ea": {
+   "company": "Zurn Elkay Water Solutions",
+   "first_seen": 1790380604,
+   "title": "Embedded Firmware Intern - Summer 2027",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"
   },
   "1741b4843afb4463": {
    "company": "Daktronics",
@@ -828,6 +834,12 @@
    "first_seen": 1789486415,
    "title": "Computer Engineering Intern",
    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors"
+  },
+  "3df57dbd7c0cc973": {
+   "company": "The Toro Company",
+   "first_seen": 1790380604,
+   "title": "Electrical Engineer Intern",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electrical-Engineering-Intern---The-Toro-Company_JR17124"
   },
   "3e0f8b53109c3dde": {
    "company": "Qorvo",
@@ -1477,6 +1489,12 @@
    "title": "FPGA Engineer Intern",
    "url": "https://www.optiver.com/join-us/jobs/8641352002/?gh_jid=8641352002"
   },
+  "7362148b675d656b": {
+   "company": "Qorvo",
+   "first_seen": 1790380604,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors"
+  },
   "74191fd6c1a5bc50": {
    "company": "Eight Sleep",
    "first_seen": 1787706795,
@@ -1675,6 +1693,12 @@
    "title": "Robotics Test & Validation Intern",
    "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true"
   },
+  "815358257059f3f3": {
+   "company": "Charles Schwab",
+   "first_seen": 1790380604,
+   "title": "Model Risk Governance & Validation Intern",
+   "url": "https://career-schwab.icims.com/jobs/126262/job?mobile=true&needsRedirect=false"
+  },
   "81ad817cf585bd62": {
    "company": "Qorvo",
    "first_seen": 1788434053,
@@ -1843,6 +1867,18 @@
    "title": "Automated Test Engineer Intern - Hardware",
    "url": "https://careersus-shure.icims.com/jobs/4960/job?mobile=true&needsRedirect=false"
   },
+  "9140fc730eee0534": {
+   "company": "Zurn Elkay Water Solutions",
+   "first_seen": 1790380604,
+   "title": "Embedded Hardware Intern",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151"
+  },
+  "91ce73d776a529b7": {
+   "company": "Helion Energy",
+   "first_seen": 1790380604,
+   "title": "Electrical Engineering Summer Intern",
+   "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4"
+  },
   "91d88f127ed2c505": {
    "company": "Astranis",
    "first_seen": 1790120534,
@@ -1963,6 +1999,12 @@
    "title": "Digital Physical Design Intern - P&R",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673"
   },
+  "9cea478ca57f2d6b": {
+   "company": "onsemi",
+   "first_seen": 1790380604,
+   "title": "Test Engineer Intern - Intelligent Sensor Group - Test Engineering",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506604"
+  },
   "9cff98247da51af4": {
    "company": "Bedrock Robotics",
    "first_seen": 1789106389,
@@ -2052,6 +2094,12 @@
    "first_seen": 1787615180,
    "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724"
+  },
+  "a26597e6c2264ec8": {
+   "company": "Efficient Computer",
+   "first_seen": 1790380604,
+   "title": "Hardware/Silicon Intern",
+   "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009"
   },
   "a28cb90d4c92d70a": {
    "company": "NVIDIA",
@@ -2647,6 +2695,12 @@
    "title": "Integration Test Engineer Intern - Marine",
    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674"
   },
+  "cb34ee3bf01ee1fa": {
+   "company": "Neogen",
+   "first_seen": 1790380604,
+   "title": "Electrical Engineer Intern - Instrumentation",
+   "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Electrical-Engineer-Intern_REQ-11065"
+  },
   "cbc0aa48b2a8de3e": {
    "company": "Teledyne",
    "first_seen": 1786988749,
@@ -2676,6 +2730,12 @@
    "first_seen": 1787782127,
    "title": "Verification Intern - Verification",
    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26"
+  },
+  "ccfe183c85be221d": {
+   "company": "onsemi",
+   "first_seen": 1790380604,
+   "title": "Validation Engineer Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506611"
   },
   "cd235346b8f0bf28": {
    "company": "Etched",
@@ -2874,6 +2934,12 @@
    "first_seen": 1788158465,
    "title": "Analog Design Intern",
    "url": "https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors"
+  },
+  "db4e3ed32c48de0a": {
+   "company": "Ciena",
+   "first_seen": 1790380604,
+   "title": "Hardware Design and Verification Intern - PCBA",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752"
   },
   "db6ccc62e35452f9": {
    "company": "Marvell",
@@ -3404,6 +3470,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790370466,
- "runs": 505
+ "last_run": 1790380604,
+ "runs": 506
 }
