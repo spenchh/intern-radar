@@ -1,5 +1,5 @@
 {
- "generated_at": 1790414489,
+ "generated_at": 1790430511,
  "count": 415,
  "jobs": [
   {
@@ -174,27 +174,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "ccfe183c85be221d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Barrios",
-   "title": "Data and Computer Engineering/Computer Science Intern",
-   "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Houston, TX"
-   ],
-   "posted_at": 1790344923,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineering (+3)"
-   ],
-   "first_seen": 1790358405,
-   "uid": "1dbb728fa23ffec1"
   },
   {
    "source": "Simplify",
@@ -2175,6 +2154,27 @@
    ],
    "first_seen": 1789689303,
    "uid": "b72de8e103140b1e"
+  },
+  {
+   "source": "Simplify",
+   "company": "REV Robotics",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
+   "locations": [
+    "Carrollton, TX"
+   ],
+   "posted_at": 1789683495,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "fb545d13a7d67ac1"
   },
   {
    "source": "Simplify",
