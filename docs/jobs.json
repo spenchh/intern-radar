@@ -1,6 +1,6 @@
 {
- "generated_at": 1790395847,
- "count": 419,
+ "generated_at": 1790414489,
+ "count": 415,
  "jobs": [
   {
    "source": "Simplify",
@@ -1546,28 +1546,6 @@
   },
   {
    "source": "Simplify",
-   "company": "CesiumAstro",
-   "title": "Electrical Engineer Intern - FPGA",
-   "url": "https://jobs.lever.co/CesiumAstro/7778b1db-4953-4320-83ec-35805f5a0516/apply",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1790029068,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "fpga (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790035604,
-   "uid": "df931de4c1af0c24"
-  },
-  {
-   "source": "Simplify",
    "company": "Micron Technology",
    "title": "DRAM Technology Physical Design and Block-Level PPA Optimization Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Technology-Physical-Design-and-Block-Level-PPA-Optimization_JR109584",
@@ -2197,27 +2175,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "b72de8e103140b1e"
-  },
-  {
-   "source": "Simplify",
-   "company": "REV Robotics",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "posted_at": 1789683495,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "fb545d13a7d67ac1"
   },
   {
    "source": "Simplify",
@@ -6797,27 +6754,6 @@
   },
   {
    "source": "Simplify",
-   "company": "L3Harris Technologies",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Electrical-Engineer-MA-01060/1423783600/?ats=successfactors",
-   "locations": [
-    "Northampton, MA"
-   ],
-   "posted_at": 1787787589,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "03539bab35bc5240"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "AI Hardware Physical Design Engineer Intern - AI Hardware",
    "url": "https://www.tesla.com/careers/search/job/281233",
@@ -6839,29 +6775,6 @@
    ],
    "first_seen": 1787755378,
    "uid": "e940bb5d8b808246"
-  },
-  {
-   "source": "Simplify",
-   "company": "Microsoft",
-   "title": "Silicon Engineer Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
-   "locations": [
-    "Raleigh, NC",
-    "Santa Clara, CA",
-    "Mountain View, CA"
-   ],
-   "posted_at": 1787751954,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1787755378,
-   "uid": "619721458cf72594"
   },
   {
    "source": "Simplify",
