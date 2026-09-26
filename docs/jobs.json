@@ -1,7 +1,50 @@
 {
- "generated_at": 1790380604,
- "count": 417,
+ "generated_at": 1790395847,
+ "count": 419,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "Silicon Validation Engineer Intern - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/284821",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790385271,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "silicon (+3)",
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790395847,
+   "uid": "ef8741eebade03cc"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "Electrical Integration Intern - Avionics (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704826006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790382689,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "avionics (+2)"
+   ],
+   "first_seen": 1790395847,
+   "uid": "1efc697a51e35689"
+  },
   {
    "source": "Ashby",
    "company": "Helion Energy",
@@ -240,6 +283,27 @@
    ],
    "first_seen": 1790380604,
    "uid": "9140fc730eee0534"
+  },
+  {
+   "source": "Simplify",
+   "company": "Philips",
+   "title": "Electrical Engineer Intern",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790395847,
+   "uid": "fb4d4c99e1ca023c"
   },
   {
    "source": "Simplify",
@@ -2542,27 +2606,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "cb34ee3bf01ee1fa"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
