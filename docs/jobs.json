@@ -1,6 +1,6 @@
 {
- "generated_at": 1790611126,
- "count": 410,
+ "generated_at": 1790632106,
+ "count": 408,
  "jobs": [
   {
    "source": "Simplify",
@@ -8018,46 +8018,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "0213cf510fd5668d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Formlabs",
-   "title": "Hardware R&D Engineer Intern",
-   "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "posted_at": 1785448989,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "4fdf1239d37aada3"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Formlabs",
-   "title": "Hardware R&D Engineering Intern (Fall 2026)",
-   "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-   "locations": [
-    "Somerville, MA"
-   ],
-   "posted_at": 1785445426,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "f9714fe3abe72dff"
   },
   {
    "source": "Simplify",
