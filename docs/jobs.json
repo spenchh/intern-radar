@@ -1,6 +1,6 @@
 {
- "generated_at": 1790581128,
- "count": 412,
+ "generated_at": 1790611126,
+ "count": 410,
  "jobs": [
   {
    "source": "Simplify",
@@ -5196,28 +5196,6 @@
   {
    "source": "Simplify",
    "company": "Hexagon AB",
-   "title": "Sensor Fusion Defence Intern - Aerospace & Defence",
-   "url": "https://careers-hexagonpositioning.icims.com/jobs/3079/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Calgary, AB, Canada"
-   ],
-   "posted_at": 1788473255,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 4,
-   "reasons": [
-    "aerospace (+2)",
-    "sensor (+2)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "dfa1ec19c69904fc"
-  },
-  {
-   "source": "Simplify",
-   "company": "Hexagon AB",
    "title": "Defense Engineer Intern - Aerospace and Defense Engineering",
    "url": "https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false",
    "locations": [
@@ -6163,28 +6141,6 @@
    ],
    "first_seen": 1788532392,
    "uid": "8c0c1373d7b3acfe"
-  },
-  {
-   "source": "Simplify",
-   "company": "Hudson River Trading",
-   "title": "Hardware Engineer Intern",
-   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-   "locations": [
-    "NYC"
-   ],
-   "posted_at": 1788215379,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788220763,
-   "uid": "21bfc8f637c8e007"
   },
   {
    "source": "Simplify",
