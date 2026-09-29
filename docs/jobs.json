@@ -1,7 +1,124 @@
 {
- "generated_at": 1790710065,
- "count": 407,
+ "generated_at": 1790723236,
+ "count": 417,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
+   "url": "https://www.tesla.com/careers/search/job/285088",
+   "locations": [
+    "Palo Alto, CA",
+    "Austin, TX"
+   ],
+   "posted_at": 1790720951,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "design verification (+3)",
+    "hardware design (+3)",
+    "hardware (+2)",
+    "verification (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "9ef3175412fbf8d7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "AI Hardware RTL Design Engineer Intern - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/285089",
+   "locations": [
+    "Palo Alto, CA",
+    "Austin, TX"
+   ],
+   "posted_at": 1790720949,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "rtl (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "8f07c76c3692ebd4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Tesla",
+   "title": "AI Hardware Signal & Power Integrity Engineer Intern - AI Hardware",
+   "url": "https://www.tesla.com/careers/search/job/285120",
+   "locations": [
+    "Palo Alto, CA",
+    "Austin, TX"
+   ],
+   "posted_at": 1790720832,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "power integrity (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "4de621c2b0d42862"
+  },
+  {
+   "source": "Simplify",
+   "company": "DEKA Research & Development Corp.",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://deka.applytojob.com/apply/IGTaMelH6z/Electrical-Engineer-CoOp-Spring-2027",
+   "locations": [
+    "Manchester, NH"
+   ],
+   "posted_at": 1790720495,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "6c22f36ed66acc92"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMCA",
+   "title": "Electrical Engineering Internship - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/amca/jobs/4396690009",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1790719986,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "2283401292616474"
+  },
   {
    "source": "Simplify",
    "company": "Renesas Electronics",
@@ -44,6 +161,135 @@
    ],
    "first_seen": 1790710065,
    "uid": "216ba58583b57e55"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "AMS Validation Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "f1cccdf89be3b75e"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "PhD Research Intern - AI Accelerator Design and VLSI",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "vlsi (+3)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "12eb237e749ff30c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Leidos",
+   "title": "Electrical Hardware Design Engineer Intern",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "4373877c5774b93c"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
+   "locations": [
+    "Windsor Locks, CT"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "be2d55238fdbcc59"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineering-Intern--Summer-2027-_01864197-1",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788501265,
+   "uid": "b7aeebbbac1c8eb6"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "FPGA Engineer Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/FPGA-Engineering-Co-op--Spring-Summer-2027-_01878678",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "8aaadc378170ce9e"
   },
   {
    "source": "Simplify",
@@ -889,6 +1135,25 @@
    ],
    "first_seen": 1790292486,
    "uid": "9e860a8614a0d811"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Graphcore",
+   "title": "System Validation Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
+   "locations": [
+    "Austin, Texas, United States"
+   ],
+   "posted_at": 1790207632,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "73e2fd86b992ee0d"
   },
   {
    "source": "Greenhouse",
@@ -2543,27 +2808,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -2845,27 +3089,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "314ce7f7836bdba5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Samsung Research America",
-   "title": "SoC Modeling Intern - SOC Modeling",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "posted_at": 1789424391,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "soc (+3)"
-   ],
-   "first_seen": 1789433222,
-   "uid": "6a7f45ebe9a4b06b"
   },
   {
    "source": "Simplify",
@@ -3262,6 +3485,29 @@
    ],
    "first_seen": 1789433222,
    "uid": "e0b2da4276ed2d37"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Systems Engineering Intern - Integration and Test",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineering-Intern---Integration-and-Test--Onsite_01874598",
+   "locations": [
+    "Andover, MA",
+    "Tewksbury, MA"
+   ],
+   "posted_at": 1789344000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "integration and test (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "a0d2c7c463c1107a"
   },
   {
    "source": "Simplify",
@@ -6726,27 +6972,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "89a3d384d07dea86"
-  },
-  {
-   "source": "Simplify",
-   "company": "Microchip Technology",
-   "title": "Verification Intern - Verification",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "posted_at": 1787702400,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1787782127,
-   "uid": "ccd10d2a8f8c96b7"
   },
   {
    "source": "Greenhouse",
