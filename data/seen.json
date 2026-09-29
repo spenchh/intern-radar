@@ -1,5 +1,5 @@
 {
- "count": 583,
+ "count": 587,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -499,6 +499,12 @@
    "title": "Electrical Engineer Intern - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/279743"
   },
+  "216ba58583b57e55": {
+   "company": "Stryker",
+   "first_seen": 1790710065,
+   "title": "Electrical and Electronic Engineering Co-op - HeartSine R&D Team",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Belfast-United-Kingdom/Electrical-and-Electronic-Engineering-Co-Op_R572208"
+  },
   "2184217bf391c65f": {
    "company": "Cadence Design Systems",
    "first_seen": 1786988749,
@@ -655,6 +661,12 @@
    "title": "Analog Design Engineer Intern",
    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3623"
   },
+  "2ca52d32fd83a407": {
+   "company": "RTX",
+   "first_seen": 1790710065,
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283"
+  },
   "2d62171681f35895": {
    "company": "Tesla",
    "first_seen": 1788470444,
@@ -690,6 +702,12 @@
    "first_seen": 1787972884,
    "title": "RF Engineer Intern - Summer Internship",
    "url": "https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true"
+  },
+  "305a14ebe7e5655b": {
+   "company": "RTX",
+   "first_seen": 1790710065,
+   "title": "Electrical Production Support Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Electrical-Production-Support-Engineer-Intern--Summer-2027-_01871115"
   },
   "313f77eaadd0c22e": {
    "company": "Ciena",
@@ -1728,6 +1746,12 @@
    "first_seen": 1789433222,
    "title": "Compound Semiconductor Device Characterization Intern",
    "url": "https://jobs.keysight.com/jobs/54226?icims=1"
+  },
+  "83230f6b3196b71f": {
+   "company": "RTX",
+   "first_seen": 1790710065,
+   "title": "Production Hardware Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221"
   },
   "83efea7865cfa2e0": {
    "company": "Marvell",
@@ -3500,6 +3524,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790691293,
- "runs": 525
+ "last_run": 1790710065,
+ "runs": 526
 }
