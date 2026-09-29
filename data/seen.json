@@ -1,5 +1,5 @@
 {
- "count": 581,
+ "count": 583,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1819,6 +1819,12 @@
    "title": "Electronics & Controls Intern",
    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319"
   },
+  "8c5848f5eed35e0a": {
+   "company": "Hewlett Packard",
+   "first_seen": 1790666792,
+   "title": "Electrical/Hardware Engineering Intern",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4760"
+  },
   "8d5037f86ed15cc4": {
    "company": "Apple",
    "first_seen": 1786988749,
@@ -2851,6 +2857,12 @@
    "title": "Electronics Engineering Co-op",
    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695"
   },
+  "d436c6be8c950353": {
+   "company": "Renesas Electronics",
+   "first_seen": 1790666792,
+   "title": "Design Verification Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000152284789"
+  },
   "d542f36f059d71f9": {
    "company": "Anduril",
    "first_seen": 1789519147,
@@ -3488,6 +3500,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790645350,
- "runs": 523
+ "last_run": 1790666792,
+ "runs": 524
 }
