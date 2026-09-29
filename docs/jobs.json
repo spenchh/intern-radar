@@ -1,6 +1,6 @@
 {
- "generated_at": 1790632106,
- "count": 408,
+ "generated_at": 1790645350,
+ "count": 407,
  "jobs": [
   {
    "source": "Simplify",
@@ -5744,29 +5744,6 @@
    ],
    "first_seen": 1788310887,
    "uid": "3d336588850df591"
-  },
-  {
-   "source": "Simplify",
-   "company": "Berkshire Grey",
-   "title": "Hardware Quality Co-op - Verification & Validation",
-   "url": "https://berkshiregrey.bamboohr.com/careers/771/",
-   "locations": [
-    "Bedford, MA"
-   ],
-   "posted_at": 1788301585,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 6,
-   "reasons": [
-    "hardware (+2)",
-    "verification (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "fa9a708eeac08ce1"
   },
   {
    "source": "Simplify",
