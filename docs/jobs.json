@@ -1,6 +1,6 @@
 {
- "generated_at": 1790781600,
- "count": 416,
+ "generated_at": 1790799164,
+ "count": 412,
  "jobs": [
   {
    "source": "Simplify",
@@ -181,28 +181,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "2283401292616474"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Design Verification Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000152284789",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "posted_at": 1790644172,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1790666792,
-   "uid": "d436c6be8c950353"
   },
   {
    "source": "Simplify",
@@ -3706,27 +3684,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Quantinuum",
-   "title": "Layout Automation Engineering Intern",
-   "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply",
-   "locations": [
-    "Brooklyn Park, MN"
-   ],
-   "posted_at": 1789164971,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1789169289,
-   "uid": "7c87133079068308"
-  },
-  {
-   "source": "Simplify",
    "company": "Emerson Electric",
    "title": "Hardware Design Engineer Intern",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801",
@@ -3765,25 +3722,6 @@
    ],
    "first_seen": 1789161565,
    "uid": "e695128719e6f591"
-  },
-  {
-   "source": "Lever",
-   "company": "Xcimer Energy",
-   "title": "Summer 2027 Internship - Electrical and Pulsed Power Engineering",
-   "url": "https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d",
-   "locations": [
-    "Denver, CO"
-   ],
-   "posted_at": 1789138882,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789151575,
-   "uid": "4e194836c2857163"
   },
   {
    "source": "Simplify",
@@ -8703,28 +8641,6 @@
    ],
    "first_seen": 1787800689,
    "uid": "c64b8165a000ddb2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Heron Power",
-   "title": "Electronics Design Engineer Intern",
-   "url": "http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application",
-   "locations": [
-    "Santa Cruz, CA"
-   ],
-   "posted_at": 1782252523,
-   "terms": [
-    "Fall 2026",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fb1fd9458d2aed34"
   },
   {
    "source": "Simplify",
