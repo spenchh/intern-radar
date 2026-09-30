@@ -1,6 +1,6 @@
 {
- "generated_at": 1790757224,
- "count": 417,
+ "generated_at": 1790781600,
+ "count": 416,
  "jobs": [
   {
    "source": "Simplify",
@@ -353,6 +353,27 @@
    ],
    "first_seen": 1790723236,
    "uid": "8aaadc378170ce9e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Qualcomm",
+   "title": "Soft IP ASIC Engineer Intern",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721302471",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790634300,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1790781600,
+   "uid": "777b32384270635a"
   },
   {
    "source": "Simplify",
@@ -2780,27 +2801,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "cb34ee3bf01ee1fa"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1789516800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
@@ -5744,28 +5744,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "bf28d488e3eda610"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Production Hardware Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Production-Hardware-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872221",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1788393600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "83230f6b3196b71f"
   },
   {
    "source": "Simplify",
