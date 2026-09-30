@@ -1,7 +1,48 @@
 {
- "generated_at": 1790723236,
- "count": 417,
+ "generated_at": 1790734054,
+ "count": 418,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Microsoft",
+   "title": "Electrical Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "posted_at": 1790730661,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1789433222,
+   "uid": "c02d520847cbe630"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Muon Space",
+   "title": "GNC Hardware Engineering Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252677007",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "posted_at": 1790729090,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790734054,
+   "uid": "f088a31cb615fadc"
+  },
   {
    "source": "Simplify",
    "company": "Tesla",
@@ -1481,28 +1522,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Hitachi Energy",
-   "title": "Electrical Component Engineering Intern",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790121600,
-   "terms": [
-    "Fall 2026",
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790205059,
-   "uid": "4bf75d6e7babf842"
-  },
-  {
-   "source": "Simplify",
    "company": "Saab",
    "title": "Electrical Engineering Co-op",
    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
@@ -2656,27 +2675,6 @@
    "uid": "4267cbb8fd0a4851"
   },
   {
-   "source": "Greenhouse",
-   "company": "Lightmatter",
-   "title": "Silicon, Hardware, & Photonics Engineering - Internship ",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008",
-   "locations": [
-    "Boston, MA; Mountain View, CA"
-   ],
-   "posted_at": 1789524084,
-   "terms": [],
-   "sponsorship": "",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1789535833,
-   "uid": "8f1bfaad21c00b1d"
-  },
-  {
    "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineer Intern - Hardware",
@@ -2805,6 +2803,27 @@
    ],
    "first_seen": 1790710065,
    "uid": "2ca52d32fd83a407"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
