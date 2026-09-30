@@ -1,6 +1,6 @@
 {
- "generated_at": 1790734054,
- "count": 418,
+ "generated_at": 1790757224,
+ "count": 417,
  "jobs": [
   {
    "source": "Simplify",
@@ -42,6 +42,28 @@
    ],
    "first_seen": 1790734054,
    "uid": "f088a31cb615fadc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Northrop Grumman",
+   "title": "Hardware Electronics Engineer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1",
+   "locations": [
+    "Rolling Meadows, IL"
+   ],
+   "posted_at": 1790726400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1790757224,
+   "uid": "c06554dc43f2261c"
   },
   {
    "source": "Simplify",
@@ -2652,30 +2674,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Lightmatter",
-   "title": "Silicon Intern - Hardware & Photonics Engineering",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008",
-   "locations": [
-    "Boston, MA",
-    "Mountain View, CA"
-   ],
-   "posted_at": 1789540928,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1789553418,
-   "uid": "4267cbb8fd0a4851"
-  },
-  {
-   "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineer Intern - Hardware",
    "url": "https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply",
@@ -4531,28 +4529,6 @@
    ],
    "first_seen": 1788996508,
    "uid": "681c2a088148c07f"
-  },
-  {
-   "source": "Simplify",
-   "company": "GE Vernova",
-   "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "posted_at": 1788912000,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1788996508,
-   "uid": "1e52e5babaf4ae0c"
   },
   {
    "source": "Simplify",
