@@ -1,5 +1,5 @@
 {
- "count": 602,
+ "count": 609,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -240,6 +240,12 @@
    "first_seen": 1788470444,
    "title": "Design/DSP/Verification Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786"
+  },
+  "0e29da1318db9783": {
+   "company": "Astranis",
+   "first_seen": 1790812359,
+   "title": "RF Hardware Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708417006"
   },
   "0e4380fe57215aa7": {
    "company": "Nightwing Intelligence Solutions",
@@ -895,6 +901,12 @@
    "title": "Hardware Development Intern - Hardware",
    "url": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors"
   },
+  "3fb1e8459c0b5d41": {
+   "company": "Base Power",
+   "first_seen": 1790812359,
+   "title": "Electrical Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97"
+  },
   "3fd75b9544a78656": {
    "company": "Texas Instruments",
    "first_seen": 1788434053,
@@ -1483,6 +1495,12 @@
    "title": "Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027",
    "url": "https://www.tesla.com/careers/search/job/284009"
   },
+  "6d1e701bf020461f": {
+   "company": "Rivian",
+   "first_seen": 1790812359,
+   "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
+   "url": "https://careers.rivian.com/jobs/33874?icims=1"
+  },
   "6dcb788a4c51b918": {
    "company": "DRW",
    "first_seen": 1786988749,
@@ -1908,6 +1926,12 @@
    "first_seen": 1788967121,
    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1"
+  },
+  "8e209e90f18454c6": {
+   "company": "Rivian",
+   "first_seen": 1790812359,
+   "title": "Engineering Intern/Co-op - Design Verification - Neural Engine",
+   "url": "https://careers.rivian.com/jobs/33833?icims=1"
   },
   "8e240372f24bbcd8": {
    "company": "Diversified Automation",
@@ -2539,6 +2563,12 @@
    "title": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469"
   },
+  "b91f60f87490029a": {
+   "company": "Astranis",
+   "first_seen": 1790812359,
+   "title": "RF Hardware Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006"
+  },
   "ba040c27c111a74f": {
    "company": "Texas Instruments",
    "first_seen": 1788434053,
@@ -2748,6 +2778,12 @@
    "first_seen": 1790052937,
    "title": "Reliability Test Engineer Intern - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/284278"
+  },
+  "c54b38855d020d3f": {
+   "company": "Base Power",
+   "first_seen": 1790812359,
+   "title": "Hardware Reliability & Test Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406"
   },
   "c61b0e3859703fc5": {
    "company": "DRW",
@@ -3331,6 +3367,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006"
   },
+  "ea6c23f638957448": {
+   "company": "Leidos",
+   "first_seen": 1790812359,
+   "title": "Embedded Design Engineer Intern - Firmware",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"
+  },
   "ebb105c9c21db154": {
    "company": "Apple",
    "first_seen": 1788310887,
@@ -3614,6 +3656,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790799164,
- "runs": 531
+ "last_run": 1790812359,
+ "runs": 532
 }

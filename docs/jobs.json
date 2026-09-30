@@ -1,7 +1,134 @@
 {
- "generated_at": 1790799164,
- "count": 412,
+ "generated_at": 1790812359,
+ "count": 420,
  "jobs": [
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "RF Hardware Intern (Winter 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708417006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790807761,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "rf (+2)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "0e29da1318db9783"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Astranis",
+   "title": "RF Hardware Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006",
+   "locations": [
+    "San Francisco"
+   ],
+   "posted_at": 1790807759,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "rf (+2)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "b91f60f87490029a"
+  },
+  {
+   "source": "Ashby",
+   "company": "Base Power",
+   "title": "Hardware Reliability & Test Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1790807462,
+   "terms": [],
+   "sponsorship": "",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "c54b38855d020d3f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Engineering Intern/Co-op - Design Verification - Neural Engine",
+   "url": "https://careers.rivian.com/jobs/33833?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790806533,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "8e209e90f18454c6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP",
+   "url": "https://careers.rivian.com/jobs/33874?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790806533,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "6d1e701bf020461f"
+  },
+  {
+   "source": "Ashby",
+   "company": "Base Power",
+   "title": "Electrical Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97",
+   "locations": [
+    "Austin, TX",
+    "San Carlos, CA"
+   ],
+   "posted_at": 1790804099,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "3fb1e8459c0b5d41"
+  },
   {
    "source": "Simplify",
    "company": "Microsoft",
@@ -64,6 +191,28 @@
    ],
    "first_seen": 1790757224,
    "uid": "c06554dc43f2261c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Leidos",
+   "title": "Embedded Design Engineer Intern - Firmware",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "posted_at": 1790726400,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790812359,
+   "uid": "ea6c23f638957448"
   },
   {
    "source": "Simplify",
@@ -1540,6 +1689,28 @@
    ],
    "first_seen": 1790128154,
    "uid": "f437d298f8f1dcac"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hitachi Energy",
+   "title": "Electrical Component Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Fall 2026",
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "4bf75d6e7babf842"
   },
   {
    "source": "Simplify",
@@ -8644,6 +8815,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Heron Power",
+   "title": "Electronics Design Engineer Intern",
+   "url": "http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application",
+   "locations": [
+    "Santa Cruz, CA"
+   ],
+   "posted_at": 1782252524,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "fb1fd9458d2aed34"
+  },
+  {
+   "source": "Simplify",
    "company": "Nidec",
    "title": "Aerospace Intern New Grad",
    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
@@ -8907,27 +9099,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "39a2b2bc2d5600c7"
-  },
-  {
-   "source": "Simplify",
-   "company": "Advanced Energy",
-   "title": "Electronics Service Intern",
-   "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Electronics-Service-CO-80525/1389595200/?ats=successfactors",
-   "locations": [
-    "Fort Collins, CO"
-   ],
-   "posted_at": 1778277851,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "fc88eec2e1afa56f"
   },
   {
    "source": "Greenhouse",
