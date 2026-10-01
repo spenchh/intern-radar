@@ -1,6 +1,6 @@
 {
- "generated_at": 1790875351,
- "count": 426,
+ "generated_at": 1790891704,
+ "count": 423,
  "jobs": [
   {
    "source": "Simplify",
@@ -3082,27 +3082,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Marvell",
-   "title": "IC Validation Engineer Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/IC-Validation-Engineer-Intern_2603925",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1789516800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1789603625,
-   "uid": "0202d60c0ca5cc44"
-  },
-  {
-   "source": "Simplify",
    "company": "bioM\u00e9rieux",
    "title": "Hardware Co-op",
    "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
@@ -3362,27 +3341,6 @@
    ],
    "first_seen": 1789519147,
    "uid": "f3d4eeba75132a8d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "AI Hardware and Memory Systems Intern",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "posted_at": 1789430400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "984f71b7050114ba"
   },
   {
    "source": "Simplify",
@@ -5937,27 +5895,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "c4ed005d6cc27fc2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Booz Allen",
-   "title": "Electronic Warfare FPGA Engineer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
-   "locations": [
-    "Beavercreek, OH"
-   ],
-   "posted_at": 1788393600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "663689618ab79da5"
   },
   {
    "source": "Simplify",
