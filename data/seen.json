@@ -1,5 +1,5 @@
 {
- "count": 611,
+ "count": 615,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -655,6 +655,12 @@
    "title": "Electrical Engineer Intern - Energy Storage",
    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271"
   },
+  "2b32bf01d90d5262": {
+   "company": "Keysight Technologies",
+   "first_seen": 1790852756,
+   "title": "Radio Frequency IC Designer Intern",
+   "url": "https://jobs.keysight.com/jobs/54210?icims=1"
+  },
   "2b34f157c50af4e9": {
    "company": "NXP Semiconductors",
    "first_seen": 1788776284,
@@ -966,6 +972,12 @@
    "first_seen": 1790723236,
    "title": "Electrical Hardware Design Engineer Intern",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413"
+  },
+  "43982b8a897da137": {
+   "company": "Varda Space",
+   "first_seen": 1790852756,
+   "title": "Avionics Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003"
   },
   "43c38f57030fa88c": {
    "company": "NVIDIA",
@@ -1770,6 +1782,12 @@
    "first_seen": 1786988749,
    "title": "Mechanical and Manufacturing Engineering Internship - Summer 2027 ",
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6123676004"
+  },
+  "7ffb386b661c83fb": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1790852756,
+   "title": "Electro-Optical Engineering Co-Op - Waterdown - CAN",
+   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors"
   },
   "800f6bae6c47dc88": {
    "company": "Ciena",
@@ -2586,6 +2604,12 @@
    "first_seen": 1788434053,
    "title": "Analog IC Design Engineer Intern - Bachelors",
    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543"
+  },
+  "ba05e8f6deb7fef4": {
+   "company": "Keysight Technologies",
+   "first_seen": 1790852756,
+   "title": "R&D Electrical Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/54664?icims=1"
   },
   "ba76930a721d3037": {
    "company": "Nordson",
@@ -3668,6 +3692,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790828418,
- "runs": 533
+ "last_run": 1790852756,
+ "runs": 534
 }

@@ -1,7 +1,71 @@
 {
- "generated_at": 1790828418,
- "count": 419,
+ "generated_at": 1790852756,
+ "count": 422,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Varda Space",
+   "title": "Avionics Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1790845433,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1790852756,
+   "uid": "43982b8a897da137"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Electrical Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/54664?icims=1",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "posted_at": 1790835058,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790852756,
+   "uid": "ba05e8f6deb7fef4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Radio Frequency IC Designer Intern",
+   "url": "https://jobs.keysight.com/jobs/54210?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1790835055,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": 1790852756,
+   "uid": "2b32bf01d90d5262"
+  },
   {
    "source": "Simplify",
    "company": "Rivian",
@@ -2952,25 +3016,24 @@
   },
   {
    "source": "Simplify",
-   "company": "Neogen",
-   "title": "Electrical Engineer Intern - Instrumentation",
-   "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Electrical-Engineer-Intern_REQ-11065",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
    "locations": [
-    "Oakdale, MN"
+    "Hazelwood, MO"
    ],
-   "posted_at": 1789516800,
+   "posted_at": 1789510912,
    "terms": [
-    "Summer 2027"
+    "Winter 2026"
    ],
    "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
+   "category": "other",
+   "score": 2,
    "reasons": [
-    "electrical (+2)",
-    "instrumentation (+2)"
+    "hardware (+2)"
    ],
-   "first_seen": 1790380604,
-   "uid": "cb34ee3bf01ee1fa"
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -4237,6 +4300,27 @@
   },
   {
    "source": "Simplify",
+   "company": "L3Harris Technologies",
+   "title": "Electro-Optical Engineering Co-Op - Waterdown - CAN",
+   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors",
+   "locations": [
+    "Waterdown, Hamilton, ON, Canada"
+   ],
+   "posted_at": 1789049802,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1790852756,
+   "uid": "7ffb386b661c83fb"
+  },
+  {
+   "source": "Simplify",
    "company": "Rocket Lab USA",
    "title": "Electrical Engineer Intern - Space Systems Division",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
@@ -4574,28 +4658,6 @@
    ],
    "first_seen": 1788967121,
    "uid": "a867858e46de3eb8"
-  },
-  {
-   "source": "Simplify",
-   "company": "Moog",
-   "title": "Hardware Design Engineering Intern",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
-   "locations": [
-    "Mineral Wells, TX"
-   ],
-   "posted_at": 1788912000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788954209,
-   "uid": "e9de9c727462a9f6"
   },
   {
    "source": "Simplify",
