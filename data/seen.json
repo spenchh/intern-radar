@@ -1,5 +1,5 @@
 {
- "count": 615,
+ "count": 620,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -445,6 +445,12 @@
    "title": "Hardware Engineer Intern - Machine Integration & Test",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true"
   },
+  "1cd04315ae696773": {
+   "company": "RTX",
+   "first_seen": 1790875351,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineering-Co-op--Winter-Spring-2027-_01877304"
+  },
   "1d09da6b7fe00526": {
    "company": "Base Power",
    "first_seen": 1786988749,
@@ -589,11 +595,23 @@
    "title": "Design Verification Intern - BS - Summer 2027",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505"
   },
+  "2536f329b07e7034": {
+   "company": "Marvell",
+   "first_seen": 1790875351,
+   "title": "IC Validation Engineer Intern Co-op - BS/MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925"
+  },
   "25836afa19a2a0a8": {
    "company": "Skydio",
    "first_seen": 1786988749,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee"
+  },
+  "2616d743ce692c67": {
+   "company": "Helion Energy",
+   "first_seen": 1790875351,
+   "title": "Electrical Engineering Summer 2027 Intern",
+   "url": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4"
   },
   "26197ea6cb552635": {
    "company": "Shield AI",
@@ -654,6 +672,12 @@
    "first_seen": 1788460724,
    "title": "Electrical Engineer Intern - Energy Storage",
    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279271"
+  },
+  "2b2a36cc6fcf9e10": {
+   "company": "General Dynamics Mission Systems",
+   "first_seen": 1790875351,
+   "title": "Integration and Test Engineer Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75271/job?mobile=true&needsRedirect=false"
   },
   "2b32bf01d90d5262": {
    "company": "Keysight Technologies",
@@ -2305,6 +2329,12 @@
    "title": "Formal Verification Intern",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007"
   },
+  "a666b7a6a31ecb12": {
+   "company": "Space Dynamics Laboratory",
+   "first_seen": 1790875351,
+   "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+   "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern"
+  },
   "a6b0063349a7d903": {
    "company": "Marvell",
    "first_seen": 1788470444,
@@ -3692,6 +3722,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790852756,
- "runs": 534
+ "last_run": 1790875351,
+ "runs": 535
 }
