@@ -1,7 +1,28 @@
 {
- "generated_at": 1790812359,
- "count": 420,
+ "generated_at": 1790828418,
+ "count": 419,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Engineer Intern Co-op - Design-for-Test",
+   "url": "https://careers.rivian.com/jobs/33810?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1790817591,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1790828418,
+   "uid": "2b9228dd25e278e3"
+  },
   {
    "source": "Greenhouse",
    "company": "Astranis",
@@ -2953,27 +2974,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5009,28 +5009,6 @@
   {
    "source": "Simplify",
    "company": "NXP Semiconductors",
-   "title": "Analog Validation Intern - Summer 2027",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Analog-Validation-Intern---Summer-2027_R-10065558",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "analog (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "92cf5146ecae4769"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
    "title": "Design for Test Intern",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548",
    "locations": [
@@ -6069,29 +6047,6 @@
    ],
    "first_seen": 1788310887,
    "uid": "3d336588850df591"
-  },
-  {
-   "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "Digital Hardware Engineer Intern - RF R&D",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009004",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788276852,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)",
-    "rf (+2)"
-   ],
-   "first_seen": 1788285480,
-   "uid": "e6b753229054e651"
   },
   {
    "source": "Simplify",
@@ -8971,6 +8926,29 @@
    ],
    "first_seen": 1786988749,
    "uid": "685aaeab80f7686b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Base Power",
+   "title": "Hardware Reliability & Test Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406/application",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1780697371,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "test engineer (+1)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1790828418,
+   "uid": "4f49c2104e0cd61e"
   },
   {
    "source": "Greenhouse",
