@@ -1,6 +1,6 @@
 {
- "generated_at": 1790949652,
- "count": 415,
+ "generated_at": 1790968683,
+ "count": 413,
  "jobs": [
   {
    "source": "Simplify",
@@ -3165,27 +3165,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -8257,28 +8236,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "ce218a4afdc2c3e1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Kepler Communications",
-   "title": "FPGA Digital Design Engineer Intern",
-   "url": "https://jobs.lever.co/kepler/f06ca5e6-2e7f-4b76-a5c4-cb423d3cfc03/apply",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1784757938,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 6,
-   "reasons": [
-    "fpga (+3)",
-    "digital design (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "b7311d30749bf80d"
   },
   {
    "source": "Simplify",
