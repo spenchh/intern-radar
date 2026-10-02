@@ -1,6 +1,6 @@
 {
- "generated_at": 1790925509,
- "count": 422,
+ "generated_at": 1790949652,
+ "count": 415,
  "jobs": [
   {
    "source": "Simplify",
@@ -3168,6 +3168,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5075,112 +5096,6 @@
   },
   {
    "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Digital Validation Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "55d8742d9994a90a"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Digital Design Intern - Spring 2027",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "digital design (+3)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "8f344119d64ffef5"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Digital Verification Intern - Summer 2027",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "374bc9cc82c6873f"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Design for Test Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065548",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "design for test (+3)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "2b34f157c50af4e9"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Design for Test Engineer Intern - Summer 2027",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 4,
-   "reasons": [
-    "design for test (+3)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1788796742,
-   "uid": "2787c60c841cf63a"
-  },
-  {
-   "source": "Simplify",
    "company": "Micron Technology",
    "title": "DRAM Test Structure Design and Layout Engineering Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341",
@@ -6838,27 +6753,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Stryten",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.stryten.com/jobs/5800?icims=1",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "posted_at": 1788152033,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "17059e370fe18160"
-  },
-  {
-   "source": "Simplify",
    "company": "Draper",
    "title": "Optics-Physics Sensor Engineering Co-op - Spring 2027",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884",
@@ -7462,37 +7356,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Verification Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/90813?icims=1",
-   "locations": [
-    "Secaucus, NJ",
-    "Rochester, NY",
-    "Austin, TX",
-    "Longmont, CO",
-    "Fishkill, NY",
-    "Fort Collins, CO",
-    "Boxborough, MA"
-   ],
-   "posted_at": 1787293338,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "design verification (+3)",
-    "hardware design (+3)",
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1787296034,
-   "uid": "613f866181243553"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Hardware Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90894?icims=1",
    "locations": [
@@ -7546,36 +7409,6 @@
    ],
    "first_seen": 1787296034,
    "uid": "9c31b19e46d4b7f4"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "Hardware Engineer Intern/Co-op - Hardware Engineering",
-   "url": "https://careers.amd.com/jobs/91182?icims=1",
-   "locations": [
-    "Rochester, NY",
-    "Austin, TX",
-    "Longmont, CO",
-    "Fishkill, NY",
-    "Fort Collins, CO",
-    "Boxborough, MA"
-   ],
-   "posted_at": 1787293337,
-   "terms": [
-    "Winter 2027",
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 8,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787296034,
-   "uid": "12608a75d89705a6"
   },
   {
    "source": "Simplify",
