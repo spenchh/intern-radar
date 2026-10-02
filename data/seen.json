@@ -1,5 +1,5 @@
 {
- "count": 625,
+ "count": 629,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -204,6 +204,12 @@
    "first_seen": 1788583724,
    "title": "Hardware & Product Development Engineering Intern",
    "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839"
+  },
+  "0b80ef5769e1ae6b": {
+   "company": "Arc",
+   "first_seen": 1790982513,
+   "title": "Electrical Hardware Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008"
   },
   "0bc935f1cc54a894": {
    "company": "SimIS",
@@ -1050,6 +1056,12 @@
    "first_seen": 1787277048,
    "title": "Mixed Signal Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299"
+  },
+  "45a96589927149c9": {
+   "company": "Hitachi Energy",
+   "first_seen": 1790982513,
+   "title": "Hardware Test Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476"
   },
   "45b1695f96ff174a": {
    "company": "Qorvo",
@@ -3253,6 +3265,12 @@
    "title": "Physical Design Engineer Intern - BS",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517"
   },
+  "ddc06940bdf2037e": {
+   "company": "Altera",
+   "first_seen": 1790982513,
+   "title": "High Level Synthesis Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254"
+  },
   "dddb14976b69f9d4": {
    "company": "AMD",
    "first_seen": 1788273115,
@@ -3739,6 +3757,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Electrical-Engineer-Intern--Summer-2027-_01868065"
   },
+  "fedb43b6a349e041": {
+   "company": "Allegion",
+   "first_seen": 1790982513,
+   "title": "Hardware Engineering Intern - Hardware Engineering",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1"
+  },
   "ff395f210b21c945": {
    "company": "GE Healthcare",
    "first_seen": 1788285480,
@@ -3752,6 +3776,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790968683,
- "runs": 540
+ "last_run": 1790982513,
+ "runs": 541
 }

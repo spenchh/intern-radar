@@ -1,7 +1,30 @@
 {
- "generated_at": 1790968683,
- "count": 413,
+ "generated_at": 1790982513,
+ "count": 417,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Arc",
+   "title": "Electrical Hardware Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1790980214,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "0b80ef5769e1ae6b"
+  },
   {
    "source": "Simplify",
    "company": "Muon Space",
@@ -42,6 +65,70 @@
    ],
    "first_seen": 1790903858,
    "uid": "1da54549185eb602"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "High Level Synthesis Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "synthesis (+3)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "ddc06940bdf2037e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hitachi Energy",
+   "title": "Hardware Test Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "45a96589927149c9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Allegion",
+   "title": "Hardware Engineering Intern - Hardware Engineering",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "fedb43b6a349e041"
   },
   {
    "source": "Simplify",
@@ -3165,6 +3252,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -7417,27 +7525,6 @@
    ],
    "first_seen": 1787296034,
    "uid": "b6a0dbfca21c4231"
-  },
-  {
-   "source": "Simplify",
-   "company": "Brunswick",
-   "title": "Engineering Validation Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "posted_at": 1787270400,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1787950754,
-   "uid": "a9ea6b3798dcf6a2"
   },
   {
    "source": "Simplify",
