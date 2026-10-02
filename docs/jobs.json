@@ -1,28 +1,71 @@
 {
- "generated_at": 1790891704,
+ "generated_at": 1790903858,
  "count": 423,
  "jobs": [
   {
-   "source": "Simplify",
-   "company": "Space Dynamics Laboratory",
-   "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
-   "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
+   "source": "Greenhouse",
+   "company": "Muon Space",
+   "title": "Electrical Engineering Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
    "locations": [
-    "North Logan, UT"
+    "San Jose"
    ],
-   "posted_at": 1790864633,
+   "posted_at": 1790902041,
+   "terms": [],
+   "sponsorship": "",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790903858,
+   "uid": "1da54549185eb602"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Dynamics Mission Systems",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://careers-gdms.icims.com/jobs/74924/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Pittsfield, MA"
+   ],
+   "posted_at": 1790892923,
    "terms": [
-    "Summer 2027"
+    "Fall 2026",
+    "Winter 2027"
    ],
    "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
+   "category": "electrical",
+   "score": 4,
    "reasons": [
-    "fpga (+3)",
-    "electrical (+2)"
+    "electrical (+2)",
+    "electrical engineering (+2)"
    ],
-   "first_seen": 1790875351,
-   "uid": "a666b7a6a31ecb12"
+   "first_seen": 1790903858,
+   "uid": "b59b19f6e44a5dbf"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Dynamics Mission Systems",
+   "title": "Electrical Engineering Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75284/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Dedham, MA"
+   ],
+   "posted_at": 1790892917,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790903858,
+   "uid": "05a2f1caf8731ad7"
   },
   {
    "source": "Simplify",
@@ -8532,27 +8575,6 @@
   },
   {
    "source": "Simplify",
-   "company": "DRW",
-   "title": "FPGA Intern",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1783980948,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "6dcb788a4c51b918"
-  },
-  {
-   "source": "Simplify",
    "company": "Peak Energy",
    "title": "Systems Integration and Test Engineer Intern - Winter 2027",
    "url": "https://peakenergy.com/get-in-touch/careers/jobs?job_id=5185852007&gh_jid=5185852007",
@@ -8990,28 +9012,6 @@
    ],
    "first_seen": 1788470444,
    "uid": "b7a344cda399c3b3"
-  },
-  {
-   "source": "Simplify",
-   "company": "Astera Labs",
-   "title": "Design Verification Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1780956664,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "685aaeab80f7686b"
   },
   {
    "source": "Simplify",

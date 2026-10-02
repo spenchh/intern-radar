@@ -1,5 +1,5 @@
 {
- "count": 620,
+ "count": 623,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -138,6 +138,12 @@
    "first_seen": 1788460724,
    "title": "Electronic Design Engineer Intern - Radio Frequency",
    "url": "https://www.tesla.com/careers/search/job/279752"
+  },
+  "05a2f1caf8731ad7": {
+   "company": "General Dynamics Mission Systems",
+   "first_seen": 1790903858,
+   "title": "Electrical Engineering Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75284/job?mobile=true&needsRedirect=false"
   },
   "05a63ec861aaeb84": {
    "company": "Reflect Orbital",
@@ -462,6 +468,12 @@
    "first_seen": 1788996508,
    "title": "Avionics Engineering Intern Summer 2027",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003"
+  },
+  "1da54549185eb602": {
+   "company": "Muon Space",
+   "first_seen": 1790903858,
+   "title": "Electrical Engineering Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007"
   },
   "1dbb728fa23ffec1": {
    "company": "Barrios",
@@ -2533,6 +2545,12 @@
    "title": "Validation & Verification Test Engineer Intern",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true"
   },
+  "b59b19f6e44a5dbf": {
+   "company": "General Dynamics Mission Systems",
+   "first_seen": 1790903858,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://careers-gdms.icims.com/jobs/74924/job?mobile=true&needsRedirect=false"
+  },
   "b5e11af09cf64436": {
    "company": "GE Aerospace",
    "first_seen": 1788447714,
@@ -3722,6 +3740,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790891704,
- "runs": 536
+ "last_run": 1790903858,
+ "runs": 537
 }
