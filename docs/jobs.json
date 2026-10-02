@@ -1,7 +1,28 @@
 {
- "generated_at": 1790903858,
- "count": 423,
+ "generated_at": 1790925509,
+ "count": 422,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Muon Space",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1790903360,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790925509,
+   "uid": "af930194ca99eab6"
+  },
   {
    "source": "Greenhouse",
    "company": "Muon Space",
@@ -216,6 +237,28 @@
    ],
    "first_seen": 1790875351,
    "uid": "1cd04315ae696773"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790812800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790925509,
+   "uid": "cecd399f4212f4e0"
   },
   {
    "source": "Greenhouse",
@@ -3125,27 +3168,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5075,27 +5097,6 @@
   {
    "source": "Simplify",
    "company": "NXP Semiconductors",
-   "title": "Digital Physical Design Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "physical design (+3)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "ec96e5b0c685ea61"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
    "title": "Digital Design Intern - Spring 2027",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065549",
    "locations": [
@@ -5134,27 +5135,6 @@
    ],
    "first_seen": 1788776284,
    "uid": "374bc9cc82c6873f"
-  },
-  {
-   "source": "Simplify",
-   "company": "NXP Semiconductors",
-   "title": "Digital Design Intern",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1788739200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "digital design (+3)"
-   ],
-   "first_seen": 1788776284,
-   "uid": "ffad70abb3b96597"
   },
   {
    "source": "Simplify",
