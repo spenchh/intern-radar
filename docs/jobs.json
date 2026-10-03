@@ -1,7 +1,30 @@
 {
- "generated_at": 1791032587,
- "count": 415,
+ "generated_at": 1791047827,
+ "count": 416,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "CesiumAstro",
+   "title": "Electrical Engineering Intern - FPGA",
+   "url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1791036734,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1791047827,
+   "uid": "4f13cd0059a5848e"
+  },
   {
    "source": "Simplify",
    "company": "AMD",
@@ -413,6 +436,28 @@
    ],
    "first_seen": 1790875351,
    "uid": "1cd04315ae696773"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790812800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790925509,
+   "uid": "cecd399f4212f4e0"
   },
   {
    "source": "Greenhouse",
@@ -3276,27 +3321,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
