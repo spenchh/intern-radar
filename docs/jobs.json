@@ -1,7 +1,29 @@
 {
- "generated_at": 1790992593,
+ "generated_at": 1791013543,
  "count": 418,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Masters Photonics Design Engineering Co-op",
+   "url": "https://careers.amd.com/jobs/91633?icims=1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791007700,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "photonics (+2)"
+   ],
+   "first_seen": 1791013543,
+   "uid": "abc153940c9d5aa0"
+  },
   {
    "source": "Simplify",
    "company": "Arc",
@@ -870,28 +892,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "b7aeebbbac1c8eb6"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "FPGA Engineer Co-op",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/FPGA-Engineering-Co-op--Spring-Summer-2027-_01878678",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "8aaadc378170ce9e"
   },
   {
    "source": "Simplify",

@@ -1,5 +1,5 @@
 {
- "count": 632,
+ "count": 633,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2455,6 +2455,12 @@
    "title": "Integration and Test Engineer Intern - Non-Automation",
    "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Integration-and-Test-Engineering-Non-Automation-MA-01060/1423743300/?ats=successfactors"
   },
+  "abc153940c9d5aa0": {
+   "company": "AMD",
+   "first_seen": 1791013543,
+   "title": "Masters Photonics Design Engineering Co-op",
+   "url": "https://careers.amd.com/jobs/91633?icims=1"
+  },
   "abe574c5311475c0": {
    "company": "Teledyne",
    "first_seen": 1786988749,
@@ -3794,6 +3800,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1790992593,
- "runs": 542
+ "last_run": 1791013543,
+ "runs": 543
 }
