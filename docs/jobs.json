@@ -1,6 +1,6 @@
 {
- "generated_at": 1791013543,
- "count": 418,
+ "generated_at": 1791032587,
+ "count": 415,
  "jobs": [
   {
    "source": "Simplify",
@@ -413,28 +413,6 @@
    ],
    "first_seen": 1790875351,
    "uid": "1cd04315ae696773"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
-   "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790812800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1790925509,
-   "uid": "cecd399f4212f4e0"
   },
   {
    "source": "Greenhouse",
@@ -1197,27 +1175,6 @@
    ],
    "first_seen": 1790380604,
    "uid": "9140fc730eee0534"
-  },
-  {
-   "source": "Simplify",
-   "company": "Philips",
-   "title": "Electrical Engineer Intern",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "posted_at": 1790294400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790395847,
-   "uid": "fb4d4c99e1ca023c"
   },
   {
    "source": "Simplify",
@@ -3319,6 +3276,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -6300,28 +6278,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/90372?icims=1",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted_at": 1788256546,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788273115,
-   "uid": "013361da3ae2bd8b"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Hardware Design Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91362?icims=1",
    "locations": [
@@ -7524,35 +7480,6 @@
   },
   {
    "source": "Simplify",
-   "company": "AMD",
-   "title": "Hardware Engineering Intern/Co-op - Undergrad",
-   "url": "https://careers.amd.com/jobs/91173?icims=1",
-   "locations": [
-    "Rochester, NY",
-    "Austin, TX",
-    "Longmont, CO",
-    "Fishkill, NY",
-    "Fort Collins, CO",
-    "Boxborough, MA"
-   ],
-   "posted_at": 1787293337,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027",
-    "Fall 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787296034,
-   "uid": "b6a0dbfca21c4231"
-  },
-  {
-   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineer Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297",
@@ -7856,28 +7783,6 @@
    ],
    "first_seen": 1788447714,
    "uid": "ee349c94a13e4d25"
-  },
-  {
-   "source": "Simplify",
-   "company": "L3Harris Technologies",
-   "title": "Integration and Test Engineer Intern",
-   "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Integration-and-Test-Engineer-FL-32905/1420320700/?ats=successfactors",
-   "locations": [
-    "Palm Bay, FL"
-   ],
-   "posted_at": 1787041249,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "test engineer (+1)",
-    "integration and test (+1)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "cca13839f4042e84"
   },
   {
    "source": "Greenhouse",
@@ -9045,6 +8950,27 @@
    ],
    "first_seen": 1786988749,
    "uid": "39a2b2bc2d5600c7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Heron Power",
+   "title": "Hardware Test Engineering Intern",
+   "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
+   "locations": [
+    "Santa Cruz, CA"
+   ],
+   "posted_at": 1778537308,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "4e1fcc9d8acdb340"
   },
   {
    "source": "Greenhouse",
