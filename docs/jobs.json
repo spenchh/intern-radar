@@ -1,6 +1,6 @@
 {
- "generated_at": 1790982513,
- "count": 417,
+ "generated_at": 1790992593,
+ "count": 418,
  "jobs": [
   {
    "source": "Simplify",
@@ -52,7 +52,7 @@
    "title": "Electrical Engineering Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
    "locations": [
-    "San Jose"
+    "San Jose, CA"
    ],
    "posted_at": 1790902041,
    "terms": [],
@@ -129,6 +129,73 @@
    ],
    "first_seen": 1790982513,
    "uid": "fedb43b6a349e041"
+  },
+  {
+   "source": "Simplify",
+   "company": "Schweitzer Engineering Laboratories",
+   "title": "Hardware Engineering Intern",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159",
+   "locations": [
+    "Pullman, WA"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "08746e4127d61f92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "88802061d3e50c08"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cadence Design Systems",
+   "title": "Digital ASIC Design / Verification Engineer Intern/Co-op",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "asic (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "c45080d3a8e94ed7"
   },
   {
    "source": "Simplify",
@@ -3252,27 +3319,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -7257,27 +7303,6 @@
    ],
    "first_seen": 1788447714,
    "uid": "dca2c08391553ed2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Brunswick",
-   "title": "Electrical Engineer Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Menomonee-Falls-WI/Electrical-Engineering-Intern_JR-051233",
-   "locations": [
-    "Menomonee Falls, WI"
-   ],
-   "posted_at": 1787616000,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "f0fcad4f7ff11e3f"
   },
   {
    "source": "Simplify",
