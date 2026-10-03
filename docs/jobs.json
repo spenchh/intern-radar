@@ -1,6 +1,6 @@
 {
- "generated_at": 1791057859,
- "count": 416,
+ "generated_at": 1791068630,
+ "count": 420,
  "jobs": [
   {
    "source": "Simplify",
@@ -1223,27 +1223,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Mill",
-   "title": "Electrical Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/mill/jobs/4737766005",
-   "locations": [
-    "San Bruno, CA"
-   ],
-   "posted_at": 1790289604,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790292486,
-   "uid": "c13f79f778a07694"
-  },
-  {
-   "source": "Simplify",
    "company": "Acuity",
    "title": "Hardware Development Intern - Hardware",
    "url": "https://careers.acuityinc.com/job/Brossard-Stagiaire-d%C3%A9veloppement-mat%C3%A9riel-(hardware)-Qu%C3%A9b-J4Y-0C4/1433678100/?ats=successfactors",
@@ -1306,6 +1285,28 @@
    ],
    "first_seen": 1790292486,
    "uid": "bc38fbbdf4efa8c6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "RF Validation Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790287585,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "rf (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1791068630,
+   "uid": "6103c224a724e2e8"
   },
   {
    "source": "Greenhouse",
@@ -1926,6 +1927,49 @@
    ],
    "first_seen": 1790205059,
    "uid": "b7162342ea731b2a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "Electrical Reliability Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790144224,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 3,
+   "reasons": [
+    "electrical (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1791068630,
+   "uid": "809c65d77fe04940"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astranis",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1790144223,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791068630,
+   "uid": "c5dad2c8a5163fe2"
   },
   {
    "source": "Greenhouse",
@@ -3324,6 +3368,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -4055,10 +4120,8 @@
     "Mountain View, CA"
    ],
    "posted_at": 1789169825,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
+   "terms": [],
+   "sponsorship": "",
    "category": "silicon",
    "score": 3,
    "reasons": [
@@ -4399,6 +4462,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Rocket Lab USA",
+   "title": "Electrical Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "posted_at": 1789079371,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1791068630,
+   "uid": "0ccee7871f3bf751"
+  },
+  {
+   "source": "Simplify",
    "company": "Garmin",
    "title": "Electrical Design Engineer Intern",
    "url": "https://careers.garmin.com/jobs/19896?icims=1",
@@ -4584,27 +4669,6 @@
    ],
    "first_seen": 1790852756,
    "uid": "7ffb386b661c83fb"
-  },
-  {
-   "source": "Simplify",
-   "company": "Rocket Lab USA",
-   "title": "Electrical Engineer Intern - Space Systems Division",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1789003760,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789021328,
-   "uid": "486ac180c27a9e8b"
   },
   {
    "source": "Simplify",
@@ -7827,6 +7891,27 @@
    ],
    "first_seen": 1787002870,
    "uid": "d6f2717615594027"
+  },
+  {
+   "source": "Simplify",
+   "company": "Mill",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/mill/jobs/4724014005",
+   "locations": [
+    "San Bruno, CA"
+   ],
+   "posted_at": 1786660301,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790292486,
+   "uid": "c13f79f778a07694"
   },
   {
    "source": "Simplify",

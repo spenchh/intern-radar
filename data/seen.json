@@ -1,5 +1,5 @@
 {
- "count": 634,
+ "count": 638,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -228,6 +228,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376"
+  },
+  "0ccee7871f3bf751": {
+   "company": "Rocket Lab USA",
+   "first_seen": 1791068630,
+   "title": "Electrical Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003"
   },
   "0cdd0601d2c54cb8": {
    "company": "Emerson Electric",
@@ -1417,6 +1423,12 @@
    "title": "Hardware Test Intern - Spring 2027",
    "url": "https://www.zipline.com/open-roles?gh_jid=7894349003"
   },
+  "6103c224a724e2e8": {
+   "company": "Astranis",
+   "first_seen": 1791068630,
+   "title": "RF Validation Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006"
+  },
   "611e9c16b192dcff": {
    "company": "Allegion",
    "first_seen": 1789176399,
@@ -1860,6 +1872,12 @@
    "first_seen": 1790292486,
    "title": "RF Validation Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006"
+  },
+  "809c65d77fe04940": {
+   "company": "Astranis",
+   "first_seen": 1791068630,
+   "title": "Electrical Reliability Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006"
   },
   "813f291cf79a7109": {
    "company": "Contoro",
@@ -2917,6 +2935,12 @@
    "title": "Hardware Reliability & Test Engineering Intern",
    "url": "https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406"
   },
+  "c5dad2c8a5163fe2": {
+   "company": "Astranis",
+   "first_seen": 1791068630,
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006"
+  },
   "c61b0e3859703fc5": {
    "company": "DRW",
    "first_seen": 1786988749,
@@ -3806,6 +3830,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791057859,
- "runs": 546
+ "last_run": 1791068630,
+ "runs": 547
 }
