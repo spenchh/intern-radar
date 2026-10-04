@@ -1,6 +1,6 @@
 {
- "generated_at": 1791124667,
- "count": 406,
+ "generated_at": 1791138151,
+ "count": 417,
  "jobs": [
   {
    "source": "Simplify",
@@ -24,6 +24,28 @@
    ],
    "first_seen": 1791047827,
    "uid": "4f13cd0059a5848e"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Masters Photonics Design Engineering Co-op",
+   "url": "https://careers.amd.com/jobs/91633?icims=1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791007700,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "photonics (+2)"
+   ],
+   "first_seen": 1791013543,
+   "uid": "abc153940c9d5aa0"
   },
   {
    "source": "Simplify",
@@ -91,6 +113,48 @@
   },
   {
    "source": "Simplify",
+   "company": "Altera",
+   "title": "High Level Synthesis Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "synthesis (+3)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "ddc06940bdf2037e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hitachi Energy",
+   "title": "Hardware Test Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790982513,
+   "uid": "45a96589927149c9"
+  },
+  {
+   "source": "Simplify",
    "company": "Allegion",
    "title": "Hardware Engineering Intern - Hardware Engineering",
    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering_JR37413-1",
@@ -110,6 +174,50 @@
    ],
    "first_seen": 1790982513,
    "uid": "fedb43b6a349e041"
+  },
+  {
+   "source": "Simplify",
+   "company": "Schweitzer Engineering Laboratories",
+   "title": "Hardware Engineering Intern",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-23159",
+   "locations": [
+    "Pullman, WA"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "08746e4127d61f92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "88802061d3e50c08"
   },
   {
    "source": "Simplify",
@@ -328,6 +436,28 @@
    ],
    "first_seen": 1790875351,
    "uid": "1cd04315ae696773"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790812800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1790925509,
+   "uid": "cecd399f4212f4e0"
   },
   {
    "source": "Greenhouse",
@@ -1025,6 +1155,28 @@
    ],
    "first_seen": 1790380604,
    "uid": "3df57dbd7c0cc973"
+  },
+  {
+   "source": "Simplify",
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Embedded Firmware Intern - Summer 2027",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
+   "locations": [
+    "Milwaukee, WI"
+   ],
+   "posted_at": 1790294400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1790380604,
+   "uid": "17081ed01b6277ea"
   },
   {
    "source": "Simplify",
@@ -2214,6 +2366,27 @@
    ],
    "first_seen": 1790052937,
    "uid": "c546bdc03e85173c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "ASIC Engineer Intern",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790035200,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1790120534,
+   "uid": "a9b9cd188efc16e7"
   },
   {
    "source": "Simplify",
@@ -5074,6 +5247,48 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Electrical Design Engineer 2 Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Electrical-Design-Engineer-II--Onsite-_01872986",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791138151,
+   "uid": "ec728cd798a8277c"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Electrical Design Engineer 1 Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Electrical-Design-Engineer-I--Onsite-_01872984",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1788825600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791138151,
+   "uid": "bdceb082e9431a7f"
+  },
+  {
+   "source": "Simplify",
    "company": "Micron Technology",
    "title": "DRAM Test Structure Design and Layout Engineering Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341",
@@ -7455,6 +7670,30 @@
    ],
    "first_seen": 1787135234,
    "uid": "2b38f57dffc28027"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Hardware Design for Test Intern - DFT",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 11,
+   "reasons": [
+    "dft (+3)",
+    "design for test (+3)",
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "c8a4d38df7f3296c"
   },
   {
    "source": "Simplify",
