@@ -1,6 +1,6 @@
 {
- "generated_at": 1791081553,
- "count": 420,
+ "generated_at": 1791103703,
+ "count": 414,
  "jobs": [
   {
    "source": "Simplify",
@@ -1611,28 +1611,6 @@
   {
    "source": "Simplify",
    "company": "Marvell",
-   "title": "Analog Design Intern Co-op - BS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Analog-Design-Intern---BS---2027-Co-Op_2604788",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790208000,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1790292486,
-   "uid": "e5902353fb150623"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
    "title": "Analog Design Intern Co-op - Master\u2019s",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Analog-Design-Intern--Master-s---2027-Co-Op_2603862",
    "locations": [
@@ -2126,27 +2104,6 @@
    ],
    "first_seen": 1790148167,
    "uid": "c731d161cd99219f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Keysight Technologies",
-   "title": "Semiconductor Systems Automation Intern",
-   "url": "https://jobs.keysight.com/jobs/54371?icims=1",
-   "locations": [
-    "Santa Rosa, CA"
-   ],
-   "posted_at": 1790125918,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "semiconductor (+3)"
-   ],
-   "first_seen": 1790128154,
-   "uid": "f437d298f8f1dcac"
   },
   {
    "source": "Simplify",
@@ -3368,27 +3325,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -3739,58 +3675,6 @@
    ],
    "first_seen": 1789424135,
    "uid": "7535d03a08ddda17"
-  },
-  {
-   "source": "Simplify",
-   "company": "Google",
-   "title": "Hardware Engineer Intern - PhD",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI",
-    "Seattle, WA",
-    "Washington, DC",
-    "SF",
-    "Austin, TX",
-    "LA",
-    "San Jose, CA",
-    "Irvine, CA",
-    "South SF",
-    "Redwood City, CA",
-    "Raleigh, NC",
-    "San Bruno, CA",
-    "Redmond, WA",
-    "Durham, NC",
-    "Ann Arbor, MI",
-    "Santa Cruz, CA",
-    "Chicago, IL",
-    "Goleta, CA",
-    "Pittsburgh, PA",
-    "Kirkland, WA",
-    "Reston, VA",
-    "NYC",
-    "Bellevue, WA",
-    "Sunnyvale, CA",
-    "Mountain View, CA",
-    "Portland, OR",
-    "Boulder, CO",
-    "Atlanta, GA",
-    "San Diego, CA"
-   ],
-   "posted_at": 1789417425,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "46cd886019cb4f1c"
   },
   {
    "source": "Simplify",
@@ -6344,28 +6228,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Analog and Mixed Signal Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/91369?icims=1",
-   "locations": [
-    "Markham, ON, Canada"
-   ],
-   "posted_at": 1788256547,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "mixed signal (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "00deb3e5e609a464"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Hardware Design Verification Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91362?icims=1",
    "locations": [
@@ -6473,28 +6335,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "ab10209617340161"
-  },
-  {
-   "source": "Simplify",
-   "company": "Emerson Electric",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009762",
-   "locations": [
-    "Shakopee, MN",
-    "Eden Prairie, MN"
-   ],
-   "posted_at": 1788238287,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "d9e10211d9c3e215"
   },
   {
    "source": "Lever",
