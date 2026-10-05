@@ -1,7 +1,49 @@
 {
- "generated_at": 1791160019,
- "count": 417,
+ "generated_at": 1791180285,
+ "count": 420,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "HBM Memory Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791072000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "memory design (+3)"
+   ],
+   "first_seen": 1791180285,
+   "uid": "a3094f46f8518ff8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "Memory Design Engineer Intern - HBM",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "posted_at": 1791072000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "memory design (+3)"
+   ],
+   "first_seen": 1791180285,
+   "uid": "3ec06ab3a2734e54"
+  },
   {
    "source": "Simplify",
    "company": "CesiumAstro",
@@ -2730,7 +2772,9 @@
    ],
    "posted_at": 1789766923,
    "terms": [
-    "Summer 2026"
+    "Fall 2026",
+    "Spring 2027",
+    "Summer 2027"
    ],
    "sponsorship": "Other",
    "category": "silicon",
@@ -8949,6 +8993,29 @@
   },
   {
    "source": "Simplify",
+   "company": "Etched",
+   "title": "Physical Design Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application?embed=true",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1779239344,
+   "terms": [
+    "Fall 2026",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1791180285,
+   "uid": "12968d2b0f1c46db"
+  },
+  {
+   "source": "Simplify",
    "company": "Heron Power",
    "title": "Hardware Test Engineering Intern",
    "url": "http://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2/application",
@@ -9191,10 +9258,8 @@
     "San Jose"
    ],
    "posted_at": 1770427798,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
+   "terms": [],
+   "sponsorship": "",
    "category": "electrical",
    "score": 2,
    "reasons": [
