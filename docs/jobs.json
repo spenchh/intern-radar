@@ -1,7 +1,30 @@
 {
- "generated_at": 1791180285,
- "count": 420,
+ "generated_at": 1791211045,
+ "count": 415,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Analog Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087",
+   "locations": [
+    "San Jose, CA",
+    "Plano, TX",
+    "San Diego, CA"
+   ],
+   "posted_at": 1791209302,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "analog (+2)"
+   ],
+   "first_seen": 1791211045,
+   "uid": "785567b79339a482"
+  },
   {
    "source": "Simplify",
    "company": "Micron Technology",
@@ -671,28 +694,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Northrop Grumman",
-   "title": "Hardware Electronics Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1",
-   "locations": [
-    "Rolling Meadows, IL"
-   ],
-   "posted_at": 1790726400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "electronics (+2)"
-   ],
-   "first_seen": 1790757224,
-   "uid": "c06554dc43f2261c"
-  },
-  {
-   "source": "Simplify",
    "company": "Leidos",
    "title": "Embedded Design Engineer Intern - Firmware",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
@@ -915,27 +916,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "be2d55238fdbcc59"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Electrical-Engineering-Intern--Summer-2027-_01864197-1",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "b7aeebbbac1c8eb6"
   },
   {
    "source": "Simplify",
@@ -4156,29 +4136,6 @@
   },
   {
    "source": "Simplify",
-   "company": "AMD",
-   "title": "Optical & Photonics Engineering Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/92358?icims=1",
-   "locations": [
-    "San Jose, CA",
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789165201,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "photonics (+2)"
-   ],
-   "first_seen": 1789169289,
-   "uid": "2f2f4b92392aa414"
-  },
-  {
-   "source": "Simplify",
    "company": "Quantinuum",
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.eu.lever.co/quantinuum/672bb667-0569-44bc-a2fa-a0fcd85673fb/apply",
@@ -5738,27 +5695,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Hexagon AB",
-   "title": "Defense Engineer Intern - Aerospace and Defense Engineering",
-   "url": "https://careers-hexagonpositioning.icims.com/jobs/3078/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Calgary, AB, Canada"
-   ],
-   "posted_at": 1788473248,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "aerospace",
-   "score": 2,
-   "reasons": [
-    "aerospace (+2)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "d5871fcbb28aad25"
-  },
-  {
-   "source": "Simplify",
    "company": "Susquehanna International Group",
    "title": "FPGA Engineer Intern",
    "url": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false",
@@ -6361,28 +6297,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-   "url": "https://careers.amd.com/jobs/90367?icims=1",
-   "locations": [
-    "Markham, ON, Canada"
-   ],
-   "posted_at": 1788256547,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788273115,
-   "uid": "fe5a695bda0685d7"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Analog and Mixed Signal Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91369?icims=1",
    "locations": [
@@ -6405,28 +6319,24 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Verification Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/91362?icims=1",
+   "title": "Hardware Design Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90372?icims=1",
    "locations": [
     "Vancouver, BC, Canada"
    ],
-   "posted_at": 1788256545,
+   "posted_at": 1788256546,
    "terms": [
-    "Winter 2027",
-    "Summer 2027",
-    "Fall 2027"
+    "Summer 2027"
    ],
    "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
+   "category": "other",
+   "score": 5,
    "reasons": [
-    "design verification (+3)",
     "hardware design (+3)",
-    "hardware (+2)",
-    "verification (+2)"
+    "hardware (+2)"
    ],
    "first_seen": 1788273115,
-   "uid": "acb5ecc1179944d8"
+   "uid": "013361da3ae2bd8b"
   },
   {
    "source": "Simplify",
@@ -7294,29 +7204,6 @@
    ],
    "first_seen": 1787640227,
    "uid": "970e55dc48859bae"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "ASIC Package Engineering Co-op/Intern",
-   "url": "https://careers.amd.com/jobs/91463?icims=1",
-   "locations": [
-    "San Jose, CA",
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787638564,
-   "terms": [
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "asic (+3)"
-   ],
-   "first_seen": 1787640227,
-   "uid": "5cb8796ede69ae9e"
   },
   {
    "source": "Simplify",

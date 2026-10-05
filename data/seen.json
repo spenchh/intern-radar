@@ -1,5 +1,5 @@
 {
- "count": 649,
+ "count": 650,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1770,6 +1770,12 @@
    "first_seen": 1788460724,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/vital-lyfe/7e280fc1-52fd-4798-8790-2d1f1c935994/application?embed=true"
+  },
+  "785567b79339a482": {
+   "company": "Renesas Electronics",
+   "first_seen": 1791211045,
+   "title": "Analog Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153497087"
   },
   "78c43c67b9ae406b": {
    "company": "Astranis",
@@ -3896,6 +3902,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791180285,
- "runs": 554
+ "last_run": 1791211045,
+ "runs": 555
 }
