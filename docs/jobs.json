@@ -1,7 +1,395 @@
 {
- "generated_at": 1791251675,
- "count": 430,
+ "generated_at": 1791275734,
+ "count": 455,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Physical Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1791267450,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "3d70db9ca78fd377"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Physical Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267450,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "f67519ba425157f3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "System Validation Retimer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728590005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267449,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "e0445720849a0399"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "System Validation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267449,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1788810639,
+   "uid": "c95f190e5f01411d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "System Validation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1791267449,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "f5225d3cc75ecab1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Hardware Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267449,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "b9bf4aa0127a602f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Hardware Lab Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267449,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "49b89c2803434462"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Design-for-Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005",
+   "locations": [
+    "Toronto, ON, Canada",
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267445,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "design for test (+3)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "619e0e0963c5247f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Emulation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731394005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267445,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "emulation (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "336e928739f3bbc8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Digital Design Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267445,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "50e2445afce0db5f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Hardware Electrical Validation Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4740145005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267445,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 6,
+   "reasons": [
+    "hardware (+2)",
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "7f79d28b69c74b59"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1791267444,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "685aaeab80f7686b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Digital Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1791267444,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "20c3eec4e18ca03d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Electrical Validation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724534005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267444,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "0734d58522145390"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4722012005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267443,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "528101c2b5b82de2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Advanced Design Verification Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267435,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "3c7f78b3ac73dfd3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Applied AI Intern - Non-Silicon",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791267435,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "silicon (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "7de80d1fac0075f1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Legrand",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345",
+   "locations": [
+    "Middletown, PA"
+   ],
+   "posted_at": 1791267297,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "f255a759c9c92085"
+  },
   {
    "source": "Simplify",
    "company": "Atoms",
@@ -443,6 +831,72 @@
   },
   {
    "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Electric Hardware Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414",
+   "locations": [
+    "Chippewa Falls, WI"
+   ],
+   "posted_at": 1791072000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "d7e015d323ab051c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Hardware Tools and Libraries Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791072000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "5c4eeb8814a850f7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Design Verification Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400",
+   "locations": [
+    "Chippewa Falls, WI"
+   ],
+   "posted_at": 1791072000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "vlsi (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "45d122c0fdbf4df0"
+  },
+  {
+   "source": "Simplify",
    "company": "CesiumAstro",
    "title": "Electrical Engineering Intern - FPGA",
    "url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
@@ -680,6 +1134,27 @@
    ],
    "first_seen": 1790992593,
    "uid": "c45080d3a8e94ed7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213",
+   "locations": [
+    "Durham, NC"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "8139f797a25a59a4"
   },
   {
    "source": "Simplify",
@@ -1290,6 +1765,29 @@
    ],
    "first_seen": 1790723236,
    "uid": "be2d55238fdbcc59"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Electrical Hardware Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421",
+   "locations": [
+    "Spring, TX"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "84c30f0f5045fb4e"
   },
   {
    "source": "Simplify",
@@ -2237,27 +2735,6 @@
    ],
    "first_seen": 1790205059,
    "uid": "66d001e17a35b7d2"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
-   "url": "https://careers.amd.com/jobs/90997?icims=1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1790201433,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1790205059,
-   "uid": "393dc6e574c56ea8"
   },
   {
    "source": "Simplify",
@@ -3632,6 +4109,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -6300,28 +6798,6 @@
   },
   {
    "source": "Simplify",
-   "company": "GlobalFoundries",
-   "title": "Silicon Photonics Advanced Packaging Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270",
-   "locations": [
-    "Malta, NY"
-   ],
-   "posted_at": 1788393600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "silicon (+3)",
-    "photonics (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "6afca8f55a376899"
-  },
-  {
-   "source": "Simplify",
    "company": "Viavi Solutions",
    "title": "Optical & Electrical Engineering Intern",
    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Optical---Electrical-Engineering-Intern_260004968-2",
@@ -6341,6 +6817,51 @@
    ],
    "first_seen": 1788501265,
    "uid": "bf28d488e3eda610"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Firmware and Diagnostic Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415",
+   "locations": [
+    "Bloomington, MN",
+    "Chippewa Falls, WI"
+   ],
+   "posted_at": 1788393600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 4,
+   "reasons": [
+    "asic (+3)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "fb44cd5e86a30357"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Pre-Silicon Diagnostics Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1788393600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "silicon (+3)",
+    "pre silicon (+3)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "02b094dc01a50a24"
   },
   {
    "source": "Simplify",
@@ -6537,6 +7058,29 @@
    ],
    "first_seen": 1788415817,
    "uid": "1f3b1dc9355a1846"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Hardware Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408",
+   "locations": [
+    "Spring, TX",
+    "Chippewa Falls, WI"
+   ],
+   "posted_at": 1788307200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791275734,
+   "uid": "9b522dfca44acd18"
   },
   {
    "source": "Greenhouse",
