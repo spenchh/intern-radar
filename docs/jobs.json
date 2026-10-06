@@ -1,7 +1,231 @@
 {
- "generated_at": 1791236327,
- "count": 414,
+ "generated_at": 1791251675,
+ "count": 430,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Atoms",
+   "title": "Electrical Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8869098002",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1791238900,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "601188d28a0385d3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Electronics Design Engineer Co-op Intern - Electronics Design",
+   "url": "https://careers.rivian.com/jobs/34040?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "posted_at": 1791238892,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "d0390a2b7708b0e5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Embedded Firmware Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1791238588,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "6ec05d005d669618"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Design Verification Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791238588,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "aeea021e1fea7666"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Digital Design Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791238588,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "digital design (+3)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "c5641711c76e3fdf"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Mixed Signal Products Applications Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791238586,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "mixed signal (+3)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "f6398502bb4e1c8c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Electrical Engineer Intern",
+   "url": "https://www.metacareers.com/jobs/1105729655266553",
+   "locations": [
+    "NYC",
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791238573,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "b36ba9d0d5e0e1a6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Validation Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791238549,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "2021b1ad83255b31"
+  },
+  {
+   "source": "Simplify",
+   "company": "Cirrus Logic",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791238549,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "adbb44c60676e978"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rheem",
+   "title": "Electronics Hardware Systems Engineer Co-op",
+   "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "posted_at": 1791238294,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "48825705221e2ba1"
+  },
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
@@ -43,6 +267,137 @@
    ],
    "first_seen": 1791211045,
    "uid": "785567b79339a482"
+  },
+  {
+   "source": "Simplify",
+   "company": "BorgWarner",
+   "title": "Electronics Hardware Design Intern",
+   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electronics-Hardware-Design-Intern_R2026-3941",
+   "locations": [
+    "Kokomo, IN"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "electronics (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "cac5d837c51331b5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Hardware Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "dc8733f903d1a078"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "CPU Core Physical Design Technical Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
+   "locations": [
+    "Folsom, CA"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "1eeb73b7b71e8230"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+   "locations": [
+    "Milford, MI",
+    "Warren, MI"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "628c372ad3a6e3a8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Insulet",
+   "title": "R&D Electrical Engineering Co-op",
+   "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618",
+   "locations": [
+    "Acton, MA"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1789081844,
+   "uid": "777037b4381d4e01"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hitachi Energy",
+   "title": "Electrical Component Engineer Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "a7d094cd6ae24a09"
   },
   {
    "source": "Simplify",
@@ -3280,27 +3635,6 @@
   },
   {
    "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
-  },
-  {
-   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5963,6 +6297,28 @@
    ],
    "first_seen": 1791124667,
    "uid": "edddd3b511ec2095"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Advanced Packaging Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604270",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1788393600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "6afca8f55a376899"
   },
   {
    "source": "Simplify",
