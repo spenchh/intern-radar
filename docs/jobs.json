@@ -1,7 +1,93 @@
 {
- "generated_at": 1791400804,
- "count": 470,
+ "generated_at": 1791416435,
+ "count": 475,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Werfen",
+   "title": "Acute Care Hardware Systems Engineer Co-op",
+   "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Bedford, MA"
+   ],
+   "posted_at": 1791411579,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "1ba570cfa857a647"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Analog Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "posted_at": 1791411061,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "4a7e86be7b6a59e4"
+  },
+  {
+   "source": "Simplify",
+   "company": "Garmin",
+   "title": "FPGA Engineer Intern",
+   "url": "https://careers.garmin.com/jobs/19836?icims=1",
+   "locations": [
+    "Olathe, KS"
+   ],
+   "posted_at": 1791410856,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "71324b1a0699b672"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Analog Design Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154185788",
+   "locations": [
+    "Duluth, GA"
+   ],
+   "posted_at": 1791410820,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "analog design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "240a5ebb2be1c590"
+  },
   {
    "source": "Simplify",
    "company": "S&C Electric Company",
@@ -118,6 +204,90 @@
    ],
    "first_seen": 1791352732,
    "uid": "d0ad8ea1e9b0a867"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Design Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "7f602e434c5ad1cb"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018",
+   "locations": [
+    "McKinney, TX"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "46ec433d09f11650"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nordson",
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Electrical-Engineering-Intern_REQ53005",
+   "locations": [
+    "East Providence, RI"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "170099284c14ad32"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "AV Sensor Design, Release and Integration Intern",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+   "locations": [
+    "Warren, MI"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "04c9031c539ee8f7"
   },
   {
    "source": "Simplify",
@@ -2343,31 +2513,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Efficient Computer",
-   "title": "Hardware/Silicon Intern",
-   "url": "https://job-boards.greenhouse.io/efficientcomputer/jobs/4421539009",
-   "locations": [
-    "SF",
-    "Austin, TX",
-    "San Jose, CA",
-    "Pittsburgh, PA"
-   ],
-   "posted_at": 1790376112,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "silicon (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1790380604,
-   "uid": "a26597e6c2264ec8"
-  },
-  {
-   "source": "Simplify",
    "company": "Qorvo",
    "title": "Electrical Design Engineer Intern",
    "url": "https://careers.qorvo.com/job/Richardson-Electrical-Design-Engineering-Intern-TX-75081/1433950600/?ats=successfactors",
@@ -3709,27 +3854,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Ciena",
-   "title": "ASIC Engineer Intern",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1790035200,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "asic (+3)"
-   ],
-   "first_seen": 1790120534,
-   "uid": "a9b9cd188efc16e7"
-  },
-  {
-   "source": "Simplify",
    "company": "Danaher",
    "title": "Hardware Engineer Co-op",
    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Concord-Ontario-Canada/Hardware-Engineering-Co-op_R1317537",
@@ -4597,27 +4721,6 @@
    ],
    "first_seen": 1790710065,
    "uid": "2ca52d32fd83a407"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",

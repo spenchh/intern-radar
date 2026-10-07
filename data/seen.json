@@ -1,5 +1,5 @@
 {
- "count": 713,
+ "count": 721,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -132,6 +132,12 @@
    "first_seen": 1789081844,
    "title": "Life Cycle Engineering Co-op - Electrical",
    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Electrical--January---June-2027--Hybrid-_REQ-2026-18043"
+  },
+  "04c9031c539ee8f7": {
+   "company": "General Motors",
+   "first_seen": 1791416435,
+   "title": "AV Sensor Design, Release and Integration Intern",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993"
   },
   "053d85fbd587d44f": {
    "company": "Arista Networks",
@@ -421,6 +427,12 @@
    "title": "Electrical Platform Intern",
    "url": "https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a"
   },
+  "170099284c14ad32": {
+   "company": "Nordson",
+   "first_seen": 1791416435,
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Electrical-Engineering-Intern_REQ53005"
+  },
   "17059e370fe18160": {
    "company": "Stryten",
    "first_seen": 1788434053,
@@ -498,6 +510,12 @@
    "first_seen": 1789424135,
    "title": "Hardware Engineer Intern - Machine Integration & Test",
    "url": "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9/application?embed=true"
+  },
+  "1ba570cfa857a647": {
+   "company": "Werfen",
+   "first_seen": 1791416435,
+   "title": "Acute Care Hardware Systems Engineer Co-op",
+   "url": "https://careers-werfen.icims.com/jobs/10995/job?mobile=true&needsRedirect=false"
   },
   "1cd04315ae696773": {
    "company": "RTX",
@@ -684,6 +702,12 @@
    "first_seen": 1788470444,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.ashbyhq.com/human-computer-lab/004ff3a2-7e38-4959-8bd7-48489cbc78f4/application?embed=true"
+  },
+  "240a5ebb2be1c590": {
+   "company": "Renesas Electronics",
+   "first_seen": 1791416435,
+   "title": "Analog Design Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154185788"
   },
   "24b11760da9aca56": {
    "company": "Marvell",
@@ -1213,6 +1237,12 @@
    "title": "Hardware Engineer Intern - PhD",
    "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574"
   },
+  "46ec433d09f11650": {
+   "company": "RTX",
+   "first_seen": 1791416435,
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018"
+  },
   "4724c770fbd82fd7": {
    "company": "Marvell",
    "first_seen": 1788470444,
@@ -1272,6 +1302,12 @@
    "first_seen": 1790035604,
    "title": "Digital IC Design Intern - BS",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1"
+  },
+  "4a7e86be7b6a59e4": {
+   "company": "Texas Instruments",
+   "first_seen": 1791416435,
+   "title": "Analog Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924"
   },
   "4afc4c771fa81c44": {
    "company": "Qorvo",
@@ -1843,6 +1879,12 @@
    "title": "Electrical Engineer Intern - Operations Analytics",
    "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-ET-Operations-Analytics-VA-23060/1427633000/?ats=successfactors"
   },
+  "71324b1a0699b672": {
+   "company": "Garmin",
+   "first_seen": 1791416435,
+   "title": "FPGA Engineer Intern",
+   "url": "https://careers.garmin.com/jobs/19836?icims=1"
+  },
   "718acd66df53ffe6": {
    "company": "Jump Trading",
    "first_seen": 1786988749,
@@ -2058,6 +2100,12 @@
    "first_seen": 1791331311,
    "title": "R&D Hardware Engineering Intern",
    "url": "https://jobs.keysight.com/jobs/54771?icims=1"
+  },
+  "7f602e434c5ad1cb": {
+   "company": "Hewlett Packard Enterprise",
+   "first_seen": 1791416435,
+   "title": "ASIC Design Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180"
   },
   "7f79d28b69c74b59": {
    "company": "Astera Labs",
@@ -4280,6 +4328,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791400804,
- "runs": 564
+ "last_run": 1791416435,
+ "runs": 565
 }
