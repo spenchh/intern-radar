@@ -1,5 +1,5 @@
 {
- "count": 690,
+ "count": 702,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -30,6 +30,12 @@
    "first_seen": 1788273115,
    "title": "Hardware Design Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/90372?icims=1"
+  },
+  "019981815152356b": {
+   "company": "Moog",
+   "first_seen": 1791331311,
+   "title": "Electrical Engineer Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827"
   },
   "01cc2a6d6fe6e379": {
    "company": "Peak Energy",
@@ -1015,6 +1021,12 @@
    "title": "Test Characterization Engineer Intern - RF Characterization Engineering",
    "url": "https://careers.qorvo.com/job/Richardson-Test-Characterization-Engineer-Intern-TX-75081/1424800700/?ats=successfactors"
   },
+  "3e70fc68f6843d1a": {
+   "company": "BorgWarner",
+   "first_seen": 1791331311,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965"
+  },
   "3e72f46cc23d6d3e": {
    "company": "Rocket Lab",
    "first_seen": 1786988749,
@@ -1086,6 +1098,12 @@
    "first_seen": 1788861415,
    "title": "Optical Verification Engineer Intern Co-op",
    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193"
+  },
+  "42bb339118b35fb8": {
+   "company": "NVIDIA",
+   "first_seen": 1791331311,
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704"
   },
   "4373877c5774b93c": {
    "company": "Leidos",
@@ -1369,6 +1387,12 @@
    "title": "Electrical Engineer Intern - Summer 2027",
    "url": "https://www.zipline.com/open-roles/7903711003?gh_jid=7903711003"
   },
+  "5071a806a747bcb6": {
+   "company": "Alliance Laundry Systems",
+   "first_seen": 1791331311,
+   "title": "Embedded Firmware Co-op",
+   "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false"
+  },
   "50e2445afce0db5f": {
    "company": "Astera Labs",
    "first_seen": 1791275734,
@@ -1470,6 +1494,12 @@
    "first_seen": 1790269840,
    "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622"
+  },
+  "5ae0733cf5ae697b": {
+   "company": "Nokia",
+   "first_seen": 1791331311,
+   "title": "Mixed Signal Circuit Design Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222"
   },
   "5bcb2265ed42132d": {
    "company": "Emerson Electric",
@@ -1987,6 +2017,12 @@
    "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1"
   },
+  "7f516df2f95f9ee3": {
+   "company": "Keysight Technologies",
+   "first_seen": 1791331311,
+   "title": "R&D Hardware Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/54771?icims=1"
+  },
   "7f79d28b69c74b59": {
    "company": "Astera Labs",
    "first_seen": 1791275734,
@@ -2437,6 +2473,12 @@
    "title": "Electrical/Computer Engineering Intern Co-op",
    "url": "https://aerotech.applytojob.com/apply/FrPUDToawu/ElectricalComputer-Engineering-Internship-Or-Coop-2027"
   },
+  "9e0a59fadc34ad9c": {
+   "company": "Nokia",
+   "first_seen": 1791331311,
+   "title": "ASIC Physical Design Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122"
+  },
   "9e860a8614a0d811": {
    "company": "Marvell",
    "first_seen": 1790292486,
@@ -2592,6 +2634,12 @@
    "first_seen": 1791251675,
    "title": "Electrical Component Engineer Intern",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Winter-2027--16months-_R0145359"
+  },
+  "a7db8b86648b55e2": {
+   "company": "Ciena",
+   "first_seen": 1791331311,
+   "title": "Hardware Design Co-op",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782"
   },
   "a8146d38a49e8bf5": {
    "company": "Marvell",
@@ -3247,6 +3295,12 @@
    "title": "Computer Engineer Intern",
    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119"
   },
+  "cc8248e542466f28": {
+   "company": "Renesas Electronics",
+   "first_seen": 1791331311,
+   "title": "Post Silicon Validation Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059"
+  },
   "cc9765e2c4fe1843": {
    "company": "Cadence Design Systems",
    "first_seen": 1788028141,
@@ -3342,6 +3396,12 @@
    "first_seen": 1788470444,
    "title": "Aerospace Intern New Grad",
    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414"
+  },
+  "d097546d2a990be8": {
+   "company": "KLA",
+   "first_seen": 1791331311,
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708"
   },
   "d1880a596a590886": {
    "company": "RTX",
@@ -3510,6 +3570,12 @@
    "first_seen": 1790380604,
    "title": "Hardware Design and Verification Intern - PCBA",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752"
+  },
+  "db66dd8b81961f19": {
+   "company": "NVIDIA",
+   "first_seen": 1791331311,
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708"
   },
   "db6ccc62e35452f9": {
    "company": "Marvell",
@@ -3816,6 +3882,12 @@
    "first_seen": 1788567479,
    "title": "IC Validation Engineer Intern - MS - Multiple Teams",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515"
+  },
+  "ebfab1a305395b25": {
+   "company": "RTX",
+   "first_seen": 1791331311,
+   "title": "FPGA Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037"
   },
   "ec728cd798a8277c": {
    "company": "RTX",
@@ -4142,6 +4214,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791318568,
- "runs": 560
+ "last_run": 1791331311,
+ "runs": 561
 }

@@ -1,7 +1,120 @@
 {
- "generated_at": 1791318568,
- "count": 456,
+ "generated_at": 1791331312,
+ "count": 469,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "Mixed Signal Circuit Design Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791325163,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "mixed signal (+3)",
+    "circuit design (+3)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "5ae0733cf5ae697b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "ASIC Physical Design Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791325162,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "asic (+3)",
+    "physical design (+3)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "9e0a59fadc34ad9c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Alliance Laundry Systems",
+   "title": "Embedded Firmware Co-op",
+   "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Ripon, WI"
+   ],
+   "posted_at": 1791325114,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "5071a806a747bcb6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Hardware Engineering Intern",
+   "url": "https://jobs.keysight.com/jobs/54771?icims=1",
+   "locations": [
+    "Sacramento, CA"
+   ],
+   "posted_at": 1791324878,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "7f516df2f95f9ee3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Renesas Electronics",
+   "title": "Post Silicon Validation Intern",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059",
+   "locations": [
+    "Duluth, GA"
+   ],
+   "posted_at": 1791324420,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "silicon (+3)",
+    "post silicon (+3)",
+    "validation (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "cc8248e542466f28"
+  },
   {
    "source": "Simplify",
    "company": "Tenstorrent",
@@ -434,6 +547,156 @@
    ],
    "first_seen": 1791275734,
    "uid": "f255a759c9c92085"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "42bb339118b35fb8"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "db66dd8b81961f19"
+  },
+  {
+   "source": "Simplify",
+   "company": "Ciena",
+   "title": "Hardware Design Co-op",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Winter-2027---4-Months-_R031782",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "a7db8b86648b55e2"
+  },
+  {
+   "source": "Simplify",
+   "company": "KLA",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "d097546d2a990be8"
+  },
+  {
+   "source": "Simplify",
+   "company": "BorgWarner",
+   "title": "Electrical Design Engineer Intern",
+   "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Design-Engineer-Intern_R2026-3965",
+   "locations": [
+    "Kokomo, IN"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "3e70fc68f6843d1a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Moog",
+   "title": "Electrical Engineer Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19827",
+   "locations": [
+    "Torrance, CA"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "019981815152356b"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "FPGA Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037",
+   "locations": [
+    "McKinney, TX"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "ebfab1a305395b25"
   },
   {
    "source": "Simplify",
@@ -4175,6 +4438,27 @@
    ],
    "first_seen": 1790710065,
    "uid": "2ca52d32fd83a407"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
