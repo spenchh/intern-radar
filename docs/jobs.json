@@ -1,7 +1,49 @@
 {
- "generated_at": 1791331312,
+ "generated_at": 1791352732,
  "count": 469,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Figure",
+   "title": "Validation Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791337160,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1791352732,
+   "uid": "8c0254d589d4075c"
+  },
+  {
+   "source": "Simplify",
+   "company": "North Atlantic Industries",
+   "title": "Electrical Engineer Qualification Test Intern",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437",
+   "locations": [
+    "Bohemia, NY"
+   ],
+   "posted_at": 1791335911,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791352732,
+   "uid": "d0ad8ea1e9b0a867"
+  },
   {
    "source": "Simplify",
    "company": "Nokia",
@@ -2052,27 +2094,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "4373877c5774b93c"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
-   "locations": [
-    "Windsor Locks, CT"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "be2d55238fdbcc59"
   },
   {
    "source": "Simplify",
@@ -9492,28 +9513,6 @@
    ],
    "first_seen": 1788477891,
    "uid": "01cc2a6d6fe6e379"
-  },
-  {
-   "source": "Simplify",
-   "company": "Akuna Capital University",
-   "title": "Hardware Engineer Intern",
-   "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1783980581,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788470444,
-   "uid": "54887ff8a7fb8fc4"
   },
   {
    "source": "Simplify",
