@@ -1,7 +1,95 @@
 {
- "generated_at": 1791454351,
- "count": 474,
+ "generated_at": 1791480300,
+ "count": 475,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Rugged Robotics",
+   "title": "Electrical Engineer Intern Co-op",
+   "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4724214005",
+   "locations": [
+    "Houston, TX"
+   ],
+   "posted_at": 1791469052,
+   "terms": [
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791480300,
+   "uid": "7d0ab54735c9667b"
+  },
+  {
+   "source": "Simplify",
+   "company": "MSA Safety",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://careers.msasafety.com/jobs/10163?icims=1",
+   "locations": [
+    "Cranberry Township, PA"
+   ],
+   "posted_at": 1791468643,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788447714,
+   "uid": "66d17dfc7eb188bc"
+  },
+  {
+   "source": "Simplify",
+   "company": "MSA Safety",
+   "title": "Electrical Engineering Technology Co-op",
+   "url": "https://careers.msasafety.com/jobs/10162?icims=1",
+   "locations": [
+    "Cranberry Township, PA"
+   ],
+   "posted_at": 1791468643,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1791480300,
+   "uid": "28281b8f784171d5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Sensata",
+   "title": "Hardware Engineer Intern",
+   "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Hardware-Engineering-Placement-Student_IRC98569",
+   "locations": [
+    "Newtownabbey, UK"
+   ],
+   "posted_at": 1791417600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791480300,
+   "uid": "051fe6d40d04a1f8"
+  },
   {
    "source": "Simplify",
    "company": "Werfen",
@@ -183,27 +271,6 @@
    ],
    "first_seen": 1791352732,
    "uid": "8c0254d589d4075c"
-  },
-  {
-   "source": "Simplify",
-   "company": "North Atlantic Industries",
-   "title": "Electrical Engineer Qualification Test Intern",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4566437",
-   "locations": [
-    "Bohemia, NY"
-   ],
-   "posted_at": 1791335911,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791352732,
-   "uid": "d0ad8ea1e9b0a867"
   },
   {
    "source": "Simplify",
@@ -6692,27 +6759,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Apple",
-   "title": "Formal Verification Intern",
-   "url": "https://jobs.apple.com/en-us/details/200681934",
-   "locations": [
-    "St Albans, UK"
-   ],
-   "posted_at": 1788530858,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788532392,
-   "uid": "360e1feed0d88130"
-  },
-  {
-   "source": "Simplify",
    "company": "Marvell",
    "title": "Design for Test Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Morrisville-NC/Design-for-Test-Intern--BS---Summer-2027_2604511-1",
@@ -7007,27 +7053,6 @@
    ],
    "first_seen": 1788501265,
    "uid": "e1ece9e0d2d0ed1d"
-  },
-  {
-   "source": "Simplify",
-   "company": "Susquehanna International Group",
-   "title": "FPGA Engineer Intern",
-   "url": "https://careers-sig.icims.com/jobs/11446/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Bala Cynwyd, PA"
-   ],
-   "posted_at": 1788452158,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "fpga (+3)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "8966f38809b5c9c0"
   },
   {
    "source": "Simplify",
