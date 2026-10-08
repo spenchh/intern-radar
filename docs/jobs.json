@@ -1,5 +1,5 @@
 {
- "generated_at": 1791428211,
+ "generated_at": 1791454351,
  "count": 474,
  "jobs": [
   {
@@ -1294,27 +1294,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "48825705221e2ba1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Analog Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153587608",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1791238016,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "analog (+2)"
-   ],
-   "first_seen": 1791211045,
-   "uid": "785567b79339a482"
   },
   {
    "source": "Greenhouse",
@@ -4295,6 +4274,29 @@
   },
   {
    "source": "Simplify",
+   "company": "RTX",
+   "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Winter 2026",
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "7f4fa7717e9dfef4"
+  },
+  {
+   "source": "Simplify",
    "company": "Magna",
    "title": "Validation Engineer Intern - EMC Validation",
    "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
@@ -4721,27 +4723,6 @@
    ],
    "first_seen": 1790710065,
    "uid": "2ca52d32fd83a407"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -5875,6 +5856,27 @@
   {
    "source": "Simplify",
    "company": "L3Harris Technologies",
+   "title": "Electro-Optical Engineering Co-op",
+   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors",
+   "locations": [
+    "Waterdown, Hamilton, ON, Canada"
+   ],
+   "posted_at": 1789049803,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "optical engineering (+2)"
+   ],
+   "first_seen": 1791454351,
+   "uid": "6e7d1d6fab5db516"
+  },
+  {
+   "source": "Simplify",
+   "company": "L3Harris Technologies",
    "title": "Electrical Engineer Co-op",
    "url": "https://jobs.l3harris.com/job/Waterdown-Electrical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428467500/?ats=successfactors",
    "locations": [
@@ -5892,27 +5894,6 @@
    ],
    "first_seen": 1789053058,
    "uid": "cde20d2a41b322d6"
-  },
-  {
-   "source": "Simplify",
-   "company": "L3Harris Technologies",
-   "title": "Electro-Optical Engineering Co-Op - Waterdown - CAN",
-   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428469000/?ats=successfactors",
-   "locations": [
-    "Waterdown, Hamilton, ON, Canada"
-   ],
-   "posted_at": 1789049802,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "optical engineering (+2)"
-   ],
-   "first_seen": 1790852756,
-   "uid": "7ffb386b661c83fb"
   },
   {
    "source": "Simplify",
@@ -6600,6 +6581,27 @@
    ],
    "first_seen": 1791138151,
    "uid": "bdceb082e9431a7f"
+  },
+  {
+   "source": "Simplify",
+   "company": "Airbus",
+   "title": "Radio Frequency Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
+   "locations": [
+    "Portsmouth, UK"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": 1791454351,
+   "uid": "476efac684f17295"
   },
   {
    "source": "Simplify",

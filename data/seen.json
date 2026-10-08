@@ -1,5 +1,5 @@
 {
- "count": 721,
+ "count": 723,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1249,6 +1249,12 @@
    "title": "Analog Engineer Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Analog-Engineer-Intern---PhD_2502430-1"
   },
+  "476efac684f17295": {
+   "company": "Airbus",
+   "first_seen": 1791454351,
+   "title": "Radio Frequency Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274"
+  },
   "481e20aa40075e17": {
    "company": "CesiumAstro",
    "first_seen": 1789535833,
@@ -1836,6 +1842,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Engineer Intern",
    "url": "https://jobs.l3harris.com/job/Greenville-Intern,-Electrical-Engineer-TX-75402/1420331600/?ats=successfactors"
+  },
+  "6e7d1d6fab5db516": {
+   "company": "L3Harris Technologies",
+   "first_seen": 1791454351,
+   "title": "Electro-Optical Engineering Co-op",
+   "url": "https://jobs.l3harris.com/job/Waterdown-Electro-Optical-Engineering-Co-Op-(Waterdown,-CAN)-ON-L9H-0C5/1428468700/?ats=successfactors"
   },
   "6ec05d005d669618": {
    "company": "Cirrus Logic",
@@ -4328,6 +4340,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791428211,
- "runs": 566
+ "last_run": 1791454351,
+ "runs": 567
 }
