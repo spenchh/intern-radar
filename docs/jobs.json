@@ -1,6 +1,6 @@
 {
- "generated_at": 1791416435,
- "count": 475,
+ "generated_at": 1791428211,
+ "count": 474,
  "jobs": [
   {
    "source": "Simplify",
@@ -4724,6 +4724,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5272,27 +5293,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Acron Aviation",
-   "title": "Electrical Engineer Intern - Multiple Teams",
-   "url": "https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "posted_at": 1789348713,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791124667,
-   "uid": "b054df6eac7e2ab2"
-  },
-  {
-   "source": "Simplify",
    "company": "Oshkosh",
    "title": "Electronics & Controls Intern",
    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319",
@@ -5680,27 +5680,6 @@
    ],
    "first_seen": 1789151575,
    "uid": "800f6bae6c47dc88"
-  },
-  {
-   "source": "Simplify",
-   "company": "Varian",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Electrical-Engineering-Co-op---Knoxville--TN_R-30765",
-   "locations": [
-    "Knoxville, TN"
-   ],
-   "posted_at": 1789084800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789169289,
-   "uid": "be95fea7eb99932f"
   },
   {
    "source": "Simplify",
