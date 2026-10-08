@@ -1,6 +1,6 @@
 {
- "generated_at": 1791480300,
- "count": 475,
+ "generated_at": 1791497852,
+ "count": 472,
  "jobs": [
   {
    "source": "Simplify",
@@ -1731,27 +1731,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Altera",
-   "title": "High Level Synthesis Engineer Intern",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790899200,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "synthesis (+3)"
-   ],
-   "first_seen": 1790982513,
-   "uid": "ddc06940bdf2037e"
-  },
-  {
-   "source": "Simplify",
    "company": "Hitachi Energy",
    "title": "Hardware Test Engineering Intern",
    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476",
@@ -3270,25 +3249,6 @@
    ],
    "first_seen": 1790292486,
    "uid": "9e860a8614a0d811"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Graphcore",
-   "title": "System Validation Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
-   "locations": [
-    "Austin, Texas, United States"
-   ],
-   "posted_at": 1790207632,
-   "terms": [],
-   "sponsorship": "",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "73e2fd86b992ee0d"
   },
   {
    "source": "Greenhouse",
@@ -8635,29 +8595,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Daktronics",
-   "title": "Hardware Design Co-op Intern - Firmware",
-   "url": "https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Brookings, SD"
-   ],
-   "posted_at": 1787602181,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 6,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1787606858,
-   "uid": "1741b4843afb4463"
-  },
-  {
-   "source": "Simplify",
    "company": "RoboForce",
    "title": "Robotics Electrical Engineering Intern",
    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5181214008",
@@ -9030,7 +8967,7 @@
   {
    "source": "Greenhouse",
    "company": "Rocket Lab",
-   "title": "RF Test Engineer Intern",
+   "title": "Radio Frequency Test Engineer Intern",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
    "locations": [
     "Auckland, NZ"
@@ -9041,11 +8978,11 @@
    "category": "electrical",
    "score": 3,
    "reasons": [
-    "rf (+2)",
+    "radio frequency (+2)",
     "test engineer (+1)"
    ],
-   "first_seen": 1787002870,
-   "uid": "d6f2717615594027"
+   "first_seen": 1791497852,
+   "uid": "455e1d91e38848da"
   },
   {
    "source": "Simplify",

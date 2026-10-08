@@ -1,5 +1,5 @@
 {
- "count": 726,
+ "count": 727,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1188,6 +1188,12 @@
    "first_seen": 1788460724,
    "title": "Electrical Engineer Co-op",
    "url": "https://apply.workable.com/luxium-solutions-llc/j/D723A70F69/apply"
+  },
+  "455e1d91e38848da": {
+   "company": "Rocket Lab",
+   "first_seen": 1791497852,
+   "title": "Radio Frequency Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003"
   },
   "455e4e22bb9ad132": {
    "company": "Astranis",
@@ -4358,6 +4364,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791480300,
- "runs": 568
+ "last_run": 1791497852,
+ "runs": 569
 }
