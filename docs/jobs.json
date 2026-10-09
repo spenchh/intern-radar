@@ -1,6 +1,6 @@
 {
- "generated_at": 1791563268,
- "count": 480,
+ "generated_at": 1791580135,
+ "count": 479,
  "jobs": [
   {
    "source": "Simplify",
@@ -1557,6 +1557,27 @@
    ],
    "first_seen": 1791251675,
    "uid": "dc8733f903d1a078"
+  },
+  {
+   "source": "Simplify",
+   "company": "Lumentum",
+   "title": "Optical Verification Engineer Co-op Intern",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "verification (+2)"
+   ],
+   "first_seen": 1788861415,
+   "uid": "428bebd03ffd7111"
   },
   {
    "source": "Simplify",
@@ -6568,27 +6589,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Lumentum",
-   "title": "Optical Verification Engineer Intern Co-op",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261193",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1788825600,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788861415,
-   "uid": "428bebd03ffd7111"
-  },
-  {
-   "source": "Simplify",
    "company": "Allegion",
    "title": "Hardware Engineer Intern - Advanced Development",
    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1",
@@ -9354,27 +9354,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "813f291cf79a7109"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Astera Labs",
-   "title": "Analog Mixed-Signal Layout Intern",
-   "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4721054005",
-   "locations": [
-    "Singapore, Singapore"
-   ],
-   "posted_at": 1785839255,
-   "terms": [],
-   "sponsorship": "",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "mixed signal (+3)",
-    "layout (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "31d6e4d14a079d92"
   },
   {
    "source": "Simplify",
