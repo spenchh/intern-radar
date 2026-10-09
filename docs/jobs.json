@@ -1,6 +1,6 @@
 {
- "generated_at": 1791512682,
- "count": 478,
+ "generated_at": 1791538011,
+ "count": 477,
  "jobs": [
   {
    "source": "Simplify",
@@ -156,6 +156,29 @@
    ],
    "first_seen": 1791480300,
    "uid": "051fe6d40d04a1f8"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Verification/Design Engineering Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211",
+   "locations": [
+    "Roseville, CA"
+   ],
+   "posted_at": 1791417600,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1791538011,
+   "uid": "90ebad397c2fd877"
   },
   {
    "source": "Simplify",
@@ -512,29 +535,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "7f516df2f95f9ee3"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Post Silicon Validation Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153840059",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "posted_at": 1791324420,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "silicon (+3)",
-    "post silicon (+3)",
-    "validation (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "cc8248e542466f28"
   },
   {
    "source": "Simplify",
@@ -4796,27 +4796,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Electrical Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1789516800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1790710065,
-   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
