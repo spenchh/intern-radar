@@ -1,5 +1,5 @@
 {
- "count": 731,
+ "count": 734,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -252,6 +252,12 @@
    "first_seen": 1787355459,
    "title": "Artificial Intelligence Developer Intern - Aerospace/Aviation",
    "url": "https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"
+  },
+  "0c75f7691d8f2555": {
+   "company": "Applied Materials",
+   "first_seen": 1791563268,
+   "title": "Electrical Engineer Intern - Controls/PCB",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658"
   },
   "0c7e2e9b8984cd57": {
    "company": "IMEG",
@@ -3433,6 +3439,12 @@
    "title": "PCB Layout Engineer Intern (Fall 2026)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597409006"
   },
+  "ca6a2c17aa387151": {
+   "company": "Werfen",
+   "first_seen": 1791563268,
+   "title": "R&D Systems Hardware Engineering Co-op",
+   "url": "https://careers-werfen.icims.com/jobs/11153/job?mobile=true&needsRedirect=false"
+  },
   "cac5d837c51331b5": {
    "company": "BorgWarner",
    "first_seen": 1791251675,
@@ -3678,6 +3690,12 @@
    "first_seen": 1787002870,
    "title": "RF Test Engineer Intern",
    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003"
+  },
+  "d7765275b6b5cf85": {
+   "company": "Motorola",
+   "first_seen": 1791563268,
+   "title": "Design Validation Co-op",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631"
   },
   "d781240c49c45596": {
    "company": "Rocket Lab",
@@ -4388,6 +4406,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791538011,
- "runs": 571
+ "last_run": 1791563268,
+ "runs": 572
 }
