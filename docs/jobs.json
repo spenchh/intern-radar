@@ -1,7 +1,74 @@
 {
- "generated_at": 1791497852,
- "count": 472,
+ "generated_at": 1791512682,
+ "count": 478,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Undergrad Validation/Debug Co-op",
+   "url": "https://careers.amd.com/jobs/90719?icims=1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791508302,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1791512682,
+   "uid": "43af7a0dd205a240"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Analog IC Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791508035,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "ic design (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791512682,
+   "uid": "be9fc1c20000429a"
+  },
+  {
+   "source": "Simplify",
+   "company": "SharkNinja",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006",
+   "locations": [
+    "Needham, MA"
+   ],
+   "posted_at": 1791497519,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1791512682,
+   "uid": "5e3229340cd67d49"
+  },
   {
    "source": "Simplify",
    "company": "Rugged Robotics",
@@ -4753,6 +4820,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5298,6 +5386,27 @@
    ],
    "first_seen": 1789411706,
    "uid": "d5b70e343231e977"
+  },
+  {
+   "source": "Simplify",
+   "company": "Acron Aviation",
+   "title": "Electrical Engineer Intern - Multiple Teams",
+   "url": "https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "posted_at": 1789348713,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791124667,
+   "uid": "b054df6eac7e2ab2"
   },
   {
    "source": "Simplify",
@@ -7286,6 +7395,27 @@
    ],
    "first_seen": 1791124667,
    "uid": "edddd3b511ec2095"
+  },
+  {
+   "source": "Simplify",
+   "company": "Booz Allen",
+   "title": "Electronic Warfare FPGA Engineer Intern",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1",
+   "locations": [
+    "Beavercreek, OH"
+   ],
+   "posted_at": 1788393600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1788501265,
+   "uid": "663689618ab79da5"
   },
   {
    "source": "Simplify",

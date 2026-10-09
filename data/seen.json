@@ -1,5 +1,5 @@
 {
- "count": 727,
+ "count": 730,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1171,6 +1171,12 @@
    "title": "Avionics Engineering Intern",
    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003"
   },
+  "43af7a0dd205a240": {
+   "company": "AMD",
+   "first_seen": 1791512682,
+   "title": "Undergrad Validation/Debug Co-op",
+   "url": "https://careers.amd.com/jobs/90719?icims=1"
+  },
   "43c38f57030fa88c": {
    "company": "NVIDIA",
    "first_seen": 1789519147,
@@ -1620,6 +1626,12 @@
    "first_seen": 1790148167,
    "title": "Avionics Intern (Winter 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006"
+  },
+  "5e3229340cd67d49": {
+   "company": "SharkNinja",
+   "first_seen": 1791512682,
+   "title": "Electrical Engineering Co-op",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006"
   },
   "5e3a61453ebcea3a": {
    "company": "L3Harris Technologies",
@@ -3199,6 +3211,12 @@
    "title": "Electrical Engineer Co-op",
    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/KNV-I/Electrical-Engineering-Co-op---Knoxville--TN_R-30765"
   },
+  "be9fc1c20000429a": {
+   "company": "Texas Instruments",
+   "first_seen": 1791512682,
+   "title": "Analog IC Design Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378"
+  },
   "bf12a1cdfd5cda22": {
    "company": "Formlabs",
    "first_seen": 1788310887,
@@ -4364,6 +4382,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791497852,
- "runs": 569
+ "last_run": 1791512682,
+ "runs": 570
 }
