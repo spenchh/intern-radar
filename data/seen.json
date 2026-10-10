@@ -1,5 +1,5 @@
 {
- "count": 740,
+ "count": 741,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2263,6 +2263,12 @@
    "title": "Analog Design Intern - MS",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1"
   },
+  "841c20d43a9ad2cc": {
+   "company": "Meter",
+   "first_seen": 1791614515,
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true"
+  },
   "848e269d81c89829": {
    "company": "NVIDIA",
    "first_seen": 1787135234,
@@ -4442,6 +4448,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791593436,
- "runs": 574
+ "last_run": 1791614515,
+ "runs": 575
 }

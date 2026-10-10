@@ -1,7 +1,29 @@
 {
- "generated_at": 1791593436,
- "count": 484,
+ "generated_at": 1791614515,
+ "count": 482,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Meter",
+   "title": "Hardware Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1791594973,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791614515,
+   "uid": "841c20d43a9ad2cc"
+  },
   {
    "source": "Simplify",
    "company": "AMD",
@@ -418,28 +440,6 @@
    ],
    "first_seen": 1791416435,
    "uid": "71324b1a0699b672"
-  },
-  {
-   "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Analog Design Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154185788",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "posted_at": 1791410820,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "analog design (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1791416435,
-   "uid": "240a5ebb2be1c590"
   },
   {
    "source": "Simplify",
@@ -2078,29 +2078,6 @@
    ],
    "first_seen": 1790992593,
    "uid": "88802061d3e50c08"
-  },
-  {
-   "source": "Simplify",
-   "company": "Cadence Design Systems",
-   "title": "Digital ASIC Design / Verification Engineer Intern/Co-op",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/TORONTO-02/Digital-ASIC-Design---Verification-Engineering-Intern-Co-Op_R56320",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790899200,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "asic (+3)",
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1790992593,
-   "uid": "c45080d3a8e94ed7"
   },
   {
    "source": "Simplify",
@@ -4969,27 +4946,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
