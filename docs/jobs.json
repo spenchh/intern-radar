@@ -1,6 +1,6 @@
 {
- "generated_at": 1791614515,
- "count": 482,
+ "generated_at": 1791637469,
+ "count": 480,
  "jobs": [
   {
    "source": "Simplify",
@@ -7813,30 +7813,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Verification Engineer Intern/Co-op",
-   "url": "https://careers.amd.com/jobs/90379?icims=1",
-   "locations": [
-    "Markham, ON, Canada"
-   ],
-   "posted_at": 1788256551,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "design verification (+3)",
-    "hardware design (+3)",
-    "hardware (+2)",
-    "verification (+2)"
-   ],
-   "first_seen": 1788273115,
-   "uid": "dddb14976b69f9d4"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Hardware Design Engineer Intern/Co-op - Long Term",
    "url": "https://careers.amd.com/jobs/90367?icims=1",
    "locations": [
@@ -8437,28 +8413,6 @@
    ],
    "first_seen": 1788158465,
    "uid": "236a282da964e7ff"
-  },
-  {
-   "source": "Simplify",
-   "company": "Samsara",
-   "title": "Electrical Engineer Co-op",
-   "url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
-   "locations": [
-    "SF"
-   ],
-   "posted_at": 1788152383,
-   "terms": [
-    "Winter 2027",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788434053,
-   "uid": "a5b570d6609431a3"
   },
   {
    "source": "Simplify",
