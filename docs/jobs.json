@@ -1,7 +1,73 @@
 {
- "generated_at": 1791580135,
- "count": 479,
+ "generated_at": 1791593436,
+ "count": 484,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+   "url": "https://careers.amd.com/jobs/91341?icims=1",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "posted_at": 1791584191,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "dd9466ab86742da0"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "ASIC Engineer Intern - Architecture",
+   "url": "https://www.metacareers.com/jobs/1096213456288397",
+   "locations": [
+    "Austin, TX",
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791584161,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "646f00c9d7f92ea2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Analog Mixed Signal Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739767005",
+   "locations": [
+    "San Jose, CA",
+    "Irvine, CA"
+   ],
+   "posted_at": 1791583855,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "945ce6f1841feaa5"
+  },
   {
    "source": "Simplify",
    "company": "Werfen",
@@ -23,29 +89,6 @@
    ],
    "first_seen": 1791563268,
    "uid": "ca6a2c17aa387151"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "Undergrad Validation/Debug Co-op",
-   "url": "https://careers.amd.com/jobs/90719?icims=1",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1791508302,
-   "terms": [
-    "Winter 2027",
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1791512682,
-   "uid": "43af7a0dd205a240"
   },
   {
    "source": "Simplify",
@@ -111,6 +154,73 @@
    ],
    "first_seen": 1791563268,
    "uid": "d7765275b6b5cf85"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791504000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "f327b603ffe37fa9"
+  },
+  {
+   "source": "Simplify",
+   "company": "Applied Materials",
+   "title": "Electrical Engineer Intern",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Electrical-Engineer---BS-MS-Degree---Santa-Clara-_R2629428",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791504000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "b28191660efca6c2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "AI-Driven Physical Design Engineering PhD Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Fort Collins, CO",
+    "Worcester, MA"
+   ],
+   "posted_at": 1791504000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "physical design (+3)"
+   ],
+   "first_seen": 1791593436,
+   "uid": "cc661b9379a03e6f"
   },
   {
    "source": "Simplify",
