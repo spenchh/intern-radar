@@ -1,6 +1,6 @@
 {
- "generated_at": 1791740680,
- "count": 477,
+ "generated_at": 1791752677,
+ "count": 475,
  "jobs": [
   {
    "source": "Simplify",
@@ -4275,29 +4275,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Etched",
-   "title": "RTL Intern",
-   "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application?embed=true",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1789770231,
-   "terms": [
-    "Fall 2026",
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "rtl (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "cd235346b8f0bf28"
-  },
-  {
-   "source": "Simplify",
    "company": "General Dynamics Mission Systems",
    "title": "Engineering Intern - FPGA",
    "url": "https://careers-gdms.icims.com/jobs/75044/job?mobile=true&needsRedirect=false",
@@ -5860,28 +5837,6 @@
    ],
    "first_seen": 1789081844,
    "uid": "b4ef288cd044e883"
-  },
-  {
-   "source": "Simplify",
-   "company": "Impulse Space",
-   "title": "RF Test Engineer Intern - Summer 2027",
-   "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq",
-   "locations": [
-    "Redondo Beach, CA"
-   ],
-   "posted_at": 1789079576,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "rf (+2)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1789081844,
-   "uid": "27b02f952d2ecc34"
   },
   {
    "source": "Simplify",
