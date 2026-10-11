@@ -1,5 +1,5 @@
 {
- "generated_at": 1791698207,
+ "generated_at": 1791721328,
  "count": 481,
  "jobs": [
   {
@@ -1165,28 +1165,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "42bb339118b35fb8"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "PCIe Design Verification Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "db66dd8b81961f19"
   },
   {
    "source": "Simplify",
@@ -9265,6 +9243,27 @@
    ],
    "first_seen": 1788460724,
    "uid": "e6f8c7b2b8668d28"
+  },
+  {
+   "source": "Simplify",
+   "company": "Varda Space",
+   "title": "Avionics Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "posted_at": 1786140460,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "avionics (+2)"
+   ],
+   "first_seen": 1791721328,
+   "uid": "7cd90dd3357655b4"
   },
   {
    "source": "Simplify",
