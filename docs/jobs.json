@@ -1,6 +1,6 @@
 {
- "generated_at": 1791721328,
- "count": 481,
+ "generated_at": 1791740680,
+ "count": 477,
  "jobs": [
   {
    "source": "Simplify",
@@ -599,27 +599,6 @@
    ],
    "first_seen": 1791416435,
    "uid": "170099284c14ad32"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Motors",
-   "title": "AV Sensor Design, Release and Integration Intern",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
-   "locations": [
-    "Warren, MI"
-   ],
-   "posted_at": 1791331200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "sensor (+2)"
-   ],
-   "first_seen": 1791416435,
-   "uid": "04c9031c539ee8f7"
   },
   {
    "source": "Simplify",
@@ -1687,28 +1666,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "1eeb73b7b71e8230"
-  },
-  {
-   "source": "Simplify",
-   "company": "General Motors",
-   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
-   "locations": [
-    "Milford, MI",
-    "Warren, MI"
-   ],
-   "posted_at": 1791158400,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "628c372ad3a6e3a8"
   },
   {
    "source": "Simplify",
@@ -4170,31 +4127,6 @@
   },
   {
    "source": "Simplify",
-   "company": "General Motors",
-   "title": "Embedded and Systems Engineering Intern - Digital Product",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-   "locations": [
-    "Austin, TX",
-    "Milford, MI",
-    "Mountain View, CA",
-    "Warren, MI"
-   ],
-   "posted_at": 1789948800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "systems engineering (+1)"
-   ],
-   "first_seen": 1790035604,
-   "uid": "3292b8525b441251"
-  },
-  {
-   "source": "Simplify",
    "company": "Ciena",
    "title": "Client Co-op - ASIC IP",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672",
@@ -4343,6 +4275,29 @@
   },
   {
    "source": "Simplify",
+   "company": "Etched",
+   "title": "RTL Intern",
+   "url": "https://jobs.ashbyhq.com/Etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application?embed=true",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1789770231,
+   "terms": [
+    "Fall 2026",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "rtl (+3)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "cd235346b8f0bf28"
+  },
+  {
+   "source": "Simplify",
    "company": "General Dynamics Mission Systems",
    "title": "Engineering Intern - FPGA",
    "url": "https://careers-gdms.icims.com/jobs/75044/job?mobile=true&needsRedirect=false",
@@ -4407,29 +4362,6 @@
    ],
    "first_seen": 1789787817,
    "uid": "c363f3c3a375b334"
-  },
-  {
-   "source": "Ashby",
-   "company": "Etched",
-   "title": "RTL Intern",
-   "url": "https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e",
-   "locations": [
-    "San Jose"
-   ],
-   "posted_at": 1789766923,
-   "terms": [
-    "Fall 2026",
-    "Spring 2027",
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "rtl (+3)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "cd235346b8f0bf28"
   },
   {
    "source": "Greenhouse",
@@ -6499,30 +6431,6 @@
    ],
    "first_seen": 1788967121,
    "uid": "88cc1959be3965a1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
-   "locations": [
-    "Burlington, VT"
-   ],
-   "posted_at": 1788912000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "silicon (+3)",
-    "post silicon (+3)",
-    "hardware (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1788967121,
-   "uid": "8d8e1db57ebde45e"
   },
   {
    "source": "Simplify",
