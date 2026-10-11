@@ -1,6 +1,6 @@
 {
- "generated_at": 1791666715,
- "count": 480,
+ "generated_at": 1791677689,
+ "count": 481,
  "jobs": [
   {
    "source": "Simplify",
@@ -6521,6 +6521,30 @@
    ],
    "first_seen": 1788967121,
    "uid": "88cc1959be3965a1"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1",
+   "locations": [
+    "Burlington, VT"
+   ],
+   "posted_at": 1788912000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 10,
+   "reasons": [
+    "silicon (+3)",
+    "post silicon (+3)",
+    "hardware (+2)",
+    "validation (+2)"
+   ],
+   "first_seen": 1788967121,
+   "uid": "8d8e1db57ebde45e"
   },
   {
    "source": "Simplify",
