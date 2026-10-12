@@ -1,6 +1,6 @@
 {
- "generated_at": 1791786797,
- "count": 478,
+ "generated_at": 1791821312,
+ "count": 475,
  "jobs": [
   {
    "source": "Simplify",
@@ -440,27 +440,6 @@
    ],
    "first_seen": 1791416435,
    "uid": "71324b1a0699b672"
-  },
-  {
-   "source": "Simplify",
-   "company": "S&C Electric Company",
-   "title": "Electronics Engineer Intern",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107358",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1791382888,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1791400804,
-   "uid": "adbb60182942ce81"
   },
   {
    "source": "Simplify",
@@ -1187,27 +1166,6 @@
    ],
    "first_seen": 1791331311,
    "uid": "a7db8b86648b55e2"
-  },
-  {
-   "source": "Simplify",
-   "company": "KLA",
-   "title": "Electrical Design Engineer Intern",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Electrical-Design-Engineering-Intern_2641708",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "posted_at": 1791244800,
-   "terms": [
-    "Summer 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "d097546d2a990be8"
   },
   {
    "source": "Simplify",
@@ -2122,6 +2080,28 @@
    ],
    "first_seen": 1790903858,
    "uid": "05a2f1caf8731ad7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Space Dynamics Laboratory",
+   "title": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+   "url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
+   "locations": [
+    "North Logan, UT"
+   ],
+   "posted_at": 1790864633,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "fpga (+3)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790875351,
+   "uid": "a666b7a6a31ecb12"
   },
   {
    "source": "Simplify",
@@ -4904,6 +4884,27 @@
   },
   {
    "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
+  },
+  {
+   "source": "Simplify",
    "company": "Keysight Technologies",
    "title": "ASIC Design-for-Test Engineer Intern - DFT",
    "url": "https://jobs.keysight.com/jobs/54276?icims=1",
@@ -5214,28 +5215,6 @@
   {
    "source": "Simplify",
    "company": "Google",
-   "title": "Silicon Engineering Intern - BS/MS - Multiple Teams",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/88570332985598662",
-   "locations": [
-    "Madison, WI",
-    "Sunnyvale, CA"
-   ],
-   "posted_at": 1789417431,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "silicon (+3)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "7535d03a08ddda17"
-  },
-  {
-   "source": "Simplify",
-   "company": "Google",
    "title": "Hardware Engineer Intern - PhD",
    "url": "https://www.google.com/about/careers/applications/jobs/results/97352132356645574",
    "locations": [
@@ -5284,58 +5263,6 @@
    ],
    "first_seen": 1789424135,
    "uid": "46cd886019cb4f1c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Google",
-   "title": "Hardware Engineer Intern",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/122803627516404422",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI",
-    "Seattle, WA",
-    "Washington, DC",
-    "SF",
-    "Austin, TX",
-    "LA",
-    "San Jose, CA",
-    "Irvine, CA",
-    "South SF",
-    "Redwood City, CA",
-    "Raleigh, NC",
-    "San Bruno, CA",
-    "Redmond, WA",
-    "Durham, NC",
-    "Ann Arbor, MI",
-    "Santa Cruz, CA",
-    "Chicago, IL",
-    "Goleta, CA",
-    "Pittsburgh, PA",
-    "Kirkland, WA",
-    "Reston, VA",
-    "NYC",
-    "Bellevue, WA",
-    "Sunnyvale, CA",
-    "Mountain View, CA",
-    "Portland, OR",
-    "Boulder, CO",
-    "Atlanta, GA",
-    "San Diego, CA"
-   ],
-   "posted_at": 1789417416,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1789424135,
-   "uid": "32cc818e9e42f4e2"
   },
   {
    "source": "Simplify",
@@ -8978,29 +8905,6 @@
    ],
    "first_seen": 1787135234,
    "uid": "a28cb90d4c92d70a"
-  },
-  {
-   "source": "Simplify",
-   "company": "NVIDIA",
-   "title": "Hardware Physical Design / VLSI Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1787097600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "vlsi (+3)",
-    "physical design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1787135234,
-   "uid": "411afaf73cdb9e99"
   },
   {
    "source": "Simplify",
