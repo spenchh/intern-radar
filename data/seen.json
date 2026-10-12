@@ -1,5 +1,5 @@
 {
- "count": 742,
+ "count": 743,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -594,6 +594,12 @@
    "first_seen": 1788415817,
    "title": "Electrical Engineer Intern",
    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740"
+  },
+  "1fb8ff20b14abc7d": {
+   "company": "Nokia",
+   "first_seen": 1791845943,
+   "title": "Hardware Development Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268"
   },
   "1ff0bae49a9a3e22": {
    "company": "Danaher",
@@ -4454,6 +4460,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1791821312,
- "runs": 586
+ "last_run": 1791845943,
+ "runs": 587
 }

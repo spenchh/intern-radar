@@ -1,7 +1,30 @@
 {
- "generated_at": 1791821312,
+ "generated_at": 1791845943,
  "count": 475,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Nokia",
+   "title": "Hardware Development Co-op",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268",
+   "locations": [
+    "New Providence, NJ"
+   ],
+   "posted_at": 1791842980,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791845943,
+   "uid": "1fb8ff20b14abc7d"
+  },
   {
    "source": "Simplify",
    "company": "Meter",
@@ -155,27 +178,6 @@
    ],
    "first_seen": 1791563268,
    "uid": "0c75f7691d8f2555"
-  },
-  {
-   "source": "Simplify",
-   "company": "Motorola",
-   "title": "Design Validation Co-op",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69631",
-   "locations": [
-    "Vancouver, BC, Canada"
-   ],
-   "posted_at": 1791504000,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1791563268,
-   "uid": "d7765275b6b5cf85"
   },
   {
    "source": "Simplify",
@@ -1144,6 +1146,28 @@
    ],
    "first_seen": 1791331311,
    "uid": "42bb339118b35fb8"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "PCIe Design Verification Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791244800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791331311,
+   "uid": "db66dd8b81961f19"
   },
   {
    "source": "Simplify",
@@ -2583,6 +2607,27 @@
   },
   {
    "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "PhD Research Intern - AI Accelerator Design and VLSI",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1790640000,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "vlsi (+3)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "12eb237e749ff30c"
+  },
+  {
+   "source": "Simplify",
    "company": "Leidos",
    "title": "Electrical Hardware Design Engineer Intern",
    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
@@ -3056,6 +3101,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Graphcore",
+   "title": "Hardware Platform Development Intern",
+   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1790213882,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1790213076,
+   "uid": "b10ba8367eeeeaa6"
+  },
+  {
+   "source": "Simplify",
    "company": "Tesla",
    "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/284489",
@@ -3447,27 +3513,6 @@
    ],
    "first_seen": 1790292486,
    "uid": "9e860a8614a0d811"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Graphcore",
-   "title": "Hardware Platform Development Intern",
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
-   "locations": [
-    "Austin, Texas, United States"
-   ],
-   "posted_at": 1790207185,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1790213076,
-   "uid": "b10ba8367eeeeaa6"
   },
   {
    "source": "Greenhouse",
@@ -4150,31 +4195,6 @@
   },
   {
    "source": "Simplify",
-   "company": "General Motors",
-   "title": "Embedded and Systems Engineering Intern - Digital Product",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
-   "locations": [
-    "Austin, TX",
-    "Milford, MI",
-    "Mountain View, CA",
-    "Warren, MI"
-   ],
-   "posted_at": 1789948800,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "systems engineering (+1)"
-   ],
-   "first_seen": 1790035604,
-   "uid": "3292b8525b441251"
-  },
-  {
-   "source": "Simplify",
    "company": "Ciena",
    "title": "Client Co-op - ASIC IP",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672",
@@ -4729,6 +4749,27 @@
   },
   {
    "source": "Simplify",
+   "company": "NVIDIA",
+   "title": "Research Intern - Hardware and Systems Architecture",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "7cb77806129e2d8e"
+  },
+  {
+   "source": "Simplify",
    "company": "Danaher",
    "title": "Hardware Engineer Intern",
    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Vista-California-United-States/Hardware-Engineering-Intern_R1315720",
@@ -4881,27 +4922,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
@@ -6685,27 +6705,6 @@
    ],
    "first_seen": 1791454351,
    "uid": "476efac684f17295"
-  },
-  {
-   "source": "Simplify",
-   "company": "Micron Technology",
-   "title": "DRAM Test Structure Design and Layout Engineering Intern",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341",
-   "locations": [
-    "Boise, ID"
-   ],
-   "posted_at": 1788652800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "layout (+2)"
-   ],
-   "first_seen": 1788757362,
-   "uid": "dac2400ecc5ba3a5"
   },
   {
    "source": "Simplify",
