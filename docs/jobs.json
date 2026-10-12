@@ -1,6 +1,6 @@
 {
- "generated_at": 1791752677,
- "count": 475,
+ "generated_at": 1791765130,
+ "count": 479,
  "jobs": [
   {
    "source": "Simplify",
@@ -599,6 +599,27 @@
    ],
    "first_seen": 1791416435,
    "uid": "170099284c14ad32"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "AV Sensor Design, Release and Integration Intern",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
+   "locations": [
+    "Warren, MI"
+   ],
+   "posted_at": 1791331200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "sensor (+2)"
+   ],
+   "first_seen": 1791416435,
+   "uid": "04c9031c539ee8f7"
   },
   {
    "source": "Simplify",
@@ -1666,6 +1687,28 @@
    ],
    "first_seen": 1791251675,
    "uid": "1eeb73b7b71e8230"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+   "locations": [
+    "Milford, MI",
+    "Warren, MI"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "628c372ad3a6e3a8"
   },
   {
    "source": "Simplify",
@@ -4127,6 +4170,31 @@
   },
   {
    "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
+  },
+  {
+   "source": "Simplify",
    "company": "Ciena",
    "title": "Client Co-op - ASIC IP",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672",
@@ -4833,6 +4901,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "bioM\u00e9rieux",
+   "title": "Hardware Co-op",
+   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "posted_at": 1789510912,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1789519147,
+   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
