@@ -1,7 +1,138 @@
 {
- "generated_at": 1791914733,
- "count": 485,
+ "generated_at": 1791931456,
+ "count": 491,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Amazon",
+   "title": "Hardware Development Engineer Intern Co-op - Robotics",
+   "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+   "locations": [
+    "North Reading, MA",
+    "Westborough, MA"
+   ],
+   "posted_at": 1791929907,
+   "terms": [
+    "Winter 2027",
+    "Spring 2027",
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "robotics (+1)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "b36e45947c3f0ed3"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rivian",
+   "title": "Electronics Design Engineering Intern - Low Voltage Electronics",
+   "url": "https://careers.rivian.com/jobs/34370?icims=1",
+   "locations": [
+    "Champaign, IL"
+   ],
+   "posted_at": 1791929897,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "0ff546218ff174b7"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Hardware Design Engineer Intern",
+   "url": "https://jobs.keysight.com/jobs/54389?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1791929517,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "eba118f185ec641e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "R&D Hardware Engineer Intern",
+   "url": "https://jobs.keysight.com/jobs/54670?icims=1",
+   "locations": [
+    "Santa Rosa, CA"
+   ],
+   "posted_at": 1791929513,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "3a78e92c11478e15"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Digital RTL Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791929268,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "rtl (+3)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "b125fb90147951a0"
+  },
+  {
+   "source": "Greenhouse",
+   "company": "Muon Space",
+   "title": "Spacecraft Test Engineering Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5256288007",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791914077,
+   "terms": [],
+   "sponsorship": "",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "spacecraft (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "5d49d05c866c8bf2"
+  },
   {
    "source": "Simplify",
    "company": "Astera Labs",
@@ -47,6 +178,115 @@
    ],
    "first_seen": 1791862137,
    "uid": "aa5d226cb07536d5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Northrop Grumman",
+   "title": "Computer Engineer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Computer-Engineer-Intern---Manhattan-Beach-CA_R10255835",
+   "locations": [
+    "Manhattan Beach, CA"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineer (+3)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "dc8cacaf56caf87f"
+  },
+  {
+   "source": "Simplify",
+   "company": "KLA",
+   "title": "Product Development Intern - Electron Beam Instrumentation",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "instrumentation (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "5be1eea0988ae9dc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Design Verification Masters Level Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "vlsi (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "6f5ea0bf77ec293b"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola",
+   "title": "Electrical Engineer / PCB Designer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679",
+   "locations": [
+    "Plantation, FL"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "pcb (+2)"
+   ],
+   "first_seen": 1791931456,
+   "uid": "362975c5f2ce4fd7"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Silicon Photonics Advanced Packaging Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2604269",
+   "locations": [
+    "Malta, NY"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "silicon (+3)",
+    "photonics (+2)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "6afca8f55a376899"
   },
   {
    "source": "Simplify",
@@ -2649,28 +2889,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Leidos",
-   "title": "Embedded Design Engineer Intern - Firmware",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1790726400,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1790812359,
-   "uid": "ea6c23f638957448"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "AI Hardware Design Verification Engineer Intern - AI Hardware - Tesla AI",
    "url": "https://www.tesla.com/careers/search/job/285088",
@@ -2848,29 +3066,6 @@
    ],
    "first_seen": 1790723236,
    "uid": "12eb237e749ff30c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Leidos",
-   "title": "Electrical Hardware Design Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193413",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "posted_at": 1790640000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 7,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1790723236,
-   "uid": "4373877c5774b93c"
   },
   {
    "source": "Simplify",
@@ -4830,27 +5025,6 @@
   },
   {
    "source": "Simplify",
-   "company": "REV Robotics",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/43f472ef-6db5-418f-b2b2-72f21ebd7744",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "posted_at": 1789683495,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "fb545d13a7d67ac1"
-  },
-  {
-   "source": "Simplify",
    "company": "Rivian",
    "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
    "url": "https://careers.rivian.com/jobs/33725?icims=1",
@@ -6264,28 +6438,6 @@
    ],
    "first_seen": 1791124667,
    "uid": "f2105e5502858ca1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance",
-   "url": "https://careers.jhuapl.edu/jobs/59764?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1789003192,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 5,
-   "reasons": [
-    "computer engineer (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1789021328,
-   "uid": "0a8547f49b7cc246"
   },
   {
    "source": "Simplify",
@@ -9175,28 +9327,6 @@
    ],
    "first_seen": 1788532392,
    "uid": "88921a6e2b89a29c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Zipline",
-   "title": "Long Range Platform Embedded Firmware Intern - Summer 2027",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
-   "locations": [
-    "South SF"
-   ],
-   "posted_at": 1787092359,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "embedded (+1)",
-    "firmware (+1)"
-   ],
-   "first_seen": 1787095247,
-   "uid": "2b52750fe7740e03"
   },
   {
    "source": "Simplify",
