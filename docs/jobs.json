@@ -1,6 +1,6 @@
 {
- "generated_at": 1791889113,
- "count": 487,
+ "generated_at": 1791914733,
+ "count": 485,
  "jobs": [
   {
    "source": "Simplify",
@@ -1871,27 +1871,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "dc8733f903d1a078"
-  },
-  {
-   "source": "Simplify",
-   "company": "Lumentum",
-   "title": "Optical Verification Engineer Co-op Intern",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_20261208",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1791158400,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "verification (+2)"
-   ],
-   "first_seen": 1788861415,
-   "uid": "428bebd03ffd7111"
   },
   {
    "source": "Simplify",
@@ -4083,28 +4062,6 @@
    ],
    "first_seen": 1790205059,
    "uid": "4bf75d6e7babf842"
-  },
-  {
-   "source": "Simplify",
-   "company": "Saab",
-   "title": "Electrical Engineering Co-op",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
-   "locations": [
-    "East Syracuse, NY"
-   ],
-   "posted_at": 1790121600,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1790205059,
-   "uid": "79fdc007ad63aa77"
   },
   {
    "source": "Simplify",
