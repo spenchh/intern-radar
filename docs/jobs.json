@@ -1,7 +1,96 @@
 {
- "generated_at": 1791845943,
- "count": 475,
+ "generated_at": 1791862137,
+ "count": 483,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Analog/Mixed Signal System Test Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1791853650,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "mixed signal (+3)",
+    "analog (+2)",
+    "test engineer (+1)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "b89e5c16b3245563"
+  },
+  {
+   "source": "Simplify",
+   "company": "Astera Labs",
+   "title": "Analog/Mixed-Signal IC Design Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739756005",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1791853650,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "ic design (+3)",
+    "mixed signal (+3)",
+    "analog (+2)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "aa5d226cb07536d5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Keysight Technologies",
+   "title": "Research and Development Hardware Engineer Intern",
+   "url": "https://jobs.keysight.com/jobs/54345?icims=1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1791843155,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "69c6bbd0f177b7c2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Signal Integrity Intern",
+   "url": "https://www.metacareers.com/jobs/1134883748976209",
+   "locations": [
+    "Menlo Park, CA"
+   ],
+   "posted_at": 1791843036,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "46b486993f58faec"
+  },
   {
    "source": "Simplify",
    "company": "Nokia",
@@ -27,6 +116,71 @@
   },
   {
    "source": "Simplify",
+   "company": "Micron Technology",
+   "title": "SSD Hardware Engineering Intern",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
+   "locations": [
+    "Longmont, CO"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "d47d40569dc70cec"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283-1",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790710065,
+   "uid": "2ca52d32fd83a407"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Electrical-Engineer-Co-Op--Summer-Fall-2027-_01873470",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790875351,
+   "uid": "1cd04315ae696773"
+  },
+  {
+   "source": "Simplify",
    "company": "Meter",
    "title": "Hardware Engineer Intern",
    "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
@@ -46,27 +200,6 @@
    ],
    "first_seen": 1791614515,
    "uid": "841c20d43a9ad2cc"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
-   "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
-   "url": "https://careers.amd.com/jobs/91341?icims=1",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "posted_at": 1791584191,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "asic (+3)"
-   ],
-   "first_seen": 1791593436,
-   "uid": "dd9466ab86742da0"
   },
   {
    "source": "Simplify",
@@ -4192,6 +4325,31 @@
    ],
    "first_seen": 1790035604,
    "uid": "5482d3c611e00d4b"
+  },
+  {
+   "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
   },
   {
    "source": "Simplify",
@@ -9894,6 +10052,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Teledyne",
+   "title": "Computer Engineer Intern",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119",
+   "locations": [
+    "Lincoln, NE"
+   ],
+   "posted_at": 1781951370,
+   "terms": [
+    "Spring 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "computer engineer (+3)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "cbc0aa48b2a8de3e"
+  },
+  {
+   "source": "Simplify",
    "company": "Nidec",
    "title": "Aerospace Intern New Grad",
    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414",
@@ -10313,7 +10492,7 @@
   {
    "source": "Lever",
    "company": "Shield AI",
-   "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
+   "title": "Electrical Engineering Intern - X-BAT Avionics (R4475)",
    "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
    "locations": [
     "Dallas, Texas"
@@ -10321,14 +10500,15 @@
    "posted_at": 1776259349,
    "terms": [],
    "sponsorship": "",
-   "category": "electrical",
-   "score": 4,
+   "category": "aerospace",
+   "score": 6,
    "reasons": [
     "electrical (+2)",
-    "electrical engineering (+2)"
+    "electrical engineering (+2)",
+    "avionics (+2)"
    ],
-   "first_seen": 1786988749,
-   "uid": "c02b946e628d6829"
+   "first_seen": 1791862137,
+   "uid": "9d966f581987ce70"
   },
   {
    "source": "Ashby",
