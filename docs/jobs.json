@@ -1,6 +1,6 @@
 {
- "generated_at": 1791862137,
- "count": 483,
+ "generated_at": 1791889113,
+ "count": 487,
  "jobs": [
   {
    "source": "Simplify",
@@ -178,6 +178,117 @@
    ],
    "first_seen": 1790875351,
    "uid": "1cd04315ae696773"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1791889113,
+   "uid": "6fc75f05750acacb"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Logic Design Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Logic-Design-Intern_1213411",
+   "locations": [
+    "Chippewa Falls, WI"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "vlsi (+3)",
+    "logic design (+3)"
+   ],
+   "first_seen": 1791889113,
+   "uid": "1f3f7fe042af4ad6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Design Verification Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "vlsi (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1791889113,
+   "uid": "e94eb140e223bc77"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "ASIC Verification Engineer Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219",
+   "locations": [
+    "Roseville, CA"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "Summer 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 7,
+   "reasons": [
+    "asic (+3)",
+    "verification (+2)",
+    "asic verification (+2)"
+   ],
+   "first_seen": 1791889113,
+   "uid": "c3ce10c792e79d0e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Logic Design Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Logic-Design-Intern_1213412",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "posted_at": 1791763200,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 6,
+   "reasons": [
+    "vlsi (+3)",
+    "logic design (+3)"
+   ],
+   "first_seen": 1791889113,
+   "uid": "2632858240949ea5"
   },
   {
    "source": "Simplify",
@@ -3234,27 +3345,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Graphcore",
-   "title": "Hardware Platform Development Intern",
-   "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1790213882,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1790213076,
-   "uid": "b10ba8367eeeeaa6"
-  },
-  {
-   "source": "Simplify",
    "company": "Tesla",
    "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
    "url": "https://www.tesla.com/careers/search/job/284489",
@@ -5991,8 +6081,8 @@
   {
    "source": "Simplify",
    "company": "Bedrock Robotics",
-   "title": "Validation & Verification Test Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true",
+   "title": "Sensor Systems Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/d7da851b-55c2-45d4-bf8b-aa879282f25c/application?embed=true",
    "locations": [
     "SF"
    ],
@@ -6002,14 +6092,12 @@
    ],
    "sponsorship": "Other",
    "category": "other",
-   "score": 5,
+   "score": 2,
    "reasons": [
-    "verification (+2)",
-    "validation (+2)",
-    "test engineer (+1)"
+    "sensor (+2)"
    ],
-   "first_seen": 1789081844,
-   "uid": "b4ef288cd044e883"
+   "first_seen": 1791889113,
+   "uid": "1d22251b12564989"
   },
   {
    "source": "Simplify",
@@ -9066,6 +9154,29 @@
   {
    "source": "Simplify",
    "company": "NVIDIA",
+   "title": "Hardware Physical Design / VLSI Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1787097600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 8,
+   "reasons": [
+    "vlsi (+3)",
+    "physical design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1787135234,
+   "uid": "411afaf73cdb9e99"
+  },
+  {
+   "source": "Simplify",
+   "company": "NVIDIA",
    "title": "Hardware Design for Test Intern - DFT",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
    "locations": [
@@ -9365,30 +9476,6 @@
    ],
    "first_seen": 1788310887,
    "uid": "183e08eb24ff1004"
-  },
-  {
-   "source": "Simplify",
-   "company": "Contoro",
-   "title": "Robotics Test & Validation Intern",
-   "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "posted_at": 1785882020,
-   "terms": [
-    "Spring 2026",
-    "Summer 2026",
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "validation (+2)",
-    "robotics (+1)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "813f291cf79a7109"
   },
   {
    "source": "Simplify",
