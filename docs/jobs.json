@@ -1,7 +1,139 @@
 {
- "generated_at": 1792011233,
- "count": 487,
+ "generated_at": 1792021331,
+ "count": 497,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Hardware Engineer Intern - Camera & Sensing Architecture",
+   "url": "https://www.metacareers.com/jobs/29216393121298039",
+   "locations": [
+    "Redmond, WA",
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1792017027,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "7ad0ac465e0cb864"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
+   "url": "https://www.metacareers.com/jobs/1079763448023260",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1792017027,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 11,
+   "reasons": [
+    "asic (+3)",
+    "silicon (+3)",
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "7e1026b137900b69"
+  },
+  {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "ASIC Design Engineer Intern",
+   "url": "https://www.metacareers.com/jobs/1406976394946562",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "posted_at": 1792017026,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "asic (+3)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "768115daa94de7c7"
+  },
+  {
+   "source": "Simplify",
+   "company": "onsemi",
+   "title": "Semiconductor AI Specialist Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918",
+   "locations": [
+    "Gresham, OR"
+   ],
+   "posted_at": 1792016164,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "semiconductor (+3)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "3b59537560124821"
+  },
+  {
+   "source": "Simplify",
+   "company": "Formlabs",
+   "title": "Hardware Systems Integration Intern",
+   "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1792016161,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "5a9aaa3ff343ed7d"
+  },
+  {
+   "source": "Simplify",
+   "company": "Texas Instruments",
+   "title": "Validation/Characterization Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792015545,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "validation (+2)",
+    "characterization (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "ba847c1311fd9843"
+  },
   {
    "source": "Greenhouse",
    "company": "Formlabs",
@@ -89,6 +221,133 @@
    ],
    "first_seen": 1791980644,
    "uid": "523734c5d9d1442e"
+  },
+  {
+   "source": "Simplify",
+   "company": "Rockwell Automation",
+   "title": "Hardware Development Engineer Co-op",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1",
+   "locations": [
+    "Mayfield Heights, OH"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Winter 2027",
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "hardware (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "8d9a756b338fde3a"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola Solutions",
+   "title": "Design Validation Co-op",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "ece5fc897720d429"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "High Level Synthesis Intern - High Level Synthesis - Compiler Engineer",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313",
+   "locations": [
+    "Marlow, UK"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "synthesis (+3)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "f5e7c24948177936"
+  },
+  {
+   "source": "Simplify",
+   "company": "Lumentum",
+   "title": "Electrical Engineer Intern Co-op",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Winter 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "872d48612f7df7d1"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882355",
+   "locations": [
+    "Goleta, CA"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "d1db6dc231b63f25"
+  },
+  {
+   "source": "Simplify",
+   "company": "Nordson",
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355",
+   "locations": [
+    "Clinton, SC"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792021331,
+   "uid": "56989f49c28b2c05"
   },
   {
    "source": "Simplify",
@@ -2069,28 +2328,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "adbb44c60676e978"
-  },
-  {
-   "source": "Simplify",
-   "company": "Rheem",
-   "title": "Electronics Hardware Systems Engineer Co-op",
-   "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "posted_at": 1791238294,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "electronics (+2)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "48825705221e2ba1"
   },
   {
    "source": "Greenhouse",
@@ -9322,26 +9559,6 @@
    ],
    "first_seen": 1788447714,
    "uid": "ee349c94a13e4d25"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Rocket Lab",
-   "title": "Radio Frequency Test Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
-   "locations": [
-    "Auckland, NZ"
-   ],
-   "posted_at": 1787001426,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "radio frequency (+2)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1791497852,
-   "uid": "455e1d91e38848da"
   },
   {
    "source": "Simplify",

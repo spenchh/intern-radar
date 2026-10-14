@@ -1,5 +1,5 @@
 {
- "count": 770,
+ "count": 782,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -1087,6 +1087,12 @@
    "title": "R&D Hardware Engineer Intern",
    "url": "https://jobs.keysight.com/jobs/54670?icims=1"
   },
+  "3b59537560124821": {
+   "company": "onsemi",
+   "first_seen": 1792021331,
+   "title": "Semiconductor AI Specialist Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506918"
+  },
   "3c7f78b3ac73dfd3": {
    "company": "Astera Labs",
    "first_seen": 1791275734,
@@ -1639,6 +1645,12 @@
    "title": "Power Electronics Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006"
   },
+  "56989f49c28b2c05": {
+   "company": "Nordson",
+   "first_seen": 1792021331,
+   "title": "Electrical Engineer Intern",
+   "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---South-Carolina---Clinton/Electrical-Engineering-Intern_REQ53355"
+  },
   "57c554c0d25f0ded": {
    "company": "Marvell",
    "first_seen": 1790120534,
@@ -1662,6 +1674,12 @@
    "first_seen": 1790269840,
    "title": "Analog Design Engineer Intern - Signal Integrity Products Group",
    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622"
+  },
+  "5a9aaa3ff343ed7d": {
+   "company": "Formlabs",
+   "first_seen": 1792021331,
+   "title": "Hardware Systems Integration Intern",
+   "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683"
   },
   "5ae0733cf5ae697b": {
    "company": "Nokia",
@@ -2119,6 +2137,12 @@
    "title": "Radio Frequency Integrated Circuit Design Intern - High Performance Analog",
    "url": "https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704300/?ats=successfactors"
   },
+  "768115daa94de7c7": {
+   "company": "Meta",
+   "first_seen": 1792021331,
+   "title": "ASIC Design Engineer Intern",
+   "url": "https://www.metacareers.com/jobs/1406976394946562"
+  },
   "777037b4381d4e01": {
    "company": "Insulet",
    "first_seen": 1789081844,
@@ -2185,6 +2209,12 @@
    "title": "Product Engineering Intern - Electronics Hardware Design",
    "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1"
   },
+  "7ad0ac465e0cb864": {
+   "company": "Meta",
+   "first_seen": 1792021331,
+   "title": "Hardware Engineer Intern - Camera & Sensing Architecture",
+   "url": "https://www.metacareers.com/jobs/29216393121298039"
+  },
   "7be2ac4d8c47c28d": {
    "company": "Rivian",
    "first_seen": 1786988749,
@@ -2238,6 +2268,12 @@
    "first_seen": 1791275734,
    "title": "Applied AI Intern - Non-Silicon",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005"
+  },
+  "7e1026b137900b69": {
+   "company": "Meta",
+   "first_seen": 1792021331,
+   "title": "ASIC Engineer Intern - Design Verification - Silicon Engineering",
+   "url": "https://www.metacareers.com/jobs/1079763448023260"
   },
   "7e7a489220e1658b": {
    "company": "Hermeus",
@@ -2419,6 +2455,12 @@
    "title": "Electrical Test Engineer Co-op",
    "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151397415"
   },
+  "872d48612f7df7d1": {
+   "company": "Lumentum",
+   "first_seen": 1792021331,
+   "title": "Electrical Engineer Intern Co-op",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433"
+  },
   "8793c91f27630e57": {
    "company": "Qorvo",
    "first_seen": 1788207428,
@@ -2502,6 +2544,12 @@
    "first_seen": 1788967121,
    "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835-1"
+  },
+  "8d9a756b338fde3a": {
+   "company": "Rockwell Automation",
+   "first_seen": 1792021331,
+   "title": "Hardware Development Engineer Co-op",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--Jan---July-2027-_R26-6638-1"
   },
   "8e209e90f18454c6": {
    "company": "Rivian",
@@ -3319,6 +3367,12 @@
    "title": "ASIC Digital Design Intern",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163"
   },
+  "ba847c1311fd9843": {
+   "company": "Texas Instruments",
+   "first_seen": 1792021331,
+   "title": "Validation/Characterization Engineer Intern",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623"
+  },
   "bb51fc9d678a08f5": {
    "company": "Analog Devices",
    "first_seen": 1788447714,
@@ -3768,6 +3822,12 @@
    "first_seen": 1786988749,
    "title": "Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus",
    "url": "https://www.tesla.com/careers/search/job/272581"
+  },
+  "d1db6dc231b63f25": {
+   "company": "RTX",
+   "first_seen": 1792021331,
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882355"
   },
   "d20a799d61f5015c": {
    "company": "Tesla",
@@ -4309,6 +4369,12 @@
    "title": "Digital Physical Design Intern",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Summer-2027_R-10065546"
   },
+  "ece5fc897720d429": {
+   "company": "Motorola Solutions",
+   "first_seen": 1792021331,
+   "title": "Design Validation Co-op",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Design-Validation-Co-op_R69757"
+  },
   "ed21231e02f50535": {
    "company": "Microsoft",
    "first_seen": 1788583724,
@@ -4471,6 +4537,12 @@
    "title": "SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/92350?icims=1"
   },
+  "f5e7c24948177936": {
+   "company": "Altera",
+   "first_seen": 1792021331,
+   "title": "High Level Synthesis Intern - High Level Synthesis - Compiler Engineer",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Marlow-Buckinghamshire-United-Kingdom/High-Level-Synthesis--HLS--Compiler-Engineer--Intern--_R03313"
+  },
   "f6398502bb4e1c8c": {
    "company": "Cirrus Logic",
    "first_seen": 1791251675,
@@ -4622,6 +4694,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792011233,
- "runs": 596
+ "last_run": 1792021331,
+ "runs": 597
 }
