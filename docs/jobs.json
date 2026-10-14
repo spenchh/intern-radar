@@ -1,6 +1,6 @@
 {
- "generated_at": 1791931456,
- "count": 491,
+ "generated_at": 1791941137,
+ "count": 489,
  "jobs": [
   {
    "source": "Simplify",
@@ -9476,51 +9476,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4d896cb7f775088a"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Electrical Test Engineer Intern - Vehicle Engineering",
-   "url": "https://www.tesla.com/careers/search/job/278976",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "posted_at": 1785911307,
-   "terms": [
-    "Winter 2027",
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 3,
-   "reasons": [
-    "electrical (+2)",
-    "test engineer (+1)"
-   ],
-   "first_seen": 1788501265,
-   "uid": "ae0786fd139327e1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Tesla",
-   "title": "Hardware Validation Engineer Intern - Optimus",
-   "url": "https://www.tesla.com/careers/search/job/278982",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "posted_at": 1785911305,
-   "terms": [
-    "Spring 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 4,
-   "reasons": [
-    "hardware (+2)",
-    "validation (+2)"
-   ],
-   "first_seen": 1788484192,
-   "uid": "058d05378990c793"
   },
   {
    "source": "Simplify",
