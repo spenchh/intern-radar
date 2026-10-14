@@ -1,6 +1,6 @@
 {
- "generated_at": 1791998848,
- "count": 490,
+ "generated_at": 1792011233,
+ "count": 487,
  "jobs": [
   {
    "source": "Greenhouse",
@@ -1289,28 +1289,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Renesas Electronics",
-   "title": "Design Verification Intern",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000153770924",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "posted_at": 1791295641,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "design verification (+3)",
-    "verification (+2)"
-   ],
-   "first_seen": 1790666792,
-   "uid": "d436c6be8c950353"
-  },
-  {
-   "source": "Simplify",
    "company": "Astera Labs",
    "title": "Physical Design Engineer Intern",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005",
@@ -2044,28 +2022,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "f6398502bb4e1c8c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Meta",
-   "title": "Electrical Engineer Intern",
-   "url": "https://www.metacareers.com/jobs/1105729655266553",
-   "locations": [
-    "NYC",
-    "Sunnyvale, CA"
-   ],
-   "posted_at": 1791238573,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "b36ba9d0d5e0e1a6"
   },
   {
    "source": "Simplify",
@@ -5389,27 +5345,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
-  },
-  {
-   "source": "Simplify",
-   "company": "bioM\u00e9rieux",
-   "title": "Hardware Co-op",
-   "url": "https://jobs.jobvite.com/biofiredx/job/ouIMAfwi?nl=1&nl=1&fr=false",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "posted_at": 1789510912,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1789519147,
-   "uid": "d2b6ec5e4b36b5a5"
   },
   {
    "source": "Simplify",
