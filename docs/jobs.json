@@ -1,5 +1,5 @@
 {
- "generated_at": 1791959446,
+ "generated_at": 1791980644,
  "count": 490,
  "jobs": [
   {
@@ -26,6 +26,27 @@
    ],
    "first_seen": 1791959446,
    "uid": "e5a5dbe3aebc1c26"
+  },
+  {
+   "source": "Simplify",
+   "company": "Northrop Grumman",
+   "title": "Electronics Engineering Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
+   "locations": [
+    "Annapolis, MD"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1791980644,
+   "uid": "523734c5d9d1442e"
   },
   {
    "source": "Simplify",
@@ -7043,27 +7064,6 @@
    ],
    "first_seen": 1789040428,
    "uid": "a9d5ad241bda4504"
-  },
-  {
-   "source": "Simplify",
-   "company": "RTX",
-   "title": "Digital Electrical Design Engineer 2 Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Electrical-Design-Engineer-II--Onsite-_01872986",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "posted_at": 1788825600,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1791138151,
-   "uid": "ec728cd798a8277c"
   },
   {
    "source": "Simplify",
