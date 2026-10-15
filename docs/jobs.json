@@ -1,5 +1,5 @@
 {
- "generated_at": 1792029108,
+ "generated_at": 1792047574,
  "count": 497,
  "jobs": [
   {
@@ -594,7 +594,7 @@
    "source": "Simplify",
    "company": "KLA",
    "title": "Product Development Intern - Electron Beam Instrumentation",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032",
    "locations": [
     "Ann Arbor, MI"
    ],
@@ -2395,28 +2395,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Marvell",
-   "title": "Hardware Engineer Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1791158400,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "dc8733f903d1a078"
-  },
-  {
-   "source": "Simplify",
    "company": "Intel",
    "title": "CPU Core Physical Design Technical Graduate Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
@@ -2500,6 +2478,28 @@
    ],
    "first_seen": 1791251675,
    "uid": "a7d094cd6ae24a09"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Hardware Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1791158400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1791251675,
+   "uid": "dc8733f903d1a078"
   },
   {
    "source": "Simplify",
