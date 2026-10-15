@@ -1,5 +1,5 @@
 {
- "generated_at": 1792021331,
+ "generated_at": 1792029108,
  "count": 497,
  "jobs": [
   {
@@ -351,6 +351,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Rockwell Automation",
+   "title": "Electrical Engineer Co-op",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1",
+   "locations": [
+    "Chelmsford, MA"
+   ],
+   "posted_at": 1791936000,
+   "terms": [
+    "Summer 2027",
+    "Fall 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792029108,
+   "uid": "880c7da6155e26f6"
+  },
+  {
+   "source": "Simplify",
    "company": "Amazon",
    "title": "Hardware Development Engineer Intern Co-op - Robotics",
    "url": "https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
@@ -462,6 +484,27 @@
    "uid": "b125fb90147951a0"
   },
   {
+   "source": "Simplify",
+   "company": "Meta",
+   "title": "Signal Integrity Intern",
+   "url": "https://www.metacareers.com/jobs/2262379047961521",
+   "locations": [
+    "Menlo Park, CA"
+   ],
+   "posted_at": 1791929216,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "signal integrity (+2)"
+   ],
+   "first_seen": 1791862137,
+   "uid": "46b486993f58faec"
+  },
+  {
    "source": "Greenhouse",
    "company": "Muon Space",
    "title": "Spacecraft Test Engineering Intern (Summer 2027)",
@@ -551,7 +594,7 @@
    "source": "Simplify",
    "company": "KLA",
    "title": "Product Development Intern - Electron Beam Instrumentation",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642032",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030-2",
    "locations": [
     "Ann Arbor, MI"
    ],
@@ -656,27 +699,6 @@
    ],
    "first_seen": 1791862137,
    "uid": "69c6bbd0f177b7c2"
-  },
-  {
-   "source": "Simplify",
-   "company": "Meta",
-   "title": "Signal Integrity Intern",
-   "url": "https://www.metacareers.com/jobs/1134883748976209",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "posted_at": 1791843036,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "signal integrity (+2)"
-   ],
-   "first_seen": 1791862137,
-   "uid": "46b486993f58faec"
   },
   {
    "source": "Simplify",
@@ -5257,30 +5279,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "b75c89e74bf899bb"
-  },
-  {
-   "source": "Simplify",
-   "company": "Qualcomm",
-   "title": "Analog Design Intern - Hardware Engineering",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721140914",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1789683777,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 10,
-   "reasons": [
-    "analog design (+3)",
-    "hardware engineering (+3)",
-    "hardware (+2)",
-    "analog (+2)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "151c477bf416fde0"
   },
   {
    "source": "Simplify",

@@ -1,5 +1,5 @@
 {
- "count": 782,
+ "count": 783,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2467,6 +2467,12 @@
    "title": "IC Layout Engineer Intern",
    "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors"
   },
+  "880c7da6155e26f6": {
+   "company": "Rockwell Automation",
+   "first_seen": 1792029108,
+   "title": "Electrical Engineer Co-op",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706-1"
+  },
   "88802061d3e50c08": {
    "company": "Intel",
    "first_seen": 1790992593,
@@ -4694,6 +4700,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792021331,
- "runs": 597
+ "last_run": 1792029108,
+ "runs": 598
 }
