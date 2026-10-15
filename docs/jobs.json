@@ -1,7 +1,50 @@
 {
- "generated_at": 1792096067,
- "count": 496,
+ "generated_at": 1792105952,
+ "count": 499,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Laminar",
+   "title": "Sensor Characterization Co-op",
+   "url": "https://jobs.lever.co/runlaminar/7e573316-8d6b-455a-834b-b278bfadded3/apply",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "posted_at": 1792103767,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 4,
+   "reasons": [
+    "characterization (+2)",
+    "sensor (+2)"
+   ],
+   "first_seen": 1792105952,
+   "uid": "5bcc5716cd9ba77f"
+  },
+  {
+   "source": "Simplify",
+   "company": "onsemi",
+   "title": "Device Characterization Engineer Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506970",
+   "locations": [
+    "Hopewell Junction, NY"
+   ],
+   "posted_at": 1792102896,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1792105952,
+   "uid": "c92dee8b358df70d"
+  },
   {
    "source": "Simplify",
    "company": "Draper",
@@ -43,6 +86,50 @@
    ],
    "first_seen": 1792084927,
    "uid": "e4bdc9ad338e4cfe"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792105952,
+   "uid": "10a0565bad3457d6"
+  },
+  {
+   "source": "Simplify",
+   "company": "Leidos",
+   "title": "Electrical Hardware Design Engineer Intern",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00193394",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1790723236,
+   "uid": "4373877c5774b93c"
   },
   {
    "source": "Simplify",
@@ -719,6 +806,27 @@
    ],
    "first_seen": 1788460724,
    "uid": "6afca8f55a376899"
+  },
+  {
+   "source": "Simplify",
+   "company": "KLA",
+   "title": "Research Scientist Intern - Plasma Light Source Characterization",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1792105952,
+   "uid": "0cba4c46d325bfb1"
   },
   {
    "source": "Simplify",
@@ -2370,27 +2478,6 @@
    ],
    "first_seen": 1791251675,
    "uid": "cac5d837c51331b5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
-   "title": "CPU Core Physical Design Technical Graduate Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "posted_at": 1791158400,
-   "terms": [
-    "Winter 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 3,
-   "reasons": [
-    "physical design (+3)"
-   ],
-   "first_seen": 1791251675,
-   "uid": "1eeb73b7b71e8230"
   },
   {
    "source": "Simplify",
@@ -5737,27 +5824,6 @@
    ],
    "first_seen": 1789470520,
    "uid": "e15d170b273e1aa4"
-  },
-  {
-   "source": "Simplify",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Computer Engineer Intern - Shipboard Systems Group",
-   "url": "https://careers.jhuapl.edu/jobs/60049?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "posted_at": 1789435075,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "computer engineer (+3)"
-   ],
-   "first_seen": 1789451478,
-   "uid": "8faad42af40ab9a5"
   },
   {
    "source": "Simplify",
@@ -9925,27 +9991,6 @@
    "uid": "292e2eaa3503b8aa"
   },
   {
-   "source": "Simplify",
-   "company": "Skydio",
-   "title": "Electrical Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "posted_at": 1785277436,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "25836afa19a2a0a8"
-  },
-  {
    "source": "Greenhouse",
    "company": "Kairos Power",
    "title": "Electrical Engineering Internship - Summer 2027",
@@ -10328,6 +10373,28 @@
    ],
    "first_seen": 1787800689,
    "uid": "c64b8165a000ddb2"
+  },
+  {
+   "source": "Simplify",
+   "company": "Figure",
+   "title": "Hardware Reliability Intern",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "posted_at": 1782252642,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "hardware (+2)",
+    "reliability (+1)"
+   ],
+   "first_seen": 1786988749,
+   "uid": "9d9e1d8f5503b627"
   },
   {
    "source": "Simplify",
