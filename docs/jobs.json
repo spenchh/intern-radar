@@ -1,7 +1,49 @@
 {
- "generated_at": 1792067749,
- "count": 492,
+ "generated_at": 1792084927,
+ "count": 497,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Draper",
+   "title": "Integrated Circuit Intern",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "integrated circuit (+3)"
+   ],
+   "first_seen": 1792084927,
+   "uid": "6927c98e212f77db"
+  },
+  {
+   "source": "Simplify",
+   "company": "Motorola Solutions",
+   "title": "Electronics Design Co-op",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811",
+   "locations": [
+    "Vancouver, BC, Canada"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electronics (+2)"
+   ],
+   "first_seen": 1792084927,
+   "uid": "e4bdc9ad338e4cfe"
+  },
   {
    "source": "Simplify",
    "company": "Meta",
@@ -1651,27 +1693,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "b9bf4aa0127a602f"
-  },
-  {
-   "source": "Simplify",
-   "company": "Astera Labs",
-   "title": "Hardware Lab Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "posted_at": 1791267449,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "hardware (+2)"
-   ],
-   "first_seen": 1791275734,
-   "uid": "49b89c2803434462"
   },
   {
    "source": "Simplify",
@@ -4520,6 +4541,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Saab",
+   "title": "Electrical Engineering Co-op",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1",
+   "locations": [
+    "East Syracuse, NY"
+   ],
+   "posted_at": 1790121600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1790205059,
+   "uid": "79fdc007ad63aa77"
+  },
+  {
+   "source": "Simplify",
    "company": "Analog Devices",
    "title": "Analog Design Engineering Intern",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614",
@@ -4830,6 +4873,31 @@
   },
   {
    "source": "Simplify",
+   "company": "General Motors",
+   "title": "Embedded and Systems Engineering Intern - Digital Product",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513",
+   "locations": [
+    "Austin, TX",
+    "Milford, MI",
+    "Mountain View, CA",
+    "Warren, MI"
+   ],
+   "posted_at": 1789948800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "embedded (+1)",
+    "systems engineering (+1)"
+   ],
+   "first_seen": 1790035604,
+   "uid": "3292b8525b441251"
+  },
+  {
+   "source": "Simplify",
    "company": "Ciena",
    "title": "Client Co-op - ASIC IP",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672",
@@ -5128,6 +5196,27 @@
    ],
    "first_seen": 1789775623,
    "uid": "ba77b86a1525ba84"
+  },
+  {
+   "source": "Simplify",
+   "company": "Magna",
+   "title": "Validation Engineer Intern - EMC Validation",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307",
+   "locations": [
+    "Auburn Hills, MI"
+   ],
+   "posted_at": 1789689600,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1789787817,
+   "uid": "6803ae319aa6aa80"
   },
   {
    "source": "Greenhouse",
@@ -5491,6 +5580,27 @@
    ],
    "first_seen": 1789535833,
    "uid": "946160f487b61ea9"
+  },
+  {
+   "source": "Simplify",
+   "company": "RTX",
+   "title": "Electrical Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "posted_at": 1789516800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1790710065,
+   "uid": "2ca52d32fd83a407"
   },
   {
    "source": "Simplify",
@@ -7232,6 +7342,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Airbus",
+   "title": "Radio Frequency Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Radio-Frequency--RF--Test-System-Engineering-Placement--12-months-_JR10428274",
+   "locations": [
+    "Portsmouth, UK"
+   ],
+   "posted_at": 1788739200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "radio frequency (+2)"
+   ],
+   "first_seen": 1791454351,
+   "uid": "476efac684f17295"
+  },
+  {
+   "source": "Simplify",
    "company": "Solidigm",
    "title": "Hardware & Product Development Engineering Intern",
    "url": "https://jobs.smartrecruiters.com/Solidigm/744000147613839",
@@ -8276,27 +8407,6 @@
    ],
    "first_seen": 1788415817,
    "uid": "dd66a25e69d893e1"
-  },
-  {
-   "source": "Simplify",
-   "company": "Eaton",
-   "title": "Electrical Engineer Intern/Co-op - Research & Development Engineering",
-   "url": "https://eaton.eightfold.ai/careers/job/687238596674",
-   "locations": [
-    "Moon Twp, PA"
-   ],
-   "posted_at": 1788238576,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788415817,
-   "uid": "ab10209617340161"
   },
   {
    "source": "Simplify",
