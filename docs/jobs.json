@@ -1,6 +1,6 @@
 {
- "generated_at": 1792113810,
- "count": 496,
+ "generated_at": 1792130921,
+ "count": 498,
  "jobs": [
   {
    "source": "Simplify",
@@ -130,6 +130,27 @@
    ],
    "first_seen": 1790723236,
    "uid": "4373877c5774b93c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Altera",
+   "title": "FPGA IP Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1792022400,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 3,
+   "reasons": [
+    "fpga (+3)"
+   ],
+   "first_seen": 1792130921,
+   "uid": "8656b62bca33ab85"
   },
   {
    "source": "Simplify",
@@ -827,6 +848,27 @@
    ],
    "first_seen": 1792105952,
    "uid": "0cba4c46d325bfb1"
+  },
+  {
+   "source": "Simplify",
+   "company": "KLA Corporation",
+   "title": "Research Scientist Intern - Plasma Light Source Characterization",
+   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "posted_at": 1791849600,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "characterization (+2)"
+   ],
+   "first_seen": 1792130921,
+   "uid": "ec5b28150019402a"
   },
   {
    "source": "Simplify",

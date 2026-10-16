@@ -1,5 +1,5 @@
 {
- "count": 789,
+ "count": 791,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -2467,6 +2467,12 @@
    "title": "Electrical Engineer Intern",
    "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Electrical-Engineering-Intern---Naperville--IL_R-16450"
   },
+  "8656b62bca33ab85": {
+   "company": "Altera",
+   "first_seen": 1792130921,
+   "title": "FPGA IP Design Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----Intern_R03324"
+  },
   "868e7b052c12ff11": {
    "company": "Apple",
    "first_seen": 1788434053,
@@ -4393,6 +4399,12 @@
    "title": "FPGA Engineer Intern",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037"
   },
+  "ec5b28150019402a": {
+   "company": "KLA Corporation",
+   "first_seen": 1792130921,
+   "title": "Research Scientist Intern - Plasma Light Source Characterization",
+   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1"
+  },
   "ec728cd798a8277c": {
    "company": "RTX",
    "first_seen": 1791138151,
@@ -4736,6 +4748,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792113810,
- "runs": 604
+ "last_run": 1792130921,
+ "runs": 605
 }
