@@ -1,6 +1,6 @@
 {
- "generated_at": 1792105952,
- "count": 499,
+ "generated_at": 1792113810,
+ "count": 496,
  "jobs": [
   {
    "source": "Simplify",
@@ -1005,28 +1005,6 @@
    ],
    "first_seen": 1791889113,
    "uid": "2632858240949ea5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Meter",
-   "title": "Hardware Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application?embed=true",
-   "locations": [
-    "SF"
-   ],
-   "posted_at": 1791594973,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791614515,
-   "uid": "841c20d43a9ad2cc"
   },
   {
    "source": "Simplify",
@@ -2847,28 +2825,6 @@
    ],
    "first_seen": 1790992593,
    "uid": "08746e4127d61f92"
-  },
-  {
-   "source": "Simplify",
-   "company": "Intel",
-   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
-   "locations": [
-    "Toronto, ON, Canada"
-   ],
-   "posted_at": 1790899200,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1790992593,
-   "uid": "88802061d3e50c08"
   },
   {
    "source": "Simplify",
@@ -10287,28 +10243,6 @@
    ],
    "first_seen": 1788470444,
    "uid": "070cff7ee7d47a60"
-  },
-  {
-   "source": "Simplify",
-   "company": "IMC Trading",
-   "title": "Hardware Engineer Intern",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "posted_at": 1782944922,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineer (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "dc251d8d3c5306fc"
   },
   {
    "source": "Simplify",
