@@ -1,6 +1,6 @@
 {
- "generated_at": 1792164385,
- "count": 496,
+ "generated_at": 1792176916,
+ "count": 495,
  "jobs": [
   {
    "source": "Simplify",
@@ -10681,26 +10681,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "4e1fcc9d8acdb340"
-  },
-  {
-   "source": "Greenhouse",
-   "company": "Astranis",
-   "title": "Power Electronics Intern (Fall 2026)",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006",
-   "locations": [
-    "San Francisco"
-   ],
-   "posted_at": 1777517791,
-   "terms": [],
-   "sponsorship": "",
-   "category": "electrical",
-   "score": 4,
-   "reasons": [
-    "electronics (+2)",
-    "power electronics (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "bfe5440d3217397a"
   },
   {
    "source": "Simplify",
