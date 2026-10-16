@@ -1,6 +1,6 @@
 {
- "generated_at": 1792176916,
- "count": 495,
+ "generated_at": 1792187713,
+ "count": 492,
  "jobs": [
   {
    "source": "Simplify",
@@ -1652,28 +1652,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Keysight Technologies",
-   "title": "R&D Hardware Engineering Intern",
-   "url": "https://jobs.keysight.com/jobs/54771?icims=1",
-   "locations": [
-    "Sacramento, CA"
-   ],
-   "posted_at": 1791324878,
-   "terms": [
-    "N/A"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware engineering (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1791331311,
-   "uid": "7f516df2f95f9ee3"
-  },
-  {
-   "source": "Simplify",
    "company": "Tenstorrent",
    "title": "Hardware Intern - AI HW & System on a Chip",
    "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007",
@@ -2693,29 +2671,6 @@
    ],
    "first_seen": 1791275734,
    "uid": "45d122c0fdbf4df0"
-  },
-  {
-   "source": "Simplify",
-   "company": "CesiumAstro",
-   "title": "Electrical Engineering Intern - FPGA",
-   "url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "posted_at": 1791036734,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 7,
-   "reasons": [
-    "fpga (+3)",
-    "electrical (+2)",
-    "electrical engineering (+2)"
-   ],
-   "first_seen": 1791047827,
-   "uid": "4f13cd0059a5848e"
   },
   {
    "source": "Simplify",
@@ -5624,28 +5579,6 @@
    ],
    "first_seen": 1789535833,
    "uid": "481e20aa40075e17"
-  },
-  {
-   "source": "Simplify",
-   "company": "CesiumAstro",
-   "title": "Electrical Engineer Intern - FPGA",
-   "url": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply",
-   "locations": [
-    "Westminster, CO"
-   ],
-   "posted_at": 1789521275,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 5,
-   "reasons": [
-    "fpga (+3)",
-    "electrical (+2)"
-   ],
-   "first_seen": 1789535833,
-   "uid": "946160f487b61ea9"
   },
   {
    "source": "Simplify",
