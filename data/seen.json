@@ -1,5 +1,5 @@
 {
- "count": 791,
+ "count": 797,
  "jobs": {
   "00654f7929f6df81": {
    "company": "Solidigm",
@@ -288,6 +288,12 @@
    "first_seen": 1789411706,
    "title": "Analog Hardware Design Intern",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010830"
+  },
+  "0d1d93f06eaf1fa1": {
+   "company": "Signify",
+   "first_seen": 1792195805,
+   "title": "Electrical Engineer Intern",
+   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726"
   },
   "0d3724bdbb35e931": {
    "company": "AccuWeather",
@@ -661,6 +667,12 @@
    "title": "Electrical Design Engineer Intern - Vehicle Engineering",
    "url": "https://www.tesla.com/careers/search/job/278630"
   },
+  "204b1f6bbee0609e": {
+   "company": "DoorDash",
+   "first_seen": 1792195805,
+   "title": "Electrical Engineer Intern - Labs",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095"
+  },
   "206e319e540688dd": {
    "company": "Tesla",
    "first_seen": 1786988749,
@@ -984,6 +996,12 @@
    "first_seen": 1790035604,
    "title": "Embedded and Systems Engineering Intern - Digital Product",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
+  },
+  "329398192aaddbcc": {
+   "company": "University of Texas at Austin",
+   "first_seen": 1792195805,
+   "title": "Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science",
+   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490"
   },
   "32cc818e9e42f4e2": {
    "company": "Google",
@@ -1939,6 +1957,12 @@
    "title": "SoC Modeling Intern - SOC Modeling",
    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8806469002"
   },
+  "6a88880bc968f5ed": {
+   "company": "Boston Scientific",
+   "first_seen": 1792195805,
+   "title": "Electrical Hardware Engineer Intern",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563527"
+  },
   "6aafe193fd5a2804": {
    "company": "Hewlett Packard Enterprise",
    "first_seen": 1791378591,
@@ -2401,6 +2425,12 @@
    "title": "SOI Design Engineer Intern - High Performance Analog - Advanced Cellular",
    "url": "https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors"
   },
+  "81aed3214f02d66d": {
+   "company": "ADT",
+   "first_seen": 1792195805,
+   "title": "Hardware Engineering & Connected Devices Intern",
+   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475"
+  },
   "81b70856b3f6fd63": {
    "company": "Arlo Technologies",
    "first_seen": 1786988749,
@@ -2718,6 +2748,12 @@
    "first_seen": 1788447714,
    "title": "Electrical Design Engineer Intern",
    "url": "https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false"
+  },
+  "96c9c366b4d3959d": {
+   "company": "GlobalFoundries",
+   "first_seen": 1792195805,
+   "title": "Foundation IP Design Verification Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356"
   },
   "970e55dc48859bae": {
    "company": "AMD",
@@ -4748,6 +4784,6 @@
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065551"
   }
  },
- "last_run": 1792187713,
- "runs": 609
+ "last_run": 1792195805,
+ "runs": 610
 }

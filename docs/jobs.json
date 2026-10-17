@@ -1,7 +1,137 @@
 {
- "generated_at": 1792187713,
- "count": 492,
+ "generated_at": 1792195805,
+ "count": 499,
  "jobs": [
+  {
+   "source": "Simplify",
+   "company": "Boston Scientific",
+   "title": "Electrical Hardware Engineer Intern",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563527",
+   "locations": [
+    "Arden Hills, MN"
+   ],
+   "posted_at": 1792190304,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 7,
+   "reasons": [
+    "hardware engineer (+3)",
+    "hardware (+2)",
+    "electrical (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "6a88880bc968f5ed"
+  },
+  {
+   "source": "Simplify",
+   "company": "ADT",
+   "title": "Hardware Engineering & Connected Devices Intern",
+   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475",
+   "locations": [
+    "Boca Raton, FL"
+   ],
+   "posted_at": 1792188689,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware engineering (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "81aed3214f02d66d"
+  },
+  {
+   "source": "Simplify",
+   "company": "DoorDash",
+   "title": "Electrical Engineer Intern - Labs",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+   "locations": [
+    "Oakland, CA"
+   ],
+   "posted_at": 1792188459,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "204b1f6bbee0609e"
+  },
+  {
+   "source": "Simplify",
+   "company": "GlobalFoundries",
+   "title": "Foundation IP Design Verification Intern",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1792108800,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "silicon",
+   "score": 5,
+   "reasons": [
+    "design verification (+3)",
+    "verification (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "96c9c366b4d3959d"
+  },
+  {
+   "source": "Simplify",
+   "company": "University of Texas at Austin",
+   "title": "Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science",
+   "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490",
+   "locations": [
+    "Austin, TX"
+   ],
+   "posted_at": 1792108800,
+   "terms": [
+    "Fall 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "aerospace",
+   "score": 2,
+   "reasons": [
+    "satellite (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "329398192aaddbcc"
+  },
+  {
+   "source": "Simplify",
+   "company": "Signify",
+   "title": "Electrical Engineer Intern",
+   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Electrical-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_366726",
+   "locations": [
+    "Peachtree City, GA"
+   ],
+   "posted_at": 1792108800,
+   "terms": [
+    "Spring 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1792195805,
+   "uid": "0d1d93f06eaf1fa1"
+  },
   {
    "source": "Simplify",
    "company": "Laminar",
@@ -2822,6 +2952,28 @@
    ],
    "first_seen": 1790992593,
    "uid": "08746e4127d61f92"
+  },
+  {
+   "source": "Simplify",
+   "company": "Intel",
+   "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
+   "locations": [
+    "Toronto, ON, Canada"
+   ],
+   "posted_at": 1790899200,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1790992593,
+   "uid": "88802061d3e50c08"
   },
   {
    "source": "Simplify",
@@ -9584,6 +9736,28 @@
   },
   {
    "source": "Simplify",
+   "company": "Axon",
+   "title": "2027 US Electrical Engineering Internship",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837252003",
+   "locations": [
+    "Scottsdale, AZ"
+   ],
+   "posted_at": 1786141804,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 4,
+   "reasons": [
+    "electrical (+2)",
+    "electrical engineering (+2)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "00c7ce6bbe9a2b4d"
+  },
+  {
+   "source": "Simplify",
    "company": "Varda Space",
    "title": "Avionics Engineer Intern",
    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
@@ -10764,29 +10938,6 @@
    ],
    "first_seen": 1786988749,
    "uid": "a11de461298f82e4"
-  },
-  {
-   "source": "Simplify",
-   "company": "Neuralink",
-   "title": "Analog and Mixed-Signal IC Design Engineer Intern",
-   "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003",
-   "locations": [
-    "South SF"
-   ],
-   "posted_at": 1771458476,
-   "terms": [
-    "Fall 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "silicon",
-   "score": 8,
-   "reasons": [
-    "ic design (+3)",
-    "mixed signal (+3)",
-    "analog (+2)"
-   ],
-   "first_seen": 1786988749,
-   "uid": "2f07af862887ef22"
   },
   {
    "source": "Ashby",
