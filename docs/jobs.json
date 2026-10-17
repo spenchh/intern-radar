@@ -1,5 +1,5 @@
 {
- "generated_at": 1792226599,
+ "generated_at": 1792240035,
  "count": 497,
  "jobs": [
   {
@@ -3151,27 +3151,6 @@
   },
   {
    "source": "Simplify",
-   "company": "Marvell",
-   "title": "IC Validation Engineer Intern Co-op - BS/MS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
-   "locations": [
-    "Ottawa, ON, Canada"
-   ],
-   "posted_at": 1790812800,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 2,
-   "reasons": [
-    "validation (+2)"
-   ],
-   "first_seen": 1790875351,
-   "uid": "2536f329b07e7034"
-  },
-  {
-   "source": "Simplify",
    "company": "Intel",
    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
@@ -3562,6 +3541,29 @@
    ],
    "first_seen": 1790781600,
    "uid": "777b32384270635a"
+  },
+  {
+   "source": "Simplify",
+   "company": "The Focusrite Group",
+   "title": "Hardware \u2013 Electronics and Firmware Intern",
+   "url": "https://apply.workable.com/focusrite/j/4296FAD493/apply",
+   "locations": [
+    "High Wycombe, UK"
+   ],
+   "posted_at": 1790634031,
+   "terms": [
+    "N/A"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 5,
+   "reasons": [
+    "hardware (+2)",
+    "electronics (+2)",
+    "firmware (+1)"
+   ],
+   "first_seen": 1792240035,
+   "uid": "217d1c965fed1d16"
   },
   {
    "source": "Simplify",
@@ -5517,27 +5519,6 @@
   {
    "source": "Simplify",
    "company": "Marvell",
-   "title": "Design for Test Intern - MS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "design for test (+3)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "45df3de2a82ac657"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
    "title": "Analog Layout Co-op Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
    "locations": [
@@ -5556,6 +5537,27 @@
    ],
    "first_seen": 1789689303,
    "uid": "a8146d38a49e8bf5"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
+   "title": "Design for Test Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "45df3de2a82ac657"
   },
   {
    "source": "Simplify",
@@ -8347,28 +8349,6 @@
   {
    "source": "Simplify",
    "company": "AMD",
-   "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-   "url": "https://careers.amd.com/jobs/90367?icims=1",
-   "locations": [
-    "Markham, ON, Canada"
-   ],
-   "posted_at": 1788256547,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 5,
-   "reasons": [
-    "hardware design (+3)",
-    "hardware (+2)"
-   ],
-   "first_seen": 1788273115,
-   "uid": "fe5a695bda0685d7"
-  },
-  {
-   "source": "Simplify",
-   "company": "AMD",
    "title": "Analog and Mixed Signal Engineer Intern/Co-op",
    "url": "https://careers.amd.com/jobs/91369?icims=1",
    "locations": [
@@ -9691,6 +9671,27 @@
    ],
    "first_seen": 1788460724,
    "uid": "e674b56490884e6c"
+  },
+  {
+   "source": "Simplify",
+   "company": "Foundation ",
+   "title": "Electrical Engineer Intern",
+   "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307",
+   "locations": [
+    "SF"
+   ],
+   "posted_at": 1786565957,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "electrical",
+   "score": 2,
+   "reasons": [
+    "electrical (+2)"
+   ],
+   "first_seen": 1788460724,
+   "uid": "e6f8c7b2b8668d28"
   },
   {
    "source": "Simplify",
