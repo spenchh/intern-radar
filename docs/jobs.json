@@ -1,6 +1,6 @@
 {
- "generated_at": 1792240035,
- "count": 497,
+ "generated_at": 1792252203,
+ "count": 499,
  "jobs": [
   {
    "source": "Simplify",
@@ -3151,6 +3151,27 @@
   },
   {
    "source": "Simplify",
+   "company": "Marvell",
+   "title": "IC Validation Engineer Intern Co-op - BS/MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/IC-Validation-Engineer-Intern---BS-MS---2027-Co-Op_2603925",
+   "locations": [
+    "Ottawa, ON, Canada"
+   ],
+   "posted_at": 1790812800,
+   "terms": [
+    "Winter 2026"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 2,
+   "reasons": [
+    "validation (+2)"
+   ],
+   "first_seen": 1790875351,
+   "uid": "2536f329b07e7034"
+  },
+  {
+   "source": "Simplify",
    "company": "Intel",
    "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
@@ -5519,6 +5540,27 @@
   {
    "source": "Simplify",
    "company": "Marvell",
+   "title": "Design for Test Intern - MS",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "posted_at": 1789603200,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 3,
+   "reasons": [
+    "design for test (+3)"
+   ],
+   "first_seen": 1789689303,
+   "uid": "45df3de2a82ac657"
+  },
+  {
+   "source": "Simplify",
+   "company": "Marvell",
    "title": "Analog Layout Co-op Intern",
    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Layout-Intern---BS-MS---Summer-2027-Co-Op_2604789",
    "locations": [
@@ -5537,27 +5579,6 @@
    ],
    "first_seen": 1789689303,
    "uid": "a8146d38a49e8bf5"
-  },
-  {
-   "source": "Simplify",
-   "company": "Marvell",
-   "title": "Design for Test Intern - MS",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "posted_at": 1789603200,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "other",
-   "score": 3,
-   "reasons": [
-    "design for test (+3)"
-   ],
-   "first_seen": 1789689303,
-   "uid": "45df3de2a82ac657"
   },
   {
    "source": "Simplify",
@@ -8345,6 +8366,28 @@
    ],
    "first_seen": 1788310887,
    "uid": "3d336588850df591"
+  },
+  {
+   "source": "Simplify",
+   "company": "AMD",
+   "title": "Hardware Design Engineer Intern/Co-op - Long Term",
+   "url": "https://careers.amd.com/jobs/90367?icims=1",
+   "locations": [
+    "Markham, ON, Canada"
+   ],
+   "posted_at": 1788256547,
+   "terms": [
+    "Summer 2027"
+   ],
+   "sponsorship": "Other",
+   "category": "other",
+   "score": 5,
+   "reasons": [
+    "hardware design (+3)",
+    "hardware (+2)"
+   ],
+   "first_seen": 1788273115,
+   "uid": "fe5a695bda0685d7"
   },
   {
    "source": "Simplify",
