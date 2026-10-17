@@ -1,6 +1,6 @@
 {
- "generated_at": 1792211099,
- "count": 499,
+ "generated_at": 1792226599,
+ "count": 497,
  "jobs": [
   {
    "source": "Simplify",
@@ -480,27 +480,6 @@
    ],
    "first_seen": 1791959446,
    "uid": "e5a5dbe3aebc1c26"
-  },
-  {
-   "source": "Simplify",
-   "company": "Northrop Grumman",
-   "title": "Electronics Engineering Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Electronics-Engineering-Intern---Annapolis-MD_R10254689-1",
-   "locations": [
-    "Annapolis, MD"
-   ],
-   "posted_at": 1791936000,
-   "terms": [
-    "Summer 2027"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electronics (+2)"
-   ],
-   "first_seen": 1791980644,
-   "uid": "523734c5d9d1442e"
   },
   {
    "source": "Simplify",
@@ -9712,27 +9691,6 @@
    ],
    "first_seen": 1788460724,
    "uid": "e674b56490884e6c"
-  },
-  {
-   "source": "Simplify",
-   "company": "Foundation ",
-   "title": "Electrical Engineer Intern",
-   "url": "https://ats.rippling.com/foundation-robotics/jobs/6be9c342-d335-4955-83c9-3d4482811307",
-   "locations": [
-    "SF"
-   ],
-   "posted_at": 1786565957,
-   "terms": [
-    "Winter 2026"
-   ],
-   "sponsorship": "Other",
-   "category": "electrical",
-   "score": 2,
-   "reasons": [
-    "electrical (+2)"
-   ],
-   "first_seen": 1788460724,
-   "uid": "e6f8c7b2b8668d28"
   },
   {
    "source": "Simplify",
